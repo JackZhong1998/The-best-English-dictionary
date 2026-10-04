@@ -151,14 +151,26 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "地址；处理（问题）；向……讲话",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
-      "risk_flags": [],
-      "review_records": [],
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "multiple_pronunciations"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "首次审校发现 4 项并已修订：单按钮双音标、数字地址义项缺失、伪反义词、包裹例句译文。/əˈdres/ 为名动通用主读法，名词 /ˈædres/ 变体已注；尚无预生成音频，声学一致性未核验。",
+          "sha256": "346bd82460f0b830b9c2962e3c7df5c678b10536e56669ce5051fb3106f53288",
+          "issue_count": 4,
+          "correction_count": 4
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -258,14 +270,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "允许；使可能",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "首次审校发现义项 3 定义范围过窄 1 处，作者已扩大定义并重新 stage；例句、搭配及词源核对通过。",
+          "sha256": "6edea16d890ee6ba821fbe7d66cab046c4833d15aa44208be65858c6931227a9",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -273,14 +295,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "几乎；差不多",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "义项、两组例句与搭配自然；词源核对 Etymonline；没有发现需修订项。",
+          "sha256": "22c57ce1ec146a02ae98064836654d29c475567cf5a4f262aff98338c579b5ac",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -288,14 +320,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "在……之中",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "“处于群中”和“属于其中”区分清楚；between 辨析、例句及词源核对通过；没有发现需修订项。",
+          "sha256": "e57dc8fbcc9016e9ad32c421b0468c2dbfa4b27b9b791ade9e85e9701c5ff76c",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -303,14 +345,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "数量；总额",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "首次审校发现搭配译文不自然 1 处，作者已改为“一点时间”并重新 stage；四义和词源核对通过。",
+          "sha256": "ad7852cc39b38e36b2fb37787f7ce413e88c578d49cf2bffe8cf5a9d2964987d",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -318,14 +370,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "出现；似乎",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "首次审校发现似乎义伪反义词 1 处，已修订；出现、似乎、参演三义及词源核对通过。",
+          "sha256": "74b2ae7fe25f5966c114a6802293015bf8f64db349c27733b1703ec5720bc7a7",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -333,14 +395,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "申请；应用；适用",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "申请、应用、涂抹、适用四义和 for/to 句型区分清楚；例句自然，词源与 Etymonline 一致；未发现需修订项。",
+          "sha256": "d266ee3580f0ab2796669eaa8ac3a38d12352609cdae02dcd1b0525d0d4a8a84",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -348,14 +420,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "靠近；方法；处理方式",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "首次审校发现两处不成立的反义对照，已删除；时间、空间、方法和处理问题用法区分清楚。",
+          "sha256": "57d9d581f288adca1d5587320b0a13a385967b032402102727a0887350a7ca06",
+          "issue_count": 2,
+          "correction_count": 2
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -363,14 +445,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "地区；领域；面积",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "首次审校发现三个义项均将语境对照误列反义词，已清空；地区、面积、领域三义及词源核对通过。",
+          "sha256": "755a921a6cd20418b62d279cbc412fc4ef4f7d201cdb16721cbcd9a242eb48c8",
+          "issue_count": 3,
+          "correction_count": 3
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -378,14 +470,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "争论；论证",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "首次审校发现争论定义过窄和搭配译文过度具体两处，均已修订；三义、用法及词源核对通过。",
+          "sha256": "17d5a861493dd3c8b4f2670c982bfedc145c7d795f60622c51ef8dd35cd3d157",
+          "issue_count": 2,
+          "correction_count": 2
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {

@@ -1,0 +1,216 @@
+{
+  "word": "address",
+  "phonetic": "/əˈdres/",
+  "syllables": [
+    "ad",
+    "dress"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "地址",
+    "写地址",
+    "向……讲话",
+    "处理问题"
+  ],
+  "etymology": "动词经古法语 adrecier 进入英语，原有“朝某方向引导”之意；名词由动词发展。",
+  "semantic_shift": "从把人或物引向目标，扩展为标明送达地点、把话说给某人听，以及着手处理一个问题。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the details of where someone lives or works",
+      "zh_definition": "住处或工作地点的具体地址",
+      "usages": [
+        {
+          "usage_label": "邮寄地址",
+          "collocations": [
+            {
+              "phrase": "home address",
+              "translation": "家庭住址"
+            },
+            {
+              "phrase": "mailing address",
+              "translation": "邮寄地址"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please write your address here.",
+              "zh": "请在这里写下你的地址。"
+            },
+            {
+              "en": "I sent the book to her new address.",
+              "zh": "我把书寄到了她的新地址。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "location：泛指位置；address 是可用于联系或投递的具体信息。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 address 也常读 /ˈædres/；电子邮件地址见下一义项。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the identifying information for an email account or website",
+      "zh_definition": "电子邮箱或网站的地址信息",
+      "usages": [
+        {
+          "usage_label": "数字地址",
+          "collocations": [
+            {
+              "phrase": "email address",
+              "translation": "电子邮件地址"
+            },
+            {
+              "phrase": "web address",
+              "translation": "网站地址"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please enter your email address.",
+              "zh": "请输入你的电子邮件地址。"
+            },
+            {
+              "en": "The web address is on the poster.",
+              "zh": "网站地址印在海报上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "URL：专指网页地址；address 还可指电子邮箱地址。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "email address 是电子邮箱地址，不能用来邮寄包裹。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to write a destination on a letter or package",
+      "zh_definition": "在信件或包裹上写收件地址",
+      "usages": [
+        {
+          "usage_label": "写收件地址",
+          "collocations": [
+            {
+              "phrase": "address an envelope",
+              "translation": "在信封上写地址"
+            },
+            {
+              "phrase": "address a package to someone",
+              "translation": "在包裹上写某人为收件人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She addressed the envelope carefully.",
+              "zh": "她仔细写好信封上的地址。"
+            },
+            {
+              "en": "Address the package to my office.",
+              "zh": "请在包裹上填写我的办公室地址。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "label：泛指贴标签；address 特指写明投递目的地。"
+      ],
+      "antonyms": [
+        "leave unaddressed：不写收件地址。"
+      ],
+      "confusables": [
+        "address a letter to someone 是写收件人，不是向此人讲话。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to speak to a person or group",
+      "zh_definition": "对个人或群体讲话",
+      "usages": [
+        {
+          "usage_label": "发表讲话",
+          "collocations": [
+            {
+              "phrase": "address the audience",
+              "translation": "向观众讲话"
+            },
+            {
+              "phrase": "address a meeting",
+              "translation": "在会议上讲话"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The principal addressed the students.",
+              "zh": "校长向学生们讲话。"
+            },
+            {
+              "en": "She addressed the meeting in English.",
+              "zh": "她用英语在会上发言。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "speak to：一般说“对……说话”；address 常用于较正式的讲话。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "address someone 在此是对其讲话，不是写其地址。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to deal with a problem or question",
+      "zh_definition": "处理问题或回应疑问",
+      "usages": [
+        {
+          "usage_label": "处理问题",
+          "collocations": [
+            {
+              "phrase": "address a problem",
+              "translation": "处理问题"
+            },
+            {
+              "phrase": "address a concern",
+              "translation": "回应担忧"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We need to address this problem now.",
+              "zh": "我们现在需要处理这个问题。"
+            },
+            {
+              "en": "The report addresses our main concerns.",
+              "zh": "这份报告回应了我们主要的担忧。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "deal with：泛指处理；address 强调正面着手处理或回应。"
+      ],
+      "antonyms": [
+        "ignore：置之不理。"
+      ],
+      "confusables": [
+        "address a problem 是处理问题，不是给问题写地址。"
+      ]
+    }
+  ]
+}

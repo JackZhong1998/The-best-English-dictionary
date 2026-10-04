@@ -10,6 +10,44 @@ from scripts import content_pipeline as pipeline
 
 
 class PublishedRevisionTest(unittest.TestCase):
+    def test_restage_unpublished_draft_preserves_rejected_review(self):
+        fixture = json.loads((Path(__file__).resolve().parents[1] / "content" / "words" / "case.json").read_text(encoding="utf-8"))
+        old_paths = pipeline.CATALOG, pipeline.WORDS, pipeline.DRAFTS
+        try:
+            with tempfile.TemporaryDirectory() as folder:
+                root = Path(folder)
+                pipeline.CATALOG = root / "catalog.json"
+                pipeline.WORDS = root / "words"
+                pipeline.DRAFTS = root / "drafts"
+                pipeline.WORDS.mkdir()
+                pipeline.save_catalog({"entries": [{
+                    "word": "case", "batch": 1, "status": "basic", "content_version": 0,
+                    "author": None, "risk_flags": [], "review_records": [],
+                }]})
+                first = root / "first.json"
+                first.write_text(json.dumps(fixture, ensure_ascii=False), encoding="utf-8")
+                pipeline.stage(Namespace(word="case", file=str(first), author="writer", risk=[]))
+                pipeline.review(Namespace(word="case", reviewer="reviewer", decision="reject", notes="One issue", issues_found=1, corrections=0))
+                changed = json.loads(json.dumps(fixture))
+                changed["senses"][0]["usages"][0]["examples"][0]["zh"] = "这是一个特殊的情况。"
+                second = root / "second.json"
+                second.write_text(json.dumps(changed, ensure_ascii=False), encoding="utf-8")
+                pipeline.stage(Namespace(word="case", file=str(second), author="writer", risk=[]))
+                item = pipeline.load_catalog()["entries"][0]
+                self.assertEqual(item["status"], "draft")
+                self.assertEqual(item["review_records"][0]["decision"], "reject")
+                self.assertEqual(item["review_records"][0]["issue_count"], 1)
+                with self.assertRaises(SystemExit):
+                    pipeline.publish(Namespace(word="case"))
+                pipeline.review(Namespace(word="case", reviewer="reviewer", decision="accept", notes="Fixed", issues_found=0, corrections=1))
+                pipeline.publish(Namespace(word="case"))
+                item = pipeline.load_catalog()["entries"][0]
+                self.assertEqual(item["status"], "published")
+                self.assertEqual([review["decision"] for review in item["review_records"]], ["reject", "accept"])
+                self.assertEqual(item["review_records"][1]["correction_count"], 1)
+        finally:
+            pipeline.CATALOG, pipeline.WORDS, pipeline.DRAFTS = old_paths
+
     def test_reviewed_revision_keeps_old_entry_visible_and_can_resume(self):
         fixture = json.loads((Path(__file__).resolve().parents[1] / "content" / "words" / "case.json").read_text(encoding="utf-8"))
         old_paths = pipeline.CATALOG, pipeline.WORDS, pipeline.DRAFTS

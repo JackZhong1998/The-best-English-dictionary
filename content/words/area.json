@@ -1,0 +1,135 @@
+{
+  "word": "area",
+  "phonetic": "/ˈeriə/",
+  "syllables": [
+    "ar",
+    "e",
+    "a"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "地区",
+    "面积",
+    "领域"
+  ],
+  "etymology": "直接来自拉丁语 area“平地、空地”；更早来源不确定。",
+  "semantic_shift": "从一块具体的地面，扩展到有边界的地区；再用于抽象的研究或工作领域。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a particular part of a place",
+      "zh_definition": "某个地方的一片区域",
+      "usages": [
+        {
+          "usage_label": "地区",
+          "collocations": [
+            {
+              "phrase": "a quiet area",
+              "translation": "安静的区域"
+            },
+            {
+              "phrase": "the local area",
+              "translation": "当地地区"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This area is quiet at night.",
+              "zh": "这一带夜里很安静。"
+            },
+            {
+              "en": "Many families live in the area.",
+              "zh": "许多家庭住在这一带。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "region：常指较大的地区；area 大小更灵活。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "area 可以是城市的一小片地方，不一定是很大的地区。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the size of a surface",
+      "zh_definition": "平面所占的大小",
+      "usages": [
+        {
+          "usage_label": "面积",
+          "collocations": [
+            {
+              "phrase": "measure the area",
+              "translation": "测量面积"
+            },
+            {
+              "phrase": "a large area",
+              "translation": "大面积"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We measured the area of the room.",
+              "zh": "我们测量了房间的面积。"
+            },
+            {
+              "en": "The park covers a large area.",
+              "zh": "这座公园占地很广。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "size：泛指大小；area 专指平面的面积。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "面积用 area；体积用 volume，两者不是同一量。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a subject or field of work",
+      "zh_definition": "工作或研究的一个领域",
+      "usages": [
+        {
+          "usage_label": "领域",
+          "collocations": [
+            {
+              "phrase": "an area of study",
+              "translation": "一个研究领域"
+            },
+            {
+              "phrase": "areas of interest",
+              "translation": "感兴趣的领域"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Language is her main area of study.",
+              "zh": "语言是她的主要研究领域。"
+            },
+            {
+              "en": "We work in different areas of science.",
+              "zh": "我们在科学的不同领域工作。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "field：也表示学科或领域；area 可指其中较具体的部分。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "area of study 是研究领域，不是实验室的地面面积。"
+      ]
+    }
+  ]
+}

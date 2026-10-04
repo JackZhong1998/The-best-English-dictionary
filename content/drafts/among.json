@@ -1,0 +1,99 @@
+{
+  "word": "among",
+  "phonetic": "/əˈmʌŋ/",
+  "syllables": [
+    "a",
+    "mong"
+  ],
+  "pos": [
+    "prep."
+  ],
+  "core_meanings": [
+    "在……之中",
+    "在……之间"
+  ],
+  "etymology": "源自古英语 on gemang，字面上与“混在一群之中”有关。",
+  "semantic_shift": "先表示处在一群人或物中间，也可说某人或某事属于这个群体。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "prep.",
+      "en_definition": "surrounded by several people or things",
+      "zh_definition": "被一群人或物围在中间",
+      "usages": [
+        {
+          "usage_label": "处在一群之中",
+          "collocations": [
+            {
+              "phrase": "among the trees",
+              "translation": "在树丛中"
+            },
+            {
+              "phrase": "among friends",
+              "translation": "在朋友当中"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We sat among the trees.",
+              "zh": "我们坐在树丛中。"
+            },
+            {
+              "en": "She felt safe among friends.",
+              "zh": "她在朋友中间感到安心。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "amid：也表示处于其中，语气较书面；among 更常用于可数的人或物。"
+      ],
+      "antonyms": [
+        "outside：在……外面。"
+      ],
+      "confusables": [
+        "among 常用于群体；between 也可用于两个以上对象之间的明确关系。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "prep.",
+      "en_definition": "as one of a group",
+      "zh_definition": "作为群体中的一员",
+      "usages": [
+        {
+          "usage_label": "属于其中",
+          "collocations": [
+            {
+              "phrase": "among the best",
+              "translation": "名列前茅"
+            },
+            {
+              "phrase": "among those invited",
+              "translation": "在受邀者之列"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This book is among my favorites.",
+              "zh": "这本书是我最喜欢的书之一。"
+            },
+            {
+              "en": "He was among those invited.",
+              "zh": "他也是受邀者之一。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "one of：直接说是其中之一；among 强调身在某个群体里。"
+      ],
+      "antonyms": [
+        "excluded from：被排除在群体之外。"
+      ],
+      "confusables": [
+        "among the best 表示优秀者之一，不一定是唯一最好的。"
+      ]
+    }
+  ]
+}

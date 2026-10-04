@@ -1,0 +1,181 @@
+{
+  "word": "apply",
+  "phonetic": "/əˈplaɪ/",
+  "syllables": [
+    "ap",
+    "ply"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "申请",
+    "应用",
+    "涂抹",
+    "适用"
+  ],
+  "etymology": "经古法语 aploiier，来自拉丁语 applicare“贴近、连接”。",
+  "semantic_shift": "从把一物贴到另一物，发展为把方法用到问题上、把药膏涂到皮肤上；申请则是把自己的请求提交给机构。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to formally ask for a job or place",
+      "zh_definition": "正式申请职位或名额",
+      "usages": [
+        {
+          "usage_label": "申请",
+          "collocations": [
+            {
+              "phrase": "apply for a job",
+              "translation": "申请工作"
+            },
+            {
+              "phrase": "apply to a university",
+              "translation": "向大学申请"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I applied for a summer job.",
+              "zh": "我申请了一份暑期工作。"
+            },
+            {
+              "en": "She applied to three universities.",
+              "zh": "她向三所大学提交了申请。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "request：泛指提出请求；apply 通常要遵循正式申请程序。"
+      ],
+      "antonyms": [
+        "withdraw an application：撤回申请。"
+      ],
+      "confusables": [
+        "apply for 后接职位或机会；apply to 后接接收申请的机构。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to use a rule or method in a situation",
+      "zh_definition": "把规则或方法用于某种情况",
+      "usages": [
+        {
+          "usage_label": "应用",
+          "collocations": [
+            {
+              "phrase": "apply a method",
+              "translation": "应用一种方法"
+            },
+            {
+              "phrase": "apply a rule to a case",
+              "translation": "把规则用于一个具体情况"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We can apply this method to the problem.",
+              "zh": "我们可以把这种方法用于这个问题。"
+            },
+            {
+              "en": "The teacher applied the same rule to everyone.",
+              "zh": "老师把同一条规则用于每个人。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "use：泛指使用；apply 更强调把方法或规则用在具体对象上。"
+      ],
+      "antonyms": [
+        "ignore a rule：不采用某项规则。"
+      ],
+      "confusables": [
+        "apply something to something 中的 to 指应用对象。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to put a substance on a surface",
+      "zh_definition": "把物质涂在表面上",
+      "usages": [
+        {
+          "usage_label": "涂抹",
+          "collocations": [
+            {
+              "phrase": "apply sunscreen",
+              "translation": "涂防晒霜"
+            },
+            {
+              "phrase": "apply cream to the skin",
+              "translation": "把乳霜涂在皮肤上"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Apply sunscreen before you go out.",
+              "zh": "出门前涂防晒霜。"
+            },
+            {
+              "en": "She applied cream to her hands.",
+              "zh": "她在手上涂了乳霜。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "spread：强调把东西摊开；apply 强调把它涂到指定表面。"
+      ],
+      "antonyms": [
+        "remove：从表面移除。"
+      ],
+      "confusables": [
+        "apply cream to your hands 是把乳霜涂到手上，不是“申请乳霜”。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to be relevant to a person or situation",
+      "zh_definition": "对某人或某种情况适用",
+      "usages": [
+        {
+          "usage_label": "适用",
+          "collocations": [
+            {
+              "phrase": "the rule applies to everyone",
+              "translation": "规则适用于所有人"
+            },
+            {
+              "phrase": "this does not apply",
+              "translation": "这一点不适用"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This rule applies to all students.",
+              "zh": "这条规则适用于所有学生。"
+            },
+            {
+              "en": "The discount does not apply here.",
+              "zh": "这里不适用这项折扣。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "be relevant to：指与某事有关；apply to 还表示规则可具体使用。"
+      ],
+      "antonyms": [
+        "be exempt from：不受某项规则约束。"
+      ],
+      "confusables": [
+        "此义的 apply 不及物，常说 a rule applies to someone。"
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 import './style.css'
+import { preGeneratedWords } from './audio-words'
 
 type Pair = { phrase: string; translation: string }
 type Example = { en: string; zh: string }
@@ -19,7 +20,6 @@ type AudioLocator = { word: string; senseId?: number; usageId?: number; exampleI
 const app = document.querySelector<HTMLDivElement>('#app')!
 const base = import.meta.env.BASE_URL
 const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')
-const preGeneratedWords = new Set(['ability', 'accept', 'access', 'achieve', 'active', 'activity', 'advantage', 'affect', 'afford', 'agree', 'break', 'call', 'case', 'change', 'charge', 'come', 'cut', 'draw', 'drive', 'fall', 'get', 'go', 'hold', 'keep', 'leave', 'light', 'line', 'make', 'matter', 'move', 'order', 'pass', 'play', 'point', 'put', 'right', 'run', 'set', 'take', 'turn'])
 let currentAudio: HTMLAudioElement | null = null
 let searchSequence = 0
 let currentQuery = ''

@@ -1,0 +1,177 @@
+{
+  "word": "approach",
+  "phonetic": "/əˈproʊtʃ/",
+  "syllables": [
+    "ap",
+    "proach"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "靠近",
+    "着手处理",
+    "方法"
+  ],
+  "etymology": "经古法语 aprochier，最终与拉丁语 prope“近”有关。",
+  "semantic_shift": "从空间上靠近，扩展到时间临近；接近一个难题时，可以表示开始处理它的方式。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move nearer to someone or something",
+      "zh_definition": "在空间上接近人或物",
+      "usages": [
+        {
+          "usage_label": "靠近",
+          "collocations": [
+            {
+              "phrase": "approach the door",
+              "translation": "走近门"
+            },
+            {
+              "phrase": "approach someone carefully",
+              "translation": "小心地走近某人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The train approached the station.",
+              "zh": "火车驶近车站。"
+            },
+            {
+              "en": "A stranger approached me on the street.",
+              "zh": "一位陌生人在街上向我走来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "come near：直接说靠近；approach 语气稍正式。"
+      ],
+      "antonyms": [
+        "move away：移开，远离。"
+      ],
+      "confusables": [
+        "approach 作动词直接接地点，不说 approach to the station。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to come near in time",
+      "zh_definition": "在时间上临近",
+      "usages": [
+        {
+          "usage_label": "临近",
+          "collocations": [
+            {
+              "phrase": "winter approaches",
+              "translation": "冬天临近"
+            },
+            {
+              "phrase": "as the deadline approaches",
+              "translation": "随着截止日期临近"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The exam is approaching quickly.",
+              "zh": "考试很快就要到了。"
+            },
+            {
+              "en": "As winter approaches, days get shorter.",
+              "zh": "随着冬天临近，白天变短了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "draw near：也表示临近；approach 稍正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the exam approaches 指考试快到了，考试不会真的移动。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a way of dealing with a problem",
+      "zh_definition": "处理问题的一种方法",
+      "usages": [
+        {
+          "usage_label": "方法",
+          "collocations": [
+            {
+              "phrase": "a new approach",
+              "translation": "一种新方法"
+            },
+            {
+              "phrase": "an approach to learning",
+              "translation": "一种学习方法"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We need a different approach to this problem.",
+              "zh": "我们需要用不同的方法处理这个问题。"
+            },
+            {
+              "en": "Her approach to learning is practical.",
+              "zh": "她的学习方法很务实。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "method：常指具体步骤；approach 更强调总体思路。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 approach to 后常接问题或活动；动词 approach 直接接宾语。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to start dealing with a task or problem",
+      "zh_definition": "着手处理任务或问题",
+      "usages": [
+        {
+          "usage_label": "着手处理",
+          "collocations": [
+            {
+              "phrase": "approach a problem",
+              "translation": "着手处理问题"
+            },
+            {
+              "phrase": "approach a task carefully",
+              "translation": "谨慎地处理任务"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Let's approach this problem calmly.",
+              "zh": "我们冷静地处理这个问题吧。"
+            },
+            {
+              "en": "She approached the task with care.",
+              "zh": "她认真地着手处理这项任务。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "tackle：更强调积极解决难题；approach 强调采取何种方式着手。"
+      ],
+      "antonyms": [
+        "avoid：回避问题。"
+      ],
+      "confusables": [
+        "approach a problem 在此不是走近一个实体物体。"
+      ]
+    }
+  ]
+}

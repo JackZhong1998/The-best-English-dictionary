@@ -5,6 +5,11 @@ import { resolve } from 'node:path'
 
 const root = resolve(import.meta.dirname, '..')
 const dryRun = process.argv.includes('--dry-run')
+const batchFlag = process.argv.indexOf('--batch')
+const batch = batchFlag < 0 ? null : Number(process.argv[batchFlag + 1])
+if (batchFlag >= 0 && (!Number.isSafeInteger(batch) || batch < 1)) {
+  throw new Error('--batch requires a positive integer')
+}
 const raw = JSON.parse(await readFile(resolve(root, 'content/catalog.json'), 'utf8'))
 const catalog = Array.isArray(raw) ? raw : raw.entries
 if (!Array.isArray(catalog)) throw new Error('content/catalog.json must contain an entries array')
@@ -19,6 +24,7 @@ for (const candidate of catalog) {
   }
   if (seen.has(word)) throw new Error(`Duplicate catalog word: ${word}`)
   seen.add(word)
+  if (batch !== null && candidate.batch !== batch) continue
   if (!['basic', 'draft', 'reviewed', 'published'].includes(candidate.status)) continue
   const publicStatus = candidate.status === 'published' ? 'published' : 'basic'
 
@@ -55,8 +61,9 @@ for (const candidate of catalog) {
   records.push({ word, basicZh: basicZh.trim(), levels, status: publicStatus,
     entry, sourceId, sourceUrl, version, reviewedAt, reviewRecords })
 }
+if (!records.length) throw new Error(batch === null ? 'No public records' : `No public records in batch ${batch}`)
 
-console.log(`Validated ${records.length} public words (${records.filter(r => r.status === 'published').length} published, ${records.filter(r => r.status === 'basic').length} basic).`)
+console.log(`Validated ${records.length} public words${batch === null ? '' : ` in batch ${batch}`} (${records.filter(r => r.status === 'published').length} published, ${records.filter(r => r.status === 'basic').length} basic).`)
 if (dryRun) process.exit(0)
 if (!process.env.DATABASE_URL) throw new Error('DATABASE_URL is required to import entries')
 

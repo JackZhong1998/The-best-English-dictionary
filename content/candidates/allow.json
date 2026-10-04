@@ -1,0 +1,140 @@
+{
+  "word": "allow",
+  "phonetic": "/əˈlaʊ/",
+  "syllables": [
+    "al",
+    "low"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "允许",
+    "使可能",
+    "考虑到"
+  ],
+  "etymology": "中古英语中相关法语词形相互融合，一支与拉丁语 allocare“分配”有关，另一支与“赞许”有关。",
+  "semantic_shift": "从认可并给予，发展为准许某事；给予条件也可以让事情成为可能。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to give someone permission to do something",
+      "zh_definition": "允许某人做某事",
+      "usages": [
+        {
+          "usage_label": "允许",
+          "collocations": [
+            {
+              "phrase": "allow someone to enter",
+              "translation": "允许某人进入"
+            },
+            {
+              "phrase": "not allowed",
+              "translation": "不被允许"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My parents allow me to go out.",
+              "zh": "父母允许我外出。"
+            },
+            {
+              "en": "Visitors are not allowed to park here.",
+              "zh": "访客不得在这里停车。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "permit：也表示允许，语气通常更正式；allow 更日常。"
+      ],
+      "antonyms": [
+        "forbid：禁止。"
+      ],
+      "confusables": [
+        "allow someone to do 中必须有 to；不能说 allow someone do。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make something possible",
+      "zh_definition": "提供条件，使某事成为可能",
+      "usages": [
+        {
+          "usage_label": "使可能",
+          "collocations": [
+            {
+              "phrase": "allow easy access",
+              "translation": "方便进入或使用"
+            },
+            {
+              "phrase": "allow someone to learn",
+              "translation": "使某人能够学习"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This app allows users to study anywhere.",
+              "zh": "这款应用让用户能在任何地方学习。"
+            },
+            {
+              "en": "The new road allows faster travel.",
+              "zh": "新路使出行更快捷。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "enable：强调赋予能力或条件；allow 此处也表示使可能。"
+      ],
+      "antonyms": [
+        "prevent：阻止某事发生。"
+      ],
+      "confusables": [
+        "allow 在这里不一定涉及批准或许可。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to take possible needs into account and leave enough time or resources",
+      "zh_definition": "把可能情况考虑在内并留出所需时间或资源",
+      "usages": [
+        {
+          "usage_label": "预留余地",
+          "collocations": [
+            {
+              "phrase": "allow for delays",
+              "translation": "把延误考虑进去"
+            },
+            {
+              "phrase": "allow enough time",
+              "translation": "留足时间"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Allow extra time for the journey.",
+              "zh": "这趟行程要多留些时间。"
+            },
+            {
+              "en": "We must allow for possible delays.",
+              "zh": "我们必须把可能的延误考虑进去。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "plan for：指提前作计划；allow for 强调把可能情况算在内。"
+      ],
+      "antonyms": [
+        "overlook：忽略需要考虑的因素。"
+      ],
+      "confusables": [
+        "allow for delays 是预留余地，不是“批准延误”。"
+      ]
+    }
+  ]
+}
