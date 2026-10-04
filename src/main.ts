@@ -35,8 +35,13 @@ const normalize = (value: string) => value.trim().toLowerCase()
 const wordHref = (word: string) => base === '/' ? `/word/${encodeURIComponent(word)}` : `${base}?word=${encodeURIComponent(word)}`
 const staticAudioPath = (word: string, name: string) => `${base}audio/${word}/${name}.mp3`
 const getWordFromUrl = () => {
-  const pathMatch = location.pathname.match(/\/word\/([a-z]+)\/?$/i)
-  return normalize(pathMatch?.[1] || new URLSearchParams(location.search).get('word') || '')
+  const pathMatch = location.pathname.match(/\/word\/([^/]+)\/?$/i)
+  let raw = new URLSearchParams(location.search).get('word') || ''
+  if (pathMatch?.[1]) {
+    try { raw = decodeURIComponent(pathMatch[1]) } catch { return '' }
+  }
+  const word = normalize(raw)
+  return /^[a-z][a-z'-]{0,63}$/.test(word) ? word : ''
 }
 
 function shell(content: string): string {
@@ -181,7 +186,11 @@ async function resolveAudio(button: HTMLButtonElement): Promise<string> {
     const response = await fetch(`/api/audio?${params}`)
     const result = await response.json() as { status?: string; url?: string; retryAfter?: number; error?: string }
     if (response.ok && result.status === 'ready' && result.url) return result.url
-    if (response.status === 202) { await new Promise((resolve) => window.setTimeout(resolve, Math.min(result.retryAfter || 2, 5) * 1000)); continue }
+    if (response.status === 202) {
+      if (attempt === 0) announce('正在生成美式发音，请稍候…')
+      await new Promise((resolve) => window.setTimeout(resolve, Math.min(result.retryAfter || 2, 5) * 1000))
+      continue
+    }
     if (response.status === 429) throw new Error('今日新发音额度已用完，已有音频仍可播放')
     throw new Error(result.error === 'unavailable' ? '发音暂时不可用，请稍后再试' : '发音暂时无法生成')
   }
@@ -195,6 +204,7 @@ async function playAudio(button: HTMLButtonElement): Promise<void> {
   button.setAttribute('aria-busy', 'true')
   const originalTitle = button.title
   button.title = '正在准备发音…'
+  if (!preGeneratedWords.has(button.dataset.word!)) announce('正在准备美式发音…')
   try {
     const url = await resolveAudio(button)
     const player = new Audio(url)

@@ -16,7 +16,7 @@ const catalog = fs.existsSync(catalogFile)
   : { version: 1, entries: fallbackEntries }
 
 const publicEntries = catalog.entries
-  .filter((item) => ['basic', 'draft', 'review', 'published'].includes(item.status))
+  .filter((item) => ['basic', 'draft', 'reviewed', 'published'].includes(item.status))
   .map((item) => ({
     word: item.word,
     basic_zh: item.basic_zh,

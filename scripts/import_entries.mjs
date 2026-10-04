@@ -19,7 +19,7 @@ for (const candidate of catalog) {
   }
   if (seen.has(word)) throw new Error(`Duplicate catalog word: ${word}`)
   seen.add(word)
-  if (!['basic', 'draft', 'review', 'published'].includes(candidate.status)) continue
+  if (!['basic', 'draft', 'reviewed', 'published'].includes(candidate.status)) continue
   const publicStatus = candidate.status === 'published' ? 'published' : 'basic'
 
   const basicZh = candidate.basic_zh

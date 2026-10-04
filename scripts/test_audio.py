@@ -24,6 +24,9 @@ class FakeRepository:
     def lookup_entry(self, word):
         return self.entry if word == "run" else None
 
+    def lookup_ready_clip(self, key):
+        return f"audio/v1/{key}.mp3" if self.state == "ready" else None
+
     def claim_clip(self, key, object_key, visitor, visitor_limit, global_limit, storage_limit):
         self.claims += 1
         if self.state == "ready":
@@ -97,6 +100,19 @@ class AudioTests(unittest.TestCase):
         self.assertEqual((first["cached"], second["cached"]), (False, True))
         self.assertEqual(synth.calls, ["She runs the shop."])
         self.assertEqual(repository.events, [("success", "generated")])
+
+    def test_paused_generation_keeps_cached_audio_available(self):
+        repository, storage, synth = FakeRepository(), FakeStorage(), FakeSynth()
+        key = f"audio/v1/{clip_key('run')}.mp3"
+        storage.files[key] = b"a" * 1500
+        repository.state = "ready"
+        status, response = AudioService(repository, storage, synth, generation_enabled=False).fetch("run", None, "visitor")
+        self.assertEqual((status, response["cached"]), (200, True))
+        self.assertEqual(repository.claims, 0)
+        self.assertEqual(synth.calls, [])
+        repository.state = "absent"
+        with self.assertRaises(AudioError):
+            AudioService(repository, storage, synth, generation_enabled=False).fetch("run", None, "visitor")
 
     def test_active_lease_is_pending(self):
         repository = FakeRepository()
