@@ -1,0 +1,191 @@
+{
+  "word": "charge",
+  "phonetic": "/tʃɑːrdʒ/",
+  "syllables": [
+    "charge"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "收费",
+    "充电",
+    "负责",
+    "指控"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to ask for money for a service or product",
+      "zh_definition": "为商品或服务索要费用",
+      "usages": [
+        {
+          "usage_label": "收费",
+          "collocations": [
+            {
+              "phrase": "charge a fee",
+              "translation": "收取费用"
+            },
+            {
+              "phrase": "charge ten dollars",
+              "translation": "收十美元"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They charge ten dollars.",
+              "zh": "他们收费十美元。"
+            },
+            {
+              "en": "This bank charges a fee.",
+              "zh": "这家银行收手续费。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to put electricity into a battery",
+      "zh_definition": "把电能存入电池",
+      "usages": [
+        {
+          "usage_label": "给设备充电",
+          "collocations": [
+            {
+              "phrase": "charge a phone",
+              "translation": "给手机充电"
+            },
+            {
+              "phrase": "charge a battery",
+              "translation": "给电池充电"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I need to charge my phone.",
+              "zh": "我需要给手机充电。"
+            },
+            {
+              "en": "The battery charges slowly.",
+              "zh": "电池充电很慢。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to accuse someone officially of a crime",
+      "zh_definition": "正式指控某人犯罪",
+      "usages": [
+        {
+          "usage_label": "指控",
+          "collocations": [
+            {
+              "phrase": "charge someone with theft",
+              "translation": "指控某人盗窃"
+            },
+            {
+              "phrase": "charge someone with a crime",
+              "translation": "指控某人犯罪"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Police charged him with theft.",
+              "zh": "警方指控他盗窃。"
+            },
+            {
+              "en": "She faced a serious charge.",
+              "zh": "她面临严重指控。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "responsibility for someone or something",
+      "zh_definition": "对人或事的责任",
+      "usages": [
+        {
+          "usage_label": "负责",
+          "collocations": [
+            {
+              "phrase": "in charge of",
+              "translation": "负责"
+            },
+            {
+              "phrase": "take charge",
+              "translation": "接管"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She is in charge of the shop.",
+              "zh": "她负责这家店。"
+            },
+            {
+              "en": "Tom took charge today.",
+              "zh": "汤姆今天接手负责。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "an amount of money that must be paid",
+      "zh_definition": "必须支付的一笔钱",
+      "usages": [
+        {
+          "usage_label": "费用",
+          "collocations": [
+            {
+              "phrase": "service charge",
+              "translation": "服务费"
+            },
+            {
+              "phrase": "extra charge",
+              "translation": "额外费用"
+            }
+          ],
+          "examples": [
+            {
+              "en": "There is no extra charge.",
+              "zh": "没有额外费用。"
+            },
+            {
+              "en": "The service charge is small.",
+              "zh": "服务费很少。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

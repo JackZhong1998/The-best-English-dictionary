@@ -1,0 +1,225 @@
+{
+  "word": "set",
+  "phonetic": "/set/",
+  "syllables": [
+    "set"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "放置",
+    "设定",
+    "一套",
+    "凝固"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to put something in a particular place",
+      "zh_definition": "把某物放在特定位置",
+      "usages": [
+        {
+          "usage_label": "放置",
+          "collocations": [
+            {
+              "phrase": "set the table",
+              "translation": "摆餐具"
+            },
+            {
+              "phrase": "set a cup down",
+              "translation": "放下杯子"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She set the cup on the table.",
+              "zh": "她把杯子放在桌上。"
+            },
+            {
+              "en": "Please set the table.",
+              "zh": "请摆好餐具。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to decide or fix a value, time, or rule",
+      "zh_definition": "确定数值、时间或规则",
+      "usages": [
+        {
+          "usage_label": "设定",
+          "collocations": [
+            {
+              "phrase": "set a time",
+              "translation": "定时间"
+            },
+            {
+              "phrase": "set a goal",
+              "translation": "定目标"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We set a time for the meeting.",
+              "zh": "我们定了开会时间。"
+            },
+            {
+              "en": "He set a new goal.",
+              "zh": "他定了一个新目标。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to adjust a device to a value",
+      "zh_definition": "把设备调到某个数值",
+      "usages": [
+        {
+          "usage_label": "调节",
+          "collocations": [
+            {
+              "phrase": "set an alarm",
+              "translation": "设闹钟"
+            },
+            {
+              "phrase": "set the temperature",
+              "translation": "设定温度"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I set my alarm for seven.",
+              "zh": "我把闹钟设在七点。"
+            },
+            {
+              "en": "Set the oven to 180 degrees.",
+              "zh": "把烤箱调到 180 度。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a group of things used together",
+      "zh_definition": "一起使用的一组东西",
+      "usages": [
+        {
+          "usage_label": "一套",
+          "collocations": [
+            {
+              "phrase": "a set of keys",
+              "translation": "一串钥匙"
+            },
+            {
+              "phrase": "a tea set",
+              "translation": "一套茶具"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I lost my set of keys.",
+              "zh": "我丢了一串钥匙。"
+            },
+            {
+              "en": "This tea set is old.",
+              "zh": "这套茶具很旧。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to become firm or solid",
+      "zh_definition": "变得坚硬或凝固",
+      "usages": [
+        {
+          "usage_label": "凝固",
+          "collocations": [
+            {
+              "phrase": "the paint sets",
+              "translation": "油漆干固"
+            },
+            {
+              "phrase": "the jelly sets",
+              "translation": "果冻凝固"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The paint sets in an hour.",
+              "zh": "油漆一小时后干固。"
+            },
+            {
+              "en": "The jelly has set.",
+              "zh": "果冻已经凝固了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to start or arrange something",
+      "zh_definition": "建立或安排某事",
+      "usages": [
+        {
+          "usage_label": "建立",
+          "collocations": [
+            {
+              "phrase": "set up a club",
+              "translation": "成立俱乐部"
+            },
+            {
+              "phrase": "set up a meeting",
+              "translation": "安排会议"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We set up a new club.",
+              "zh": "我们成立了一个新俱乐部。"
+            },
+            {
+              "en": "She set up a meeting.",
+              "zh": "她安排了一次会议。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

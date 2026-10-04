@@ -1,0 +1,191 @@
+{
+  "word": "line",
+  "phonetic": "/laɪn/",
+  "syllables": [
+    "line"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "线",
+    "队伍",
+    "台词",
+    "线路"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a long narrow mark",
+      "zh_definition": "细长的痕迹",
+      "usages": [
+        {
+          "usage_label": "线条",
+          "collocations": [
+            {
+              "phrase": "draw a line",
+              "translation": "画线"
+            },
+            {
+              "phrase": "a straight line",
+              "translation": "直线"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Draw a line here.",
+              "zh": "在这里画一条线。"
+            },
+            {
+              "en": "The line is straight.",
+              "zh": "这条线是直的。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a row of people waiting",
+      "zh_definition": "排队等候的一排人",
+      "usages": [
+        {
+          "usage_label": "队伍",
+          "collocations": [
+            {
+              "phrase": "wait in line",
+              "translation": "排队"
+            },
+            {
+              "phrase": "stand in line",
+              "translation": "站成一队"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We waited in line.",
+              "zh": "我们排队等候。"
+            },
+            {
+              "en": "The line is long today.",
+              "zh": "今天队伍很长。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a sentence in a play or film",
+      "zh_definition": "戏剧或电影中的一句话",
+      "usages": [
+        {
+          "usage_label": "台词",
+          "collocations": [
+            {
+              "phrase": "learn your lines",
+              "translation": "背台词"
+            },
+            {
+              "phrase": "forget a line",
+              "translation": "忘记一句台词"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She forgot her line.",
+              "zh": "她忘了台词。"
+            },
+            {
+              "en": "He learned his lines.",
+              "zh": "他背会了台词。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a route or connection for travel or communication",
+      "zh_definition": "交通或通信的线路",
+      "usages": [
+        {
+          "usage_label": "线路",
+          "collocations": [
+            {
+              "phrase": "train line",
+              "translation": "铁路线"
+            },
+            {
+              "phrase": "phone line",
+              "translation": "电话线"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This train line is new.",
+              "zh": "这条铁路线是新的。"
+            },
+            {
+              "en": "The phone line is busy.",
+              "zh": "电话占线。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to form a row",
+      "zh_definition": "排成一行",
+      "usages": [
+        {
+          "usage_label": "排队",
+          "collocations": [
+            {
+              "phrase": "line up",
+              "translation": "排队"
+            },
+            {
+              "phrase": "line up outside",
+              "translation": "在外面排队"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please line up here.",
+              "zh": "请在这里排队。"
+            },
+            {
+              "en": "The children lined up outside.",
+              "zh": "孩子们在外面排队。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "word": "point",
+  "phonetic": "/pɔɪnt/",
+  "syllables": [
+    "point"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "点",
+    "要点",
+    "指向",
+    "得分"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "an exact place or position",
+      "zh_definition": "一个确切的位置",
+      "usages": [
+        {
+          "usage_label": "点或位置",
+          "collocations": [
+            {
+              "phrase": "a point on a map",
+              "translation": "地图上的一点"
+            },
+            {
+              "phrase": "starting point",
+              "translation": "起点"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Mark the point on the map.",
+              "zh": "在地图上标出那个点。"
+            },
+            {
+              "en": "This is our starting point.",
+              "zh": "这是我们的起点。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an important idea or detail",
+      "zh_definition": "重要的想法或细节",
+      "usages": [
+        {
+          "usage_label": "要点",
+          "collocations": [
+            {
+              "phrase": "main point",
+              "translation": "主要观点"
+            },
+            {
+              "phrase": "get the point",
+              "translation": "明白要点"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I understand your point.",
+              "zh": "我明白你的观点。"
+            },
+            {
+              "en": "The main point is clear.",
+              "zh": "主要意思很清楚。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to show a direction with a finger or object",
+      "zh_definition": "用手指或物体示意方向",
+      "usages": [
+        {
+          "usage_label": "指向",
+          "collocations": [
+            {
+              "phrase": "point at",
+              "translation": "指着"
+            },
+            {
+              "phrase": "point to",
+              "translation": "指向"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She pointed at the door.",
+              "zh": "她指着门。"
+            },
+            {
+              "en": "The arrow points left.",
+              "zh": "箭头指向左边。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a unit of a score",
+      "zh_definition": "分数的一个单位",
+      "usages": [
+        {
+          "usage_label": "得分",
+          "collocations": [
+            {
+              "phrase": "score a point",
+              "translation": "得一分"
+            },
+            {
+              "phrase": "five points",
+              "translation": "五分"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our team scored a point.",
+              "zh": "我们队得了一分。"
+            },
+            {
+              "en": "She has five points.",
+              "zh": "她得了五分。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "a particular moment or stage",
+      "zh_definition": "某个特定时刻或阶段",
+      "usages": [
+        {
+          "usage_label": "时候或阶段",
+          "collocations": [
+            {
+              "phrase": "at this point",
+              "translation": "此时"
+            },
+            {
+              "phrase": "the halfway point",
+              "translation": "中途的位置"
+            }
+          ],
+          "examples": [
+            {
+              "en": "At this point, we stopped.",
+              "zh": "这时我们停了下来。"
+            },
+            {
+              "en": "We are at the halfway point.",
+              "zh": "我们走到一半了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to tell someone about a fact or problem",
+      "zh_definition": "让某人注意到事实或问题",
+      "usages": [
+        {
+          "usage_label": "指出",
+          "collocations": [
+            {
+              "phrase": "point out a mistake",
+              "translation": "指出错误"
+            },
+            {
+              "phrase": "point out a fact",
+              "translation": "指出事实"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She pointed out my mistake.",
+              "zh": "她指出了我的错误。"
+            },
+            {
+              "en": "He pointed out the sign.",
+              "zh": "他指了指那个标志。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

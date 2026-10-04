@@ -1,0 +1,225 @@
+{
+  "word": "pass",
+  "phonetic": "/pæs/",
+  "syllables": [
+    "pass"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "经过",
+    "通过",
+    "传递",
+    "消逝"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move past someone or something",
+      "zh_definition": "从某人或某物旁边经过",
+      "usages": [
+        {
+          "usage_label": "经过",
+          "collocations": [
+            {
+              "phrase": "pass a house",
+              "translation": "经过一栋房子"
+            },
+            {
+              "phrase": "pass by",
+              "translation": "经过"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We passed the school.",
+              "zh": "我们经过了学校。"
+            },
+            {
+              "en": "A bus passed by.",
+              "zh": "一辆公交车驶过。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to succeed in a test",
+      "zh_definition": "通过考试或测验",
+      "usages": [
+        {
+          "usage_label": "通过考试",
+          "collocations": [
+            {
+              "phrase": "pass a test",
+              "translation": "通过考试"
+            },
+            {
+              "phrase": "pass an exam",
+              "translation": "考试及格"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She passed the test.",
+              "zh": "她通过了测验。"
+            },
+            {
+              "en": "I passed my driving exam.",
+              "zh": "我通过了驾照考试。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to give something to another person",
+      "zh_definition": "把某物交给别人",
+      "usages": [
+        {
+          "usage_label": "传递",
+          "collocations": [
+            {
+              "phrase": "pass the salt",
+              "translation": "递盐"
+            },
+            {
+              "phrase": "pass a note",
+              "translation": "传纸条"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please pass the salt.",
+              "zh": "请把盐递给我。"
+            },
+            {
+              "en": "He passed me the ball.",
+              "zh": "他把球传给了我。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to come to an end or go by",
+      "zh_definition": "结束或流逝",
+      "usages": [
+        {
+          "usage_label": "过去",
+          "collocations": [
+            {
+              "phrase": "time passes",
+              "translation": "时间流逝"
+            },
+            {
+              "phrase": "the day passes",
+              "translation": "一天过去"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Time passes quickly.",
+              "zh": "时间过得很快。"
+            },
+            {
+              "en": "The pain passed soon.",
+              "zh": "疼痛很快就过去了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "a ticket or document giving permission",
+      "zh_definition": "允许通行的票证",
+      "usages": [
+        {
+          "usage_label": "通行证或票卡",
+          "collocations": [
+            {
+              "phrase": "bus pass",
+              "translation": "公交乘车卡"
+            },
+            {
+              "phrase": "visitor pass",
+              "translation": "访客通行证"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I bought a bus pass.",
+              "zh": "我买了一张公交乘车卡。"
+            },
+            {
+              "en": "Show your visitor pass.",
+              "zh": "请出示访客通行证。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to die",
+      "zh_definition": "去世",
+      "usages": [
+        {
+          "usage_label": "去世",
+          "collocations": [
+            {
+              "phrase": "pass away",
+              "translation": "去世"
+            },
+            {
+              "phrase": "pass away peacefully",
+              "translation": "安详离世"
+            }
+          ],
+          "examples": [
+            {
+              "en": "His grandfather passed away.",
+              "zh": "他的祖父去世了。"
+            },
+            {
+              "en": "She passed away peacefully.",
+              "zh": "她安详地离世了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

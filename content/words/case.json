@@ -1,0 +1,189 @@
+{
+  "word": "case",
+  "phonetic": "/keɪs/",
+  "syllables": [
+    "case"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "情况",
+    "案件",
+    "盒子"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a particular situation",
+      "zh_definition": "一种特定情况",
+      "usages": [
+        {
+          "usage_label": "情况或事例",
+          "collocations": [
+            {
+              "phrase": "in this case",
+              "translation": "在这种情况下"
+            },
+            {
+              "phrase": "in many cases",
+              "translation": "在很多情况下"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This is a special case.",
+              "zh": "这是一个特殊情况。"
+            },
+            {
+              "en": "In this case, wait here.",
+              "zh": "在这种情况下，请在这里等。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a matter investigated by police or a court",
+      "zh_definition": "警方或法院调查的事情",
+      "usages": [
+        {
+          "usage_label": "案件",
+          "collocations": [
+            {
+              "phrase": "a murder case",
+              "translation": "谋杀案"
+            },
+            {
+              "phrase": "solve a case",
+              "translation": "破案"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The police solved the case.",
+              "zh": "警方破了这个案子。"
+            },
+            {
+              "en": "This case is still open.",
+              "zh": "这个案子仍在调查中。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a container for carrying or protecting things",
+      "zh_definition": "装载或保护物品的容器",
+      "usages": [
+        {
+          "usage_label": "盒子或保护套",
+          "collocations": [
+            {
+              "phrase": "phone case",
+              "translation": "手机壳"
+            },
+            {
+              "phrase": "glasses case",
+              "translation": "眼镜盒"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My phone case is blue.",
+              "zh": "我的手机壳是蓝色的。"
+            },
+            {
+              "en": "Put your glasses in the case.",
+              "zh": "把眼镜放进盒子里。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a set of facts supporting a view",
+      "zh_definition": "支持某种观点的一组事实",
+      "usages": [
+        {
+          "usage_label": "论据或理由",
+          "collocations": [
+            {
+              "phrase": "make a case",
+              "translation": "提出理由"
+            },
+            {
+              "phrase": "a strong case",
+              "translation": "有力的理由"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She made a strong case.",
+              "zh": "她提出了有力的理由。"
+            },
+            {
+              "en": "His case sounds reasonable.",
+              "zh": "他的理由听起来合理。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "a possible event or situation",
+      "zh_definition": "可能发生的情况",
+      "usages": [
+        {
+          "usage_label": "以防某种情况",
+          "collocations": [
+            {
+              "phrase": "in case of rain",
+              "translation": "如果下雨"
+            },
+            {
+              "phrase": "just in case",
+              "translation": "以防万一"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Take an umbrella just in case.",
+              "zh": "带把伞以防万一。"
+            },
+            {
+              "en": "In case of rain, stay inside.",
+              "zh": "如果下雨，就待在室内。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

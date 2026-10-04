@@ -1,0 +1,225 @@
+{
+  "word": "play",
+  "phonetic": "/pleɪ/",
+  "syllables": [
+    "play"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "玩",
+    "比赛",
+    "演奏",
+    "扮演"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to do something for fun",
+      "zh_definition": "为了乐趣做某事",
+      "usages": [
+        {
+          "usage_label": "玩耍",
+          "collocations": [
+            {
+              "phrase": "play outside",
+              "translation": "在外面玩"
+            },
+            {
+              "phrase": "play with toys",
+              "translation": "玩玩具"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The children play outside.",
+              "zh": "孩子们在外面玩。"
+            },
+            {
+              "en": "She plays with her dog.",
+              "zh": "她和狗玩。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to take part in a game or sport",
+      "zh_definition": "参加游戏或运动",
+      "usages": [
+        {
+          "usage_label": "比赛",
+          "collocations": [
+            {
+              "phrase": "play soccer",
+              "translation": "踢足球"
+            },
+            {
+              "phrase": "play a game",
+              "translation": "玩游戏"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We play soccer after school.",
+              "zh": "我们放学后踢足球。"
+            },
+            {
+              "en": "They played a game together.",
+              "zh": "他们一起玩了一个游戏。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to perform music on an instrument",
+      "zh_definition": "用乐器演奏音乐",
+      "usages": [
+        {
+          "usage_label": "演奏",
+          "collocations": [
+            {
+              "phrase": "play the piano",
+              "translation": "弹钢琴"
+            },
+            {
+              "phrase": "play a song",
+              "translation": "演奏一首歌"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He plays the piano.",
+              "zh": "他弹钢琴。"
+            },
+            {
+              "en": "She played a short song.",
+              "zh": "她演奏了一首短曲。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to act as a character",
+      "zh_definition": "扮演一个角色",
+      "usages": [
+        {
+          "usage_label": "扮演",
+          "collocations": [
+            {
+              "phrase": "play a doctor",
+              "translation": "扮演医生"
+            },
+            {
+              "phrase": "play the main role",
+              "translation": "出演主角"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She plays a doctor in the film.",
+              "zh": "她在电影里扮演医生。"
+            },
+            {
+              "en": "He played the main role.",
+              "zh": "他出演了主角。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "a story performed on a stage",
+      "zh_definition": "在舞台上演出的故事",
+      "usages": [
+        {
+          "usage_label": "戏剧",
+          "collocations": [
+            {
+              "phrase": "watch a play",
+              "translation": "看戏"
+            },
+            {
+              "phrase": "a school play",
+              "translation": "学校话剧"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We watched a play last night.",
+              "zh": "我们昨晚看了一出戏。"
+            },
+            {
+              "en": "The school play was funny.",
+              "zh": "学校话剧很有趣。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to make recorded sound or video start",
+      "zh_definition": "让录制的声音或视频开始播放",
+      "usages": [
+        {
+          "usage_label": "播放",
+          "collocations": [
+            {
+              "phrase": "play music",
+              "translation": "播放音乐"
+            },
+            {
+              "phrase": "play a video",
+              "translation": "播放视频"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please play the song.",
+              "zh": "请播放这首歌。"
+            },
+            {
+              "en": "The video played twice.",
+              "zh": "这个视频播放了两次。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

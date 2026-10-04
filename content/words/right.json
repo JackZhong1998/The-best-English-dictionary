@@ -1,0 +1,226 @@
+{
+  "word": "right",
+  "phonetic": "/raɪt/",
+  "syllables": [
+    "right"
+  ],
+  "pos": [
+    "adj.",
+    "n.",
+    "adv."
+  ],
+  "core_meanings": [
+    "正确",
+    "右边",
+    "权利",
+    "立刻"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "correct or true",
+      "zh_definition": "正确或符合事实",
+      "usages": [
+        {
+          "usage_label": "正确的",
+          "collocations": [
+            {
+              "phrase": "right answer",
+              "translation": "正确答案"
+            },
+            {
+              "phrase": "get it right",
+              "translation": "答对"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Your answer is right.",
+              "zh": "你的答案是对的。"
+            },
+            {
+              "en": "I got it right.",
+              "zh": "我答对了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "on the side opposite the left",
+      "zh_definition": "在左侧相反的一边",
+      "usages": [
+        {
+          "usage_label": "右边的",
+          "collocations": [
+            {
+              "phrase": "right hand",
+              "translation": "右手"
+            },
+            {
+              "phrase": "right side",
+              "translation": "右侧"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Raise your right hand.",
+              "zh": "举起你的右手。"
+            },
+            {
+              "en": "The shop is on the right side.",
+              "zh": "商店在右边。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "something you are allowed to do or have",
+      "zh_definition": "被允许做或拥有的事",
+      "usages": [
+        {
+          "usage_label": "权利",
+          "collocations": [
+            {
+              "phrase": "have the right",
+              "translation": "有权利"
+            },
+            {
+              "phrase": "human rights",
+              "translation": "人权"
+            }
+          ],
+          "examples": [
+            {
+              "en": "You have the right to ask.",
+              "zh": "你有权提问。"
+            },
+            {
+              "en": "Everyone has basic rights.",
+              "zh": "每个人都有基本权利。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "adv.",
+      "en_definition": "immediately or exactly",
+      "zh_definition": "立刻或恰好",
+      "usages": [
+        {
+          "usage_label": "立刻或正好",
+          "collocations": [
+            {
+              "phrase": "right now",
+              "translation": "现在立刻"
+            },
+            {
+              "phrase": "right here",
+              "translation": "就在这里"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Come here right now.",
+              "zh": "现在立刻过来。"
+            },
+            {
+              "en": "The key is right here.",
+              "zh": "钥匙就在这里。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "the direction opposite left",
+      "zh_definition": "与左相反的方向",
+      "usages": [
+        {
+          "usage_label": "右方",
+          "collocations": [
+            {
+              "phrase": "turn right",
+              "translation": "向右转"
+            },
+            {
+              "phrase": "on the right",
+              "translation": "在右边"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Turn right at the corner.",
+              "zh": "在路口右转。"
+            },
+            {
+              "en": "The bank is on the right.",
+              "zh": "银行在右边。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "adj.",
+      "en_definition": "suitable for a purpose or person",
+      "zh_definition": "适合某用途或某人的",
+      "usages": [
+        {
+          "usage_label": "合适的",
+          "collocations": [
+            {
+              "phrase": "right size",
+              "translation": "合适的尺码"
+            },
+            {
+              "phrase": "right time",
+              "translation": "合适的时间"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This is the right size.",
+              "zh": "这是合适的尺码。"
+            },
+            {
+              "en": "Now is the right time.",
+              "zh": "现在是合适的时间。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

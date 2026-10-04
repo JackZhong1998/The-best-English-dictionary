@@ -1,0 +1,224 @@
+{
+  "word": "call",
+  "phonetic": "/kɔːl/",
+  "syllables": [
+    "call"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "呼叫",
+    "称作",
+    "电话"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to speak loudly to someone",
+      "zh_definition": "大声呼唤某人",
+      "usages": [
+        {
+          "usage_label": "喊叫或呼唤",
+          "collocations": [
+            {
+              "phrase": "call my name",
+              "translation": "喊我的名字"
+            },
+            {
+              "phrase": "call for help",
+              "translation": "呼救"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She called my name.",
+              "zh": "她喊了我的名字。"
+            },
+            {
+              "en": "He called for help.",
+              "zh": "他大声呼救。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to contact someone by phone",
+      "zh_definition": "通过电话联系某人",
+      "usages": [
+        {
+          "usage_label": "打电话",
+          "collocations": [
+            {
+              "phrase": "call a friend",
+              "translation": "给朋友打电话"
+            },
+            {
+              "phrase": "call back",
+              "translation": "回电话"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I called my mother.",
+              "zh": "我给妈妈打了电话。"
+            },
+            {
+              "en": "Please call me back.",
+              "zh": "请给我回电话。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to give someone or something a name",
+      "zh_definition": "给人或物起称呼",
+      "usages": [
+        {
+          "usage_label": "称作",
+          "collocations": [
+            {
+              "phrase": "call him Tom",
+              "translation": "叫他汤姆"
+            },
+            {
+              "phrase": "call it a mistake",
+              "translation": "称之为错误"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They call him Jack.",
+              "zh": "他们叫他杰克。"
+            },
+            {
+              "en": "I call this a success.",
+              "zh": "我认为这算成功。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a phone conversation",
+      "zh_definition": "一次电话交谈",
+      "usages": [
+        {
+          "usage_label": "一通电话",
+          "collocations": [
+            {
+              "phrase": "make a call",
+              "translation": "打电话"
+            },
+            {
+              "phrase": "miss a call",
+              "translation": "错过来电"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I got a call from Dad.",
+              "zh": "我接到了爸爸的电话。"
+            },
+            {
+              "en": "She missed my call.",
+              "zh": "她没接到我的电话。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to cancel a planned event",
+      "zh_definition": "取消计划好的活动",
+      "usages": [
+        {
+          "usage_label": "取消",
+          "collocations": [
+            {
+              "phrase": "call off a game",
+              "translation": "取消比赛"
+            },
+            {
+              "phrase": "call off a meeting",
+              "translation": "取消会议"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They called off the game.",
+              "zh": "他们取消了比赛。"
+            },
+            {
+              "en": "We called off the meeting.",
+              "zh": "我们取消了会议。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to need or demand something",
+      "zh_definition": "需要某物",
+      "usages": [
+        {
+          "usage_label": "需要",
+          "collocations": [
+            {
+              "phrase": "call for help",
+              "translation": "需要帮助"
+            },
+            {
+              "phrase": "call for action",
+              "translation": "要求行动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This job calls for patience.",
+              "zh": "这份工作需要耐心。"
+            },
+            {
+              "en": "The problem calls for action.",
+              "zh": "这个问题需要采取行动。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

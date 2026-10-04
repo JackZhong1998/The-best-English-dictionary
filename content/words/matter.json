@@ -1,0 +1,157 @@
+{
+  "word": "matter",
+  "phonetic": "/ˈmætər/",
+  "syllables": [
+    "mat",
+    "ter"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "重要",
+    "事情",
+    "物质"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to be important",
+      "zh_definition": "具有重要性",
+      "usages": [
+        {
+          "usage_label": "重要或有关系",
+          "collocations": [
+            {
+              "phrase": "matter a lot",
+              "translation": "很重要"
+            },
+            {
+              "phrase": "does it matter",
+              "translation": "这重要吗"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Your words matter.",
+              "zh": "你的话很重要。"
+            },
+            {
+              "en": "It does not matter now.",
+              "zh": "现在这不重要。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a subject or situation",
+      "zh_definition": "需要谈论或处理的事情",
+      "usages": [
+        {
+          "usage_label": "事情或问题",
+          "collocations": [
+            {
+              "phrase": "a serious matter",
+              "translation": "严重的事情"
+            },
+            {
+              "phrase": "discuss the matter",
+              "translation": "讨论此事"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This is a serious matter.",
+              "zh": "这是一件严重的事情。"
+            },
+            {
+              "en": "We discussed the matter.",
+              "zh": "我们讨论了这件事。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "physical material",
+      "zh_definition": "有形的物质",
+      "usages": [
+        {
+          "usage_label": "物质",
+          "collocations": [
+            {
+              "phrase": "living matter",
+              "translation": "有生命的物质"
+            },
+            {
+              "phrase": "solid matter",
+              "translation": "固体物质"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Air is matter.",
+              "zh": "空气是物质。"
+            },
+            {
+              "en": "Water is matter too.",
+              "zh": "水也是物质。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a problem or difficulty",
+      "zh_definition": "出了问题的状况",
+      "usages": [
+        {
+          "usage_label": "麻烦或问题",
+          "collocations": [
+            {
+              "phrase": "what's the matter",
+              "translation": "怎么了"
+            },
+            {
+              "phrase": "the matter with",
+              "translation": "……的问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "What's the matter?",
+              "zh": "怎么了？"
+            },
+            {
+              "en": "What's the matter with your phone?",
+              "zh": "你的手机怎么了？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

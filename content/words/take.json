@@ -1,0 +1,360 @@
+{
+  "word": "take",
+  "phonetic": "/teɪk/",
+  "syllables": [
+    "take"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "拿",
+    "乘坐",
+    "花费",
+    "接受"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to pick up and carry something",
+      "zh_definition": "拿起并带走某物",
+      "usages": [
+        {
+          "usage_label": "拿或带走",
+          "collocations": [
+            {
+              "phrase": "take a bag",
+              "translation": "拿一个包"
+            },
+            {
+              "phrase": "take it home",
+              "translation": "把它带回家"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Take your bag with you.",
+              "zh": "带上你的包。"
+            },
+            {
+              "en": "She took the book home.",
+              "zh": "她把书带回家了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to travel by a form of transport",
+      "zh_definition": "乘坐某种交通工具",
+      "usages": [
+        {
+          "usage_label": "乘坐",
+          "collocations": [
+            {
+              "phrase": "take a bus",
+              "translation": "坐公交车"
+            },
+            {
+              "phrase": "take a train",
+              "translation": "坐火车"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I take the bus to school.",
+              "zh": "我坐公交车上学。"
+            },
+            {
+              "en": "We took a train yesterday.",
+              "zh": "我们昨天坐了火车。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to need a period of time",
+      "zh_definition": "需要一段时间",
+      "usages": [
+        {
+          "usage_label": "花费时间",
+          "collocations": [
+            {
+              "phrase": "take an hour",
+              "translation": "花一小时"
+            },
+            {
+              "phrase": "take time",
+              "translation": "花时间"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The trip takes an hour.",
+              "zh": "这段旅程要花一小时。"
+            },
+            {
+              "en": "This work takes time.",
+              "zh": "这项工作需要时间。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to accept or receive something",
+      "zh_definition": "接受或收到某物",
+      "usages": [
+        {
+          "usage_label": "接受",
+          "collocations": [
+            {
+              "phrase": "take a gift",
+              "translation": "接受礼物"
+            },
+            {
+              "phrase": "take advice",
+              "translation": "听取建议"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She took the gift.",
+              "zh": "她收下了礼物。"
+            },
+            {
+              "en": "I took his advice.",
+              "zh": "我听取了他的建议。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to remove clothing from the body",
+      "zh_definition": "从身上脱下衣物",
+      "usages": [
+        {
+          "usage_label": "脱下",
+          "collocations": [
+            {
+              "phrase": "take off a coat",
+              "translation": "脱下外套"
+            },
+            {
+              "phrase": "take off shoes",
+              "translation": "脱鞋"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please take off your coat.",
+              "zh": "请脱下外套。"
+            },
+            {
+              "en": "He took off his shoes.",
+              "zh": "他脱下了鞋。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to leave the ground and begin to fly",
+      "zh_definition": "离开地面开始飞行",
+      "usages": [
+        {
+          "usage_label": "起飞",
+          "collocations": [
+            {
+              "phrase": "a plane takes off",
+              "translation": "飞机起飞"
+            },
+            {
+              "phrase": "take off on time",
+              "translation": "准时起飞"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The plane took off at noon.",
+              "zh": "飞机中午起飞了。"
+            },
+            {
+              "en": "Our flight took off late.",
+              "zh": "我们的航班起飞晚了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 7,
+      "part_of_speech": "v.",
+      "en_definition": "to remove something from a place",
+      "zh_definition": "把某物从某处移走",
+      "usages": [
+        {
+          "usage_label": "拿走",
+          "collocations": [
+            {
+              "phrase": "take away a plate",
+              "translation": "拿走盘子"
+            },
+            {
+              "phrase": "take away rubbish",
+              "translation": "带走垃圾"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please take away the plates.",
+              "zh": "请把盘子拿走。"
+            },
+            {
+              "en": "He took the rubbish away.",
+              "zh": "他把垃圾带走了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 8,
+      "part_of_speech": "v.",
+      "en_definition": "to gain control of something",
+      "zh_definition": "取得某物的控制权",
+      "usages": [
+        {
+          "usage_label": "接管",
+          "collocations": [
+            {
+              "phrase": "take over a business",
+              "translation": "接管企业"
+            },
+            {
+              "phrase": "take over a job",
+              "translation": "接手工作"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She took over the shop.",
+              "zh": "她接管了商店。"
+            },
+            {
+              "en": "I took over his job.",
+              "zh": "我接手了他的工作。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 9,
+      "part_of_speech": "v.",
+      "en_definition": "to happen",
+      "zh_definition": "发生",
+      "usages": [
+        {
+          "usage_label": "发生",
+          "collocations": [
+            {
+              "phrase": "take place today",
+              "translation": "今天发生"
+            },
+            {
+              "phrase": "take place here",
+              "translation": "在这里举行"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The meeting takes place today.",
+              "zh": "会议今天举行。"
+            },
+            {
+              "en": "The event took place here.",
+              "zh": "活动在这里举行。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 10,
+      "part_of_speech": "v.",
+      "en_definition": "to look after someone or something",
+      "zh_definition": "照顾某人或某物",
+      "usages": [
+        {
+          "usage_label": "照顾",
+          "collocations": [
+            {
+              "phrase": "take care of a child",
+              "translation": "照顾孩子"
+            },
+            {
+              "phrase": "take care of a pet",
+              "translation": "照顾宠物"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She takes care of her son.",
+              "zh": "她照顾儿子。"
+            },
+            {
+              "en": "I take care of the cat.",
+              "zh": "我照顾这只猫。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

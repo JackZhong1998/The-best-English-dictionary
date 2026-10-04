@@ -1,0 +1,190 @@
+{
+  "word": "change",
+  "phonetic": "/tʃeɪndʒ/",
+  "syllables": [
+    "change"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "改变",
+    "更换",
+    "零钱"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to become different",
+      "zh_definition": "变得不同",
+      "usages": [
+        {
+          "usage_label": "发生变化",
+          "collocations": [
+            {
+              "phrase": "change quickly",
+              "translation": "迅速变化"
+            },
+            {
+              "phrase": "change over time",
+              "translation": "随时间变化"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The weather changed fast.",
+              "zh": "天气变得很快。"
+            },
+            {
+              "en": "People change over time.",
+              "zh": "人会随着时间改变。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to replace one thing with another",
+      "zh_definition": "用另一物替换",
+      "usages": [
+        {
+          "usage_label": "更换",
+          "collocations": [
+            {
+              "phrase": "change clothes",
+              "translation": "换衣服"
+            },
+            {
+              "phrase": "change a plan",
+              "translation": "改变计划"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I changed my shirt.",
+              "zh": "我换了衬衫。"
+            },
+            {
+              "en": "We changed our plan.",
+              "zh": "我们改了计划。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a difference from what was before",
+      "zh_definition": "与以前相比的差异",
+      "usages": [
+        {
+          "usage_label": "变化",
+          "collocations": [
+            {
+              "phrase": "a big change",
+              "translation": "巨大的变化"
+            },
+            {
+              "phrase": "make a change",
+              "translation": "作出改变"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This is a big change.",
+              "zh": "这是一个很大的变化。"
+            },
+            {
+              "en": "We need a change.",
+              "zh": "我们需要改变。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "coins or money returned after payment",
+      "zh_definition": "硬币或付款后找回的钱",
+      "usages": [
+        {
+          "usage_label": "零钱或找零",
+          "collocations": [
+            {
+              "phrase": "small change",
+              "translation": "零钱"
+            },
+            {
+              "phrase": "keep the change",
+              "translation": "不用找零"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Do you have any change?",
+              "zh": "你有零钱吗？"
+            },
+            {
+              "en": "You can keep the change.",
+              "zh": "不用找零了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to start believing or deciding something different",
+      "zh_definition": "改变原先的想法或决定",
+      "usages": [
+        {
+          "usage_label": "改变主意",
+          "collocations": [
+            {
+              "phrase": "change your mind",
+              "translation": "改变主意"
+            },
+            {
+              "phrase": "change a decision",
+              "translation": "改变决定"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I changed my mind.",
+              "zh": "我改变了主意。"
+            },
+            {
+              "en": "She changed her decision.",
+              "zh": "她改变了决定。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

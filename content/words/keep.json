@@ -1,0 +1,189 @@
+{
+  "word": "keep",
+  "phonetic": "/kiːp/",
+  "syllables": [
+    "keep"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "保留",
+    "保持",
+    "继续"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to have and not give away",
+      "zh_definition": "保有而不交出",
+      "usages": [
+        {
+          "usage_label": "保留",
+          "collocations": [
+            {
+              "phrase": "keep a book",
+              "translation": "留着一本书"
+            },
+            {
+              "phrase": "keep the change",
+              "translation": "不用找零"
+            }
+          ],
+          "examples": [
+            {
+              "en": "You can keep this book.",
+              "zh": "这本书你可以留着。"
+            },
+            {
+              "en": "Please keep the change.",
+              "zh": "请不用找零。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to remain in a state",
+      "zh_definition": "维持某种状态",
+      "usages": [
+        {
+          "usage_label": "保持",
+          "collocations": [
+            {
+              "phrase": "keep calm",
+              "translation": "保持冷静"
+            },
+            {
+              "phrase": "keep warm",
+              "translation": "保暖"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Keep calm, please.",
+              "zh": "请保持冷静。"
+            },
+            {
+              "en": "This coat keeps me warm.",
+              "zh": "这件外套让我暖和。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to continue doing something",
+      "zh_definition": "继续做某事",
+      "usages": [
+        {
+          "usage_label": "继续",
+          "collocations": [
+            {
+              "phrase": "keep going",
+              "translation": "继续前进"
+            },
+            {
+              "phrase": "keep trying",
+              "translation": "继续尝试"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Keep going!",
+              "zh": "继续加油！"
+            },
+            {
+              "en": "She kept trying.",
+              "zh": "她一直在尝试。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to store something for later use",
+      "zh_definition": "保存某物以备以后使用",
+      "usages": [
+        {
+          "usage_label": "存放或保存",
+          "collocations": [
+            {
+              "phrase": "keep food fresh",
+              "translation": "保持食物新鲜"
+            },
+            {
+              "phrase": "keep a record",
+              "translation": "保存记录"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I keep milk in the fridge.",
+              "zh": "我把牛奶放在冰箱里。"
+            },
+            {
+              "en": "We keep a record of sales.",
+              "zh": "我们保存销售记录。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to continue at the same level or speed",
+      "zh_definition": "保持同样的水平或速度",
+      "usages": [
+        {
+          "usage_label": "跟上",
+          "collocations": [
+            {
+              "phrase": "keep up",
+              "translation": "跟上"
+            },
+            {
+              "phrase": "keep up with",
+              "translation": "跟上……"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Keep up with the class.",
+              "zh": "跟上全班进度。"
+            },
+            {
+              "en": "I can't keep up.",
+              "zh": "我跟不上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

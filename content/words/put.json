@@ -1,0 +1,224 @@
+{
+  "word": "put",
+  "phonetic": "/pʊt/",
+  "syllables": [
+    "put"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "放",
+    "表达",
+    "推迟",
+    "穿上"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to place something somewhere",
+      "zh_definition": "把某物放在某处",
+      "usages": [
+        {
+          "usage_label": "放置",
+          "collocations": [
+            {
+              "phrase": "put a book on the table",
+              "translation": "把书放在桌上"
+            },
+            {
+              "phrase": "put away",
+              "translation": "收起来"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Put the cup here.",
+              "zh": "把杯子放在这里。"
+            },
+            {
+              "en": "She put away her toys.",
+              "zh": "她收起了玩具。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to express something in words",
+      "zh_definition": "用语言表达某事",
+      "usages": [
+        {
+          "usage_label": "表达",
+          "collocations": [
+            {
+              "phrase": "put it simply",
+              "translation": "简单地说"
+            },
+            {
+              "phrase": "put into words",
+              "translation": "用语言表达"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Let me put it simply.",
+              "zh": "让我简单地说。"
+            },
+            {
+              "en": "I can't put it into words.",
+              "zh": "我无法用语言表达。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to move an event to a later time",
+      "zh_definition": "把活动移到较晚时间",
+      "usages": [
+        {
+          "usage_label": "推迟",
+          "collocations": [
+            {
+              "phrase": "put off a meeting",
+              "translation": "推迟会议"
+            },
+            {
+              "phrase": "put off work",
+              "translation": "推迟工作"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We put off the meeting.",
+              "zh": "我们推迟了会议。"
+            },
+            {
+              "en": "She put off her trip.",
+              "zh": "她推迟了旅行。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to place clothing on your body",
+      "zh_definition": "把衣物穿到身上",
+      "usages": [
+        {
+          "usage_label": "穿上",
+          "collocations": [
+            {
+              "phrase": "put on a coat",
+              "translation": "穿上外套"
+            },
+            {
+              "phrase": "put on shoes",
+              "translation": "穿鞋"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Put on your coat.",
+              "zh": "穿上你的外套。"
+            },
+            {
+              "en": "He put on his shoes.",
+              "zh": "他穿上了鞋。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to connect someone to another person by phone",
+      "zh_definition": "通过电话把某人与另一个人接通",
+      "usages": [
+        {
+          "usage_label": "电话转接",
+          "collocations": [
+            {
+              "phrase": "put someone through",
+              "translation": "给某人转接"
+            },
+            {
+              "phrase": "put me through",
+              "translation": "给我转接"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please put me through to Amy.",
+              "zh": "请帮我转接给艾米。"
+            },
+            {
+              "en": "The operator put us through.",
+              "zh": "接线员帮我们接通了电话。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to accept an unpleasant thing",
+      "zh_definition": "忍受不愉快的事",
+      "usages": [
+        {
+          "usage_label": "忍受",
+          "collocations": [
+            {
+              "phrase": "put up with noise",
+              "translation": "忍受噪音"
+            },
+            {
+              "phrase": "put up with pain",
+              "translation": "忍受疼痛"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I can't put up with this noise.",
+              "zh": "我受不了这噪音。"
+            },
+            {
+              "en": "She put up with the pain.",
+              "zh": "她忍受了疼痛。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

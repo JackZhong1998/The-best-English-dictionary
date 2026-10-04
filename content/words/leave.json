@@ -1,0 +1,190 @@
+{
+  "word": "leave",
+  "phonetic": "/liːv/",
+  "syllables": [
+    "leave"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "离开",
+    "留下",
+    "假期"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to go away from a place",
+      "zh_definition": "从某地离开",
+      "usages": [
+        {
+          "usage_label": "离开",
+          "collocations": [
+            {
+              "phrase": "leave home",
+              "translation": "离家"
+            },
+            {
+              "phrase": "leave early",
+              "translation": "早走"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She left home at eight.",
+              "zh": "她八点离开家。"
+            },
+            {
+              "en": "The train leaves soon.",
+              "zh": "火车快开了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to put something somewhere and go away",
+      "zh_definition": "把某物放在某处后离开",
+      "usages": [
+        {
+          "usage_label": "留下或遗忘",
+          "collocations": [
+            {
+              "phrase": "leave a bag",
+              "translation": "留下包"
+            },
+            {
+              "phrase": "leave keys at home",
+              "translation": "把钥匙落在家里"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I left my bag on the bus.",
+              "zh": "我把包落在公交车上了。"
+            },
+            {
+              "en": "Please leave the book here.",
+              "zh": "请把书留在这里。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to allow something to stay as it is",
+      "zh_definition": "让某物保持原样",
+      "usages": [
+        {
+          "usage_label": "留着不动",
+          "collocations": [
+            {
+              "phrase": "leave it alone",
+              "translation": "别碰它"
+            },
+            {
+              "phrase": "leave the door open",
+              "translation": "让门开着"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Leave the door open.",
+              "zh": "让门开着。"
+            },
+            {
+              "en": "Please leave me alone.",
+              "zh": "请让我一个人待着。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "time away from work with permission",
+      "zh_definition": "经允许离开工作的时间",
+      "usages": [
+        {
+          "usage_label": "休假",
+          "collocations": [
+            {
+              "phrase": "take leave",
+              "translation": "请假"
+            },
+            {
+              "phrase": "on leave",
+              "translation": "在休假"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She is on leave this week.",
+              "zh": "她这周在休假。"
+            },
+            {
+              "en": "He took leave for two days.",
+              "zh": "他请了两天假。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to not include someone or something",
+      "zh_definition": "没有把人或物算进去",
+      "usages": [
+        {
+          "usage_label": "遗漏",
+          "collocations": [
+            {
+              "phrase": "leave out a word",
+              "translation": "漏掉一个词"
+            },
+            {
+              "phrase": "leave someone out",
+              "translation": "不让某人参与"
+            }
+          ],
+          "examples": [
+            {
+              "en": "You left out one word.",
+              "zh": "你漏掉了一个词。"
+            },
+            {
+              "en": "They left me out.",
+              "zh": "他们没有让我参加。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

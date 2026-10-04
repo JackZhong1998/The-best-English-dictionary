@@ -1,0 +1,224 @@
+{
+  "word": "break",
+  "phonetic": "/breɪk/",
+  "syllables": [
+    "break"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "打破",
+    "中断",
+    "休息"
+  ],
+  "etymology": "",
+  "semantic_shift": "从“分开”延伸到状态或过程的中断。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to separate into pieces",
+      "zh_definition": "使某物分成碎片",
+      "usages": [
+        {
+          "usage_label": "打破或弄坏物品",
+          "collocations": [
+            {
+              "phrase": "break a cup",
+              "translation": "打碎杯子"
+            },
+            {
+              "phrase": "break a window",
+              "translation": "打破窗户"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I broke a glass.",
+              "zh": "我打碎了一个玻璃杯。"
+            },
+            {
+              "en": "The toy broke yesterday.",
+              "zh": "玩具昨天坏了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to stop for a short time",
+      "zh_definition": "短时间停止",
+      "usages": [
+        {
+          "usage_label": "中断活动或规则",
+          "collocations": [
+            {
+              "phrase": "break a rule",
+              "translation": "违反规则"
+            },
+            {
+              "phrase": "break the silence",
+              "translation": "打破沉默"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please do not break the rules.",
+              "zh": "请不要违反规则。"
+            },
+            {
+              "en": "A loud sound broke the silence.",
+              "zh": "一声巨响打破了寂静。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to stop working properly",
+      "zh_definition": "停止正常工作",
+      "usages": [
+        {
+          "usage_label": "机器或身体部位坏掉",
+          "collocations": [
+            {
+              "phrase": "break down",
+              "translation": "出故障"
+            },
+            {
+              "phrase": "break a leg",
+              "translation": "摔断腿"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our car broke down.",
+              "zh": "我们的车坏了。"
+            },
+            {
+              "en": "He broke his arm.",
+              "zh": "他摔断了胳膊。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a short rest from work or study",
+      "zh_definition": "工作或学习之间的短暂休息",
+      "usages": [
+        {
+          "usage_label": "休息一会儿",
+          "collocations": [
+            {
+              "phrase": "take a break",
+              "translation": "休息一下"
+            },
+            {
+              "phrase": "coffee break",
+              "translation": "喝咖啡的休息时间"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Let's take a break.",
+              "zh": "我们休息一下吧。"
+            },
+            {
+              "en": "I need a short break.",
+              "zh": "我需要短暂休息。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to end a relationship",
+      "zh_definition": "结束一段关系",
+      "usages": [
+        {
+          "usage_label": "分手",
+          "collocations": [
+            {
+              "phrase": "break up",
+              "translation": "分手"
+            },
+            {
+              "phrase": "break up with someone",
+              "translation": "和某人分手"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They broke up last month.",
+              "zh": "他们上个月分手了。"
+            },
+            {
+              "en": "She broke up with Tom.",
+              "zh": "她和汤姆分手了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to enter a place by force",
+      "zh_definition": "强行进入某处",
+      "usages": [
+        {
+          "usage_label": "闯入",
+          "collocations": [
+            {
+              "phrase": "break into a house",
+              "translation": "闯入房屋"
+            },
+            {
+              "phrase": "break in",
+              "translation": "强行进入"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Someone broke into our house.",
+              "zh": "有人闯进了我们家。"
+            },
+            {
+              "en": "A thief broke in last night.",
+              "zh": "昨晚有小偷闯入。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

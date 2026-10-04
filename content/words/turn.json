@@ -1,0 +1,293 @@
+{
+  "word": "turn",
+  "phonetic": "/tɜːrn/",
+  "syllables": [
+    "turn"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "转动",
+    "转向",
+    "轮次",
+    "变成"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move around a central point",
+      "zh_definition": "围绕中心旋转",
+      "usages": [
+        {
+          "usage_label": "转动",
+          "collocations": [
+            {
+              "phrase": "turn a key",
+              "translation": "转钥匙"
+            },
+            {
+              "phrase": "turn a wheel",
+              "translation": "转车轮"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Turn the key slowly.",
+              "zh": "慢慢转动钥匙。"
+            },
+            {
+              "en": "The wheel turns fast.",
+              "zh": "轮子转得很快。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to change direction",
+      "zh_definition": "改变前进方向",
+      "usages": [
+        {
+          "usage_label": "转向",
+          "collocations": [
+            {
+              "phrase": "turn left",
+              "translation": "向左转"
+            },
+            {
+              "phrase": "turn around",
+              "translation": "转身"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Turn left at the bank.",
+              "zh": "在银行那里左转。"
+            },
+            {
+              "en": "She turned around quickly.",
+              "zh": "她迅速转过身。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to become a new color or state",
+      "zh_definition": "变成新的颜色或状态",
+      "usages": [
+        {
+          "usage_label": "变成",
+          "collocations": [
+            {
+              "phrase": "turn red",
+              "translation": "变红"
+            },
+            {
+              "phrase": "turn cold",
+              "translation": "变冷"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The leaves turn red in fall.",
+              "zh": "树叶在秋天变红。"
+            },
+            {
+              "en": "The water turned cold.",
+              "zh": "水变凉了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a chance to do something in a sequence",
+      "zh_definition": "轮到做某事的机会",
+      "usages": [
+        {
+          "usage_label": "轮次",
+          "collocations": [
+            {
+              "phrase": "your turn",
+              "translation": "轮到你"
+            },
+            {
+              "phrase": "take turns",
+              "translation": "轮流"
+            }
+          ],
+          "examples": [
+            {
+              "en": "It's your turn now.",
+              "zh": "现在轮到你了。"
+            },
+            {
+              "en": "We take turns at the game.",
+              "zh": "我们轮流玩这个游戏。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "a change in direction",
+      "zh_definition": "方向的一次改变",
+      "usages": [
+        {
+          "usage_label": "转弯",
+          "collocations": [
+            {
+              "phrase": "take a turn",
+              "translation": "转弯"
+            },
+            {
+              "phrase": "a sharp turn",
+              "translation": "急转弯"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Take the next turn.",
+              "zh": "在下一个路口转弯。"
+            },
+            {
+              "en": "The road has a sharp turn.",
+              "zh": "这条路有个急转弯。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to start a device or light",
+      "zh_definition": "启动设备或灯",
+      "usages": [
+        {
+          "usage_label": "打开",
+          "collocations": [
+            {
+              "phrase": "turn on a light",
+              "translation": "开灯"
+            },
+            {
+              "phrase": "turn on a TV",
+              "translation": "打开电视"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Turn on the light.",
+              "zh": "把灯打开。"
+            },
+            {
+              "en": "He turned on the TV.",
+              "zh": "他打开了电视。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 7,
+      "part_of_speech": "v.",
+      "en_definition": "to stop a device or light",
+      "zh_definition": "停止设备或灯",
+      "usages": [
+        {
+          "usage_label": "关掉",
+          "collocations": [
+            {
+              "phrase": "turn off a light",
+              "translation": "关灯"
+            },
+            {
+              "phrase": "turn off a phone",
+              "translation": "关手机"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please turn off the light.",
+              "zh": "请把灯关掉。"
+            },
+            {
+              "en": "She turned off her phone.",
+              "zh": "她关掉了手机。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 8,
+      "part_of_speech": "v.",
+      "en_definition": "to refuse an offer or request",
+      "zh_definition": "拒绝提议或请求",
+      "usages": [
+        {
+          "usage_label": "拒绝",
+          "collocations": [
+            {
+              "phrase": "turn down an offer",
+              "translation": "拒绝提议"
+            },
+            {
+              "phrase": "turn down a request",
+              "translation": "拒绝请求"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He turned down the offer.",
+              "zh": "他拒绝了那份提议。"
+            },
+            {
+              "en": "She turned down my request.",
+              "zh": "她拒绝了我的请求。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

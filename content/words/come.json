@@ -1,0 +1,223 @@
+{
+  "word": "come",
+  "phonetic": "/kʌm/",
+  "syllables": [
+    "come"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "来",
+    "到达",
+    "发生"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move toward the speaker or a place",
+      "zh_definition": "朝说话人或某地移动",
+      "usages": [
+        {
+          "usage_label": "来或到来",
+          "collocations": [
+            {
+              "phrase": "come here",
+              "translation": "到这里来"
+            },
+            {
+              "phrase": "come home",
+              "translation": "回家"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please come here.",
+              "zh": "请到这里来。"
+            },
+            {
+              "en": "She came home late.",
+              "zh": "她回家晚了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to reach a place or point",
+      "zh_definition": "到达某处或某阶段",
+      "usages": [
+        {
+          "usage_label": "到达",
+          "collocations": [
+            {
+              "phrase": "come first",
+              "translation": "获得第一"
+            },
+            {
+              "phrase": "come to an end",
+              "translation": "结束"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our team came first.",
+              "zh": "我们队得了第一。"
+            },
+            {
+              "en": "The show came to an end.",
+              "zh": "演出结束了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to happen or become available",
+      "zh_definition": "发生或出现",
+      "usages": [
+        {
+          "usage_label": "到来或出现",
+          "collocations": [
+            {
+              "phrase": "come soon",
+              "translation": "很快到来"
+            },
+            {
+              "phrase": "come up",
+              "translation": "出现"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Winter comes soon.",
+              "zh": "冬天快到了。"
+            },
+            {
+              "en": "A new problem came up.",
+              "zh": "出现了一个新问题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to go with someone",
+      "zh_definition": "与某人一起去",
+      "usages": [
+        {
+          "usage_label": "跟着来",
+          "collocations": [
+            {
+              "phrase": "come along",
+              "translation": "一起来"
+            },
+            {
+              "phrase": "come with me",
+              "translation": "跟我来"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Come along with us.",
+              "zh": "跟我们一起来吧。"
+            },
+            {
+              "en": "Can you come with me?",
+              "zh": "你能跟我一起来吗？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to return to a place",
+      "zh_definition": "回到某地",
+      "usages": [
+        {
+          "usage_label": "回来",
+          "collocations": [
+            {
+              "phrase": "come back soon",
+              "translation": "快点回来"
+            },
+            {
+              "phrase": "come back home",
+              "translation": "回家来"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please come back soon.",
+              "zh": "请快点回来。"
+            },
+            {
+              "en": "He came back at night.",
+              "zh": "他晚上回来了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to have a particular origin",
+      "zh_definition": "来自某个地方",
+      "usages": [
+        {
+          "usage_label": "来自",
+          "collocations": [
+            {
+              "phrase": "come from China",
+              "translation": "来自中国"
+            },
+            {
+              "phrase": "come from a farm",
+              "translation": "来自农场"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She comes from Shanghai.",
+              "zh": "她来自上海。"
+            },
+            {
+              "en": "This milk comes from a farm.",
+              "zh": "这牛奶来自一家农场。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

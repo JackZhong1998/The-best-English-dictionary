@@ -1,0 +1,257 @@
+{
+  "word": "go",
+  "phonetic": "/ɡoʊ/",
+  "syllables": [
+    "go"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "去",
+    "运行",
+    "变得"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move or travel to another place",
+      "zh_definition": "移动或前往另一个地方",
+      "usages": [
+        {
+          "usage_label": "去",
+          "collocations": [
+            {
+              "phrase": "go home",
+              "translation": "回家"
+            },
+            {
+              "phrase": "go to school",
+              "translation": "去学校"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I go to school by bus.",
+              "zh": "我坐公交车上学。"
+            },
+            {
+              "en": "Let's go home.",
+              "zh": "我们回家吧。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to leave a place",
+      "zh_definition": "离开某地",
+      "usages": [
+        {
+          "usage_label": "走或离开",
+          "collocations": [
+            {
+              "phrase": "go now",
+              "translation": "现在走"
+            },
+            {
+              "phrase": "go away",
+              "translation": "离开"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I must go now.",
+              "zh": "我现在必须走了。"
+            },
+            {
+              "en": "The bird went away.",
+              "zh": "鸟离开了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to happen in a particular way",
+      "zh_definition": "以某种方式进行",
+      "usages": [
+        {
+          "usage_label": "进展",
+          "collocations": [
+            {
+              "phrase": "go well",
+              "translation": "进展顺利"
+            },
+            {
+              "phrase": "go badly",
+              "translation": "进展不顺"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The meeting went well.",
+              "zh": "会议进行得很顺利。"
+            },
+            {
+              "en": "How did the exam go?",
+              "zh": "考试进行得怎么样？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to become or turn into a state",
+      "zh_definition": "进入某种状态",
+      "usages": [
+        {
+          "usage_label": "变得",
+          "collocations": [
+            {
+              "phrase": "go bad",
+              "translation": "变质"
+            },
+            {
+              "phrase": "go quiet",
+              "translation": "安静下来"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The milk went bad.",
+              "zh": "牛奶变质了。"
+            },
+            {
+              "en": "The room went quiet.",
+              "zh": "房间安静下来了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to be suitable or match",
+      "zh_definition": "适合或相配",
+      "usages": [
+        {
+          "usage_label": "搭配",
+          "collocations": [
+            {
+              "phrase": "go with",
+              "translation": "与……相配"
+            },
+            {
+              "phrase": "go together",
+              "translation": "搭配得好"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This shirt goes with your jeans.",
+              "zh": "这件衬衫和你的牛仔裤很搭。"
+            },
+            {
+              "en": "Red and white go together.",
+              "zh": "红色和白色很搭。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to continue or happen",
+      "zh_definition": "继续或进行",
+      "usages": [
+        {
+          "usage_label": "继续",
+          "collocations": [
+            {
+              "phrase": "go on",
+              "translation": "继续"
+            },
+            {
+              "phrase": "go on with work",
+              "translation": "继续工作"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The show went on.",
+              "zh": "演出继续了。"
+            },
+            {
+              "en": "Please go on with your work.",
+              "zh": "请继续你的工作。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 7,
+      "part_of_speech": "v.",
+      "en_definition": "to stop shining or working",
+      "zh_definition": "灯光或电源停止工作",
+      "usages": [
+        {
+          "usage_label": "熄灭",
+          "collocations": [
+            {
+              "phrase": "the lights go out",
+              "translation": "灯灭"
+            },
+            {
+              "phrase": "power goes out",
+              "translation": "停电"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The lights went out.",
+              "zh": "灯灭了。"
+            },
+            {
+              "en": "The power went out last night.",
+              "zh": "昨晚停电了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

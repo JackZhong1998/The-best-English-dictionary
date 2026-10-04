@@ -1,0 +1,190 @@
+{
+  "word": "cut",
+  "phonetic": "/kʌt/",
+  "syllables": [
+    "cut"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "切",
+    "减少",
+    "中断"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to divide something with a sharp tool",
+      "zh_definition": "用锋利工具切开某物",
+      "usages": [
+        {
+          "usage_label": "切或剪",
+          "collocations": [
+            {
+              "phrase": "cut bread",
+              "translation": "切面包"
+            },
+            {
+              "phrase": "cut hair",
+              "translation": "剪头发"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She cut the bread.",
+              "zh": "她切了面包。"
+            },
+            {
+              "en": "I cut my hair yesterday.",
+              "zh": "我昨天剪了头发。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make something shorter or smaller",
+      "zh_definition": "使某物变短或变少",
+      "usages": [
+        {
+          "usage_label": "削减",
+          "collocations": [
+            {
+              "phrase": "cut costs",
+              "translation": "降低成本"
+            },
+            {
+              "phrase": "cut the price",
+              "translation": "降价"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We need to cut costs.",
+              "zh": "我们需要降低成本。"
+            },
+            {
+              "en": "The shop cut the price.",
+              "zh": "商店降了价。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to interrupt or remove part of something",
+      "zh_definition": "中断或删去一部分",
+      "usages": [
+        {
+          "usage_label": "切断或删去",
+          "collocations": [
+            {
+              "phrase": "cut off power",
+              "translation": "切断电源"
+            },
+            {
+              "phrase": "cut a scene",
+              "translation": "删掉一个场景"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They cut off the power.",
+              "zh": "他们切断了电源。"
+            },
+            {
+              "en": "The editor cut the scene.",
+              "zh": "编辑删掉了那个场景。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a wound made by something sharp",
+      "zh_definition": "尖锐物体造成的伤口",
+      "usages": [
+        {
+          "usage_label": "伤口",
+          "collocations": [
+            {
+              "phrase": "a small cut",
+              "translation": "小伤口"
+            },
+            {
+              "phrase": "get a cut",
+              "translation": "划伤"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I have a cut on my hand.",
+              "zh": "我手上有一道伤口。"
+            },
+            {
+              "en": "The cut is not deep.",
+              "zh": "伤口不深。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to stop eating or using something",
+      "zh_definition": "停止食用或使用某物",
+      "usages": [
+        {
+          "usage_label": "戒掉或减少",
+          "collocations": [
+            {
+              "phrase": "cut out sugar",
+              "translation": "不吃糖"
+            },
+            {
+              "phrase": "cut out snacks",
+              "translation": "不吃零食"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I cut out sugar last month.",
+              "zh": "我上个月戒了糖。"
+            },
+            {
+              "en": "She cut out late snacks.",
+              "zh": "她不再吃夜宵了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

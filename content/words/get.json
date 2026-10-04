@@ -1,0 +1,360 @@
+{
+  "word": "get",
+  "phonetic": "/ɡet/",
+  "syllables": [
+    "get"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "得到",
+    "到达",
+    "变得",
+    "理解"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to receive or obtain something",
+      "zh_definition": "收到或得到某物",
+      "usages": [
+        {
+          "usage_label": "得到",
+          "collocations": [
+            {
+              "phrase": "get a gift",
+              "translation": "收到礼物"
+            },
+            {
+              "phrase": "get a job",
+              "translation": "找到工作"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I got a letter today.",
+              "zh": "我今天收到一封信。"
+            },
+            {
+              "en": "She got a new job.",
+              "zh": "她找到了一份新工作。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to reach a place",
+      "zh_definition": "到达某地",
+      "usages": [
+        {
+          "usage_label": "到达",
+          "collocations": [
+            {
+              "phrase": "get home",
+              "translation": "到家"
+            },
+            {
+              "phrase": "get to school",
+              "translation": "到学校"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We got home at six.",
+              "zh": "我们六点到家。"
+            },
+            {
+              "en": "How did you get here?",
+              "zh": "你怎么到这里的？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to become a particular way",
+      "zh_definition": "变成某种状态",
+      "usages": [
+        {
+          "usage_label": "变得",
+          "collocations": [
+            {
+              "phrase": "get tired",
+              "translation": "累了"
+            },
+            {
+              "phrase": "get cold",
+              "translation": "变冷"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I get tired after work.",
+              "zh": "我下班后会累。"
+            },
+            {
+              "en": "It gets cold at night.",
+              "zh": "晚上会变冷。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to understand something",
+      "zh_definition": "理解某事",
+      "usages": [
+        {
+          "usage_label": "明白",
+          "collocations": [
+            {
+              "phrase": "get the joke",
+              "translation": "听懂笑话"
+            },
+            {
+              "phrase": "get the idea",
+              "translation": "明白意思"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I don't get the joke.",
+              "zh": "我没听懂这个笑话。"
+            },
+            {
+              "en": "Now I get it.",
+              "zh": "现在我明白了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to bring or buy something for someone",
+      "zh_definition": "为某人拿来或购买某物",
+      "usages": [
+        {
+          "usage_label": "拿来或买来",
+          "collocations": [
+            {
+              "phrase": "get some water",
+              "translation": "拿些水"
+            },
+            {
+              "phrase": "get a ticket",
+              "translation": "买票"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can you get me some water?",
+              "zh": "你能给我拿些水吗？"
+            },
+            {
+              "en": "I got two tickets.",
+              "zh": "我买了两张票。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to leave a place or vehicle",
+      "zh_definition": "离开某地或交通工具",
+      "usages": [
+        {
+          "usage_label": "离开或下车",
+          "collocations": [
+            {
+              "phrase": "get out",
+              "translation": "出去"
+            },
+            {
+              "phrase": "get off the bus",
+              "translation": "下公交车"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We got off the bus.",
+              "zh": "我们下了公交车。"
+            },
+            {
+              "en": "Please get out now.",
+              "zh": "请现在出去。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 7,
+      "part_of_speech": "v.",
+      "en_definition": "to enter a vehicle",
+      "zh_definition": "进入交通工具",
+      "usages": [
+        {
+          "usage_label": "上车",
+          "collocations": [
+            {
+              "phrase": "get on the bus",
+              "translation": "上公交车"
+            },
+            {
+              "phrase": "get in a car",
+              "translation": "上汽车"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Get on the bus now.",
+              "zh": "现在上公交车。"
+            },
+            {
+              "en": "She got in the car.",
+              "zh": "她上了车。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 8,
+      "part_of_speech": "v.",
+      "en_definition": "to return to a place",
+      "zh_definition": "回到某地",
+      "usages": [
+        {
+          "usage_label": "回来",
+          "collocations": [
+            {
+              "phrase": "get back home",
+              "translation": "回到家"
+            },
+            {
+              "phrase": "get back soon",
+              "translation": "快点回来"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I got back late.",
+              "zh": "我回来晚了。"
+            },
+            {
+              "en": "When did you get back?",
+              "zh": "你什么时候回来的？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 9,
+      "part_of_speech": "v.",
+      "en_definition": "to recover from illness or trouble",
+      "zh_definition": "从疾病或困难中恢复",
+      "usages": [
+        {
+          "usage_label": "克服或恢复",
+          "collocations": [
+            {
+              "phrase": "get over a cold",
+              "translation": "感冒痊愈"
+            },
+            {
+              "phrase": "get over a loss",
+              "translation": "从失落中走出来"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She got over her cold.",
+              "zh": "她的感冒好了。"
+            },
+            {
+              "en": "He got over the loss.",
+              "zh": "他从失落中走了出来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 10,
+      "part_of_speech": "v.",
+      "en_definition": "to have a friendly relationship",
+      "zh_definition": "与人友好相处",
+      "usages": [
+        {
+          "usage_label": "相处融洽",
+          "collocations": [
+            {
+              "phrase": "get along well",
+              "translation": "相处得好"
+            },
+            {
+              "phrase": "get along with",
+              "translation": "与……相处"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They get along well.",
+              "zh": "他们相处得很好。"
+            },
+            {
+              "en": "I get along with my sister.",
+              "zh": "我和姐姐相处得很好。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

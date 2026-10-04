@@ -1,0 +1,224 @@
+{
+  "word": "hold",
+  "phonetic": "/hoʊld/",
+  "syllables": [
+    "hold"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "拿住",
+    "容纳",
+    "举办",
+    "保持"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to keep something in your hand",
+      "zh_definition": "用手拿住某物",
+      "usages": [
+        {
+          "usage_label": "握住或拿着",
+          "collocations": [
+            {
+              "phrase": "hold a cup",
+              "translation": "拿着杯子"
+            },
+            {
+              "phrase": "hold hands",
+              "translation": "牵手"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Hold my hand.",
+              "zh": "牵着我的手。"
+            },
+            {
+              "en": "She held a small box.",
+              "zh": "她拿着一个小盒子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to contain a number of people or things",
+      "zh_definition": "容纳一定数量的人或物",
+      "usages": [
+        {
+          "usage_label": "容纳",
+          "collocations": [
+            {
+              "phrase": "hold ten people",
+              "translation": "容纳十人"
+            },
+            {
+              "phrase": "hold water",
+              "translation": "盛水"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This room holds ten people.",
+              "zh": "这个房间容纳十人。"
+            },
+            {
+              "en": "The bottle holds one liter.",
+              "zh": "这个瓶子装一升。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to organize an event",
+      "zh_definition": "组织或举行活动",
+      "usages": [
+        {
+          "usage_label": "举办",
+          "collocations": [
+            {
+              "phrase": "hold a meeting",
+              "translation": "开会"
+            },
+            {
+              "phrase": "hold a party",
+              "translation": "举办聚会"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We held a meeting today.",
+              "zh": "我们今天开了会。"
+            },
+            {
+              "en": "They held a party last night.",
+              "zh": "他们昨晚举办了聚会。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to keep something in a state or position",
+      "zh_definition": "使某物维持状态或位置",
+      "usages": [
+        {
+          "usage_label": "保持",
+          "collocations": [
+            {
+              "phrase": "hold still",
+              "translation": "保持不动"
+            },
+            {
+              "phrase": "hold the door open",
+              "translation": "扶住门让其开着"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please hold still.",
+              "zh": "请别动。"
+            },
+            {
+              "en": "He held the door open.",
+              "zh": "他扶着门让它开着。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to wait for a short time",
+      "zh_definition": "短暂等待",
+      "usages": [
+        {
+          "usage_label": "稍等",
+          "collocations": [
+            {
+              "phrase": "hold on",
+              "translation": "稍等"
+            },
+            {
+              "phrase": "hold the line",
+              "translation": "别挂电话"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Hold on a minute.",
+              "zh": "稍等一分钟。"
+            },
+            {
+              "en": "Please hold the line.",
+              "zh": "请不要挂电话。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to keep someone or something from moving forward",
+      "zh_definition": "阻止人或物前进",
+      "usages": [
+        {
+          "usage_label": "阻挡",
+          "collocations": [
+            {
+              "phrase": "hold back tears",
+              "translation": "忍住眼泪"
+            },
+            {
+              "phrase": "hold back a crowd",
+              "translation": "拦住人群"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She held back her tears.",
+              "zh": "她忍住了眼泪。"
+            },
+            {
+              "en": "The fence held back the crowd.",
+              "zh": "栅栏挡住了人群。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

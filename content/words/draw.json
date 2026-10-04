@@ -1,0 +1,225 @@
+{
+  "word": "draw",
+  "phonetic": "/drɔː/",
+  "syllables": [
+    "draw"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "画",
+    "拉",
+    "吸引",
+    "平局"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to make a picture with a pen or pencil",
+      "zh_definition": "用笔画图",
+      "usages": [
+        {
+          "usage_label": "画画",
+          "collocations": [
+            {
+              "phrase": "draw a picture",
+              "translation": "画一幅画"
+            },
+            {
+              "phrase": "draw a map",
+              "translation": "画地图"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She drew a cat.",
+              "zh": "她画了一只猫。"
+            },
+            {
+              "en": "Please draw a line.",
+              "zh": "请画一条线。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to pull something toward you or in a direction",
+      "zh_definition": "将某物拉向自己或某方向",
+      "usages": [
+        {
+          "usage_label": "拉或拖",
+          "collocations": [
+            {
+              "phrase": "draw the curtains",
+              "translation": "拉窗帘"
+            },
+            {
+              "phrase": "draw a chair closer",
+              "translation": "把椅子拉近"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He drew the curtains.",
+              "zh": "他拉上了窗帘。"
+            },
+            {
+              "en": "She drew her chair closer.",
+              "zh": "她把椅子拉近了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to attract people or attention",
+      "zh_definition": "吸引人或注意力",
+      "usages": [
+        {
+          "usage_label": "吸引",
+          "collocations": [
+            {
+              "phrase": "draw a crowd",
+              "translation": "吸引人群"
+            },
+            {
+              "phrase": "draw attention",
+              "translation": "引起注意"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The music drew a crowd.",
+              "zh": "音乐吸引了一群人。"
+            },
+            {
+              "en": "The sign drew my attention.",
+              "zh": "标志引起了我的注意。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to take money from an account",
+      "zh_definition": "从账户取出钱",
+      "usages": [
+        {
+          "usage_label": "提取",
+          "collocations": [
+            {
+              "phrase": "draw money",
+              "translation": "取钱"
+            },
+            {
+              "phrase": "draw cash",
+              "translation": "提取现金"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I drew cash at the bank.",
+              "zh": "我在银行取了现金。"
+            },
+            {
+              "en": "She drew some money today.",
+              "zh": "她今天取了一些钱。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "a game with no winner",
+      "zh_definition": "没有赢家的比赛",
+      "usages": [
+        {
+          "usage_label": "平局",
+          "collocations": [
+            {
+              "phrase": "end in a draw",
+              "translation": "以平局结束"
+            },
+            {
+              "phrase": "a one-one draw",
+              "translation": "一比一平"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The game ended in a draw.",
+              "zh": "比赛以平局结束。"
+            },
+            {
+              "en": "It was a draw again.",
+              "zh": "又是一场平局。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to reach an idea after thinking",
+      "zh_definition": "思考后得出想法",
+      "usages": [
+        {
+          "usage_label": "得出结论",
+          "collocations": [
+            {
+              "phrase": "draw a conclusion",
+              "translation": "得出结论"
+            },
+            {
+              "phrase": "draw a lesson",
+              "translation": "吸取教训"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We drew a simple conclusion.",
+              "zh": "我们得出了一个简单的结论。"
+            },
+            {
+              "en": "She drew a lesson from it.",
+              "zh": "她从中吸取了教训。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "word": "move",
+  "phonetic": "/muːv/",
+  "syllables": [
+    "move"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "移动",
+    "搬家",
+    "感动",
+    "行动"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to change position or place",
+      "zh_definition": "改变位置或地点",
+      "usages": [
+        {
+          "usage_label": "移动",
+          "collocations": [
+            {
+              "phrase": "move a chair",
+              "translation": "移动椅子"
+            },
+            {
+              "phrase": "move slowly",
+              "translation": "慢慢移动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please move the chair.",
+              "zh": "请挪一下椅子。"
+            },
+            {
+              "en": "The car moved slowly.",
+              "zh": "车缓慢地移动。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to change your home",
+      "zh_definition": "更换住处",
+      "usages": [
+        {
+          "usage_label": "搬家",
+          "collocations": [
+            {
+              "phrase": "move house",
+              "translation": "搬家"
+            },
+            {
+              "phrase": "move to Beijing",
+              "translation": "搬到北京"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We moved last year.",
+              "zh": "我们去年搬家了。"
+            },
+            {
+              "en": "She moved to Beijing.",
+              "zh": "她搬到了北京。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to make someone feel a strong emotion",
+      "zh_definition": "使某人产生强烈感情",
+      "usages": [
+        {
+          "usage_label": "感动",
+          "collocations": [
+            {
+              "phrase": "move someone deeply",
+              "translation": "深深打动某人"
+            },
+            {
+              "phrase": "be moved by",
+              "translation": "被……感动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The story moved me.",
+              "zh": "这个故事打动了我。"
+            },
+            {
+              "en": "Her song moved us.",
+              "zh": "她的歌感动了我们。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "an action or a change of position",
+      "zh_definition": "一次动作或位置改变",
+      "usages": [
+        {
+          "usage_label": "动作或行动",
+          "collocations": [
+            {
+              "phrase": "make a move",
+              "translation": "采取行动"
+            },
+            {
+              "phrase": "next move",
+              "translation": "下一步行动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "It's your move now.",
+              "zh": "现在轮到你走棋了。"
+            },
+            {
+              "en": "We need to make a move.",
+              "zh": "我们需要采取行动。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to stop thinking about the past and continue",
+      "zh_definition": "不再停留于过去而继续前进",
+      "usages": [
+        {
+          "usage_label": "继续前进",
+          "collocations": [
+            {
+              "phrase": "move on",
+              "translation": "向前看"
+            },
+            {
+              "phrase": "move on from",
+              "translation": "走出……"
+            }
+          ],
+          "examples": [
+            {
+              "en": "It's time to move on.",
+              "zh": "该向前看了。"
+            },
+            {
+              "en": "She moved on after the loss.",
+              "zh": "失去之后她继续向前。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

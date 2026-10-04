@@ -1,0 +1,192 @@
+{
+  "word": "order",
+  "phonetic": "/ˈɔːrdər/",
+  "syllables": [
+    "or",
+    "der"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "顺序",
+    "命令",
+    "点餐",
+    "订单"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the arrangement of things in a sequence",
+      "zh_definition": "事物排列的先后方式",
+      "usages": [
+        {
+          "usage_label": "顺序",
+          "collocations": [
+            {
+              "phrase": "in order",
+              "translation": "按顺序"
+            },
+            {
+              "phrase": "word order",
+              "translation": "语序"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Put the numbers in order.",
+              "zh": "把数字按顺序排好。"
+            },
+            {
+              "en": "The words are in the wrong order.",
+              "zh": "这些词的顺序错了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to ask for food or goods",
+      "zh_definition": "要求提供食物或商品",
+      "usages": [
+        {
+          "usage_label": "点餐或订购",
+          "collocations": [
+            {
+              "phrase": "order lunch",
+              "translation": "点午餐"
+            },
+            {
+              "phrase": "order online",
+              "translation": "网上订购"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I ordered a sandwich.",
+              "zh": "我点了一个三明治。"
+            },
+            {
+              "en": "She ordered a book online.",
+              "zh": "她在网上订了一本书。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a request for food or goods",
+      "zh_definition": "购买食物或商品的请求",
+      "usages": [
+        {
+          "usage_label": "订单",
+          "collocations": [
+            {
+              "phrase": "place an order",
+              "translation": "下订单"
+            },
+            {
+              "phrase": "check an order",
+              "translation": "核对订单"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I placed an order yesterday.",
+              "zh": "我昨天下了订单。"
+            },
+            {
+              "en": "Your order is ready.",
+              "zh": "你的订单准备好了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to tell someone to do something with authority",
+      "zh_definition": "以权威口吻要求某人做事",
+      "usages": [
+        {
+          "usage_label": "命令",
+          "collocations": [
+            {
+              "phrase": "order someone to leave",
+              "translation": "命令某人离开"
+            },
+            {
+              "phrase": "order a stop",
+              "translation": "下令停止"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The teacher ordered us to stop.",
+              "zh": "老师命令我们停下。"
+            },
+            {
+              "en": "The officer ordered him to leave.",
+              "zh": "那名官员命令他离开。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "a state in which things are organized and controlled",
+      "zh_definition": "事物井然有序的状态",
+      "usages": [
+        {
+          "usage_label": "秩序",
+          "collocations": [
+            {
+              "phrase": "keep order",
+              "translation": "维持秩序"
+            },
+            {
+              "phrase": "in good order",
+              "translation": "井然有序"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The room is in good order.",
+              "zh": "房间井然有序。"
+            },
+            {
+              "en": "The teacher kept order in class.",
+              "zh": "老师维持了课堂秩序。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

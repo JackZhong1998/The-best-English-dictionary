@@ -1,0 +1,224 @@
+{
+  "word": "fall",
+  "phonetic": "/fɔːl/",
+  "syllables": [
+    "fall"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "落下",
+    "下降",
+    "秋天"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move down to the ground",
+      "zh_definition": "向下落到地面",
+      "usages": [
+        {
+          "usage_label": "掉落或摔倒",
+          "collocations": [
+            {
+              "phrase": "fall down",
+              "translation": "摔倒"
+            },
+            {
+              "phrase": "fall off a bike",
+              "translation": "从自行车上摔下"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The cup fell off the table.",
+              "zh": "杯子从桌上掉了下来。"
+            },
+            {
+              "en": "He fell on the ice.",
+              "zh": "他在冰上摔倒了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to become lower in amount or level",
+      "zh_definition": "数量或水平降低",
+      "usages": [
+        {
+          "usage_label": "下降",
+          "collocations": [
+            {
+              "phrase": "prices fall",
+              "translation": "价格下降"
+            },
+            {
+              "phrase": "fall sharply",
+              "translation": "急剧下降"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The price fell today.",
+              "zh": "价格今天下降了。"
+            },
+            {
+              "en": "Her voice fell to a whisper.",
+              "zh": "她的声音低成了耳语。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to enter a state or condition",
+      "zh_definition": "进入某种状态",
+      "usages": [
+        {
+          "usage_label": "进入某种状态",
+          "collocations": [
+            {
+              "phrase": "fall asleep",
+              "translation": "睡着"
+            },
+            {
+              "phrase": "fall ill",
+              "translation": "生病"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The baby fell asleep.",
+              "zh": "宝宝睡着了。"
+            },
+            {
+              "en": "He fell ill last week.",
+              "zh": "他上周生病了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "the season after summer",
+      "zh_definition": "夏季之后的季节",
+      "usages": [
+        {
+          "usage_label": "秋天",
+          "collocations": [
+            {
+              "phrase": "in the fall",
+              "translation": "在秋天"
+            },
+            {
+              "phrase": "last fall",
+              "translation": "去年秋天"
+            }
+          ],
+          "examples": [
+            {
+              "en": "School starts in the fall.",
+              "zh": "学校秋天开学。"
+            },
+            {
+              "en": "Last fall was warm.",
+              "zh": "去年秋天很暖和。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to fail to keep pace",
+      "zh_definition": "跟不上进度",
+      "usages": [
+        {
+          "usage_label": "落后",
+          "collocations": [
+            {
+              "phrase": "fall behind",
+              "translation": "落后"
+            },
+            {
+              "phrase": "fall behind in class",
+              "translation": "在课堂上落后"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He fell behind in class.",
+              "zh": "他在课堂上落后了。"
+            },
+            {
+              "en": "Our team fell behind early.",
+              "zh": "我们队早早落后了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to begin to love someone",
+      "zh_definition": "开始爱上某人",
+      "usages": [
+        {
+          "usage_label": "爱上",
+          "collocations": [
+            {
+              "phrase": "fall in love",
+              "translation": "恋爱"
+            },
+            {
+              "phrase": "fall in love with",
+              "translation": "爱上"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They fell in love.",
+              "zh": "他们相爱了。"
+            },
+            {
+              "en": "She fell in love with him.",
+              "zh": "她爱上了他。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

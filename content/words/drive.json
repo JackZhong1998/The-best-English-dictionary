@@ -1,0 +1,190 @@
+{
+  "word": "drive",
+  "phonetic": "/draɪv/",
+  "syllables": [
+    "drive"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "驾驶",
+    "驱动",
+    "动力"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to control a car or other vehicle",
+      "zh_definition": "操控汽车或其他车辆",
+      "usages": [
+        {
+          "usage_label": "驾驶",
+          "collocations": [
+            {
+              "phrase": "drive a car",
+              "translation": "开车"
+            },
+            {
+              "phrase": "drive to school",
+              "translation": "开车去学校"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My dad drives a bus.",
+              "zh": "我爸爸开公交车。"
+            },
+            {
+              "en": "I drive to work.",
+              "zh": "我开车上班。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make someone or something move",
+      "zh_definition": "促使人或物移动",
+      "usages": [
+        {
+          "usage_label": "驱赶或推动",
+          "collocations": [
+            {
+              "phrase": "drive cattle",
+              "translation": "赶牛"
+            },
+            {
+              "phrase": "drive animals home",
+              "translation": "把动物赶回家"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The farmer drove the cows home.",
+              "zh": "农夫把牛赶回家。"
+            },
+            {
+              "en": "The wind drove the boat forward.",
+              "zh": "风推动小船前进。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a trip in a car",
+      "zh_definition": "乘车出行的一段路",
+      "usages": [
+        {
+          "usage_label": "驾车行程",
+          "collocations": [
+            {
+              "phrase": "go for a drive",
+              "translation": "开车兜风"
+            },
+            {
+              "phrase": "a long drive",
+              "translation": "长途驾驶"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We went for a drive.",
+              "zh": "我们开车出去兜风。"
+            },
+            {
+              "en": "It is a long drive.",
+              "zh": "开车要走很长一段路。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "strong energy or determination",
+      "zh_definition": "强烈的精力或决心",
+      "usages": [
+        {
+          "usage_label": "干劲或动力",
+          "collocations": [
+            {
+              "phrase": "strong drive",
+              "translation": "强烈动力"
+            },
+            {
+              "phrase": "drive to win",
+              "translation": "获胜的决心"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She has a strong drive to win.",
+              "zh": "她有强烈的获胜决心。"
+            },
+            {
+              "en": "His drive helped the team.",
+              "zh": "他的干劲帮助了团队。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to make a machine or process work",
+      "zh_definition": "为机器或过程提供动力",
+      "usages": [
+        {
+          "usage_label": "驱动",
+          "collocations": [
+            {
+              "phrase": "drive a machine",
+              "translation": "驱动机器"
+            },
+            {
+              "phrase": "drive growth",
+              "translation": "推动增长"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Electricity drives this machine.",
+              "zh": "电力驱动这台机器。"
+            },
+            {
+              "en": "New ideas drive change.",
+              "zh": "新想法推动改变。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

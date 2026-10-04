@@ -1,0 +1,226 @@
+{
+  "word": "light",
+  "phonetic": "/laɪt/",
+  "syllables": [
+    "light"
+  ],
+  "pos": [
+    "n.",
+    "adj.",
+    "v."
+  ],
+  "core_meanings": [
+    "光",
+    "灯",
+    "轻的",
+    "点燃"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "brightness that lets you see",
+      "zh_definition": "使人能看见的亮光",
+      "usages": [
+        {
+          "usage_label": "光线",
+          "collocations": [
+            {
+              "phrase": "bright light",
+              "translation": "强光"
+            },
+            {
+              "phrase": "natural light",
+              "translation": "自然光"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The light is too bright.",
+              "zh": "光太亮了。"
+            },
+            {
+              "en": "Plants need light.",
+              "zh": "植物需要光。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a lamp or another source of light",
+      "zh_definition": "灯或其他发光物",
+      "usages": [
+        {
+          "usage_label": "灯",
+          "collocations": [
+            {
+              "phrase": "turn on the light",
+              "translation": "开灯"
+            },
+            {
+              "phrase": "street light",
+              "translation": "路灯"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Turn on the light, please.",
+              "zh": "请开灯。"
+            },
+            {
+              "en": "The street lights are on.",
+              "zh": "路灯亮着。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "not heavy",
+      "zh_definition": "重量不大",
+      "usages": [
+        {
+          "usage_label": "轻的",
+          "collocations": [
+            {
+              "phrase": "a light bag",
+              "translation": "轻的包"
+            },
+            {
+              "phrase": "light weight",
+              "translation": "轻重量"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This bag is light.",
+              "zh": "这个包很轻。"
+            },
+            {
+              "en": "The box feels light.",
+              "zh": "这个盒子拿起来很轻。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "adj.",
+      "en_definition": "not strong or great in amount",
+      "zh_definition": "强度或数量不大",
+      "usages": [
+        {
+          "usage_label": "轻微的或少量的",
+          "collocations": [
+            {
+              "phrase": "light rain",
+              "translation": "小雨"
+            },
+            {
+              "phrase": "light meal",
+              "translation": "清淡的一餐"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We had light rain today.",
+              "zh": "今天下了小雨。"
+            },
+            {
+              "en": "I ate a light lunch.",
+              "zh": "我午饭吃得很清淡。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to make something start burning",
+      "zh_definition": "使某物开始燃烧",
+      "usages": [
+        {
+          "usage_label": "点燃",
+          "collocations": [
+            {
+              "phrase": "light a candle",
+              "translation": "点蜡烛"
+            },
+            {
+              "phrase": "light a fire",
+              "translation": "生火"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She lit a candle.",
+              "zh": "她点燃了一支蜡烛。"
+            },
+            {
+              "en": "He lit the fire.",
+              "zh": "他生了火。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "adj.",
+      "en_definition": "pale in color",
+      "zh_definition": "颜色较浅",
+      "usages": [
+        {
+          "usage_label": "浅色的",
+          "collocations": [
+            {
+              "phrase": "light blue",
+              "translation": "浅蓝色"
+            },
+            {
+              "phrase": "light green",
+              "translation": "浅绿色"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The wall is light blue.",
+              "zh": "墙是浅蓝色的。"
+            },
+            {
+              "en": "I like light green.",
+              "zh": "我喜欢浅绿色。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

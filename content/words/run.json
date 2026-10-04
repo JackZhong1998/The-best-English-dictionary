@@ -1,0 +1,293 @@
+{
+  "word": "run",
+  "phonetic": "/rʌn/",
+  "syllables": [
+    "run"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "跑",
+    "运行",
+    "经营",
+    "流动"
+  ],
+  "etymology": "",
+  "semantic_shift": "从快速移动延伸到机器运转、液体流动和事务运行。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move quickly on foot",
+      "zh_definition": "用双脚快速移动",
+      "usages": [
+        {
+          "usage_label": "奔跑",
+          "collocations": [
+            {
+              "phrase": "run fast",
+              "translation": "跑得快"
+            },
+            {
+              "phrase": "run to school",
+              "translation": "跑去学校"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I run every morning.",
+              "zh": "我每天早上跑步。"
+            },
+            {
+              "en": "The dog ran across the yard.",
+              "zh": "狗跑过院子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to work or function",
+      "zh_definition": "机器或程序正常运转",
+      "usages": [
+        {
+          "usage_label": "运行",
+          "collocations": [
+            {
+              "phrase": "run smoothly",
+              "translation": "运行顺畅"
+            },
+            {
+              "phrase": "run on batteries",
+              "translation": "靠电池运行"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The clock runs on batteries.",
+              "zh": "这个钟靠电池运行。"
+            },
+            {
+              "en": "The program runs well.",
+              "zh": "这个程序运行良好。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to manage an activity or business",
+      "zh_definition": "管理活动或企业",
+      "usages": [
+        {
+          "usage_label": "经营或管理",
+          "collocations": [
+            {
+              "phrase": "run a shop",
+              "translation": "经营商店"
+            },
+            {
+              "phrase": "run a class",
+              "translation": "开办课程"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They run a small shop.",
+              "zh": "他们经营一家小店。"
+            },
+            {
+              "en": "She runs an English class.",
+              "zh": "她开办一门英语课。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to flow in a direction",
+      "zh_definition": "液体朝某个方向流动",
+      "usages": [
+        {
+          "usage_label": "流动",
+          "collocations": [
+            {
+              "phrase": "water runs",
+              "translation": "水流动"
+            },
+            {
+              "phrase": "run down",
+              "translation": "向下流"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Water ran down the wall.",
+              "zh": "水沿着墙流下来。"
+            },
+            {
+              "en": "Her tears ran down her face.",
+              "zh": "眼泪顺着她的脸流下来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to become used up",
+      "zh_definition": "某物逐渐用完",
+      "usages": [
+        {
+          "usage_label": "用尽",
+          "collocations": [
+            {
+              "phrase": "run out of milk",
+              "translation": "牛奶用完"
+            },
+            {
+              "phrase": "run out of time",
+              "translation": "时间不够"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We ran out of milk.",
+              "zh": "我们的牛奶用完了。"
+            },
+            {
+              "en": "I ran out of time.",
+              "zh": "我的时间用完了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "n.",
+      "en_definition": "a period of running for exercise",
+      "zh_definition": "一段跑步锻炼",
+      "usages": [
+        {
+          "usage_label": "跑步",
+          "collocations": [
+            {
+              "phrase": "go for a run",
+              "translation": "去跑步"
+            },
+            {
+              "phrase": "morning run",
+              "translation": "晨跑"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I went for a run.",
+              "zh": "我去跑步了。"
+            },
+            {
+              "en": "Our morning run was short.",
+              "zh": "我们的晨跑很短。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 7,
+      "part_of_speech": "v.",
+      "en_definition": "to meet someone by chance",
+      "zh_definition": "偶然遇见某人",
+      "usages": [
+        {
+          "usage_label": "偶遇",
+          "collocations": [
+            {
+              "phrase": "run into a friend",
+              "translation": "偶遇朋友"
+            },
+            {
+              "phrase": "run into someone",
+              "translation": "碰见某人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I ran into an old friend.",
+              "zh": "我偶遇了一位老朋友。"
+            },
+            {
+              "en": "She ran into her teacher.",
+              "zh": "她碰见了老师。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 8,
+      "part_of_speech": "v.",
+      "en_definition": "to leave quickly to escape",
+      "zh_definition": "快速离开以逃脱",
+      "usages": [
+        {
+          "usage_label": "逃跑",
+          "collocations": [
+            {
+              "phrase": "run away",
+              "translation": "逃跑"
+            },
+            {
+              "phrase": "run away from danger",
+              "translation": "逃离危险"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The dog ran away.",
+              "zh": "那只狗跑走了。"
+            },
+            {
+              "en": "They ran away from danger.",
+              "zh": "他们逃离了危险。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}

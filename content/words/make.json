@@ -1,0 +1,258 @@
+{
+  "word": "make",
+  "phonetic": "/meɪk/",
+  "syllables": [
+    "make"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "制作",
+    "使得",
+    "赚钱",
+    "赶上"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to create or produce something",
+      "zh_definition": "制作或生产某物",
+      "usages": [
+        {
+          "usage_label": "制作",
+          "collocations": [
+            {
+              "phrase": "make a cake",
+              "translation": "做蛋糕"
+            },
+            {
+              "phrase": "make a plan",
+              "translation": "制定计划"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She made a cake.",
+              "zh": "她做了一个蛋糕。"
+            },
+            {
+              "en": "We made a plan.",
+              "zh": "我们制订了计划。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to cause someone or something to be a certain way",
+      "zh_definition": "使人或物变成某种状态",
+      "usages": [
+        {
+          "usage_label": "使得",
+          "collocations": [
+            {
+              "phrase": "make me happy",
+              "translation": "使我开心"
+            },
+            {
+              "phrase": "make it easy",
+              "translation": "使它简单"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Your smile makes me happy.",
+              "zh": "你的笑容让我开心。"
+            },
+            {
+              "en": "This map makes the trip easy.",
+              "zh": "这张地图让旅程变得简单。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to earn money",
+      "zh_definition": "赚取钱财",
+      "usages": [
+        {
+          "usage_label": "赚得",
+          "collocations": [
+            {
+              "phrase": "make money",
+              "translation": "赚钱"
+            },
+            {
+              "phrase": "make a living",
+              "translation": "谋生"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He makes money from music.",
+              "zh": "他靠音乐赚钱。"
+            },
+            {
+              "en": "She makes a living by teaching.",
+              "zh": "她靠教书谋生。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to reach something in time",
+      "zh_definition": "及时赶上某事",
+      "usages": [
+        {
+          "usage_label": "赶上",
+          "collocations": [
+            {
+              "phrase": "make the train",
+              "translation": "赶上火车"
+            },
+            {
+              "phrase": "make it on time",
+              "translation": "及时赶到"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We made the train.",
+              "zh": "我们赶上了火车。"
+            },
+            {
+              "en": "I made it on time.",
+              "zh": "我及时赶到了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to decide or choose something",
+      "zh_definition": "作出决定或选择",
+      "usages": [
+        {
+          "usage_label": "作出",
+          "collocations": [
+            {
+              "phrase": "make a choice",
+              "translation": "作出选择"
+            },
+            {
+              "phrase": "make a decision",
+              "translation": "作出决定"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I made my choice.",
+              "zh": "我作出了选择。"
+            },
+            {
+              "en": "She made a quick decision.",
+              "zh": "她很快作出了决定。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to invent a story or excuse",
+      "zh_definition": "编造故事或借口",
+      "usages": [
+        {
+          "usage_label": "编造",
+          "collocations": [
+            {
+              "phrase": "make up a story",
+              "translation": "编造故事"
+            },
+            {
+              "phrase": "make up an excuse",
+              "translation": "编借口"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He made up a story.",
+              "zh": "他编了一个故事。"
+            },
+            {
+              "en": "She made up an excuse.",
+              "zh": "她编了一个借口。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    },
+    {
+      "id": 7,
+      "part_of_speech": "v.",
+      "en_definition": "to do something good to balance a bad thing",
+      "zh_definition": "用好事弥补坏事",
+      "usages": [
+        {
+          "usage_label": "弥补",
+          "collocations": [
+            {
+              "phrase": "make up for a mistake",
+              "translation": "弥补错误"
+            },
+            {
+              "phrase": "make up for lost time",
+              "translation": "补回失去的时间"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I made up for my mistake.",
+              "zh": "我弥补了自己的错误。"
+            },
+            {
+              "en": "We made up for lost time.",
+              "zh": "我们补回了耽误的时间。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": []
+    }
+  ]
+}
