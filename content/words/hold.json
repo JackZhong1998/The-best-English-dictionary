@@ -13,8 +13,8 @@
     "举办",
     "保持"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "源自古英语 healdan，原有“抓住、保持”之意。",
+  "semantic_shift": "从用手握住，扩展为容纳、维持状态；举办活动可理解为把活动“掌握并安排”起来。",
   "senses": [
     {
       "id": 1,
@@ -46,9 +46,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "grip：紧握；hold 不一定握得很紧。"
+      ],
+      "antonyms": [
+        "release：松开。"
+      ],
+      "confusables": [
+        "hold a cup 是拿着杯子；keep a cup 是保留杯子。"
+      ]
     },
     {
       "id": 2,
@@ -80,9 +86,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "contain：容纳；hold 常带有容量限制。"
+      ],
+      "antonyms": [
+        "empty：使容器变空。"
+      ],
+      "confusables": [
+        "The room holds ten people 指容量，不是房间用手抓人。"
+      ]
     },
     {
       "id": 3,
@@ -114,9 +126,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "organize：组织；hold a meeting 着重会议举行。"
+      ],
+      "antonyms": [
+        "cancel：取消活动。"
+      ],
+      "confusables": [
+        "hold a meeting 是开会；attend a meeting 是参加会议。"
+      ]
     },
     {
       "id": 4,
@@ -148,9 +166,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "keep：保持；hold 常指维持某位置或状态。"
+      ],
+      "antonyms": [
+        "let go：松开。"
+      ],
+      "confusables": [
+        "hold still 是别动；stand still 是站着不动。"
+      ]
     },
     {
       "id": 5,
@@ -182,9 +206,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "wait：等候；hold on 常用于电话或短暂等待。"
+      ],
+      "antonyms": [
+        "go ahead：继续，不再等。"
+      ],
+      "confusables": [
+        "hold on 是稍等；hang on 也可表示稍等。"
+      ]
     },
     {
       "id": 6,
@@ -216,9 +246,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "restrain：阻止；hold back 可指拦住人或忍住感情。"
+      ],
+      "antonyms": [
+        "let through：放行。"
+      ],
+      "confusables": [
+        "hold back tears 是忍住眼泪，不是用手抓眼泪。"
+      ]
     }
   ]
 }

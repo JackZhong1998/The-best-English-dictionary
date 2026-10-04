@@ -15,8 +15,8 @@
     "权利",
     "立刻"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "源自古英语 riht，早有“直、合适、正确”等意思。",
+  "semantic_shift": "从符合规则或方向的“对、正”，发展出正确、合适与权利等用法；“右边”应作为独立常用义记。",
   "senses": [
     {
       "id": 1,
@@ -48,9 +48,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "correct：正确的；right 更口语。"
+      ],
+      "antonyms": [
+        "wrong：错误的。"
+      ],
+      "confusables": [
+        "right answer 是正确答案；right turn 是右转。"
+      ]
     },
     {
       "id": 2,
@@ -82,9 +88,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "on the right：位于右侧。"
+      ],
+      "antonyms": [
+        "left：左边的。"
+      ],
+      "confusables": [
+        "right hand 是右手；right answer 是正确答案。"
+      ]
     },
     {
       "id": 3,
@@ -116,9 +128,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "entitlement：依法或按道理应得的权利。"
+      ],
+      "antonyms": [
+        "duty：应履行的义务。"
+      ],
+      "confusables": [
+        "a right 是权利；right 作形容词也指正确的。"
+      ]
     },
     {
       "id": 4,
@@ -150,9 +168,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "immediately：立刻；right now 语气很直接。"
+      ],
+      "antonyms": [
+        "later：稍后。"
+      ],
+      "confusables": [
+        "right now 是立刻；right answer 中 right 是正确的。"
+      ]
     },
     {
       "id": 5,
@@ -184,9 +208,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "right side：右侧；to the right 表方向。"
+      ],
+      "antonyms": [
+        "left：左侧。"
+      ],
+      "confusables": [
+        "turn right 是向右转；be right 是判断正确。"
+      ]
     },
     {
       "id": 6,
@@ -218,9 +248,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "appropriate：合适的；right 可指选对的人或时机。"
+      ],
+      "antonyms": [
+        "unsuitable：不合适的。"
+      ],
+      "confusables": [
+        "the right time 是合适时机，不一定是“正确答案”。"
+      ]
     }
   ]
 }

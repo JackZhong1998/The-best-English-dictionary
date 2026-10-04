@@ -14,8 +14,8 @@
     "演奏",
     "扮演"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "源自古英语 plegian，原有“游戏、活动”之意。",
+  "semantic_shift": "从玩耍扩展到比赛、舞台表演；演奏与播放音乐是同词的不同用法。",
   "senses": [
     {
       "id": 1,
@@ -47,9 +47,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "have fun：玩得开心；play 可指具体游戏活动。"
+      ],
+      "antonyms": [
+        "work：工作。"
+      ],
+      "confusables": [
+        "play with a toy 是玩玩具；play a song 是演奏歌曲。"
+      ]
     },
     {
       "id": 2,
@@ -81,9 +87,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "compete：参加比赛；play 常指与某队比赛。"
+      ],
+      "antonyms": [
+        "sit out：不参加比赛。"
+      ],
+      "confusables": [
+        "play football 是踢足球；play the piano 是弹钢琴。"
+      ]
     },
     {
       "id": 3,
@@ -115,9 +127,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "perform：演奏；play 特指乐器或乐曲。"
+      ],
+      "antonyms": [
+        "listen：听别人演奏。"
+      ],
+      "confusables": [
+        "play the guitar 要用 the；play basketball 不用 the。"
+      ]
     },
     {
       "id": 4,
@@ -149,9 +167,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "act：出演角色；play 也可说扮演。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "play a doctor 是在戏里扮演医生，不一定真的行医。"
+      ]
     },
     {
       "id": 5,
@@ -183,9 +205,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "drama：戏剧作品；play 常指舞台剧。"
+      ],
+      "antonyms": [
+        "film：电影作品。"
+      ],
+      "confusables": [
+        "a play 是戏剧；play 作动词可指玩耍或演奏。"
+      ]
     },
     {
       "id": 6,
@@ -217,9 +245,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "put on：播放音乐；play 也能指启动视频。"
+      ],
+      "antonyms": [
+        "pause：暂停播放。"
+      ],
+      "confusables": [
+        "play music 是播放音乐，也可能指演奏，需看语境。"
+      ]
     }
   ]
 }

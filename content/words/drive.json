@@ -13,8 +13,8 @@
     "驱动",
     "动力"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "源自古英语 drīfan，原有“驱赶、促使前行”之意。",
+  "semantic_shift": "从驱赶动物前进，到驾驶车辆、驱动机器；推动人行动的力量成为“动力”。",
   "senses": [
     {
       "id": 1,
@@ -46,9 +46,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "operate a vehicle：操控车辆；drive 常专指自己驾驶。"
+      ],
+      "antonyms": [
+        "walk：步行而不驾车。"
+      ],
+      "confusables": [
+        "drive a car 是自己开车；ride in a car 是坐车。"
+      ]
     },
     {
       "id": 2,
@@ -80,9 +86,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "push：推动；drive 更强调持续促使前进。"
+      ],
+      "antonyms": [
+        "hold back：阻止前进。"
+      ],
+      "confusables": [
+        "drive cattle 是赶牛；drive a car 是开车。"
+      ]
     },
     {
       "id": 3,
@@ -114,9 +126,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "car trip：一次乘车行程；drive 往往突出自己驾车。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "go for a drive 是开车兜风，不一定有明确目的地。"
+      ]
     },
     {
       "id": 4,
@@ -148,9 +164,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "motivation：行动的动力；drive 更强调强烈的内在冲劲。"
+      ],
+      "antonyms": [
+        "lack of motivation：缺少动力。"
+      ],
+      "confusables": [
+        "drive 作名词也可能只指一次驾车行程。"
+      ]
     },
     {
       "id": 5,
@@ -182,9 +204,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "power：提供动力；drive 作动词强调让机器运转。"
+      ],
+      "antonyms": [
+        "stop：使运转停止。"
+      ],
+      "confusables": [
+        "drive growth 是推动增长，并非驾驶增长。"
+      ]
     }
   ]
 }

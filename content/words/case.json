@@ -12,8 +12,8 @@
     "案件",
     "盒子"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "“情况、案件”经古法语 cas 来自拉丁语 casus；“盒子”另经法语来自拉丁语 capsa。",
+  "semantic_shift": "“情况”可指一件具体的事，法律中的一件事便是“案件”；“盒子”是另一词源，不由“情况”引申。",
   "senses": [
     {
       "id": 1,
@@ -45,9 +45,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "situation：强调所处的情况；case 常指一个具体事例。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "in this case 是“在这种情况下”，不是“在这个盒子里”。"
+      ]
     },
     {
       "id": 2,
@@ -79,9 +83,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "legal matter：可指法律上的一件事；case 是具体案件。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "case 也可指一般情况，法律语境才是“案件”。"
+      ]
     },
     {
       "id": 3,
@@ -113,9 +121,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "box：泛指盒子；case 常是为装载或保护特定物品而做。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "a phone case 是手机壳；a court case 是案件，词源不同。"
+      ]
     },
     {
       "id": 4,
@@ -147,9 +159,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "argument：指支持观点的理由；case 可指一整套论据。"
+      ],
+      "antonyms": [
+        "counterargument：反对该观点的论据。"
+      ],
+      "confusables": [
+        "make a case for 是“提出支持理由”，不是“制作盒子”。"
+      ]
     },
     {
       "id": 5,
@@ -181,9 +199,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "if：表示如果；in case 更强调预防可能发生的事。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "in case of 后接名词；in case 后常接完整句子。"
+      ]
     }
   ]
 }

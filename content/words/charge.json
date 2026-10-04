@@ -14,8 +14,8 @@
     "负责",
     "指控"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "经古法语 chargier，最终与晚期拉丁语 carricare“给车装载”有关。",
+  "semantic_shift": "从“装上负担”，扩展为承担责任、施加费用或指控；给电池“装入”电能是较晚的用法。",
   "senses": [
     {
       "id": 1,
@@ -47,9 +47,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "ask for payment：要求付款；charge 常指出具体收费额。"
+      ],
+      "antonyms": [
+        "offer for free：免费提供。"
+      ],
+      "confusables": [
+        "charge 侧重收费；pay 是付款的一方。"
+      ]
     },
     {
       "id": 2,
@@ -81,9 +87,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "recharge：再次充电；charge 不强调是否第一次。"
+      ],
+      "antonyms": [
+        "drain：使电量耗尽。"
+      ],
+      "confusables": [
+        "charge a phone 是充电；charge a fee 是收费。"
+      ]
     },
     {
       "id": 3,
@@ -115,9 +127,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "accuse：泛指指责；charge 是正式提出犯罪指控。"
+      ],
+      "antonyms": [
+        "clear：澄清或洗清嫌疑。"
+      ],
+      "confusables": [
+        "charge someone with theft 中 with 后是罪名。"
+      ]
     },
     {
       "id": 4,
@@ -149,9 +167,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "responsibility：责任；in charge 强调实际负责管理。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "in charge of 是“负责”；a charge 也可能指一笔费用。"
+      ]
     },
     {
       "id": 5,
@@ -183,9 +205,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "fee：某项服务的费用；charge 可泛指收取的金额。"
+      ],
+      "antonyms": [
+        "free service：免费服务。"
+      ],
+      "confusables": [
+        "charge 是费用；change 可表示零钱，拼写接近。"
+      ]
     }
   ]
 }

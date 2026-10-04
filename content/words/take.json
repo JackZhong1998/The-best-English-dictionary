@@ -13,8 +13,8 @@
     "花费",
     "接受"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "主要来自古诺尔斯语 taka，原意为“抓住、拿取”。",
+  "semantic_shift": "从把东西拿到手，扩展到取得控制、接受、乘坐或花费；take off 等短语义项另行记忆。",
   "senses": [
     {
       "id": 1,
@@ -46,9 +46,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "pick up：拿起；take 也可指带走。"
+      ],
+      "antonyms": [
+        "put down：放下。"
+      ],
+      "confusables": [
+        "take a book 是拿书；bring a book 强调带到这里。"
+      ]
     },
     {
       "id": 2,
@@ -80,9 +86,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "ride：乘坐；take 常用于公交、火车等交通方式。"
+      ],
+      "antonyms": [
+        "walk：步行。"
+      ],
+      "confusables": [
+        "take a bus 是坐公交；drive a bus 是开公交。"
+      ]
     },
     {
       "id": 3,
@@ -114,9 +126,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "require：需要；take time 表示花费时间。"
+      ],
+      "antonyms": [
+        "save time：节省时间。"
+      ],
+      "confusables": [
+        "It takes an hour 是要花一小时；spend an hour 的主语通常是人。"
+      ]
     },
     {
       "id": 4,
@@ -148,9 +166,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "accept：接受；take an offer 更口语。"
+      ],
+      "antonyms": [
+        "refuse：拒绝。"
+      ],
+      "confusables": [
+        "take an offer 是接受提议；make an offer 是提出提议。"
+      ]
     },
     {
       "id": 5,
@@ -182,9 +206,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "remove：取下；take off 常指脱衣服。"
+      ],
+      "antonyms": [
+        "put on：穿上。"
+      ],
+      "confusables": [
+        "take off a coat 是脱外套；take off a plane 是飞机起飞的表达不自然。"
+      ]
     },
     {
       "id": 6,
@@ -216,9 +246,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "depart：离地起飞；take off 常说飞机。"
+      ],
+      "antonyms": [
+        "land：降落。"
+      ],
+      "confusables": [
+        "the plane takes off 是飞机起飞；take off a coat 是脱衣。"
+      ]
     },
     {
       "id": 7,
@@ -250,9 +286,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "remove：拿走；take away 常强调从这里移开。"
+      ],
+      "antonyms": [
+        "bring back：带回来。"
+      ],
+      "confusables": [
+        "take away plates 是收走盘子；take out 可表示拿出来。"
+      ]
     },
     {
       "id": 8,
@@ -284,9 +326,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "assume control：接手管理；take over 更日常。"
+      ],
+      "antonyms": [
+        "hand over：移交。"
+      ],
+      "confusables": [
+        "take over a shop 是接管商店；take up a job 是开始从事工作。"
+      ]
     },
     {
       "id": 9,
@@ -318,9 +366,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "happen：发生；take place 常用于活动。"
+      ],
+      "antonyms": [
+        "be cancelled：被取消。"
+      ],
+      "confusables": [
+        "take place 是举行或发生；take part 是参加。"
+      ]
     },
     {
       "id": 10,
@@ -352,9 +406,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "look after：照顾；take care of 也可指处理事情。"
+      ],
+      "antonyms": [
+        "neglect：疏于照顾。"
+      ],
+      "confusables": [
+        "take care of a child 是照顾孩子；care about 是在乎。"
+      ]
     }
   ]
 }

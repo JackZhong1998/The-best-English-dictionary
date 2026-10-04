@@ -15,8 +15,8 @@
     "点餐",
     "订单"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "经古法语 ordre，最终来自拉丁语 ordo“排列、行列”。",
+  "semantic_shift": "从排列顺序，扩展为秩序和安排；命令与订单都包含要求他人按安排执行的意思。",
   "senses": [
     {
       "id": 1,
@@ -48,9 +48,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "sequence：先后次序；order 也可指整理后的排列。"
+      ],
+      "antonyms": [
+        "disorder：杂乱无序。"
+      ],
+      "confusables": [
+        "in order 是按顺序；in order to 是“为了”。"
+      ]
     },
     {
       "id": 2,
@@ -82,9 +88,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "request：提出要求；order 在餐馆常指点餐。"
+      ],
+      "antonyms": [
+        "cancel：取消订单。"
+      ],
+      "confusables": [
+        "order food 是点餐；order someone to leave 是命令离开。"
+      ]
     },
     {
       "id": 3,
@@ -116,9 +128,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "purchase：购买；order 强调已下单的商品。"
+      ],
+      "antonyms": [
+        "cancellation：取消订单。"
+      ],
+      "confusables": [
+        "an order 是订单；order 作动词可表示订购。"
+      ]
     },
     {
       "id": 4,
@@ -150,9 +168,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "command：命令；order 常有权威要求。"
+      ],
+      "antonyms": [
+        "request：请求，语气较软。"
+      ],
+      "confusables": [
+        "order someone to do something 是命令某人做事。"
+      ]
     },
     {
       "id": 5,
@@ -184,9 +208,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "organization：井然有序的状态。"
+      ],
+      "antonyms": [
+        "chaos：混乱。"
+      ],
+      "confusables": [
+        "keep order 是维持秩序；put in order 是整理顺序。"
+      ]
     }
   ]
 }

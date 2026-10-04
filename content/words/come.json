@@ -12,8 +12,8 @@
     "到达",
     "发生"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "源自古英语 cuman，意为“来、到达”。",
+  "semantic_shift": "以说话人或目标地点为中心，表示“来到”；再扩展为时间、事件或问题“到来”。",
   "senses": [
     {
       "id": 1,
@@ -45,9 +45,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "arrive：强调到达；come 强调朝说话人或目标地点移动。"
+      ],
+      "antonyms": [
+        "go：从说话人所在处离开。"
+      ],
+      "confusables": [
+        "come here 要朝说话人来；go there 是去别处。"
+      ]
     },
     {
       "id": 2,
@@ -79,9 +85,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "reach：强调抵达某处或达到某阶段。"
+      ],
+      "antonyms": [
+        "leave：离开。"
+      ],
+      "confusables": [
+        "come first 是得第一，不是第一个来到这里。"
+      ]
     },
     {
       "id": 3,
@@ -113,9 +125,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "appear：强调出现；come up 常用于问题或机会出现。"
+      ],
+      "antonyms": [
+        "disappear：消失。"
+      ],
+      "confusables": [
+        "come up 是出现；come back 是回来。"
+      ]
     },
     {
       "id": 4,
@@ -147,9 +165,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "join：加入别人；come along 常是邀请一起来。"
+      ],
+      "antonyms": [
+        "stay behind：留下不同行。"
+      ],
+      "confusables": [
+        "come with me 是跟我来；go with him 是跟他去。"
+      ]
     },
     {
       "id": 5,
@@ -181,9 +205,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "return：返回；come back 强调回到说话人关注的地方。"
+      ],
+      "antonyms": [
+        "go away：离开。"
+      ],
+      "confusables": [
+        "come back 是回来；get back 也可表示回来。"
+      ]
     },
     {
       "id": 6,
@@ -215,9 +245,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "be from：表示来源，语气更直接。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "come from 表示来自；come to 常表示来到或达到。"
+      ]
     }
   ]
 }

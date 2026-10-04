@@ -13,8 +13,8 @@
     "留下",
     "假期"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "动词源自古英语 lǣfan，原有“留下、使留下”之意。",
+  "semantic_shift": "离开一地时，人走而地点留下；也可反过来说把物品留在某处。名词“休假”需结合固定搭配理解。",
   "senses": [
     {
       "id": 1,
@@ -46,9 +46,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "depart：离开，较正式；leave 更常用。"
+      ],
+      "antonyms": [
+        "arrive：到达。"
+      ],
+      "confusables": [
+        "leave home 是离家；go home 是回家。"
+      ]
     },
     {
       "id": 2,
@@ -80,9 +86,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "forget：忘记带；leave 常说把东西落在某处。"
+      ],
+      "antonyms": [
+        "take：带走。"
+      ],
+      "confusables": [
+        "leave a bag on the bus 是把包落在车上；lose 是找不到了。"
+      ]
     },
     {
       "id": 3,
@@ -114,9 +126,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "let be：让其保持原样；leave it alone 很常用。"
+      ],
+      "antonyms": [
+        "change：改变它。"
+      ],
+      "confusables": [
+        "leave me alone 是别打扰我，不一定要求离开房间。"
+      ]
     },
     {
       "id": 4,
@@ -148,9 +166,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "time off：休假；leave 常见于正式请假语境。"
+      ],
+      "antonyms": [
+        "work：工作。"
+      ],
+      "confusables": [
+        "on leave 是在休假；leave 作动词是离开。"
+      ]
     },
     {
       "id": 5,
@@ -182,9 +206,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "omit：省略；leave out 更口语。"
+      ],
+      "antonyms": [
+        "include：包括进去。"
+      ],
+      "confusables": [
+        "leave out a word 是漏词；leave a word 是留下一个词。"
+      ]
     }
   ]
 }

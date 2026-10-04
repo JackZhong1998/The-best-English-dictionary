@@ -13,8 +13,8 @@
     "下降",
     "秋天"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "源自古英语 feallan，意为“落下、跌倒”。",
+  "semantic_shift": "由位置下降扩展到价格下降、状态转变；“秋天”是同形的季节用法。",
   "senses": [
     {
       "id": 1,
@@ -46,9 +46,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "drop：掉下；fall 可指人摔倒，drop 常指物品落下。"
+      ],
+      "antonyms": [
+        "rise：上升或站起。"
+      ],
+      "confusables": [
+        "fall 是自己落下；drop 作及物动词可指失手掉落某物。"
+      ]
     },
     {
       "id": 2,
@@ -80,9 +86,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "decrease：数量减少；fall 常用于价格、水平等下降。"
+      ],
+      "antonyms": [
+        "rise：上升。"
+      ],
+      "confusables": [
+        "prices fall 是价格下降；a person falls 是人摔倒。"
+      ]
     },
     {
       "id": 3,
@@ -114,9 +126,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "become：变得；fall asleep 等固定搭配只能配特定形容词。"
+      ],
+      "antonyms": [
+        "wake up：从睡着状态醒来。"
+      ],
+      "confusables": [
+        "fall asleep 是“睡着”，不是“睡眠时摔倒”。"
+      ]
     },
     {
       "id": 4,
@@ -148,9 +166,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "autumn：与 fall 同义，在美式英语里更常说 fall。"
+      ],
+      "antonyms": [
+        "spring：春天。"
+      ],
+      "confusables": [
+        "fall 作名词还可指跌落，需看季节语境。"
+      ]
     },
     {
       "id": 5,
@@ -182,9 +206,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "lag behind：进度落后；fall behind 更口语化。"
+      ],
+      "antonyms": [
+        "catch up：赶上。"
+      ],
+      "confusables": [
+        "fall behind 是落后；fall down 是摔倒。"
+      ]
     },
     {
       "id": 6,
@@ -216,9 +246,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "start to love：开始爱上；fall in love 更自然。"
+      ],
+      "antonyms": [
+        "fall out of love：不再相爱。"
+      ],
+      "confusables": [
+        "fall in love 是固定表达，不是字面上的摔倒。"
+      ]
     }
   ]
 }

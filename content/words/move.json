@@ -14,8 +14,8 @@
     "感动",
     "行动"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "经古法语 movoir，最终来自拉丁语 movere“移动”。",
+  "semantic_shift": "从物理移动扩展到搬家、采取行动；让情绪“动起来”便是感动。",
   "senses": [
     {
       "id": 1,
@@ -47,9 +47,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "shift：移动位置；move 更常用。"
+      ],
+      "antonyms": [
+        "stay still：保持不动。"
+      ],
+      "confusables": [
+        "move the chair 要挪椅子；move house 是搬家。"
+      ]
     },
     {
       "id": 2,
@@ -81,9 +87,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "relocate：搬迁，较正式；move 更日常。"
+      ],
+      "antonyms": [
+        "stay：继续住在原处。"
+      ],
+      "confusables": [
+        "move to Beijing 是搬去北京；visit Beijing 是去旅游。"
+      ]
     },
     {
       "id": 3,
@@ -115,9 +127,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "touch：打动人；move 可强调情感反应。"
+      ],
+      "antonyms": [
+        "leave unmoved：未被打动。"
+      ],
+      "confusables": [
+        "a moving story 是感人的故事，不是会移动的故事。"
+      ]
     },
     {
       "id": 4,
@@ -149,9 +167,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "action：行动；move 常指一次具体举措。"
+      ],
+      "antonyms": [
+        "inaction：没有采取行动。"
+      ],
+      "confusables": [
+        "make a move 是采取行动；move 作动词也可表示移动。"
+      ]
     },
     {
       "id": 5,
@@ -183,9 +207,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "proceed：继续进行；move on 也可指从过去的事中走出来。"
+      ],
+      "antonyms": [
+        "stop：停下。"
+      ],
+      "confusables": [
+        "move on 是继续前进；move in 是搬入。"
+      ]
     }
   ]
 }

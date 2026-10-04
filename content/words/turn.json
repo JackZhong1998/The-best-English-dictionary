@@ -14,8 +14,8 @@
     "轮次",
     "变成"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "中古英语 turnen 来自晚期古英语 turnian，也受古法语 torner 影响，最终与拉丁语 tornare 有关。",
+  "semantic_shift": "从围绕中心转动，扩展到改变方向、颜色或状态；轮到某人时，行动机会“转到”他那里。",
   "senses": [
     {
       "id": 1,
@@ -47,9 +47,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "rotate：围绕轴转；turn 更常用。"
+      ],
+      "antonyms": [
+        "stay still：保持不转动。"
+      ],
+      "confusables": [
+        "turn the key 是转钥匙；turn on the light 是开灯。"
+      ]
     },
     {
       "id": 2,
@@ -81,9 +87,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "change direction：改变方向；turn 常用于行路。"
+      ],
+      "antonyms": [
+        "go straight：直走。"
+      ],
+      "confusables": [
+        "turn left 是左转；turn into 可指变成。"
+      ]
     },
     {
       "id": 3,
@@ -115,9 +127,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "become：变成；turn 常接颜色或状态。"
+      ],
+      "antonyms": [
+        "remain：保持原样。"
+      ],
+      "confusables": [
+        "turn red 是变红；be red 是本来就是红的。"
+      ]
     },
     {
       "id": 4,
@@ -149,9 +167,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "chance：轮到某人的机会；turn 常见于游戏。"
+      ],
+      "antonyms": [
+        "skip a turn：跳过一轮。"
+      ],
+      "confusables": [
+        "It's your turn 是轮到你；turn 作动词可指转动。"
+      ]
     },
     {
       "id": 5,
@@ -183,9 +207,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "bend：道路的弯处；turn 是一次转向。"
+      ],
+      "antonyms": [
+        "straight road：笔直的路。"
+      ],
+      "confusables": [
+        "a right turn 是右转弯；right answer 是正确答案。"
+      ]
     },
     {
       "id": 6,
@@ -217,9 +247,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "switch on：打开电器；turn on 更日常。"
+      ],
+      "antonyms": [
+        "turn off：关掉。"
+      ],
+      "confusables": [
+        "turn on the TV 是开电视；turn up 是调大音量。"
+      ]
     },
     {
       "id": 7,
@@ -251,9 +287,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "switch off：关掉电器；turn off 更日常。"
+      ],
+      "antonyms": [
+        "turn on：打开。"
+      ],
+      "confusables": [
+        "turn off the light 是关灯；go out 可说灯自己熄了。"
+      ]
     },
     {
       "id": 8,
@@ -285,9 +327,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "reject：拒绝；turn down 常用于提议或请求。"
+      ],
+      "antonyms": [
+        "accept：接受。"
+      ],
+      "confusables": [
+        "turn down an offer 是拒绝；turn up 可以表示出现。"
+      ]
     }
   ]
 }

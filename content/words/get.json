@@ -13,8 +13,8 @@
     "变得",
     "理解"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "主要源自古诺尔斯语 geta，早已有“得到、到达”等多种用法。",
+  "semantic_shift": "“取得”是常见起点；得到位置可说“到达”，得到某种状态可说“变得”，理解则像“抓住”意思。",
   "senses": [
     {
       "id": 1,
@@ -46,9 +46,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "obtain：强调取得；get 更常用也更口语。"
+      ],
+      "antonyms": [
+        "lose：失去。"
+      ],
+      "confusables": [
+        "get 可指得到；give 是把东西给别人。"
+      ]
     },
     {
       "id": 2,
@@ -80,9 +86,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "arrive：强调到达；get to 强调抵达目的地。"
+      ],
+      "antonyms": [
+        "leave：离开。"
+      ],
+      "confusables": [
+        "get to school 是到学校；go to school 是去学校。"
+      ]
     },
     {
       "id": 3,
@@ -114,9 +126,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "become：变成某种状态；get 在日常口语中很常见。"
+      ],
+      "antonyms": [
+        "stay：保持原状态。"
+      ],
+      "confusables": [
+        "get cold 是变冷；be cold 是已经冷。"
+      ]
     },
     {
       "id": 4,
@@ -148,9 +166,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "understand：理解；get it 更口语。"
+      ],
+      "antonyms": [
+        "misunderstand：误解。"
+      ],
+      "confusables": [
+        "get the joke 是听懂笑话，不是得到笑话。"
+      ]
     },
     {
       "id": 5,
@@ -182,9 +206,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "fetch：去取来；get 也能表示买来。"
+      ],
+      "antonyms": [
+        "take away：拿走。"
+      ],
+      "confusables": [
+        "get me water 是给我拿水；give me water 是把水给我。"
+      ]
     },
     {
       "id": 6,
@@ -216,9 +246,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "leave：离开；get off 专指从公交等交通工具下来。"
+      ],
+      "antonyms": [
+        "get on：上车。"
+      ],
+      "confusables": [
+        "get off the bus 是下公交；get out of a car 是下汽车。"
+      ]
     },
     {
       "id": 7,
@@ -250,9 +286,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "board：登上交通工具，语气较正式。"
+      ],
+      "antonyms": [
+        "get off：下车。"
+      ],
+      "confusables": [
+        "get on a bus；get in a car，介词通常不同。"
+      ]
     },
     {
       "id": 8,
@@ -284,9 +326,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "return：回来；get back 更口语。"
+      ],
+      "antonyms": [
+        "leave：离开。"
+      ],
+      "confusables": [
+        "get back 是回来；give back 是归还。"
+      ]
     },
     {
       "id": 9,
@@ -318,9 +366,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "recover：恢复健康；get over 也可说走出失落。"
+      ],
+      "antonyms": [
+        "fall ill：生病。"
+      ],
+      "confusables": [
+        "get over a cold 是病好了；get a cold 是感冒了。"
+      ]
     },
     {
       "id": 10,
@@ -352,9 +406,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "be on good terms：与人关系好；get along 更口语。"
+      ],
+      "antonyms": [
+        "fall out：闹翻。"
+      ],
+      "confusables": [
+        "get along with someone 是与某人相处，不是带着他前进。"
+      ]
     }
   ]
 }

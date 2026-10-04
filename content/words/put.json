@@ -13,8 +13,8 @@
     "推迟",
     "穿上"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "源自中古英语 putten，与晚期古英语表示“推、放”的词形有关。",
+  "semantic_shift": "从把物体放到某处，扩展到把想法“放进话里”；put off、put up with 等短语需分别学习。",
   "senses": [
     {
       "id": 1,
@@ -46,9 +46,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "place：放置，较正式；put 最常见。"
+      ],
+      "antonyms": [
+        "remove：移走。"
+      ],
+      "confusables": [
+        "put the book on the table 要说明放在哪里。"
+      ]
     },
     {
       "id": 2,
@@ -80,9 +86,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "express：表达；put into words 强调说清楚。"
+      ],
+      "antonyms": [
+        "keep to oneself：不说出来。"
+      ],
+      "confusables": [
+        "put it simply 是简而言之，不是把东西放下。"
+      ]
     },
     {
       "id": 3,
@@ -114,9 +126,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "postpone：推迟；put off 更口语。"
+      ],
+      "antonyms": [
+        "bring forward：提前。"
+      ],
+      "confusables": [
+        "put off 是推迟；call off 是取消。"
+      ]
     },
     {
       "id": 4,
@@ -148,9 +166,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "wear：穿着；put on 强调穿上的动作。"
+      ],
+      "antonyms": [
+        "take off：脱下。"
+      ],
+      "confusables": [
+        "put on a coat 是穿上；wear a coat 是穿着。"
+      ]
     },
     {
       "id": 5,
@@ -182,9 +206,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "connect：接通电话；put through 常由接线人使用。"
+      ],
+      "antonyms": [
+        "hang up：挂断。"
+      ],
+      "confusables": [
+        "put me through 是帮我转接；get through 可指打通电话。"
+      ]
     },
     {
       "id": 6,
@@ -216,9 +246,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "tolerate：容忍；put up with 更口语。"
+      ],
+      "antonyms": [
+        "refuse to tolerate：不再忍受。"
+      ],
+      "confusables": [
+        "put up with 是忍受；put up 可指张贴。"
+      ]
     }
   ]
 }

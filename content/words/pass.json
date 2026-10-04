@@ -14,8 +14,8 @@
     "传递",
     "消逝"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "经古法语 passer，原有“经过、走过”之意。",
+  "semantic_shift": "从经过地点，扩展到时间流逝、把东西传过去；通过考试则是越过一道要求。",
   "senses": [
     {
       "id": 1,
@@ -47,9 +47,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "go past：从旁边经过；pass 可单独使用。"
+      ],
+      "antonyms": [
+        "stop：停留不再经过。"
+      ],
+      "confusables": [
+        "pass a shop 是经过商店；enter a shop 是走进商店。"
+      ]
     },
     {
       "id": 2,
@@ -81,9 +87,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "succeed：成功；pass 特指达到考试要求。"
+      ],
+      "antonyms": [
+        "fail：考试不及格。"
+      ],
+      "confusables": [
+        "pass an exam 是通过考试；take an exam 是参加考试。"
+      ]
     },
     {
       "id": 3,
@@ -115,9 +127,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "hand：递给；pass 常指把东西传给另一人。"
+      ],
+      "antonyms": [
+        "keep：留在自己手中。"
+      ],
+      "confusables": [
+        "pass me the salt 是把盐递给我；pass by 是经过。"
+      ]
     },
     {
       "id": 4,
@@ -149,9 +167,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "go by：时间过去；pass 可说日子流逝。"
+      ],
+      "antonyms": [
+        "stand still：停滞不前。"
+      ],
+      "confusables": [
+        "Time passes 是时间流逝；pass a test 是通过考试。"
+      ]
     },
     {
       "id": 5,
@@ -183,9 +207,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ticket：票；pass 常允许一段时间内多次通行。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "a bus pass 是公交乘车证；pass 作动词也可指经过。"
+      ]
     },
     {
       "id": 6,
@@ -217,9 +245,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "die：直接说去世；pass away 是委婉说法。"
+      ],
+      "antonyms": [
+        "be born：出生。"
+      ],
+      "confusables": [
+        "pass away 是去世；pass out 是昏倒。"
+      ]
     }
   ]
 }

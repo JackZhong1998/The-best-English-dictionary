@@ -14,8 +14,8 @@
     "事情",
     "物质"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "经古法语 matere，最终来自拉丁语 materia“材料、物质”。",
+  "semantic_shift": "从构成事物的“材料”，扩展到谈论的“内容、事情”；某事有分量便说它“重要”。",
   "senses": [
     {
       "id": 1,
@@ -47,9 +47,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "be important：表示重要；matter 常说某事对谁重要。"
+      ],
+      "antonyms": [
+        "be unimportant：不重要。"
+      ],
+      "confusables": [
+        "It doesn't matter 是没关系，不是“没有物质”。"
+      ]
     },
     {
       "id": 2,
@@ -81,9 +87,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "issue：有待讨论的问题；matter 可指一般事情。"
+      ],
+      "antonyms": [
+        "solution：解决办法。"
+      ],
+      "confusables": [
+        "What's the matter? 常问出了什么问题。"
+      ]
     },
     {
       "id": 3,
@@ -115,9 +127,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "substance：物质；matter 偏科学用语。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "matter 作“物质”通常不可数；a matter 是一件事。"
+      ]
     },
     {
       "id": 4,
@@ -149,9 +165,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "problem：问题；the matter 常用于询问哪里不对。"
+      ],
+      "antonyms": [
+        "be fine：一切正常。"
+      ],
+      "confusables": [
+        "What's the matter? 是询问状况，不是在问物质是什么。"
+      ]
     }
   ]
 }

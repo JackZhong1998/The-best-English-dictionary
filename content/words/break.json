@@ -13,8 +13,8 @@
     "中断",
     "休息"
   ],
-  "etymology": "",
-  "semantic_shift": "从“分开”延伸到状态或过程的中断。",
+  "etymology": "源自古英语 brecan，原指“打破、分开”。",
+  "semantic_shift": "从实物破裂，引申为规则被打破、过程被中断；休息则是一段工作的中断。",
   "senses": [
     {
       "id": 1,
@@ -46,9 +46,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "smash：强调猛烈地砸碎；break 可以只是断裂或损坏。"
+      ],
+      "antonyms": [
+        "fix：修好已经坏掉的东西。"
+      ],
+      "confusables": [
+        "crack：通常只是裂开，不一定完全破碎。"
+      ]
     },
     {
       "id": 2,
@@ -80,9 +86,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "interrupt：强调打断正在进行的事。"
+      ],
+      "antonyms": [
+        "continue：继续进行而不中断。"
+      ],
+      "confusables": [
+        "break a rule 是“违反规则”，不是把规则撕碎。"
+      ]
     },
     {
       "id": 3,
@@ -114,9 +126,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "stop working：说明设备停止运转。"
+      ],
+      "antonyms": [
+        "repair：把坏的东西修好。"
+      ],
+      "confusables": [
+        "break down 常说机器故障；break up 常说关系结束。"
+      ]
     },
     {
       "id": 4,
@@ -148,9 +166,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "rest：泛指休息；break 常指工作或学习中的短暂停顿。"
+      ],
+      "antonyms": [
+        "work：与休息相对的活动。"
+      ],
+      "confusables": [
+        "a break 是“一次休息”；break 作动词还可表示“打破”。"
+      ]
     },
     {
       "id": 5,
@@ -182,9 +206,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "split up：同样可说伴侣分手。"
+      ],
+      "antonyms": [
+        "get together：开始在一起。"
+      ],
+      "confusables": [
+        "break up 是分手；break down 是故障或情绪崩溃。"
+      ]
     },
     {
       "id": 6,
@@ -216,9 +246,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "force one's way in：强调强行进去。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "break into 是闯入；break in 也可指穿新鞋使其合脚。"
+      ]
     }
   ]
 }

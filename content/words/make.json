@@ -13,8 +13,8 @@
     "赚钱",
     "赶上"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "源自古英语 macian，原有“制作、形成”之意。",
+  "semantic_shift": "从做出物品扩展到造成结果、作出决定；make up 等短语需结合后面的词单独理解。",
   "senses": [
     {
       "id": 1,
@@ -46,9 +46,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "create：强调创造；make 也能指做饭等日常制作。"
+      ],
+      "antonyms": [
+        "destroy：毁坏已做好的东西。"
+      ],
+      "confusables": [
+        "make a cake 是做蛋糕；do homework 是做作业。"
+      ]
     },
     {
       "id": 2,
@@ -80,9 +86,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "cause：造成；make somebody happy 表示使人高兴。"
+      ],
+      "antonyms": [
+        "prevent：阻止某事发生。"
+      ],
+      "confusables": [
+        "make me laugh 是让我笑；let me laugh 是允许我笑。"
+      ]
     },
     {
       "id": 3,
@@ -114,9 +126,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "earn：通过工作挣钱；make money 更口语。"
+      ],
+      "antonyms": [
+        "lose：亏钱或失去钱。"
+      ],
+      "confusables": [
+        "make money 是赚钱，不是制造钞票。"
+      ]
     },
     {
       "id": 4,
@@ -148,9 +166,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "catch：赶上车；make the train 强调来得及。"
+      ],
+      "antonyms": [
+        "miss：错过车或航班。"
+      ],
+      "confusables": [
+        "make the train 是赶上火车，不是制造火车。"
+      ]
     },
     {
       "id": 5,
@@ -182,9 +206,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "perform：做出行动；make a decision 是固定搭配。"
+      ],
+      "antonyms": [
+        "avoid：避免作出。"
+      ],
+      "confusables": [
+        "make a decision 是作决定；do a decision 不自然。"
+      ]
     },
     {
       "id": 6,
@@ -216,9 +246,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "invent：编出故事；make up 可强调内容并不真实。"
+      ],
+      "antonyms": [
+        "tell the truth：说实话。"
+      ],
+      "confusables": [
+        "make up a story 是编故事；make up with someone 是和好。"
+      ]
     },
     {
       "id": 7,
@@ -250,9 +286,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "compensate：补偿；make up for 更日常。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "make up for 是弥补；make up 还可表示编造。"
+      ]
     }
   ]
 }

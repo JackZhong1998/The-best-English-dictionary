@@ -12,8 +12,8 @@
     "保持",
     "继续"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "源自古英语 cēpan，早期有“留意、照看”之意。",
+  "semantic_shift": "从照看某物发展为保留、保存；持续照看某种状态便是“保持、继续”。",
   "senses": [
     {
       "id": 1,
@@ -45,9 +45,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "retain：继续拥有；keep 更日常。"
+      ],
+      "antonyms": [
+        "give away：送出去。"
+      ],
+      "confusables": [
+        "keep 是留着；borrow 是借来，所有权未变。"
+      ]
     },
     {
       "id": 2,
@@ -79,9 +85,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "remain：保持；keep 也可带宾语，如 keep me warm。"
+      ],
+      "antonyms": [
+        "change：改变。"
+      ],
+      "confusables": [
+        "keep warm 是保持暖和；get warm 是变暖。"
+      ]
     },
     {
       "id": 3,
@@ -113,9 +125,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "continue：继续；keep doing 强调持续反复。"
+      ],
+      "antonyms": [
+        "stop：停止。"
+      ],
+      "confusables": [
+        "keep trying 要接动词 -ing；continue 可接更多结构。"
+      ]
     },
     {
       "id": 4,
@@ -147,9 +165,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "store：存放；keep 不一定强调专门储存设施。"
+      ],
+      "antonyms": [
+        "throw away：扔掉。"
+      ],
+      "confusables": [
+        "keep a record 是保存记录；make a record 是制作记录。"
+      ]
     },
     {
       "id": 5,
@@ -181,9 +205,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "keep pace：保持同样速度；keep up with 后接人或事。"
+      ],
+      "antonyms": [
+        "fall behind：落后。"
+      ],
+      "confusables": [
+        "keep up with 是跟上；catch up 是落后后追上。"
+      ]
     }
   ]
 }

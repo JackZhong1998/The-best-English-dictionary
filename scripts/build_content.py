@@ -41,6 +41,228 @@ HEAD = {
     'turn': ('/tɜːrn/', ['turn'], ['转动', '转向', '轮次', '变成'], ''),
 }
 
+# 词源只写可核查的简要来源；词义迁移是帮助学习的语义线索，
+# 不把不同词源的同形词强行解释为同一条历史演变链。
+HISTORY = {
+    'break': ('源自古英语 brecan，原指“打破、分开”。', '从实物破裂，引申为规则被打破、过程被中断；休息则是一段工作的中断。'),
+    'call': ('主要源自古诺尔斯语 kalla，兼有“大声呼喊”和“命名”的意思。', '从出声呼喊，扩展到用电话联系；“称作”保留了给人或物起名的用法。'),
+    'case': ('“情况、案件”经古法语 cas 来自拉丁语 casus；“盒子”另经法语来自拉丁语 capsa。', '“情况”可指一件具体的事，法律中的一件事便是“案件”；“盒子”是另一词源，不由“情况”引申。'),
+    'change': ('经古法语 changier 进入英语，原有“交换、改变”之意。', '从用一物换另一物，延伸到状态改变、改变主意；零钱是换钱时得到的零散钱币。'),
+    'charge': ('经古法语 chargier，最终与晚期拉丁语 carricare“给车装载”有关。', '从“装上负担”，扩展为承担责任、施加费用或指控；给电池“装入”电能是较晚的用法。'),
+    'come': ('源自古英语 cuman，意为“来、到达”。', '以说话人或目标地点为中心，表示“来到”；再扩展为时间、事件或问题“到来”。'),
+    'cut': ('中古英语已有 cutten，早期来源有不同解释。', '从用刀分开实物，扩展到删去内容、切断联系和削减数量。'),
+    'draw': ('源自古英语 dragan，原有“拉、拖”之意。', '先是“拉动”；画画可理解为笔在纸上拉出线条，吸引注意力则是比喻性的“拉过来”。'),
+    'drive': ('源自古英语 drīfan，原有“驱赶、促使前行”之意。', '从驱赶动物前进，到驾驶车辆、驱动机器；推动人行动的力量成为“动力”。'),
+    'fall': ('源自古英语 feallan，意为“落下、跌倒”。', '由位置下降扩展到价格下降、状态转变；“秋天”是同形的季节用法。'),
+    'get': ('主要源自古诺尔斯语 geta，早已有“得到、到达”等多种用法。', '“取得”是常见起点；得到位置可说“到达”，得到某种状态可说“变得”，理解则像“抓住”意思。'),
+    'go': ('源自古英语 gān，基本义为“走、去”。', '从移动、离开扩展到事情“进行”；go bad 等结构表示进入某种状态。'),
+    'hold': ('源自古英语 healdan，原有“抓住、保持”之意。', '从用手握住，扩展为容纳、维持状态；举办活动可理解为把活动“掌握并安排”起来。'),
+    'keep': ('源自古英语 cēpan，早期有“留意、照看”之意。', '从照看某物发展为保留、保存；持续照看某种状态便是“保持、继续”。'),
+    'leave': ('动词源自古英语 lǣfan，原有“留下、使留下”之意。', '离开一地时，人走而地点留下；也可反过来说把物品留在某处。名词“休假”需结合固定搭配理解。'),
+    'light': ('“光”来自古英语 lēoht；“轻”来自另一条古英语词源 leoht。两者同形，来源不同。', '光可成为灯光、灯，也能作动词表示点燃；重量轻与颜色浅不能简单当作“光”的引申。'),
+    'line': ('与拉丁语 linea“亚麻线、线绳”有关，后经古法语等途径进入英语。', '从实际的线，扩展为图上的线条、排成一线的人，以及交通或通信线路。'),
+    'make': ('源自古英语 macian，原有“制作、形成”之意。', '从做出物品扩展到造成结果、作出决定；make up 等短语需结合后面的词单独理解。'),
+    'matter': ('经古法语 matere，最终来自拉丁语 materia“材料、物质”。', '从构成事物的“材料”，扩展到谈论的“内容、事情”；某事有分量便说它“重要”。'),
+    'move': ('经古法语 movoir，最终来自拉丁语 movere“移动”。', '从物理移动扩展到搬家、采取行动；让情绪“动起来”便是感动。'),
+    'order': ('经古法语 ordre，最终来自拉丁语 ordo“排列、行列”。', '从排列顺序，扩展为秩序和安排；命令与订单都包含要求他人按安排执行的意思。'),
+    'pass': ('经古法语 passer，原有“经过、走过”之意。', '从经过地点，扩展到时间流逝、把东西传过去；通过考试则是越过一道要求。'),
+    'play': ('源自古英语 plegian，原有“游戏、活动”之意。', '从玩耍扩展到比赛、舞台表演；演奏与播放音乐是同词的不同用法。'),
+    'point': ('经古法语 point，最终与拉丁语 punctum“刺出的小点”有关。', '从尖端或小点扩展到地图上的位置、比赛得分、论述要点；指向就是示意某个点。'),
+    'put': ('源自中古英语 putten，与晚期古英语表示“推、放”的词形有关。', '从把物体放到某处，扩展到把想法“放进话里”；put off、put up with 等短语需分别学习。'),
+    'right': ('源自古英语 riht，早有“直、合适、正确”等意思。', '从符合规则或方向的“对、正”，发展出正确、合适与权利等用法；“右边”应作为独立常用义记。'),
+    'run': ('源自古英语 rinnan，早期表示“跑、流动”。', '从快速移动延伸到液体流动、机器运转和事务运行；短语动词还会产生新的具体义。'),
+    'set': ('动词源自古英语 settan，原有“使坐下、放置”之意。', '从放到指定位置，扩展到设定时间、目标或设备参数；“一套”与“凝固”需要按搭配分别学习。'),
+    'take': ('主要来自古诺尔斯语 taka，原意为“抓住、拿取”。', '从把东西拿到手，扩展到取得控制、接受、乘坐或花费；take off 等短语义项另行记忆。'),
+    'turn': ('中古英语 turnen 来自晚期古英语 turnian，也受古法语 torner 影响，最终与拉丁语 tornare 有关。', '从围绕中心转动，扩展到改变方向、颜色或状态；轮到某人时，行动机会“转到”他那里。'),
+}
+
+# 每行：词头|义项编号|近义词辨析|反义词辨析|易混淆词辨析。
+# 只列真正有帮助的对应词；没有自然反义词时保留空数组。
+COMPARISONS = """
+break|1|smash：强调猛烈地砸碎；break 可以只是断裂或损坏。|fix：修好已经坏掉的东西。|crack：通常只是裂开，不一定完全破碎。
+break|2|interrupt：强调打断正在进行的事。|continue：继续进行而不中断。|break a rule 是“违反规则”，不是把规则撕碎。
+break|3|stop working：说明设备停止运转。|repair：把坏的东西修好。|break down 常说机器故障；break up 常说关系结束。
+break|4|rest：泛指休息；break 常指工作或学习中的短暂停顿。|work：与休息相对的活动。|a break 是“一次休息”；break 作动词还可表示“打破”。
+break|5|split up：同样可说伴侣分手。|get together：开始在一起。|break up 是分手；break down 是故障或情绪崩溃。
+break|6|force one's way in：强调强行进去。||break into 是闯入；break in 也可指穿新鞋使其合脚。
+call|1|shout：强调大声说；call 常带有喊某人来或注意的目的。|whisper：低声说。|call someone 可指喊他，也可指给他打电话，需看语境。
+call|2|phone：指通过电话联系，语气直接。|hang up：结束通话。|call back 是回电话；call off 是取消。
+call|3|name：指给人或物命名；call 也可说日常称呼。||call him Tom 是“叫他汤姆”，不是“打电话给汤姆”。
+call|4|phone call：明确表示一通电话。||a call 是名词；call 作动词表示打电话或呼喊。
+call|5|cancel：泛指取消；call off 常用于已安排的活动。|go ahead with：按计划继续。|call off 是取消；put off 是推迟，不一定取消。
+call|6|require：表示需要；call for 常带“情况要求”的意味。||call for help 可以是“呼救”；call for patience 是“需要耐心”。
+case|1|situation：强调所处的情况；case 常指一个具体事例。||in this case 是“在这种情况下”，不是“在这个盒子里”。
+case|2|legal matter：可指法律上的一件事；case 是具体案件。||case 也可指一般情况，法律语境才是“案件”。
+case|3|box：泛指盒子；case 常是为装载或保护特定物品而做。||a phone case 是手机壳；a court case 是案件，词源不同。
+case|4|argument：指支持观点的理由；case 可指一整套论据。|counterargument：反对该观点的论据。|make a case for 是“提出支持理由”，不是“制作盒子”。
+case|5|if：表示如果；in case 更强调预防可能发生的事。||in case of 后接名词；in case 后常接完整句子。
+change|1|alter：表示改变；change 更常用，范围也更广。|stay the same：保持不变。|change 作不及物动词可说天气自己变了。
+change|2|replace：用新的代替旧的；change 也可表示换衣服等。|keep：保留原来的。|change clothes 是换衣服；change into 指变成或换上。
+change|3|difference：指差异；change 强调从旧状态到新状态的过程。|stability：稳定不变。|a change 是变化；change 还可表示零钱。
+change|4|coins：硬币；change 也可指付款后找回的钱。||change 作“零钱”时通常是不可数名词。
+change|5|reconsider：重新考虑；change your mind 强调最后想法变了。|stick to a decision：坚持原决定。|change your mind 是改变主意，不是更换大脑。
+charge|1|ask for payment：要求付款；charge 常指出具体收费额。|offer for free：免费提供。|charge 侧重收费；pay 是付款的一方。
+charge|2|recharge：再次充电；charge 不强调是否第一次。|drain：使电量耗尽。|charge a phone 是充电；charge a fee 是收费。
+charge|3|accuse：泛指指责；charge 是正式提出犯罪指控。|clear：澄清或洗清嫌疑。|charge someone with theft 中 with 后是罪名。
+charge|4|responsibility：责任；in charge 强调实际负责管理。||in charge of 是“负责”；a charge 也可能指一笔费用。
+charge|5|fee：某项服务的费用；charge 可泛指收取的金额。|free service：免费服务。|charge 是费用；change 可表示零钱，拼写接近。
+come|1|arrive：强调到达；come 强调朝说话人或目标地点移动。|go：从说话人所在处离开。|come here 要朝说话人来；go there 是去别处。
+come|2|reach：强调抵达某处或达到某阶段。|leave：离开。|come first 是得第一，不是第一个来到这里。
+come|3|appear：强调出现；come up 常用于问题或机会出现。|disappear：消失。|come up 是出现；come back 是回来。
+come|4|join：加入别人；come along 常是邀请一起来。|stay behind：留下不同行。|come with me 是跟我来；go with him 是跟他去。
+come|5|return：返回；come back 强调回到说话人关注的地方。|go away：离开。|come back 是回来；get back 也可表示回来。
+come|6|be from：表示来源，语气更直接。||come from 表示来自；come to 常表示来到或达到。
+cut|1|slice：强调切成片；cut 是更一般的“切”。|join：把分开的部分接起来。|cut hair 是剪发，不一定用刀切。
+cut|2|reduce：减少；cut 常带主动削减的意味。|increase：增加。|cut costs 是削减成本；cut off 是切断。
+cut|3|remove：移走；cut out 常指从整体删去。|add：添加进去。|cut off 是切断；cut out 是剪掉、删掉或戒掉。
+cut|4|wound：泛指伤口；cut 特指被尖锐物划出的口子。|healing：伤口愈合。|a cut 是伤口；a bruise 是撞出的淤青。
+cut|5|stop：停止；cut out 常说停止食用或使用某物。|start：开始。|cut out sugar 是不吃糖，不是把糖切开。
+draw|1|sketch：多指快速画出轮廓；draw 更宽泛。|erase：擦掉画出的东西。|draw 用笔画；paint 常用颜料涂画。
+draw|2|pull：拉；draw 常显得较书面。|push：朝远离自己的方向推。|draw the curtains 是拉窗帘，不是画窗帘。
+draw|3|attract：吸引；draw attention 是固定搭配。|repel：使人远离。|draw a crowd 是吸引人群，不是画一群人。
+draw|4|withdraw：从账户提款，比 draw money 更明确。|deposit：把钱存入账户。|draw cash 是取现；draw a picture 是画画。
+draw|5|tie：比赛打平；draw 是比赛结果的名词。|win：赢得比赛。|a draw 是平局；draw 作动词还可表示画或拉。
+draw|6|conclude：得出结论；draw a conclusion 突出由材料推到结果。||draw a conclusion 是“得出”结论，不是把结论画出来。
+drive|1|operate a vehicle：操控车辆；drive 常专指自己驾驶。|walk：步行而不驾车。|drive a car 是自己开车；ride in a car 是坐车。
+drive|2|push：推动；drive 更强调持续促使前进。|hold back：阻止前进。|drive cattle 是赶牛；drive a car 是开车。
+drive|3|car trip：一次乘车行程；drive 往往突出自己驾车。||go for a drive 是开车兜风，不一定有明确目的地。
+drive|4|motivation：行动的动力；drive 更强调强烈的内在冲劲。|lack of motivation：缺少动力。|drive 作名词也可能只指一次驾车行程。
+drive|5|power：提供动力；drive 作动词强调让机器运转。|stop：使运转停止。|drive growth 是推动增长，并非驾驶增长。
+fall|1|drop：掉下；fall 可指人摔倒，drop 常指物品落下。|rise：上升或站起。|fall 是自己落下；drop 作及物动词可指失手掉落某物。
+fall|2|decrease：数量减少；fall 常用于价格、水平等下降。|rise：上升。|prices fall 是价格下降；a person falls 是人摔倒。
+fall|3|become：变得；fall asleep 等固定搭配只能配特定形容词。|wake up：从睡着状态醒来。|fall asleep 是“睡着”，不是“睡眠时摔倒”。
+fall|4|autumn：与 fall 同义，在美式英语里更常说 fall。|spring：春天。|fall 作名词还可指跌落，需看季节语境。
+fall|5|lag behind：进度落后；fall behind 更口语化。|catch up：赶上。|fall behind 是落后；fall down 是摔倒。
+fall|6|start to love：开始爱上；fall in love 更自然。|fall out of love：不再相爱。|fall in love 是固定表达，不是字面上的摔倒。
+get|1|obtain：强调取得；get 更常用也更口语。|lose：失去。|get 可指得到；give 是把东西给别人。
+get|2|arrive：强调到达；get to 强调抵达目的地。|leave：离开。|get to school 是到学校；go to school 是去学校。
+get|3|become：变成某种状态；get 在日常口语中很常见。|stay：保持原状态。|get cold 是变冷；be cold 是已经冷。
+get|4|understand：理解；get it 更口语。|misunderstand：误解。|get the joke 是听懂笑话，不是得到笑话。
+get|5|fetch：去取来；get 也能表示买来。|take away：拿走。|get me water 是给我拿水；give me water 是把水给我。
+get|6|leave：离开；get off 专指从公交等交通工具下来。|get on：上车。|get off the bus 是下公交；get out of a car 是下汽车。
+get|7|board：登上交通工具，语气较正式。|get off：下车。|get on a bus；get in a car，介词通常不同。
+get|8|return：回来；get back 更口语。|leave：离开。|get back 是回来；give back 是归还。
+get|9|recover：恢复健康；get over 也可说走出失落。|fall ill：生病。|get over a cold 是病好了；get a cold 是感冒了。
+get|10|be on good terms：与人关系好；get along 更口语。|fall out：闹翻。|get along with someone 是与某人相处，不是带着他前进。
+go|1|travel：前往；go 是最常用的移动动词。|come：朝说话人来。|go 强调离开当前地点；come 强调来到目标地点。
+go|2|leave：离开；go away 强调从这里走开。|stay：留下。|go away 是走开；get away 常强调脱身。
+go|3|proceed：按某种方式进行；go 常搭配 well、badly。|stop：停止。|How did it go? 问的是事情进展，不是它去了哪里。
+go|4|become：变成某种状态；go 常搭配 bad、quiet 等。|remain：保持原样。|go bad 是变质；be bad 是已经不好。
+go|5|match：相配；go with 是常见搭配。|clash：颜色或风格不搭。|go with a shirt 可以是搭配衬衫，也可能是和穿衬衫的人同行。
+go|6|continue：继续；go on 更口语。|stop：停止。|go on 是继续；go out 是出去或灯熄灭。
+go|7|stop working：停止工作；go out 常指灯或电源熄灭。|come on：灯或电源打开。|the lights went out 是灯灭，不是灯走出房间。
+hold|1|grip：紧握；hold 不一定握得很紧。|release：松开。|hold a cup 是拿着杯子；keep a cup 是保留杯子。
+hold|2|contain：容纳；hold 常带有容量限制。|empty：使容器变空。|The room holds ten people 指容量，不是房间用手抓人。
+hold|3|organize：组织；hold a meeting 着重会议举行。|cancel：取消活动。|hold a meeting 是开会；attend a meeting 是参加会议。
+hold|4|keep：保持；hold 常指维持某位置或状态。|let go：松开。|hold still 是别动；stand still 是站着不动。
+hold|5|wait：等候；hold on 常用于电话或短暂等待。|go ahead：继续，不再等。|hold on 是稍等；hang on 也可表示稍等。
+hold|6|restrain：阻止；hold back 可指拦住人或忍住感情。|let through：放行。|hold back tears 是忍住眼泪，不是用手抓眼泪。
+keep|1|retain：继续拥有；keep 更日常。|give away：送出去。|keep 是留着；borrow 是借来，所有权未变。
+keep|2|remain：保持；keep 也可带宾语，如 keep me warm。|change：改变。|keep warm 是保持暖和；get warm 是变暖。
+keep|3|continue：继续；keep doing 强调持续反复。|stop：停止。|keep trying 要接动词 -ing；continue 可接更多结构。
+keep|4|store：存放；keep 不一定强调专门储存设施。|throw away：扔掉。|keep a record 是保存记录；make a record 是制作记录。
+keep|5|keep pace：保持同样速度；keep up with 后接人或事。|fall behind：落后。|keep up with 是跟上；catch up 是落后后追上。
+leave|1|depart：离开，较正式；leave 更常用。|arrive：到达。|leave home 是离家；go home 是回家。
+leave|2|forget：忘记带；leave 常说把东西落在某处。|take：带走。|leave a bag on the bus 是把包落在车上；lose 是找不到了。
+leave|3|let be：让其保持原样；leave it alone 很常用。|change：改变它。|leave me alone 是别打扰我，不一定要求离开房间。
+leave|4|time off：休假；leave 常见于正式请假语境。|work：工作。|on leave 是在休假；leave 作动词是离开。
+leave|5|omit：省略；leave out 更口语。|include：包括进去。|leave out a word 是漏词；leave a word 是留下一个词。
+light|1|brightness：泛指亮度；light 也指照亮事物的光。|darkness：没有光的黑暗。|light 作“光”与作“轻的”来自不同古英语词根。
+light|2|lamp：具体指一盏灯；light 范围更广。|darkness：灯灭后可能出现的黑暗。|a light 是灯；light 还可作形容词“明亮的”。
+light|3|not heavy：直接说明重量不大。|heavy：重量大的。|light bag 是轻的包；light room 是明亮的房间。
+light|4|slight：程度小；light 还可形容工作量少。|heavy：可指工作量大或程度重。|light rain 是小雨；light blue 是浅蓝色。
+light|5|ignite：较正式，指使某物开始燃烧。|put out：把火熄灭。|light a candle 是点蜡烛；turn on a light 是开灯。
+light|6|pale：颜色浅；light 可直接放在颜色词前。|dark：颜色深的。|light blue 是浅蓝；a blue light 是蓝色的灯光。
+line|1|mark：泛指痕迹；line 通常是细长的一道。|erase：擦去画好的线。|line 是线条；lane 是车道，发音和拼写都不同。
+line|2|queue：排队的人；美式英语常用 line。|leave the line：离开队伍。|stand in line 是排队；a line on paper 是纸上的线。
+line|3|sentence：一句话；line 在表演中指台词。||learn your lines 是背台词，不是学习画线。
+line|4|route：路线；line 常指公交或地铁线路。||a train line 是铁路线路；a line of people 是一队人。
+line|5|queue up：排队；line up 也可说把物品排成行。|scatter：分散开。|line up 是排队；line 作名词是队伍或线条。
+make|1|create：强调创造；make 也能指做饭等日常制作。|destroy：毁坏已做好的东西。|make a cake 是做蛋糕；do homework 是做作业。
+make|2|cause：造成；make somebody happy 表示使人高兴。|prevent：阻止某事发生。|make me laugh 是让我笑；let me laugh 是允许我笑。
+make|3|earn：通过工作挣钱；make money 更口语。|lose：亏钱或失去钱。|make money 是赚钱，不是制造钞票。
+make|4|catch：赶上车；make the train 强调来得及。|miss：错过车或航班。|make the train 是赶上火车，不是制造火车。
+make|5|perform：做出行动；make a decision 是固定搭配。|avoid：避免作出。|make a decision 是作决定；do a decision 不自然。
+make|6|invent：编出故事；make up 可强调内容并不真实。|tell the truth：说实话。|make up a story 是编故事；make up with someone 是和好。
+make|7|compensate：补偿；make up for 更日常。||make up for 是弥补；make up 还可表示编造。
+matter|1|be important：表示重要；matter 常说某事对谁重要。|be unimportant：不重要。|It doesn't matter 是没关系，不是“没有物质”。
+matter|2|issue：有待讨论的问题；matter 可指一般事情。|solution：解决办法。|What's the matter? 常问出了什么问题。
+matter|3|substance：物质；matter 偏科学用语。||matter 作“物质”通常不可数；a matter 是一件事。
+matter|4|problem：问题；the matter 常用于询问哪里不对。|be fine：一切正常。|What's the matter? 是询问状况，不是在问物质是什么。
+move|1|shift：移动位置；move 更常用。|stay still：保持不动。|move the chair 要挪椅子；move house 是搬家。
+move|2|relocate：搬迁，较正式；move 更日常。|stay：继续住在原处。|move to Beijing 是搬去北京；visit Beijing 是去旅游。
+move|3|touch：打动人；move 可强调情感反应。|leave unmoved：未被打动。|a moving story 是感人的故事，不是会移动的故事。
+move|4|action：行动；move 常指一次具体举措。|inaction：没有采取行动。|make a move 是采取行动；move 作动词也可表示移动。
+move|5|proceed：继续进行；move on 也可指从过去的事中走出来。|stop：停下。|move on 是继续前进；move in 是搬入。
+order|1|sequence：先后次序；order 也可指整理后的排列。|disorder：杂乱无序。|in order 是按顺序；in order to 是“为了”。
+order|2|request：提出要求；order 在餐馆常指点餐。|cancel：取消订单。|order food 是点餐；order someone to leave 是命令离开。
+order|3|purchase：购买；order 强调已下单的商品。|cancellation：取消订单。|an order 是订单；order 作动词可表示订购。
+order|4|command：命令；order 常有权威要求。|request：请求，语气较软。|order someone to do something 是命令某人做事。
+order|5|organization：井然有序的状态。|chaos：混乱。|keep order 是维持秩序；put in order 是整理顺序。
+pass|1|go past：从旁边经过；pass 可单独使用。|stop：停留不再经过。|pass a shop 是经过商店；enter a shop 是走进商店。
+pass|2|succeed：成功；pass 特指达到考试要求。|fail：考试不及格。|pass an exam 是通过考试；take an exam 是参加考试。
+pass|3|hand：递给；pass 常指把东西传给另一人。|keep：留在自己手中。|pass me the salt 是把盐递给我；pass by 是经过。
+pass|4|go by：时间过去；pass 可说日子流逝。|stand still：停滞不前。|Time passes 是时间流逝；pass a test 是通过考试。
+pass|5|ticket：票；pass 常允许一段时间内多次通行。||a bus pass 是公交乘车证；pass 作动词也可指经过。
+pass|6|die：直接说去世；pass away 是委婉说法。|be born：出生。|pass away 是去世；pass out 是昏倒。
+play|1|have fun：玩得开心；play 可指具体游戏活动。|work：工作。|play with a toy 是玩玩具；play a song 是演奏歌曲。
+play|2|compete：参加比赛；play 常指与某队比赛。|sit out：不参加比赛。|play football 是踢足球；play the piano 是弹钢琴。
+play|3|perform：演奏；play 特指乐器或乐曲。|listen：听别人演奏。|play the guitar 要用 the；play basketball 不用 the。
+play|4|act：出演角色；play 也可说扮演。||play a doctor 是在戏里扮演医生，不一定真的行医。
+play|5|drama：戏剧作品；play 常指舞台剧。|film：电影作品。|a play 是戏剧；play 作动词可指玩耍或演奏。
+play|6|put on：播放音乐；play 也能指启动视频。|pause：暂停播放。|play music 是播放音乐，也可能指演奏，需看语境。
+point|1|spot：某个地点；point 常指准确的位置。||a point on the map 是地图上的点；point 作动词是指向。
+point|2|main idea：主要意思；point 常指说话的要点。|irrelevant detail：无关细节。|the point 是要点；a point 也可以是比赛得分。
+point|3|indicate：指出方向；point 常伴随手势。|look away：移开视线。|point at 常指向具体目标；point out 是指出信息。
+point|4|score：比赛得分；point 是一分的单位。|lose a point：失去一分。|score ten points 是得十分；make a point 是提出观点。
+point|5|stage：某个阶段；point 常用于 at this point。|the beginning：开始阶段。|at this point 是此时或此阶段，不一定指地点。
+point|6|mention：提到；point out 强调让人注意到。|overlook：忽略。|point out a mistake 是指出错误；point at 是用手指向。
+put|1|place：放置，较正式；put 最常见。|remove：移走。|put the book on the table 要说明放在哪里。
+put|2|express：表达；put into words 强调说清楚。|keep to oneself：不说出来。|put it simply 是简而言之，不是把东西放下。
+put|3|postpone：推迟；put off 更口语。|bring forward：提前。|put off 是推迟；call off 是取消。
+put|4|wear：穿着；put on 强调穿上的动作。|take off：脱下。|put on a coat 是穿上；wear a coat 是穿着。
+put|5|connect：接通电话；put through 常由接线人使用。|hang up：挂断。|put me through 是帮我转接；get through 可指打通电话。
+put|6|tolerate：容忍；put up with 更口语。|refuse to tolerate：不再忍受。|put up with 是忍受；put up 可指张贴。
+right|1|correct：正确的；right 更口语。|wrong：错误的。|right answer 是正确答案；right turn 是右转。
+right|2|on the right：位于右侧。|left：左边的。|right hand 是右手；right answer 是正确答案。
+right|3|entitlement：依法或按道理应得的权利。|duty：应履行的义务。|a right 是权利；right 作形容词也指正确的。
+right|4|immediately：立刻；right now 语气很直接。|later：稍后。|right now 是立刻；right answer 中 right 是正确的。
+right|5|right side：右侧；to the right 表方向。|left：左侧。|turn right 是向右转；be right 是判断正确。
+right|6|appropriate：合适的；right 可指选对的人或时机。|unsuitable：不合适的。|the right time 是合适时机，不一定是“正确答案”。
+run|1|jog：慢跑；run 可以更快也更宽泛。|walk：步行。|run 是跑；walk 是走，速度和动作不同。
+run|2|operate：运行；run 常说机器或程序工作。|stop：停止运行。|a machine runs 是机器运转，不是机器长腿跑。
+run|3|manage：管理；run 还强调日常经营。|close：停止经营。|run a shop 是经营商店；work in a shop 是在店里工作。
+run|4|flow：流动；run 常说水沿某方向流。|stop flowing：停止流动。|water runs 是水流动；a person runs 是人奔跑。
+run|5|use up：用光；run out of 后接已用完的东西。|stock up：补充储备。|run out of time 是时间不够；run out 是用完。
+run|6|jogging：慢跑运动；a run 可指一次跑步。|walk：一次步行。|go for a run 是去跑步；run 作动词是跑。
+run|7|meet by chance：偶然碰见；run into 更口语。|avoid：避开。|run into a friend 是偶遇；run into a wall 是撞到墙。
+run|8|escape：逃离；run away 强调跑开。|stay：留下。|run away 是逃跑；run out 是用完。
+set|1|place：放置；set 常强调放到指定位置。|remove：移开。|set the table 是摆餐具；put the table 通常不这样说。
+set|2|establish：设立目标；set 可搭配 goal、rule 等。|abandon：放弃目标。|set a goal 是设定目标；reach a goal 是达成目标。
+set|3|adjust：调节设备；set 强调调到指定数值。|leave unchanged：保持原设置。|set the alarm 是设置闹钟；turn off the alarm 是关掉闹钟。
+set|4|group：一组；set 通常表示成套的东西。|single item：单件物品。|a set of keys 是一串钥匙；set 作动词也可表示放置。
+set|5|harden：变硬；set 常说液体凝固。|melt：融化。|the jelly sets 是果冻凝固；set a time 是定时间。
+set|6|establish：建立；set up 常指创办组织。|close down：关闭机构。|set up a club 是创办社团；set off 是出发。
+take|1|pick up：拿起；take 也可指带走。|put down：放下。|take a book 是拿书；bring a book 强调带到这里。
+take|2|ride：乘坐；take 常用于公交、火车等交通方式。|walk：步行。|take a bus 是坐公交；drive a bus 是开公交。
+take|3|require：需要；take time 表示花费时间。|save time：节省时间。|It takes an hour 是要花一小时；spend an hour 的主语通常是人。
+take|4|accept：接受；take an offer 更口语。|refuse：拒绝。|take an offer 是接受提议；make an offer 是提出提议。
+take|5|remove：取下；take off 常指脱衣服。|put on：穿上。|take off a coat 是脱外套；take off a plane 是飞机起飞的表达不自然。
+take|6|depart：离地起飞；take off 常说飞机。|land：降落。|the plane takes off 是飞机起飞；take off a coat 是脱衣。
+take|7|remove：拿走；take away 常强调从这里移开。|bring back：带回来。|take away plates 是收走盘子；take out 可表示拿出来。
+take|8|assume control：接手管理；take over 更日常。|hand over：移交。|take over a shop 是接管商店；take up a job 是开始从事工作。
+take|9|happen：发生；take place 常用于活动。|be cancelled：被取消。|take place 是举行或发生；take part 是参加。
+take|10|look after：照顾；take care of 也可指处理事情。|neglect：疏于照顾。|take care of a child 是照顾孩子；care about 是在乎。
+turn|1|rotate：围绕轴转；turn 更常用。|stay still：保持不转动。|turn the key 是转钥匙；turn on the light 是开灯。
+turn|2|change direction：改变方向；turn 常用于行路。|go straight：直走。|turn left 是左转；turn into 可指变成。
+turn|3|become：变成；turn 常接颜色或状态。|remain：保持原样。|turn red 是变红；be red 是本来就是红的。
+turn|4|chance：轮到某人的机会；turn 常见于游戏。|skip a turn：跳过一轮。|It's your turn 是轮到你；turn 作动词可指转动。
+turn|5|bend：道路的弯处；turn 是一次转向。|straight road：笔直的路。|a right turn 是右转弯；right answer 是正确答案。
+turn|6|switch on：打开电器；turn on 更日常。|turn off：关掉。|turn on the TV 是开电视；turn up 是调大音量。
+turn|7|switch off：关掉电器；turn off 更日常。|turn on：打开。|turn off the light 是关灯；go out 可说灯自己熄了。
+turn|8|reject：拒绝；turn down 常用于提议或请求。|accept：接受。|turn down an offer 是拒绝；turn up 可以表示出现。
+"""
+
 # word|part of speech|English definition|Chinese definition|usage label|
 # collocation~translation;...|example~translation;...
 ROWS = """
@@ -231,6 +453,13 @@ turn|v.|to refuse an offer or request|拒绝提议或请求|拒绝|turn down an 
 
 def parse_rows():
     by_word = {word: [] for word in HEAD}
+    comparisons = {}
+    for line in COMPARISONS.strip().splitlines():
+        word, number, synonym, antonym, confusable = line.split('|')
+        key = (word, int(number))
+        if key in comparisons:
+            raise ValueError(f'Duplicate comparison for {key}')
+        comparisons[key] = (synonym, antonym, confusable)
     for line in ROWS.strip().splitlines():
         word, pos, en_def, zh_def, label, collocs, examples = line.split('|')
         usage = {
@@ -251,20 +480,31 @@ def parse_rows():
     for word, senses in by_word.items():
         if not senses:
             raise ValueError(f'No senses for {word}')
-        phonetic, syllables, core, shift = HEAD[word]
+        for sense in senses:
+            key = (word, sense['id'])
+            if key not in comparisons:
+                raise ValueError(f'Missing comparison for {key}')
+            synonym, antonym, confusable = comparisons.pop(key)
+            sense['synonyms'] = [synonym] if synonym else []
+            sense['antonyms'] = [antonym] if antonym else []
+            sense['confusables'] = [confusable] if confusable else []
+        phonetic, syllables, core, _ = HEAD[word]
+        etymology, shift = HISTORY[word]
         entry = {
             'word': word,
             'phonetic': phonetic,
             'syllables': syllables,
             'pos': list(dict.fromkeys(sense['part_of_speech'] for sense in senses)),
             'core_meanings': core,
-            'etymology': '',
+            'etymology': etymology,
             'semantic_shift': shift,
             'senses': senses,
         }
         target = ROOT / 'content' / 'words' / f'{word}.json'
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(json.dumps(entry, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    if comparisons:
+        raise ValueError(f'Unused comparisons: {list(comparisons)}')
 
 
 if __name__ == '__main__':

@@ -14,8 +14,8 @@
     "一套",
     "凝固"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "动词源自古英语 settan，原有“使坐下、放置”之意。",
+  "semantic_shift": "从放到指定位置，扩展到设定时间、目标或设备参数；“一套”与“凝固”需要按搭配分别学习。",
   "senses": [
     {
       "id": 1,
@@ -47,9 +47,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "place：放置；set 常强调放到指定位置。"
+      ],
+      "antonyms": [
+        "remove：移开。"
+      ],
+      "confusables": [
+        "set the table 是摆餐具；put the table 通常不这样说。"
+      ]
     },
     {
       "id": 2,
@@ -81,9 +87,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "establish：设立目标；set 可搭配 goal、rule 等。"
+      ],
+      "antonyms": [
+        "abandon：放弃目标。"
+      ],
+      "confusables": [
+        "set a goal 是设定目标；reach a goal 是达成目标。"
+      ]
     },
     {
       "id": 3,
@@ -115,9 +127,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "adjust：调节设备；set 强调调到指定数值。"
+      ],
+      "antonyms": [
+        "leave unchanged：保持原设置。"
+      ],
+      "confusables": [
+        "set the alarm 是设置闹钟；turn off the alarm 是关掉闹钟。"
+      ]
     },
     {
       "id": 4,
@@ -149,9 +167,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "group：一组；set 通常表示成套的东西。"
+      ],
+      "antonyms": [
+        "single item：单件物品。"
+      ],
+      "confusables": [
+        "a set of keys 是一串钥匙；set 作动词也可表示放置。"
+      ]
     },
     {
       "id": 5,
@@ -183,9 +207,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "harden：变硬；set 常说液体凝固。"
+      ],
+      "antonyms": [
+        "melt：融化。"
+      ],
+      "confusables": [
+        "the jelly sets 是果冻凝固；set a time 是定时间。"
+      ]
     },
     {
       "id": 6,
@@ -217,9 +247,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "establish：建立；set up 常指创办组织。"
+      ],
+      "antonyms": [
+        "close down：关闭机构。"
+      ],
+      "confusables": [
+        "set up a club 是创办社团；set off 是出发。"
+      ]
     }
   ]
 }

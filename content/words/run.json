@@ -14,8 +14,8 @@
     "经营",
     "流动"
   ],
-  "etymology": "",
-  "semantic_shift": "从快速移动延伸到机器运转、液体流动和事务运行。",
+  "etymology": "源自古英语 rinnan，早期表示“跑、流动”。",
+  "semantic_shift": "从快速移动延伸到液体流动、机器运转和事务运行；短语动词还会产生新的具体义。",
   "senses": [
     {
       "id": 1,
@@ -47,9 +47,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "jog：慢跑；run 可以更快也更宽泛。"
+      ],
+      "antonyms": [
+        "walk：步行。"
+      ],
+      "confusables": [
+        "run 是跑；walk 是走，速度和动作不同。"
+      ]
     },
     {
       "id": 2,
@@ -81,9 +87,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "operate：运行；run 常说机器或程序工作。"
+      ],
+      "antonyms": [
+        "stop：停止运行。"
+      ],
+      "confusables": [
+        "a machine runs 是机器运转，不是机器长腿跑。"
+      ]
     },
     {
       "id": 3,
@@ -115,9 +127,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "manage：管理；run 还强调日常经营。"
+      ],
+      "antonyms": [
+        "close：停止经营。"
+      ],
+      "confusables": [
+        "run a shop 是经营商店；work in a shop 是在店里工作。"
+      ]
     },
     {
       "id": 4,
@@ -149,9 +167,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "flow：流动；run 常说水沿某方向流。"
+      ],
+      "antonyms": [
+        "stop flowing：停止流动。"
+      ],
+      "confusables": [
+        "water runs 是水流动；a person runs 是人奔跑。"
+      ]
     },
     {
       "id": 5,
@@ -183,9 +207,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "use up：用光；run out of 后接已用完的东西。"
+      ],
+      "antonyms": [
+        "stock up：补充储备。"
+      ],
+      "confusables": [
+        "run out of time 是时间不够；run out 是用完。"
+      ]
     },
     {
       "id": 6,
@@ -217,9 +247,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "jogging：慢跑运动；a run 可指一次跑步。"
+      ],
+      "antonyms": [
+        "walk：一次步行。"
+      ],
+      "confusables": [
+        "go for a run 是去跑步；run 作动词是跑。"
+      ]
     },
     {
       "id": 7,
@@ -251,9 +287,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "meet by chance：偶然碰见；run into 更口语。"
+      ],
+      "antonyms": [
+        "avoid：避开。"
+      ],
+      "confusables": [
+        "run into a friend 是偶遇；run into a wall 是撞到墙。"
+      ]
     },
     {
       "id": 8,
@@ -285,9 +327,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "escape：逃离；run away 强调跑开。"
+      ],
+      "antonyms": [
+        "stay：留下。"
+      ],
+      "confusables": [
+        "run away 是逃跑；run out 是用完。"
+      ]
     }
   ]
 }

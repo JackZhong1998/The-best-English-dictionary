@@ -14,8 +14,8 @@
     "吸引",
     "平局"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "源自古英语 dragan，原有“拉、拖”之意。",
+  "semantic_shift": "先是“拉动”；画画可理解为笔在纸上拉出线条，吸引注意力则是比喻性的“拉过来”。",
   "senses": [
     {
       "id": 1,
@@ -47,9 +47,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "sketch：多指快速画出轮廓；draw 更宽泛。"
+      ],
+      "antonyms": [
+        "erase：擦掉画出的东西。"
+      ],
+      "confusables": [
+        "draw 用笔画；paint 常用颜料涂画。"
+      ]
     },
     {
       "id": 2,
@@ -81,9 +87,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "pull：拉；draw 常显得较书面。"
+      ],
+      "antonyms": [
+        "push：朝远离自己的方向推。"
+      ],
+      "confusables": [
+        "draw the curtains 是拉窗帘，不是画窗帘。"
+      ]
     },
     {
       "id": 3,
@@ -115,9 +127,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "attract：吸引；draw attention 是固定搭配。"
+      ],
+      "antonyms": [
+        "repel：使人远离。"
+      ],
+      "confusables": [
+        "draw a crowd 是吸引人群，不是画一群人。"
+      ]
     },
     {
       "id": 4,
@@ -149,9 +167,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "withdraw：从账户提款，比 draw money 更明确。"
+      ],
+      "antonyms": [
+        "deposit：把钱存入账户。"
+      ],
+      "confusables": [
+        "draw cash 是取现；draw a picture 是画画。"
+      ]
     },
     {
       "id": 5,
@@ -183,9 +207,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "tie：比赛打平；draw 是比赛结果的名词。"
+      ],
+      "antonyms": [
+        "win：赢得比赛。"
+      ],
+      "confusables": [
+        "a draw 是平局；draw 作动词还可表示画或拉。"
+      ]
     },
     {
       "id": 6,
@@ -217,9 +247,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "conclude：得出结论；draw a conclusion 突出由材料推到结果。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "draw a conclusion 是“得出”结论，不是把结论画出来。"
+      ]
     }
   ]
 }

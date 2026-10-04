@@ -36,11 +36,13 @@ for (const word of words) {
   string(entry.phonetic, `${word}.phonetic`)
   if (typeof entry.phonetic === 'string' && !/^\/.+\/$/.test(entry.phonetic)) errors.push(`${word}: phonetic must be between slashes`)
   for (const item of array(entry.syllables, `${word}.syllables`, 1)) string(item, `${word}.syllables item`)
+  if (Array.isArray(entry.syllables) && entry.syllables.join('').toLowerCase() !== word) errors.push(`${word}: syllables must reconstruct the headword`)
   for (const item of array(entry.pos, `${word}.pos`, 1)) string(item, `${word}.pos item`)
   for (const item of array(entry.core_meanings, `${word}.core_meanings`, 1)) string(item, `${word}.core_meanings item`)
-  string(entry.etymology, `${word}.etymology`, true)
-  string(entry.semantic_shift, `${word}.semantic_shift`, true)
+  string(entry.etymology, `${word}.etymology`)
+  string(entry.semantic_shift, `${word}.semantic_shift`)
   const senses = array(entry.senses, `${word}.senses`, 3)
+  if (!senses.some((sense) => Array.isArray(sense.antonyms) && sense.antonyms.length)) errors.push(`${word}: no antonym comparison in any sense`)
   for (const [senseIndex, sense] of senses.entries()) {
     const where = `${word}.senses[${senseIndex}]`
     keys(sense, ['id', 'part_of_speech', 'en_definition', 'zh_definition', 'usages', 'synonyms', 'antonyms', 'confusables'], where)
@@ -50,7 +52,10 @@ for (const word of words) {
     string(sense.zh_definition, `${where}.zh_definition`)
     if (!entry.pos?.includes(sense.part_of_speech)) errors.push(`${where}: part of speech missing from word header`)
     for (const field of ['synonyms', 'antonyms', 'confusables']) {
-      for (const item of array(sense[field], `${where}.${field}`)) string(item, `${where}.${field} item`)
+      for (const item of array(sense[field], `${where}.${field}`, field === 'antonyms' ? 0 : 1)) {
+        string(item, `${where}.${field} item`)
+        if (typeof item === 'string' && ((field !== 'confusables' && !item.includes('：')) || item.trim().length < 8)) errors.push(`${where}.${field}: add a useful explanation`)
+      }
     }
     for (const [usageIndex, usage] of array(sense.usages, `${where}.usages`, 1).entries()) {
       const usageWhere = `${where}.usages[${usageIndex}]`

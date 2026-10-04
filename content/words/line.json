@@ -14,8 +14,8 @@
     "台词",
     "线路"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "与拉丁语 linea“亚麻线、线绳”有关，后经古法语等途径进入英语。",
+  "semantic_shift": "从实际的线，扩展为图上的线条、排成一线的人，以及交通或通信线路。",
   "senses": [
     {
       "id": 1,
@@ -47,9 +47,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "mark：泛指痕迹；line 通常是细长的一道。"
+      ],
+      "antonyms": [
+        "erase：擦去画好的线。"
+      ],
+      "confusables": [
+        "line 是线条；lane 是车道，发音和拼写都不同。"
+      ]
     },
     {
       "id": 2,
@@ -81,9 +87,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "queue：排队的人；美式英语常用 line。"
+      ],
+      "antonyms": [
+        "leave the line：离开队伍。"
+      ],
+      "confusables": [
+        "stand in line 是排队；a line on paper 是纸上的线。"
+      ]
     },
     {
       "id": 3,
@@ -115,9 +127,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sentence：一句话；line 在表演中指台词。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "learn your lines 是背台词，不是学习画线。"
+      ]
     },
     {
       "id": 4,
@@ -149,9 +165,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "route：路线；line 常指公交或地铁线路。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "a train line 是铁路线路；a line of people 是一队人。"
+      ]
     },
     {
       "id": 5,
@@ -183,9 +203,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "queue up：排队；line up 也可说把物品排成行。"
+      ],
+      "antonyms": [
+        "scatter：分散开。"
+      ],
+      "confusables": [
+        "line up 是排队；line 作名词是队伍或线条。"
+      ]
     }
   ]
 }

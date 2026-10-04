@@ -13,8 +13,8 @@
     "更换",
     "零钱"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "经古法语 changier 进入英语，原有“交换、改变”之意。",
+  "semantic_shift": "从用一物换另一物，延伸到状态改变、改变主意；零钱是换钱时得到的零散钱币。",
   "senses": [
     {
       "id": 1,
@@ -46,9 +46,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "alter：表示改变；change 更常用，范围也更广。"
+      ],
+      "antonyms": [
+        "stay the same：保持不变。"
+      ],
+      "confusables": [
+        "change 作不及物动词可说天气自己变了。"
+      ]
     },
     {
       "id": 2,
@@ -80,9 +86,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "replace：用新的代替旧的；change 也可表示换衣服等。"
+      ],
+      "antonyms": [
+        "keep：保留原来的。"
+      ],
+      "confusables": [
+        "change clothes 是换衣服；change into 指变成或换上。"
+      ]
     },
     {
       "id": 3,
@@ -114,9 +126,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "difference：指差异；change 强调从旧状态到新状态的过程。"
+      ],
+      "antonyms": [
+        "stability：稳定不变。"
+      ],
+      "confusables": [
+        "a change 是变化；change 还可表示零钱。"
+      ]
     },
     {
       "id": 4,
@@ -148,9 +166,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "coins：硬币；change 也可指付款后找回的钱。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "change 作“零钱”时通常是不可数名词。"
+      ]
     },
     {
       "id": 5,
@@ -182,9 +204,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "reconsider：重新考虑；change your mind 强调最后想法变了。"
+      ],
+      "antonyms": [
+        "stick to a decision：坚持原决定。"
+      ],
+      "confusables": [
+        "change your mind 是改变主意，不是更换大脑。"
+      ]
     }
   ]
 }

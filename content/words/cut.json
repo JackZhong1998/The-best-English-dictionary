@@ -13,8 +13,8 @@
     "减少",
     "中断"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "中古英语已有 cutten，早期来源有不同解释。",
+  "semantic_shift": "从用刀分开实物，扩展到删去内容、切断联系和削减数量。",
   "senses": [
     {
       "id": 1,
@@ -46,9 +46,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "slice：强调切成片；cut 是更一般的“切”。"
+      ],
+      "antonyms": [
+        "join：把分开的部分接起来。"
+      ],
+      "confusables": [
+        "cut hair 是剪发，不一定用刀切。"
+      ]
     },
     {
       "id": 2,
@@ -80,9 +86,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "reduce：减少；cut 常带主动削减的意味。"
+      ],
+      "antonyms": [
+        "increase：增加。"
+      ],
+      "confusables": [
+        "cut costs 是削减成本；cut off 是切断。"
+      ]
     },
     {
       "id": 3,
@@ -114,9 +126,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "remove：移走；cut out 常指从整体删去。"
+      ],
+      "antonyms": [
+        "add：添加进去。"
+      ],
+      "confusables": [
+        "cut off 是切断；cut out 是剪掉、删掉或戒掉。"
+      ]
     },
     {
       "id": 4,
@@ -148,9 +166,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "wound：泛指伤口；cut 特指被尖锐物划出的口子。"
+      ],
+      "antonyms": [
+        "healing：伤口愈合。"
+      ],
+      "confusables": [
+        "a cut 是伤口；a bruise 是撞出的淤青。"
+      ]
     },
     {
       "id": 5,
@@ -182,9 +206,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "stop：停止；cut out 常说停止食用或使用某物。"
+      ],
+      "antonyms": [
+        "start：开始。"
+      ],
+      "confusables": [
+        "cut out sugar 是不吃糖，不是把糖切开。"
+      ]
     }
   ]
 }

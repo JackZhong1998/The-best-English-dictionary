@@ -15,8 +15,8 @@
     "轻的",
     "点燃"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "“光”来自古英语 lēoht；“轻”来自另一条古英语词源 leoht。两者同形，来源不同。",
+  "semantic_shift": "光可成为灯光、灯，也能作动词表示点燃；重量轻与颜色浅不能简单当作“光”的引申。",
   "senses": [
     {
       "id": 1,
@@ -48,9 +48,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "brightness：泛指亮度；light 也指照亮事物的光。"
+      ],
+      "antonyms": [
+        "darkness：没有光的黑暗。"
+      ],
+      "confusables": [
+        "light 作“光”与作“轻的”来自不同古英语词根。"
+      ]
     },
     {
       "id": 2,
@@ -82,9 +88,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "lamp：具体指一盏灯；light 范围更广。"
+      ],
+      "antonyms": [
+        "darkness：灯灭后可能出现的黑暗。"
+      ],
+      "confusables": [
+        "a light 是灯；light 还可作形容词“明亮的”。"
+      ]
     },
     {
       "id": 3,
@@ -116,9 +128,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "not heavy：直接说明重量不大。"
+      ],
+      "antonyms": [
+        "heavy：重量大的。"
+      ],
+      "confusables": [
+        "light bag 是轻的包；light room 是明亮的房间。"
+      ]
     },
     {
       "id": 4,
@@ -150,9 +168,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "slight：程度小；light 还可形容工作量少。"
+      ],
+      "antonyms": [
+        "heavy：可指工作量大或程度重。"
+      ],
+      "confusables": [
+        "light rain 是小雨；light blue 是浅蓝色。"
+      ]
     },
     {
       "id": 5,
@@ -184,9 +208,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "ignite：较正式，指使某物开始燃烧。"
+      ],
+      "antonyms": [
+        "put out：把火熄灭。"
+      ],
+      "confusables": [
+        "light a candle 是点蜡烛；turn on a light 是开灯。"
+      ]
     },
     {
       "id": 6,
@@ -218,9 +248,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "pale：颜色浅；light 可直接放在颜色词前。"
+      ],
+      "antonyms": [
+        "dark：颜色深的。"
+      ],
+      "confusables": [
+        "light blue 是浅蓝；a blue light 是蓝色的灯光。"
+      ]
     }
   ]
 }

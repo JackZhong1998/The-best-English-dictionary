@@ -13,8 +13,8 @@
     "称作",
     "电话"
   ],
-  "etymology": "",
-  "semantic_shift": "",
+  "etymology": "主要源自古诺尔斯语 kalla，兼有“大声呼喊”和“命名”的意思。",
+  "semantic_shift": "从出声呼喊，扩展到用电话联系；“称作”保留了给人或物起名的用法。",
   "senses": [
     {
       "id": 1,
@@ -46,9 +46,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "shout：强调大声说；call 常带有喊某人来或注意的目的。"
+      ],
+      "antonyms": [
+        "whisper：低声说。"
+      ],
+      "confusables": [
+        "call someone 可指喊他，也可指给他打电话，需看语境。"
+      ]
     },
     {
       "id": 2,
@@ -80,9 +86,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "phone：指通过电话联系，语气直接。"
+      ],
+      "antonyms": [
+        "hang up：结束通话。"
+      ],
+      "confusables": [
+        "call back 是回电话；call off 是取消。"
+      ]
     },
     {
       "id": 3,
@@ -114,9 +126,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "name：指给人或物命名；call 也可说日常称呼。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "call him Tom 是“叫他汤姆”，不是“打电话给汤姆”。"
+      ]
     },
     {
       "id": 4,
@@ -148,9 +164,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "phone call：明确表示一通电话。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "a call 是名词；call 作动词表示打电话或呼喊。"
+      ]
     },
     {
       "id": 5,
@@ -182,9 +202,15 @@
           ]
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "confusables": []
+      "synonyms": [
+        "cancel：泛指取消；call off 常用于已安排的活动。"
+      ],
+      "antonyms": [
+        "go ahead with：按计划继续。"
+      ],
+      "confusables": [
+        "call off 是取消；put off 是推迟，不一定取消。"
+      ]
     },
     {
       "id": 6,
@@ -216,9 +242,13 @@
           ]
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "require：表示需要；call for 常带“情况要求”的意味。"
+      ],
       "antonyms": [],
-      "confusables": []
+      "confusables": [
+        "call for help 可以是“呼救”；call for patience 是“需要耐心”。"
+      ]
     }
   ]
 }
