@@ -118,6 +118,16 @@ class PostgresRepository:
             return None
         return json.loads(row[0]) if isinstance(row[0], str) else row[0]
 
+    def lookup_ready_clip(self, key: str) -> str | None:
+        with self.psycopg.connect(self.database_url, connect_timeout=5) as conn:
+            with conn.cursor() as cur:
+                cur.execute(
+                    "SELECT object_key FROM audio_cache WHERE cache_key = %s AND state = 'ready'",
+                    (key,),
+                )
+                row = cur.fetchone()
+        return row[0] if row else None
+
     def claim_clip(
         self, key: str, object_key: str, visitor: str, visitor_limit: int,
         global_limit: int, storage_limit: int,
@@ -280,13 +290,14 @@ class EdgeSynthesizer:
 
 class AudioService:
     def __init__(self, repository, storage, synthesizer, visitor_limit=5,
-                 global_limit=100, storage_limit=8_000_000_000):
+                 global_limit=100, storage_limit=8_000_000_000, generation_enabled=True):
         self.repository = repository
         self.storage = storage
         self.synthesizer = synthesizer
         self.visitor_limit = visitor_limit
         self.global_limit = global_limit
         self.storage_limit = storage_limit
+        self.generation_enabled = generation_enabled
 
     def fetch(self, word: str, locator: tuple[int, int, int] | None, visitor: str) -> tuple[int, dict]:
         entry = self.repository.lookup_entry(word)
@@ -294,6 +305,11 @@ class AudioService:
             raise AudioError(404, "not_found")
         text = resolve_text(entry, word, locator)
         key = clip_key(text)
+        if not self.generation_enabled:
+            cached_key = self.repository.lookup_ready_clip(key)
+            if cached_key and self.storage.exists(cached_key) is not None:
+                return 200, {"status": "ready", "url": self.storage.url(cached_key), "cached": True}
+            raise AudioError(503, "unavailable")
         object_key = f"audio/v1/{key}.mp3"
         for _ in range(2):
             state, stored_key, token = self.repository.claim_clip(
@@ -365,6 +381,7 @@ class handler(BaseHTTPRequestHandler):
                 visitor_limit=int(os.getenv("AUDIO_VISITOR_DAILY_LIMIT", "5")),
                 global_limit=int(os.getenv("AUDIO_GLOBAL_DAILY_LIMIT", "100")),
                 storage_limit=int(os.getenv("AUDIO_STORAGE_MAX_BYTES", "8000000000")),
+                generation_enabled=os.getenv("AUDIO_GENERATION_ENABLED") == "1",
             )
             status, payload = service.fetch(word, locator, visitor)
         except AudioError as exc:

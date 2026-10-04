@@ -16,7 +16,7 @@ for (const item of records) {
   if (!item || typeof item.word !== 'string' || !/^[a-z][a-z'-]*$/.test(item.word)) { errors.push('Catalog has invalid headword'); continue }
   if (seenWords.has(item.word)) errors.push(`Catalog duplicate: ${item.word}`)
   seenWords.add(item.word)
-  if (!['basic', 'draft', 'review', 'published'].includes(item.status)) errors.push(`${item.word}: invalid editorial status`)
+  if (!['basic', 'draft', 'reviewed', 'published'].includes(item.status)) errors.push(`${item.word}: invalid editorial status`)
   if (typeof item.basic_zh !== 'string' || !item.basic_zh.trim()) errors.push(`${item.word}: missing basic_zh`)
   if (!Array.isArray(item.exam_categories) || !item.exam_categories.length) errors.push(`${item.word}: missing exam category`)
   if (!Array.isArray(item.review_records)) errors.push(`${item.word}: missing review history`)

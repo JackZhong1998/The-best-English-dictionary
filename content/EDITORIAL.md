@@ -4,7 +4,7 @@
 
 `pilot_cet4.tsv` 是本项目独立挑选的 100 个常见英语词头与新写的基础中文提示，不是官方四级词表，也没有复制其他词典的释义、例句或选词顺序。`CET4-level candidate` 只表示计划面向四级程度读者；发布前仍需按教学范围核对。`catalog.json` 中的 `source_file` 指向可追溯的词表文件。
 
-现有 30 个完整词条标为 `published`，但 `review_records` 为空：这表示此前没有独立复核记录，不把它们冒充为已复核。其余 70 个只有 `basic_zh`，标为 `basic`，不能展示不存在的详细释义或播放按钮。
+原有 30 个完整词条标为 `published`，但 `review_records` 为空：这表示此前没有独立复核记录，不把它们冒充为已复核。新写的 10 个词条完成独立复核后也已发布；目前另有 60 个词只有 `basic_zh`，标为 `basic`，不能展示不存在的详细释义或播放按钮。
 
 ## 批次和复核
 
@@ -20,6 +20,10 @@ python3 scripts/content_pipeline.py publish ability
 ```
 
 `stage` 检查主要结构、至少两组例句和搭配、例句长度；`review` 要求复核者与作者不同，并记录候选内容哈希；`publish` 再核对哈希。修改候选词条需重新 `stage`，旧复核记录失效。新增一个 25 词批次可用 `extend /path/to/new-batch.tsv --category CET6`，输入 TSV 必须含 `word` 和原创 `basic_zh` 两列；输入文件会保存到 `content/wordlists/`。六级、考研阶段的词表需要另行整理与核对，目前并未宣称已完成。
+
+修订已发布词条时仍使用相同的 `stage → review → publish` 命令。`stage` 会在 `catalog.json` 的该词下记录 `revision`，保持主状态为 `published`，线上继续读取 `content/words/` 中的旧版本。另一位复核者接受新稿后，`publish` 校验内容哈希，再替换旧文件并增加版本号；原有复核记录不会丢失。中途停下可用 `status` 查看待修订词，随后从 `review` 或 `publish` 接着做。如果审核后修改了稿件，必须重新 `stage` 并复核。
+
+`review` 可选填 `--issues-found 2 --corrections 1`，分别记录本次发现的问题数和已完成的修订数。未填时不写数字字段，批次报告将其显示为“未记录”，不会推测为零。
 
 音频与内容是两个关卡：高频词发布时校验预生成音频；其他词须在站点的在线 TTS 及缓存可用后才开放相应播放入口。任何线上生成失败都应保留可读的文字内容。
 

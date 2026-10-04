@@ -32,6 +32,21 @@ def today():
     return dt.date.today().isoformat()
 
 
+def content_digest(entry):
+    return hashlib.sha256(json.dumps(entry, ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()
+
+
+def file_digest(data):
+    return hashlib.sha256(data).hexdigest()
+
+
+def nonnegative_int(value):
+    number = int(value)
+    if number < 0:
+        raise argparse.ArgumentTypeError("count must be a nonnegative integer")
+    return number
+
+
 def save_catalog(catalog):
     temp = CATALOG.with_suffix(".json.tmp")
     temp.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -156,6 +171,8 @@ def status(_args):
         counts = {state: sum(item["status"] == state for item in items) for state in ("basic", "draft", "reviewed", "published")}
         print(f"Batch {batch}: {counts}")
     print("Next basic headwords:", ", ".join(item["word"] for item in catalog["entries"] if item["status"] == "basic") or "none")
+    revisions = [item for item in catalog["entries"] if item.get("revision")]
+    print("Published entries with pending revisions:", ", ".join(f"{item['word']} ({item['revision']['status']})" for item in revisions) or "none")
 
 
 def extend(args):
@@ -199,12 +216,29 @@ def review_required(catalog, item):
 def stage(args):
     catalog = load_catalog()
     item = record(catalog, args.word)
-    if item["status"] == "published":
-        raise SystemExit("Already published")
     candidate = json.loads(Path(args.file).read_text(encoding="utf-8"))
     problems = validate_candidate(candidate, args.word)
     if problems:
         raise SystemExit("Candidate failed: " + "; ".join(problems))
+    if item["status"] == "published":
+        published = WORDS / f"{args.word}.json"
+        if not published.exists():
+            raise SystemExit("Published entry file is missing")
+        previous = item.get("revision") or {}
+        revision = {
+            "status": "draft",
+            "author": args.author,
+            "risk_flags": args.risk or [],
+            "base_version": item["content_version"],
+            "base_sha256": file_digest(published.read_bytes()),
+            "review_records": previous.get("review_records", []),
+        }
+        DRAFTS.mkdir(exist_ok=True)
+        (DRAFTS / f"{args.word}.json").write_text(json.dumps(candidate, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        item["revision"] = revision
+        save_catalog(catalog)
+        print(f"Staged revision of published {args.word} v{item['content_version']}; independent review required.")
+        return
     DRAFTS.mkdir(exist_ok=True)
     target = DRAFTS / f"{args.word}.json"
     target.write_text(json.dumps(candidate, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -219,18 +253,35 @@ def stage(args):
 def review(args):
     catalog = load_catalog()
     item = record(catalog, args.word)
-    if item["status"] != "draft":
+    revision = item.get("revision") if item["status"] == "published" else None
+    if revision:
+        if revision["status"] != "draft":
+            raise SystemExit("Restage the changed revision before reviewing it again")
+        author = revision["author"]
+    elif item["status"] == "draft":
+        author = item["author"]
+    else:
         raise SystemExit("Only staged drafts can be reviewed")
-    if args.reviewer == item["author"]:
+    if args.reviewer == author:
         raise SystemExit("Reviewer must differ from author")
     candidate = json.loads((DRAFTS / f"{args.word}.json").read_text(encoding="utf-8"))
     problems = validate_candidate(candidate, args.word)
     if problems:
         raise SystemExit("Draft no longer passes validation: " + "; ".join(problems))
-    digest = hashlib.sha256(json.dumps(candidate, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
-    item["review_records"].append({"date": today(), "reviewer": args.reviewer, "decision": args.decision, "notes": args.notes, "sha256": digest})
-    if args.decision == "accept":
-        item["status"] = "reviewed"
+    digest = content_digest(candidate)
+    review_record = {"date": today(), "reviewer": args.reviewer, "decision": args.decision, "notes": args.notes, "sha256": digest}
+    if args.issues_found is not None:
+        review_record["issue_count"] = args.issues_found
+    if args.corrections is not None:
+        review_record["correction_count"] = args.corrections
+    if revision:
+        revision["review_records"].append(review_record)
+        if args.decision == "accept":
+            revision["status"] = "reviewed"
+    else:
+        item["review_records"].append(review_record)
+        if args.decision == "accept":
+            item["status"] = "reviewed"
     save_catalog(catalog)
     print(f"Recorded {args.decision} review for {args.word}.")
 
@@ -238,6 +289,41 @@ def review(args):
 def publish(args):
     catalog = load_catalog()
     item = record(catalog, args.word)
+    if item["status"] == "published" and item.get("revision"):
+        revision = item["revision"]
+        if revision["status"] != "reviewed" or not revision["review_records"]:
+            raise SystemExit("Published-entry revisions require an accepted independent review")
+        latest = revision["review_records"][-1]
+        if latest["decision"] != "accept" or latest["reviewer"] == revision["author"]:
+            raise SystemExit("Revision needs an independent accepted review")
+        if revision["base_version"] != item["content_version"]:
+            raise SystemExit("Published version changed; restage the revision")
+        source = DRAFTS / f"{args.word}.json"
+        candidate = json.loads(source.read_text(encoding="utf-8"))
+        problems = validate_candidate(candidate, args.word)
+        if problems:
+            raise SystemExit("Draft failed validation: " + "; ".join(problems))
+        if latest["sha256"] != content_digest(candidate):
+            raise SystemExit("Revision changed after review; restage and review again")
+        rendered = (json.dumps(candidate, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
+        target = WORDS / f"{args.word}.json"
+        current_digest = file_digest(target.read_bytes())
+        if current_digest == revision["base_sha256"]:
+            temporary = target.with_suffix(".json.tmp")
+            temporary.write_bytes(rendered)
+            temporary.replace(target)
+        elif current_digest != file_digest(rendered):
+            raise SystemExit("Published file changed outside this revision; restage")
+        # If the file already matches rendered, the last publish was interrupted
+        # after file replacement. Finalize the catalog without replacing again.
+        item["content_version"] = revision["base_version"] + 1
+        item["author"] = revision["author"]
+        item["risk_flags"] = revision["risk_flags"]
+        item["review_records"].extend(revision["review_records"])
+        del item["revision"]
+        save_catalog(catalog)
+        print(f"Published revised {args.word} v{item['content_version']}.")
+        return
     if item["status"] not in ("draft", "reviewed"):
         raise SystemExit("Only staged or reviewed candidates can be published")
     if review_required(catalog, item) and item["status"] != "reviewed":
@@ -249,7 +335,7 @@ def publish(args):
     problems = validate_candidate(candidate, args.word)
     if problems:
         raise SystemExit("Draft failed validation: " + "; ".join(problems))
-    digest = hashlib.sha256(json.dumps(candidate, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
+    digest = content_digest(candidate)
     if item["status"] == "reviewed" and item["review_records"][-1]["sha256"] != digest:
         raise SystemExit("Draft changed after review")
     shutil.copyfile(source, WORDS / f"{args.word}.json")
@@ -279,6 +365,8 @@ def main():
     reviewed.add_argument("--reviewer", required=True)
     reviewed.add_argument("--decision", choices=("accept", "reject"), required=True)
     reviewed.add_argument("--notes", required=True)
+    reviewed.add_argument("--issues-found", type=nonnegative_int, help="Number of issues found in this review")
+    reviewed.add_argument("--corrections", type=nonnegative_int, help="Number of corrections completed in this review")
     reviewed.set_defaults(func=review)
     published = commands.add_parser("publish")
     published.add_argument("word")
