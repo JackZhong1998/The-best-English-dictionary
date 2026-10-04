@@ -245,7 +245,7 @@ def stage(args):
     item["status"] = "draft"
     item["author"] = args.author
     item["risk_flags"] = args.risk or []
-    item["review_records"] = []  # A changed draft invalidates previous reviews.
+    # Retain prior decisions for audit. Their hashes cannot approve a new draft.
     save_catalog(catalog)
     print(f"Staged {args.word}; independent review {'required' if review_required(catalog, item) else 'sampled for other words in this batch'}.")
 
@@ -328,16 +328,19 @@ def publish(args):
         raise SystemExit("Only staged or reviewed candidates can be published")
     if review_required(catalog, item) and item["status"] != "reviewed":
         raise SystemExit("Independent review is required for this word")
-    if item["review_records"] and item["review_records"][-1]["decision"] == "reject":
-        raise SystemExit("Rejected draft must be restaged before publication")
     source = DRAFTS / f"{args.word}.json"
     candidate = json.loads(source.read_text(encoding="utf-8"))
     problems = validate_candidate(candidate, args.word)
     if problems:
         raise SystemExit("Draft failed validation: " + "; ".join(problems))
     digest = content_digest(candidate)
-    if item["status"] == "reviewed" and item["review_records"][-1]["sha256"] != digest:
-        raise SystemExit("Draft changed after review")
+    latest = item["review_records"][-1] if item["review_records"] else None
+    if latest and latest["decision"] == "reject":
+        raise SystemExit("Rejected draft needs a new accepted review")
+    if latest and latest["sha256"] != digest:
+        raise SystemExit("Draft changed after its last review; review the current draft")
+    if item["status"] == "reviewed" and (not latest or latest["decision"] != "accept" or latest["reviewer"] == item["author"]):
+        raise SystemExit("Independent accepted review is required")
     shutil.copyfile(source, WORDS / f"{args.word}.json")
     item["status"] = "published"
     item["content_version"] += 1

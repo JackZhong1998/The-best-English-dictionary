@@ -1,0 +1,59 @@
+{
+  "word": "almost",
+  "phonetic": "/ˈɔːlmoʊst/",
+  "syllables": [
+    "al",
+    "most"
+  ],
+  "pos": [
+    "adv."
+  ],
+  "core_meanings": [
+    "几乎",
+    "差不多"
+  ],
+  "etymology": "源自古英语 eallmæst，由表示“全部”的 all 与 most 组合而成。",
+  "semantic_shift": "早期表示“几乎全部”，后来也用于数量、程度或动作快要达到某个点。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adv.",
+      "en_definition": "very nearly but not completely",
+      "zh_definition": "非常接近，但尚未完全达到",
+      "usages": [
+        {
+          "usage_label": "几乎",
+          "collocations": [
+            {
+              "phrase": "almost ready",
+              "translation": "差不多准备好了"
+            },
+            {
+              "phrase": "almost everyone",
+              "translation": "几乎所有人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We are almost ready to leave.",
+              "zh": "我们差不多准备好出发了。"
+            },
+            {
+              "en": "Almost everyone agreed with her.",
+              "zh": "几乎所有人都同意她的看法。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "nearly：意思很接近；almost 可自然修饰 every、all、always 等词。"
+      ],
+      "antonyms": [
+        "exactly：表示恰好达到某个数字或程度。"
+      ],
+      "confusables": [
+        "almost everyone 是“几乎所有人”，不能写 most almost people。"
+      ]
+    }
+  ]
+}

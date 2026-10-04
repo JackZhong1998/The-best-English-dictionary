@@ -1,0 +1,138 @@
+{
+  "word": "appear",
+  "phonetic": "/əˈpɪr/",
+  "syllables": [
+    "ap",
+    "pear"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "出现",
+    "似乎",
+    "出场"
+  ],
+  "etymology": "经古法语 aparoir，最终来自拉丁语 apparere“出现、显现”。",
+  "semantic_shift": "从进入视野，扩展到在公众面前出现；事情呈现某种样子时，也可以表示“似乎”。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to come into sight",
+      "zh_definition": "进入视野，出现",
+      "usages": [
+        {
+          "usage_label": "出现",
+          "collocations": [
+            {
+              "phrase": "appear suddenly",
+              "translation": "突然出现"
+            },
+            {
+              "phrase": "appear in the sky",
+              "translation": "出现在天空中"
+            }
+          ],
+          "examples": [
+            {
+              "en": "A rainbow appeared after the rain.",
+              "zh": "雨后出现了一道彩虹。"
+            },
+            {
+              "en": "The sun appeared from behind the clouds.",
+              "zh": "太阳从云后露了出来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "emerge：强调从隐藏处显露出来；appear 泛指进入视野。"
+      ],
+      "antonyms": [
+        "disappear：消失。"
+      ],
+      "confusables": [
+        "appear 是出现；disappear 是消失，前缀 dis- 改变了意思。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to seem to be true or to have a quality",
+      "zh_definition": "看起来似乎如此",
+      "usages": [
+        {
+          "usage_label": "似乎",
+          "collocations": [
+            {
+              "phrase": "appear to be tired",
+              "translation": "看起来很累"
+            },
+            {
+              "phrase": "it appears that",
+              "translation": "看起来似乎……"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She appears to be tired.",
+              "zh": "她看起来很累。"
+            },
+            {
+              "en": "It appears that we are late.",
+              "zh": "看起来我们迟到了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "seem：也表示似乎；appear 稍正式，常基于可观察到的迹象。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "appear to do 表示看起来会做某事，不一定真的如此。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to take part in a show or public event",
+      "zh_definition": "在节目或公众活动中出场",
+      "usages": [
+        {
+          "usage_label": "出场",
+          "collocations": [
+            {
+              "phrase": "appear on television",
+              "translation": "上电视"
+            },
+            {
+              "phrase": "appear in a film",
+              "translation": "出演电影"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He appeared on television last night.",
+              "zh": "他昨晚出现在电视节目中。"
+            },
+            {
+              "en": "She appeared in several films.",
+              "zh": "她出演过几部电影。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "perform：强调表演行为；appear 只强调在节目中出场。"
+      ],
+      "antonyms": [
+        "be absent：没有出场。"
+      ],
+      "confusables": [
+        "appear in a film 是参演电影，不只是偶然出现在画面里。"
+      ]
+    }
+  ]
+}

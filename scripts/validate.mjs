@@ -3,7 +3,10 @@ import path from 'node:path'
 
 const root = path.resolve(import.meta.dirname, '..')
 const legacyWords = new Set(['break', 'call', 'case', 'change', 'charge', 'come', 'cut', 'draw', 'drive', 'fall', 'get', 'go', 'hold', 'keep', 'leave', 'light', 'line', 'make', 'matter', 'move', 'order', 'pass', 'play', 'point', 'put', 'right', 'run', 'set', 'take', 'turn'])
-const preGeneratedWords = new Set([...legacyWords, 'ability', 'accept', 'access', 'achieve', 'active', 'activity', 'advantage', 'affect', 'afford', 'agree'])
+const audioRoot = path.join(root, 'public', 'audio')
+const preGeneratedWords = new Set([...legacyWords, ...fs.readdirSync(audioRoot, { withFileTypes: true })
+  .filter((item) => item.isDirectory() && fs.existsSync(path.join(audioRoot, item.name, 'word.mp3')))
+  .map((item) => item.name)])
 const errors = []
 const seenExamples = new Map()
 const requireAudio = !process.argv.includes('--content-only')

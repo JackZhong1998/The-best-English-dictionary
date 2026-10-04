@@ -1,6 +1,6 @@
 # 词义之间
 
-面向中文学习者的英汉词典。网站先收录词头和原创基础释义，再由本地 Codex 制作并复核完整词条；尚未精修的词仍可查询。现有 30 个高频词条及其音频已迁入新接口；另有 10 个新词经独立复核并预生成美音。当前共 458 个音频文件。100 词四级水平试批的状态记录在 `content/catalog.json`，其中的“CET4-level candidate”是独立编辑选择，不声称来自官方四级词表。
+面向中文学习者的英汉词典。网站先收录词头和原创基础释义，再由本地 Codex 制作并复核完整词条；尚未精修的词仍可查询。现有 30 个高频词条及其音频已迁入新接口；另有 20 个新词经独立复核并预生成美音。当前共 532 个音频文件。100 词四级水平试批的状态记录在 `content/catalog.json`，其中的“CET4-level candidate”是独立编辑选择，不声称来自官方四级词表。
 
 ## 本地运行和校验
 
@@ -28,7 +28,7 @@ Vite 开发服务器使用导出的静态试批数据，入口为 `http://127.0.
 
 `vercel.json` 保证 `/word/:word` 直达链接返回 Vite 页面。网页从 `/api/words` 分页查询词头，从 `/api/entries/:word` 获取单个词条；当数据库不可用时，100 词试批仍可通过静态导出阅读。正式扩大到数万词时，数据库是搜索的主要来源，不能把完整 JSON 打进浏览器包。
 
-运行数据库初始化脚本 `db/schema.sql`、`db/audio.sql`，在 Vercel 项目设置 `DATABASE_URL`，然后运行 `node scripts/import_entries.mjs`。每次内容发布后重复导入；脚本按词头幂等更新。Python Function 的依赖列在 `requirements.txt`。按需发音还需要以下环境变量：
+运行数据库初始化脚本 `db/schema.sql`、`db/audio.sql`，在 Vercel 项目设置 `DATABASE_URL`，然后运行 `node scripts/import_entries.mjs`。每次内容发布后可用 `node scripts/import_entries.mjs --batch N` 仅导入对应 25 词批次；脚本按词头幂等更新，中断后可重跑。Python Function 的依赖列在 `requirements.txt`。按需发音还需要以下环境变量：
 
 | 变量 | 用途 |
 | --- | --- |
@@ -40,7 +40,7 @@ Vite 开发服务器使用导出的静态试批数据，入口为 `http://127.0.
 | `AUDIO_GLOBAL_DAILY_LIMIT` | 可选，默认全站每天 100 次新生成 |
 | `AUDIO_STORAGE_MAX_BYTES` | 可选，默认 8 GB；达到阈值暂停新增生成 |
 
-`GET /api/audio?word=...` 只能读取已发布词条的词头；例句需加 `senseId`、`usageId`、`exampleId`。接口不能接受任意 TTS 文本。首次生成可能返回 202，浏览器等待后重试；成功音频由 R2 缓存，缓存命中不计入新生成额度。当前 40 个完整词条优先读取仓库内的预生成 MP3。线上 `edge-tts` 依赖外部服务，必须在 Vercel 预览环境完成单词、例句、首次等待、失败重试、并发去重和 R2 命中实测后才启用正式站；若不稳定，保留本地预生成，不自动切换付费 TTS。
+`GET /api/audio?word=...` 只能读取已发布词条的词头；例句需加 `senseId`、`usageId`、`exampleId`。接口不能接受任意 TTS 文本。首次生成可能返回 202，浏览器等待后重试；成功音频由 R2 缓存，缓存命中不计入新生成额度。当前 50 个完整词条优先读取仓库内的预生成 MP3。线上 `edge-tts` 依赖外部服务，必须在 Vercel 预览环境完成单词、例句、首次等待、失败重试、并发去重和 R2 命中实测后才启用正式站；若不稳定，保留本地预生成，不自动切换付费 TTS。
 
 音频结果会写入数据库的 `audio_generation_events`；`audio_generation_daily` 和 `audio_generation_failures_daily` 视图分别提供每日失败率与错误原因统计。关闭新增在线生成时，已缓存的 R2 音频仍可播放。
 

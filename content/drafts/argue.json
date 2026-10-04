@@ -1,0 +1,140 @@
+{
+  "word": "argue",
+  "phonetic": "/ˈɑːrɡjuː/",
+  "syllables": [
+    "ar",
+    "gue"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "争论",
+    "论证",
+    "主张"
+  ],
+  "etymology": "经古法语 arguer，最终与拉丁语 arguere“说明、证明”有关。",
+  "semantic_shift": "从用理由说明观点，发展出与人意见相左时的争论；在正式语境中仍保留提出论据的意思。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to disagree with someone, often angrily",
+      "zh_definition": "与人意见不合并发生争论，常带怒气",
+      "usages": [
+        {
+          "usage_label": "争论",
+          "collocations": [
+            {
+              "phrase": "argue with a friend",
+              "translation": "与朋友争论"
+            },
+            {
+              "phrase": "argue about money",
+              "translation": "为钱争吵"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They argued about the price.",
+              "zh": "他们为价格争论起来。"
+            },
+            {
+              "en": "I do not want to argue with you.",
+              "zh": "我不想和你争吵。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "quarrel：更强调不愉快的争吵；argue 也可指理性讨论。"
+      ],
+      "antonyms": [
+        "agree：意见一致。"
+      ],
+      "confusables": [
+        "argue with 后接争论对象；argue about 后接争论话题。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to give reasons for a position",
+      "zh_definition": "提出理由支持某个观点",
+      "usages": [
+        {
+          "usage_label": "论证",
+          "collocations": [
+            {
+              "phrase": "argue for change",
+              "translation": "提出理由支持改变"
+            },
+            {
+              "phrase": "argue against a plan",
+              "translation": "提出反对计划的理由"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She argued for a change in the rules.",
+              "zh": "她提出了修改规则的理由。"
+            },
+            {
+              "en": "He argued against the new plan.",
+              "zh": "他提出理由反对新计划。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "reason：偏重推理过程；argue 强调提出一套理由。"
+      ],
+      "antonyms": [
+        "accept without question：不经质疑就接受。"
+      ],
+      "confusables": [
+        "argue for 是提出支持理由，不一定是吵架。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to say that something is true and give reasons",
+      "zh_definition": "有理由地主张某事属实",
+      "usages": [
+        {
+          "usage_label": "主张",
+          "collocations": [
+            {
+              "phrase": "argue that something is true",
+              "translation": "论证某事属实"
+            },
+            {
+              "phrase": "argue the case",
+              "translation": "为某个主张提出理由"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The writer argues that reading builds empathy.",
+              "zh": "作者主张阅读能培养同理心。"
+            },
+            {
+              "en": "Some experts argue that the rule is unfair.",
+              "zh": "一些专家认为这项规定不公平，并提出了理由。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "claim：仅表示声称；argue 暗示会给出理由。"
+      ],
+      "antonyms": [
+        "concede：承认对方观点有道理。"
+      ],
+      "confusables": [
+        "argue that 后接完整句子，常用于文章和正式讨论。"
+      ]
+    }
+  ]
+}
