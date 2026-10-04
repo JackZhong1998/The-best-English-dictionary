@@ -17,7 +17,12 @@ const catalog = fs.existsSync(catalogFile)
 
 const publicEntries = catalog.entries
   .filter((item) => ['basic', 'draft', 'review', 'published'].includes(item.status))
-  .map((item) => ({ ...item, status: item.status === 'published' ? 'published' : 'basic' }))
+  .map((item) => ({
+    word: item.word,
+    basic_zh: item.basic_zh,
+    exam_categories: item.exam_categories,
+    status: item.status === 'published' ? 'published' : 'basic',
+  }))
 fs.writeFileSync(path.join(target, 'catalog.json'), JSON.stringify({ version: catalog.version, entries: publicEntries }))
 for (const item of publicEntries) {
   if (item.status !== 'published') continue
