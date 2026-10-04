@@ -1,0 +1,141 @@
+{
+  "word": "access",
+  "phonetic": "/ˈækses/",
+  "syllables": [
+    "ac",
+    "cess"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "进入或使用的机会",
+    "通道",
+    "获取"
+  ],
+  "etymology": "经古法语 acces，最终来自拉丁语 accessus“走近、进入”；动词用法由名词发展而来。",
+  "semantic_shift": "从走近一个地方，扩展到进入的通道或权利；现代用法也指获取数字信息。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the right or chance to use something",
+      "zh_definition": "使用某物的权利或机会",
+      "usages": [
+        {
+          "usage_label": "使用权",
+          "collocations": [
+            {
+              "phrase": "have access to the internet",
+              "translation": "可以上网"
+            },
+            {
+              "phrase": "easy access to information",
+              "translation": "便于获取信息"
+            }
+          ],
+          "examples": [
+            {
+              "en": "All students have access to the library.",
+              "zh": "所有学生都可以使用图书馆。"
+            },
+            {
+              "en": "Many homes still lack access to clean water.",
+              "zh": "许多家庭仍无法获得洁净的水。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "availability：强调东西可供使用；access 强调人能够接触或使用它。"
+      ],
+      "antonyms": [
+        "lack of access：表示无法获得使用机会。"
+      ],
+      "confusables": [
+        "access to 后接名词；这里的 to 是介词，不接动词原形。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a way into a place",
+      "zh_definition": "进入某处的通道",
+      "usages": [
+        {
+          "usage_label": "通道",
+          "collocations": [
+            {
+              "phrase": "road access",
+              "translation": "道路通行条件"
+            },
+            {
+              "phrase": "access to the building",
+              "translation": "进入大楼的通道"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This gate gives access to the garden.",
+              "zh": "这扇门通往花园。"
+            },
+            {
+              "en": "The road provides access to the village.",
+              "zh": "这条路通往村庄。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "entrance：多指具体入口；access 也可指通往入口的道路。"
+      ],
+      "antonyms": [
+        "exit：离开的出口。"
+      ],
+      "confusables": [
+        "access 在此是“通道”，不只是登录账号的权限。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to find or use information or a service",
+      "zh_definition": "获取或使用信息、服务",
+      "usages": [
+        {
+          "usage_label": "获取信息",
+          "collocations": [
+            {
+              "phrase": "access a website",
+              "translation": "访问网站"
+            },
+            {
+              "phrase": "access your files",
+              "translation": "读取你的文件"
+            }
+          ],
+          "examples": [
+            {
+              "en": "You can access the course online.",
+              "zh": "你可以在线使用这门课程。"
+            },
+            {
+              "en": "I cannot access my files today.",
+              "zh": "我今天无法读取我的文件。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "retrieve：强调把资料取回；access 强调能够进入系统或使用资料。"
+      ],
+      "antonyms": [
+        "block：阻止访问。"
+      ],
+      "confusables": [
+        "access 作动词直接接宾语：access a website，不说 access to a website。"
+      ]
+    }
+  ]
+}

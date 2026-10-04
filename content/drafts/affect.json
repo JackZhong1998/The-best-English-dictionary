@@ -1,0 +1,99 @@
+{
+  "word": "affect",
+  "phonetic": "/əˈfekt/",
+  "syllables": [
+    "af",
+    "fect"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "影响",
+    "打动"
+  ],
+  "etymology": "与拉丁语 afficere“对……产生作用”及其过去分词 affectus 有关。",
+  "semantic_shift": "从外界对人或物施加作用，扩展到影响结果和触动感情。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to cause a change in someone or something",
+      "zh_definition": "对人或事物产生影响",
+      "usages": [
+        {
+          "usage_label": "影响",
+          "collocations": [
+            {
+              "phrase": "affect the result",
+              "translation": "影响结果"
+            },
+            {
+              "phrase": "affect people's lives",
+              "translation": "影响人们的生活"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The weather may affect our plans.",
+              "zh": "天气可能影响我们的计划。"
+            },
+            {
+              "en": "This change will affect many students.",
+              "zh": "这一变化将影响许多学生。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "influence：也表示影响；affect 更直接指产生了作用或变化。"
+      ],
+      "antonyms": [
+        "leave unchanged：使保持原状。"
+      ],
+      "confusables": [
+        "affect 通常是动词；effect 常是名词，表示结果或影响。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make someone feel a strong emotion",
+      "zh_definition": "深深触动某人的情绪",
+      "usages": [
+        {
+          "usage_label": "打动",
+          "collocations": [
+            {
+              "phrase": "be deeply affected",
+              "translation": "深受触动"
+            },
+            {
+              "phrase": "affect someone emotionally",
+              "translation": "在情感上影响某人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her story deeply affected me.",
+              "zh": "她的故事深深打动了我。"
+            },
+            {
+              "en": "The news affected him more than I expected.",
+              "zh": "这个消息对他的触动比我预想的更大。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "move：常表示使人感动；affect 可以指各种强烈情绪。"
+      ],
+      "antonyms": [
+        "leave unmoved：使人无动于衷。"
+      ],
+      "confusables": [
+        "be affected by 可以表示受影响，不一定是“被感动”。"
+      ]
+    }
+  ]
+}

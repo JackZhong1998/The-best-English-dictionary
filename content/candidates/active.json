@@ -1,0 +1,140 @@
+{
+  "word": "active",
+  "phonetic": "/ˈæktɪv/",
+  "syllables": [
+    "ac",
+    "tive"
+  ],
+  "pos": [
+    "adj."
+  ],
+  "core_meanings": [
+    "活跃的",
+    "积极参与的",
+    "运行中的"
+  ],
+  "etymology": "经古法语 actif 或直接来自拉丁语 activus，与“做、行动”有关。",
+  "semantic_shift": "从能够行动，扩展到人积极参与、身体常活动，以及系统正在运行。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "moving or doing many things",
+      "zh_definition": "经常活动、充满活力的",
+      "usages": [
+        {
+          "usage_label": "活跃的",
+          "collocations": [
+            {
+              "phrase": "an active child",
+              "translation": "活泼的孩子"
+            },
+            {
+              "phrase": "stay active",
+              "translation": "保持活跃"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My grandfather stays active every day.",
+              "zh": "我爷爷每天都活动身体。"
+            },
+            {
+              "en": "The children are very active this morning.",
+              "zh": "孩子们今天早上很活跃。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "energetic：强调精力充沛；active 强调经常活动。"
+      ],
+      "antonyms": [
+        "inactive：不活跃的。"
+      ],
+      "confusables": [
+        "active 不等于 athletic；后者更强调运动能力。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "taking part in something",
+      "zh_definition": "积极参与某事的",
+      "usages": [
+        {
+          "usage_label": "积极参与",
+          "collocations": [
+            {
+              "phrase": "an active member",
+              "translation": "积极参与的成员"
+            },
+            {
+              "phrase": "take an active part",
+              "translation": "积极参与"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She is an active member of the club.",
+              "zh": "她是俱乐部的活跃成员。"
+            },
+            {
+              "en": "Students should take an active part in class.",
+              "zh": "学生应该积极参与课堂活动。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "involved：表示参与其中；active 更强调主动做事。"
+      ],
+      "antonyms": [
+        "passive：被动的，不主动参与的。"
+      ],
+      "confusables": [
+        "active member 指积极参与的成员，不一定指运动员。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "currently in use or still valid",
+      "zh_definition": "目前仍在使用或有效的",
+      "usages": [
+        {
+          "usage_label": "有效的",
+          "collocations": [
+            {
+              "phrase": "an active account",
+              "translation": "有效账户"
+            },
+            {
+              "phrase": "an active membership",
+              "translation": "有效会员资格"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Your account is still active.",
+              "zh": "你的账户仍然有效。"
+            },
+            {
+              "en": "My membership is active until June.",
+              "zh": "我的会员资格有效期到六月。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "valid：强调法律或规则上有效；active 强调仍可使用。"
+      ],
+      "antonyms": [
+        "inactive：处于停用状态的。"
+      ],
+      "confusables": [
+        "active account 表示账户有效或仍在使用，不是账户自己会行动。"
+      ]
+    }
+  ]
+}

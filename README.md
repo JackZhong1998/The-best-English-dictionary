@@ -1,26 +1,44 @@
 # 词义之间
 
-面向中文学习者的英汉多义词典第一版。收录 30 个高频多义词，每个义项有双语释义、常见搭配和至少两条例句；单词及例句提供预生成的美式发音。网页是静态站点，可在手机上直接阅读。
+面向中文学习者的英汉词典。网站先收录词头和原创基础释义，再由本地 Codex 制作并复核完整词条；尚未精修的词仍可查询。现有 30 个高频词条及其音频已迁入新接口；另有 10 个新词经独立复核并预生成美音。当前共 458 个音频文件。100 词四级水平试批的状态记录在 `content/catalog.json`，其中的“CET4-level candidate”是独立编辑选择，不声称来自官方四级词表。
 
-## 本地运行
+## 本地运行和校验
 
 ```bash
 npm ci
 npm run dev
+npm run build
+python3 -m unittest scripts/test_audio.py
+node scripts/import_entries.mjs --dry-run
+python3 scripts/content_pipeline.py status
 ```
 
-打开终端显示的 `/The-best-English-dictionary/` 地址。运行 `npm run build` 会校验 30 个词条、所有音频和 TypeScript，然后生成 `dist/`。
+Vite 开发服务器使用导出的静态试批数据，入口为 `http://127.0.0.1:5173/`。构建检查覆盖 JSON 字段、基础释义、重复例句、例句长度、已预生成音频的引用以及前端类型。已复核的新词可走按需 TTS，不要求提前提交 MP3。
 
-## 内容维护
+## 内容流水线
 
-- `scripts/build_content.py` 是词条源。`HEAD` 写美音音标和按发音拆分的音节，`HISTORY` 写简要词源与词义迁移，`COMPARISONS` 写每个义项的近义词、反义词和易混淆词辨析，`ROWS` 写释义、搭配与例句。修改后运行 `python3 scripts/build_content.py`，生成 `content/words/*.json`。发布数据沿用项目最初约定的 JSON 字段。
-- 词源参考 [Online Etymology Dictionary](https://www.etymonline.com/)，词条页可直达对应资料。词义迁移是帮助理解常用义项的学习线索；对 `case`、`light` 等同形不同源的词明确区分。首批词中只有 `matter` 和 `order` 有两个音节，其余为单音节，不强行按字母拆开。
-- `node scripts/validate.mjs --content-only` 只检查词条；`npm run check` 还检查全部音频。校验覆盖字段、音节拼回词头、词源与迁移缺项、逐义项辨析、至少两条搭配和例句、重复例句及例句长度。没有自然对应的反义词可留空。语义准确度和表达自然度仍需编辑复查。
-- 安装 [edge-tts](https://github.com/rany2/edge-tts) 后运行 `python3 scripts/generate_audio.py`。脚本使用 `en-US-JennyNeural`，跳过已有 MP3；如果改动例句，应先删掉对应音频文件再重跑。文件按 `public/audio/<word>/word.mp3` 和 `s<义项>-u<用法>-e<例句>.mp3` 命名。
-- 词条链接格式是 `?word=run`；发布路径配置在 `vite.config.ts` 中。新增词头时还需更新 `scripts/validate.mjs` 的首批词表。
+- `content/catalog.json` 是可恢复进度清单，保存来源、考试类别、`basic`/`draft`/`reviewed`/`published` 状态、版本和复核记录。`draft` 和 `reviewed` 在线上显示为基础释义；只有 `published` 才显示完整词条。
+- `content/pilot_cet4.tsv` 是独立整理的 100 词试批词头和原创基础释义。扩展到正式四级、六级、考研词库前，应逐一确认词表的授权和来源元数据；不要复制第三方释义或例句。
+- `scripts/content_pipeline.py` 提供 `status`、`stage`、`review`、`publish` 等命令。候选 JSON 先进入 `content/drafts/`，独立复核通过后才进入 `content/words/`。当前试批首批逐词复核；后续每批 25 词，抽检至少 10%，另查多音、多词源、短语动词等高风险词。出现系统性错误时复核整批。
+- 原有 30 词的生成源在 `scripts/build_content.py`，音频生成脚本在 `scripts/generate_audio.py`。修改旧例句后应重做相应 MP3。词源和词义迁移无可靠说明时可以留空。
 
-## 发布
+## Vercel 部署
 
-`.github/workflows/deploy.yml` 在推送到 `main` 后运行校验、构建并部署到 GitHub Pages。首次发布需要在仓库设置的 **Pages → Build and deployment → Source** 中选择 **GitHub Actions**。站点地址为 `https://jackzhong1998.github.io/The-best-English-dictionary/`。
+`vercel.json` 保证 `/word/:word` 直达链接返回 Vite 页面。网页从 `/api/words` 分页查询词头，从 `/api/entries/:word` 获取单个词条；当数据库不可用时，100 词试批仍可通过静态导出阅读。正式扩大到数万词时，数据库是搜索的主要来源，不能把完整 JSON 打进浏览器包。
 
-本项目内容由 Codex 原创生成，面向学习使用。AI 内容可能存在遗漏或不自然表达；发现问题时请在仓库提交 Issue，并标明单词和义项。
+运行数据库初始化脚本 `db/schema.sql`、`db/audio.sql`，在 Vercel 项目设置 `DATABASE_URL`，然后运行 `node scripts/import_entries.mjs`。每次内容发布后重复导入；脚本按词头幂等更新。Python Function 的依赖列在 `requirements.txt`。按需发音还需要以下环境变量：
+
+| 变量 | 用途 |
+| --- | --- |
+| `R2_ACCOUNT_ID`、`R2_BUCKET` | Cloudflare R2 账号和桶 |
+| `R2_ACCESS_KEY_ID`、`R2_SECRET_ACCESS_KEY` | 仅限目标桶的读写凭据 |
+| `AUDIO_VISITOR_SALT` | 匿名访客每日限额的哈希盐 |
+| `AUDIO_VISITOR_DAILY_LIMIT` | 可选，默认每天 5 次新生成 |
+| `AUDIO_GLOBAL_DAILY_LIMIT` | 可选，默认全站每天 100 次新生成 |
+| `AUDIO_STORAGE_MAX_BYTES` | 可选，默认 8 GB；达到阈值暂停新增生成 |
+
+`GET /api/audio?word=...` 只能读取已发布词条的词头；例句需加 `senseId`、`usageId`、`exampleId`。接口不能接受任意 TTS 文本。首次生成可能返回 202，浏览器等待后重试；成功音频由 R2 缓存，缓存命中不计入新生成额度。当前 40 个完整词条优先读取仓库内的预生成 MP3。线上 `edge-tts` 依赖外部服务，必须在 Vercel 预览环境完成单词、例句、首次等待、失败重试、并发去重和 R2 命中实测后才启用正式站；若不稳定，保留本地预生成，不自动切换付费 TTS。
+
+旧 GitHub Pages 工作流暂时保留，且构建使用原仓库子路径。Vercel 正式站完成阅读及音频验证后，再关闭该工作流。当前没有把 `DATABASE_URL` 或 R2 凭据写入仓库。
+
+内容由 Codex 原创制作，自动检查不能替代语义复核。发现词义或例句问题，请在仓库 Issue 标明单词和义项。

@@ -1,0 +1,101 @@
+{
+  "word": "activity",
+  "phonetic": "/ækˈtɪvəti/",
+  "syllables": [
+    "ac",
+    "tiv",
+    "i",
+    "ty"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "活动",
+    "活跃状态"
+  ],
+  "etymology": "经古法语 activité，最终与拉丁语 activus“行动的”有关。",
+  "semantic_shift": "从行动的状态，扩展到一项具体安排好的活动。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "things that people do, especially organized events",
+      "zh_definition": "人们参加的活动，尤指有组织的活动",
+      "usages": [
+        {
+          "usage_label": "具体活动",
+          "collocations": [
+            {
+              "phrase": "school activities",
+              "translation": "学校活动"
+            },
+            {
+              "phrase": "outdoor activities",
+              "translation": "户外活动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The school offers many activities.",
+              "zh": "学校提供许多活动。"
+            },
+            {
+              "en": "Walking is a simple outdoor activity.",
+              "zh": "散步是一项简单的户外活动。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "event：通常是一场特定事件；activity 可以是持续或重复的活动。"
+      ],
+      "antonyms": [
+        "inactivity：缺少活动的状态。"
+      ],
+      "confusables": [
+        "activity 可数时指一项活动；activities 是其复数。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a state of movement or action",
+      "zh_definition": "活动或活跃的状态",
+      "usages": [
+        {
+          "usage_label": "活动状态",
+          "collocations": [
+            {
+              "phrase": "physical activity",
+              "translation": "身体活动"
+            },
+            {
+              "phrase": "a period of activity",
+              "translation": "一段活跃期"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Regular physical activity is good for you.",
+              "zh": "经常进行身体活动对你有好处。"
+            },
+            {
+              "en": "There was little activity in the street.",
+              "zh": "街上几乎没有什么动静。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "movement：偏重实际移动；activity 可泛指一切活动迹象。"
+      ],
+      "antonyms": [
+        "stillness：静止状态。"
+      ],
+      "confusables": [
+        "此义的 activity 通常不可数，不说 many activities 来表示活动量。"
+      ]
+    }
+  ]
+}

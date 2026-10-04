@@ -1,0 +1,140 @@
+{
+  "word": "agree",
+  "phonetic": "/əˈɡriː/",
+  "syllables": [
+    "a",
+    "gree"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "同意",
+    "商定",
+    "一致"
+  ],
+  "etymology": "经古法语 agreer 进入英语，早期有“使满意、乐意接受”之意。",
+  "semantic_shift": "从觉得某事合意，扩展到与人意见相同，或共同决定要做的事。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to have the same opinion as someone",
+      "zh_definition": "与某人意见相同",
+      "usages": [
+        {
+          "usage_label": "意见一致",
+          "collocations": [
+            {
+              "phrase": "agree with someone",
+              "translation": "同意某人的看法"
+            },
+            {
+              "phrase": "agree on a point",
+              "translation": "在一点上意见一致"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I agree with your idea.",
+              "zh": "我同意你的想法。"
+            },
+            {
+              "en": "We agree on this point.",
+              "zh": "我们在这一点上意见一致。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "concur：也表示同意，语气更正式；agree 更日常。"
+      ],
+      "antonyms": [
+        "disagree：意见不同。"
+      ],
+      "confusables": [
+        "agree with 后接人或观点；agree on 后接共同商定的事项。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to say yes to a plan or request",
+      "zh_definition": "答应某个计划或请求",
+      "usages": [
+        {
+          "usage_label": "答应",
+          "collocations": [
+            {
+              "phrase": "agree to help",
+              "translation": "答应帮忙"
+            },
+            {
+              "phrase": "agree to a plan",
+              "translation": "同意计划"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She agreed to help us.",
+              "zh": "她答应帮助我们。"
+            },
+            {
+              "en": "They agreed to the new plan.",
+              "zh": "他们同意了新计划。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "accept：表示接受提议；agree to 侧重表示同意。"
+      ],
+      "antonyms": [
+        "refuse：拒绝答应。"
+      ],
+      "confusables": [
+        "agree to do 后接动词；agree with someone 后接人。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to match or be consistent with something",
+      "zh_definition": "与某事相符",
+      "usages": [
+        {
+          "usage_label": "相符",
+          "collocations": [
+            {
+              "phrase": "agree with the facts",
+              "translation": "与事实相符"
+            },
+            {
+              "phrase": "the figures agree",
+              "translation": "数字一致"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The figures do not agree.",
+              "zh": "这些数字对不上。"
+            },
+            {
+              "en": "His story agrees with the facts.",
+              "zh": "他的说法与事实相符。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "match：表示相互匹配；agree 常说数字、说法或证据相符。"
+      ],
+      "antonyms": [
+        "conflict：相互矛盾。"
+      ],
+      "confusables": [
+        "两个数字 agree 时是“一致”，不是它们在表达意见。"
+      ]
+    }
+  ]
+}

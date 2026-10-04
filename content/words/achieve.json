@@ -1,0 +1,59 @@
+{
+  "word": "achieve",
+  "phonetic": "/əˈtʃiːv/",
+  "syllables": [
+    "a",
+    "chieve"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "实现",
+    "取得"
+  ],
+  "etymology": "源自古法语 achever“完成、做成”，与“到达终点”的表达有关。",
+  "semantic_shift": "从做完一件事，发展为通过努力达到目标或取得成果。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to succeed in doing or getting something through effort",
+      "zh_definition": "通过努力实现或取得",
+      "usages": [
+        {
+          "usage_label": "取得成果",
+          "collocations": [
+            {
+              "phrase": "achieve a goal",
+              "translation": "实现目标"
+            },
+            {
+              "phrase": "achieve success",
+              "translation": "获得成功"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She worked hard to achieve her goal.",
+              "zh": "她努力实现自己的目标。"
+            },
+            {
+              "en": "The team achieved a good result.",
+              "zh": "这个团队取得了好成绩。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "accomplish：也表示完成；achieve 常搭配目标、成果或成功。"
+      ],
+      "antonyms": [
+        "fail to achieve：未能实现。"
+      ],
+      "confusables": [
+        "achieve 强调达到目标；receive 只是收到某物。"
+      ]
+    }
+  ]
+}

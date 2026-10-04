@@ -2,10 +2,28 @@ import fs from 'node:fs'
 import path from 'node:path'
 
 const root = path.resolve(import.meta.dirname, '..')
-const words = ['break', 'call', 'case', 'change', 'charge', 'come', 'cut', 'draw', 'drive', 'fall', 'get', 'go', 'hold', 'keep', 'leave', 'light', 'line', 'make', 'matter', 'move', 'order', 'pass', 'play', 'point', 'put', 'right', 'run', 'set', 'take', 'turn']
+const legacyWords = new Set(['break', 'call', 'case', 'change', 'charge', 'come', 'cut', 'draw', 'drive', 'fall', 'get', 'go', 'hold', 'keep', 'leave', 'light', 'line', 'make', 'matter', 'move', 'order', 'pass', 'play', 'point', 'put', 'right', 'run', 'set', 'take', 'turn'])
+const preGeneratedWords = new Set([...legacyWords, 'ability', 'accept', 'access', 'achieve', 'active', 'activity', 'advantage', 'affect', 'afford', 'agree'])
 const errors = []
 const seenExamples = new Map()
 const requireAudio = !process.argv.includes('--content-only')
+const catalog = JSON.parse(fs.readFileSync(path.join(root, 'content', 'catalog.json'), 'utf8'))
+const records = catalog.entries
+if (!Array.isArray(records)) throw new Error('Catalog entries must be an array')
+if (records.length < 100) errors.push('Pilot catalog must contain at least 100 headwords')
+const seenWords = new Set()
+for (const item of records) {
+  if (!item || typeof item.word !== 'string' || !/^[a-z][a-z'-]*$/.test(item.word)) { errors.push('Catalog has invalid headword'); continue }
+  if (seenWords.has(item.word)) errors.push(`Catalog duplicate: ${item.word}`)
+  seenWords.add(item.word)
+  if (!['basic', 'draft', 'review', 'published'].includes(item.status)) errors.push(`${item.word}: invalid editorial status`)
+  if (typeof item.basic_zh !== 'string' || !item.basic_zh.trim()) errors.push(`${item.word}: missing basic_zh`)
+  if (!Array.isArray(item.exam_categories) || !item.exam_categories.length) errors.push(`${item.word}: missing exam category`)
+  if (!Array.isArray(item.review_records)) errors.push(`${item.word}: missing review history`)
+  if (item.status === 'published' && !(item.content_version > 0)) errors.push(`${item.word}: missing published version`)
+}
+const words = records.filter((item) => item.status === 'published').map((item) => item.word).sort()
+for (const word of legacyWords) if (!words.includes(word)) errors.push(`${word}: legacy entry is not published`)
 const keys = (object, expected, where) => {
   if (!object || typeof object !== 'object' || Array.isArray(object)) return errors.push(`${where}: expected object`)
   const actual = Object.keys(object).sort().join(',')
@@ -19,13 +37,13 @@ const array = (value, where, min = 0) => {
   return value
 }
 const audio = (word, name) => {
-  if (!requireAudio) return
+  if (!requireAudio || !preGeneratedWords.has(word)) return
   const file = path.join(root, 'public', 'audio', word, `${name}.mp3`)
   if (!fs.existsSync(file) || fs.statSync(file).size < 1000) errors.push(`${word}: missing or empty audio ${name}.mp3`)
 }
 
 const files = fs.readdirSync(path.join(root, 'content', 'words')).filter((file) => file.endsWith('.json')).sort()
-if (files.join(',') !== words.map((word) => `${word}.json`).sort().join(',')) errors.push('Word file list does not match the 30 planned headwords')
+if (files.join(',') !== words.map((word) => `${word}.json`).sort().join(',')) errors.push('Published JSON files do not match catalog')
 for (const word of words) {
   const file = path.join(root, 'content', 'words', `${word}.json`)
   if (!fs.existsSync(file)) continue
@@ -41,8 +59,8 @@ for (const word of words) {
   for (const item of array(entry.core_meanings, `${word}.core_meanings`, 1)) string(item, `${word}.core_meanings item`)
   string(entry.etymology, `${word}.etymology`)
   string(entry.semantic_shift, `${word}.semantic_shift`)
-  const senses = array(entry.senses, `${word}.senses`, 3)
-  if (!senses.some((sense) => Array.isArray(sense.antonyms) && sense.antonyms.length)) errors.push(`${word}: no antonym comparison in any sense`)
+  const senses = array(entry.senses, `${word}.senses`, 1)
+  if (legacyWords.has(word) && !senses.some((sense) => Array.isArray(sense.antonyms) && sense.antonyms.length)) errors.push(`${word}: no antonym comparison in any sense`)
   for (const [senseIndex, sense] of senses.entries()) {
     const where = `${word}.senses[${senseIndex}]`
     keys(sense, ['id', 'part_of_speech', 'en_definition', 'zh_definition', 'usages', 'synonyms', 'antonyms', 'confusables'], where)
@@ -88,4 +106,4 @@ for (const word of words) {
 if (errors.length) {
   console.error(`Validation failed (${errors.length} problems):\n${errors.join('\n')}`)
   process.exitCode = 1
-} else console.log(`Validated ${words.length} entries, ${seenExamples.size} distinct examples${requireAudio ? ', and all audio files' : ''}.`)
+} else console.log(`Validated ${records.length} catalog words, ${words.length} published entries, ${seenExamples.size} distinct examples${requireAudio ? ', and all required pre-generated audio files' : ''}.`)

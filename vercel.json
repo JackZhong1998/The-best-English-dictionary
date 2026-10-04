@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "functions": {
+    "api/**/*.py": {
+      "excludeFiles": "{content/**,public/**,dist/**,node_modules/**,scripts/**,tests/**}"
+    }
+  },
+  "rewrites": [
+    { "source": "/word/:word", "destination": "/index.html" }
+  ]
+}

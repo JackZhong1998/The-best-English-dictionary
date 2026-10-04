@@ -1,0 +1,138 @@
+{
+  "word": "afford",
+  "phonetic": "/əˈfɔːrd/",
+  "syllables": [
+    "af",
+    "ford"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "买得起",
+    "承担得起",
+    "提供"
+  ],
+  "etymology": "源自古英语 geforðian“推动、完成”，后来产生“有能力承担费用”的用法。",
+  "semantic_shift": "从有能力完成，发展为有足够的钱、时间或条件去做；也可说某物提供机会。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to have enough money to pay for something",
+      "zh_definition": "有足够的钱支付",
+      "usages": [
+        {
+          "usage_label": "买得起",
+          "collocations": [
+            {
+              "phrase": "afford a car",
+              "translation": "买得起汽车"
+            },
+            {
+              "phrase": "cannot afford the rent",
+              "translation": "付不起房租"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We cannot afford a new car.",
+              "zh": "我们买不起新车。"
+            },
+            {
+              "en": "Can you afford the monthly rent?",
+              "zh": "你付得起每月的房租吗？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pay for：只说付款；afford 强调有足够财力。"
+      ],
+      "antonyms": [
+        "be unable to afford：负担不起。"
+      ],
+      "confusables": [
+        "afford 后直接接名词；说“买得起”时不用 afford for。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to have enough time or resources for something",
+      "zh_definition": "有足够的时间或余力做某事",
+      "usages": [
+        {
+          "usage_label": "承担得起",
+          "collocations": [
+            {
+              "phrase": "cannot afford to wait",
+              "translation": "等不起"
+            },
+            {
+              "phrase": "can afford to be patient",
+              "translation": "有余地耐心等待"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We cannot afford to waste time.",
+              "zh": "我们浪费不起时间。"
+            },
+            {
+              "en": "I can afford to wait a week.",
+              "zh": "我等得起一个星期。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "spare：强调腾出时间或资源；afford 强调是否承担得起代价。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "afford to do 后接动词原形，常见于否定句。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to provide someone with an opportunity",
+      "zh_definition": "为某人提供机会",
+      "usages": [
+        {
+          "usage_label": "提供机会",
+          "collocations": [
+            {
+              "phrase": "afford an opportunity",
+              "translation": "提供机会"
+            },
+            {
+              "phrase": "afford someone the opportunity to learn",
+              "translation": "给某人学习的机会"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The course affords students new opportunities.",
+              "zh": "这门课为学生提供了新机会。"
+            },
+            {
+              "en": "This trip afforded us a chance to talk.",
+              "zh": "这次旅行给了我们交谈的机会。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "provide：更常用的“提供”；afford 此义偏正式。"
+      ],
+      "antonyms": [
+        "deny an opportunity：不给予机会。"
+      ],
+      "confusables": [
+        "此义中 afford 不涉及花钱，而是“提供”。"
+      ]
+    }
+  ]
+}

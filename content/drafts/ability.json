@@ -1,0 +1,101 @@
+{
+  "word": "ability",
+  "phonetic": "/əˈbɪləti/",
+  "syllables": [
+    "a",
+    "bil",
+    "i",
+    "ty"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "能力",
+    "才能"
+  ],
+  "etymology": "经古法语 ableté，最终与拉丁语 habilitas“能力、适合”有关。",
+  "semantic_shift": "先指能够做某事的总体能力；复数 abilities 常指一个人在某些方面的具体才能。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the power to do something",
+      "zh_definition": "做某事的能力",
+      "usages": [
+        {
+          "usage_label": "能力",
+          "collocations": [
+            {
+              "phrase": "the ability to learn",
+              "translation": "学习能力"
+            },
+            {
+              "phrase": "lose the ability to walk",
+              "translation": "失去行走能力"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She has the ability to lead.",
+              "zh": "她有领导能力。"
+            },
+            {
+              "en": "Daily practice can improve your ability to understand spoken English.",
+              "zh": "每天练习能提高你听懂英语口语的能力。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "capacity：也指做事的能力；ability 更常直接说某人能做什么。"
+      ],
+      "antonyms": [
+        "inability：缺乏做某事的能力。"
+      ],
+      "confusables": [
+        "ability to do something 后接动词原形，不能说 ability of do something。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a skill or talent in a particular area",
+      "zh_definition": "某方面的才能",
+      "usages": [
+        {
+          "usage_label": "才能",
+          "collocations": [
+            {
+              "phrase": "musical ability",
+              "translation": "音乐才能"
+            },
+            {
+              "phrase": "natural ability",
+              "translation": "天赋"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her musical ability impressed us.",
+              "zh": "她的音乐才能给我们留下了深刻印象。"
+            },
+            {
+              "en": "The team values different abilities.",
+              "zh": "这个团队重视不同的才能。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "talent：常强调天赋；ability 也可以靠学习和练习培养。"
+      ],
+      "antonyms": [
+        "lack of skill：表示缺乏相关技能。"
+      ],
+      "confusables": [
+        "ability 是名词；able 是形容词，不能说 she is ability。"
+      ]
+    }
+  ]
+}

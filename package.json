@@ -4,13 +4,17 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite --host 127.0.0.1",
+    "dev": "node scripts/export_static_data.mjs && vite --host 127.0.0.1",
     "check": "node scripts/validate.mjs",
-    "build": "npm run check && tsc --noEmit && vite build",
+    "build": "node scripts/export_static_data.mjs && npm run check && tsc --noEmit && vite build",
     "preview": "vite preview --host 127.0.0.1"
   },
   "devDependencies": {
+    "@types/node": "^26.6.4",
     "typescript": "^5.9.3",
     "vite": "^7.1.10"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.2.0"
   }
 }

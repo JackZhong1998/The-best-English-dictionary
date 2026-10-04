@@ -1,0 +1,181 @@
+{
+  "word": "advantage",
+  "phonetic": "/ədˈvæntɪdʒ/",
+  "syllables": [
+    "ad",
+    "van",
+    "tage"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "优势",
+    "有利条件",
+    "利用"
+  ],
+  "etymology": "经古法语 avantage 进入英语，早期指“领先于他人的位置”。",
+  "semantic_shift": "从站在前方的有利位置，扩展为帮助人取得好结果的条件。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a condition that helps someone succeed",
+      "zh_definition": "有助于取得成功的条件",
+      "usages": [
+        {
+          "usage_label": "优势",
+          "collocations": [
+            {
+              "phrase": "a clear advantage",
+              "translation": "明显优势"
+            },
+            {
+              "phrase": "have an advantage over",
+              "translation": "比……有优势"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Experience gives her an advantage.",
+              "zh": "经验让她占有优势。"
+            },
+            {
+              "en": "Our team has an advantage over theirs.",
+              "zh": "我们的队伍比他们的队伍更有优势。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "benefit：强调得到的好处；advantage 常强调比较中的有利条件。"
+      ],
+      "antonyms": [
+        "disadvantage：不利条件。"
+      ],
+      "confusables": [
+        "advantage over someone 表示相对于某人的优势。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a useful feature of something",
+      "zh_definition": "某物的优点",
+      "usages": [
+        {
+          "usage_label": "优点",
+          "collocations": [
+            {
+              "phrase": "the main advantage",
+              "translation": "主要优点"
+            },
+            {
+              "phrase": "advantages and disadvantages",
+              "translation": "优点与缺点"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The main advantage is its low price.",
+              "zh": "它的主要优点是价格低。"
+            },
+            {
+              "en": "Every method has advantages and disadvantages.",
+              "zh": "每种方法都有优缺点。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "strength：可指人或事物的强项；advantage 更强调带来的好处。"
+      ],
+      "antonyms": [
+        "disadvantage：缺点或不利之处。"
+      ],
+      "confusables": [
+        "advantage 是名词；advantageous 是形容词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a benefit gained by making use of an opportunity",
+      "zh_definition": "利用机会得到的好处",
+      "usages": [
+        {
+          "usage_label": "利用机会",
+          "collocations": [
+            {
+              "phrase": "take advantage of a chance",
+              "translation": "利用一次机会"
+            },
+            {
+              "phrase": "take advantage of free lessons",
+              "translation": "利用免费课程"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We took advantage of the free lesson.",
+              "zh": "我们利用了这节免费课。"
+            },
+            {
+              "en": "She took advantage of the break to call home.",
+              "zh": "她趁休息时间给家里打了电话。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "make use of：中性地表示利用；take advantage of 也强调由此得到好处。"
+      ],
+      "antonyms": [
+        "miss an opportunity：错过机会。"
+      ],
+      "confusables": [
+        "take advantage of an opportunity 是利用机会，不一定含负面意思。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "an unfair benefit gained from another person",
+      "zh_definition": "从他人身上不公平地取得好处",
+      "usages": [
+        {
+          "usage_label": "占人便宜",
+          "collocations": [
+            {
+              "phrase": "take advantage of someone",
+              "translation": "占某人便宜"
+            },
+            {
+              "phrase": "take advantage of someone's kindness",
+              "translation": "利用某人的善良"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Do not take advantage of her kindness.",
+              "zh": "不要利用她的善良占便宜。"
+            },
+            {
+              "en": "The seller took advantage of tourists.",
+              "zh": "那个商贩占了游客的便宜。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "exploit：明确表示剥削或利用；take advantage of someone 是常用说法。"
+      ],
+      "antonyms": [
+        "treat someone fairly：公平对待某人。"
+      ],
+      "confusables": [
+        "take advantage of someone 通常是负面的；利用机会则不一定。"
+      ]
+    }
+  ]
+}

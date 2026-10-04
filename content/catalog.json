@@ -1,0 +1,1592 @@
+{
+  "schema_version": 1,
+  "batch_size": 25,
+  "source": {
+    "id": "independent_editorial_selection_v1",
+    "description": "100 common English headwords independently selected as a CET4-level pilot; not an official exam syllabus or a copied wordlist.",
+    "gloss_policy": "Chinese basic glosses are newly written editorial summaries, not copied dictionary definitions.",
+    "file": "content/pilot_cet4.tsv"
+  },
+  "entries": [
+    {
+      "word": "ability",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "能力；才能",
+      "content_version": 1,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "核对音标、发音分节、两层义项与例句，听力例句已修正；词源有据。",
+          "sha256": "55aae0e697bb481e6a58b48266650368662632ad32737c9c4152832a395b0576"
+        }
+      ],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "accept",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "接受；同意",
+      "content_version": 1,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "四个义项分清收下、同意、承认事实及承担责任；例句与辨析自然，词源有据。",
+          "sha256": "0bd2f40750a56aa6b63c51ac2c6611b2427e788e7a3ba448ab238f6bf42b44e6"
+        }
+      ],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "access",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "进入或使用的机会；获取",
+      "content_version": 1,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "名词权限、通道与动词获取三义可区分，例句搭配和词源经核对。",
+          "sha256": "7ef30b62bb5a69802458220fdde29c60fd56b097c73196925099539a268bfa8e"
+        }
+      ],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "achieve",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "实现；取得",
+      "content_version": 1,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "核对音标、音节、义项、两组例句与搭配，措辞自然；词源与 Etymonline 的 achever/完成线索一致。",
+          "sha256": "00f935d3f9231c38b5eaa22fc5de484db2c33359c732f5839d89fc3e106d5080"
+        }
+      ],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "active",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "积极的；活跃的",
+      "content_version": 1,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "三义分别覆盖活跃、积极参与、有效状态；已修正不自然译文并排除与定义不符的火山例句；音标和词源核对通过。",
+          "sha256": "c6e5e610709223c7ca6d13a8ea61efb3fae91125c99e96bb6333e9870a82a534"
+        }
+      ],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "activity",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "活动",
+      "content_version": 1,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "具体活动与不可数活动状态区分清楚，例句和搭配自然，词源与 Etymonline 一致。",
+          "sha256": "9d5af0cdb1541e74bd349d580e8f992a9cfe7b8530f89042091d8b6a19de125c"
+        }
+      ],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "address",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "地址；处理（问题）；向……讲话",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "advantage",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "优势；有利条件",
+      "content_version": 1,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "已把利用机会与占人便宜拆为独立义项，各有两例两搭配；词源、音标与辨析已核对。",
+          "sha256": "6cfdb134c51c3c26d53f71abfc27cf4a1bbae6ae3bd5fe68aecd50b33688302b"
+        }
+      ],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "affect",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "影响",
+      "content_version": 1,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "影响与情绪触动两义、affect/effect 辨析清楚，音标和词源有据。",
+          "sha256": "ad0010385ebd6e22756c2dd3e8714ff6842ee4af0601d2491b26aa4e66021aab"
+        }
+      ],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "afford",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "买得起；承担得起",
+      "content_version": 1,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "财力、时间余地与正式用法“提供”三义清楚；错误反义词已删除，搭配不再重复，词源有据。",
+          "sha256": "c8016b390bc204fc433c4dba5ca284eff5ccc9d1618ed24b15c65db8a36ac5e8"
+        }
+      ],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "agree",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "同意；一致",
+      "content_version": 1,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "同意观点、答应请求、与事实相符三义清晰，agree with/to/on 用法准确，词源已核对。",
+          "sha256": "165991b546fd31751e8bedd6d0b8dd3baf4fb6083b0cebcd96591abdda387580"
+        }
+      ],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "allow",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "允许；使可能",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "almost",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "几乎；差不多",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "among",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "在……之中",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "amount",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "数量；总额",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "appear",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "出现；似乎",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "apply",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "申请；应用；适用",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "approach",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "靠近；方法；处理方式",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "area",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "地区；领域；面积",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "argue",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "争论；论证",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "arrange",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "安排；整理",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "arrive",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "到达",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "article",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "文章；物品",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "attend",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "参加；出席；照料",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "avoid",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "避免",
+      "content_version": 0,
+      "batch": 1,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "basic",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "基础的；基本的",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "become",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "变成；成为",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "begin",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "开始",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "believe",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "相信；认为",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "benefit",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "好处；使受益",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "break",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "打破；中断；休息",
+      "content_version": 1,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "build",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "建造；建立",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "business",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "商业；事务",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "call",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "呼叫；打电话；称作",
+      "content_version": 1,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "case",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "情况；案件；盒子",
+      "content_version": 1,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "cause",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "原因；导致",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "change",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "改变；更换；零钱",
+      "content_version": 1,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "charge",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "收费；充电；负责；指控",
+      "content_version": 1,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "choose",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "选择",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "collect",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "收集；领取",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "come",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "来；到达；发生",
+      "content_version": 1,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "common",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "常见的；共同的",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "compare",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "比较",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "complete",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "完整的；完成",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "concern",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "担忧；涉及；重要的事",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "consider",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "考虑；认为",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "contain",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "包含；容纳",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "continue",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "继续",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "control",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "控制；管理",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "create",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "创造；创建",
+      "content_version": 0,
+      "batch": 2,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "culture",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "文化",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "cut",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "切；减少；中断",
+      "content_version": 1,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "decide",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "决定",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "develop",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "发展；开发；形成",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "difference",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "差别；差异",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "draw",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "画；拉；吸引；平局",
+      "content_version": 1,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "drive",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "驾驶；驱动；动力",
+      "content_version": 1,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "effect",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "影响；效果",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "effort",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "努力",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "enough",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "足够的；足够地",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "enter",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "进入；参加",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "environment",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "环境",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "example",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "例子",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "expect",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "预期；期待",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "experience",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "经验；经历",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "explain",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "解释；说明",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "express",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "表达；快递的",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "fact",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "事实",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "fail",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "失败；未能做到",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "fall",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "落下；下降；秋天",
+      "content_version": 1,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "focus",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "焦点；集中注意力",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "follow",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "跟随；遵循",
+      "content_version": 0,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "get",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "得到；到达；变得；理解",
+      "content_version": 1,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "go",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "去；运行；变得",
+      "content_version": 1,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "hold",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "拿住；容纳；举办；保持",
+      "content_version": 1,
+      "batch": 3,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "improve",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "改进；提高",
+      "content_version": 0,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "include",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "包括",
+      "content_version": 0,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "increase",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "增加；增长",
+      "content_version": 0,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "influence",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "影响；影响力",
+      "content_version": 0,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "information",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "信息；资料",
+      "content_version": 0,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "involve",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "涉及；包含；使参与",
+      "content_version": 0,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "issue",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "问题；议题；发行",
+      "content_version": 0,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "keep",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "保留；保持；继续",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "knowledge",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "知识；了解",
+      "content_version": 0,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": null,
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "leave",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "离开；留下；假期",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "light",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "光；灯；轻的；点燃",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "line",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "线；队伍；台词；线路",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "make",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "制作；使得；赚钱；赶上",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "matter",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "重要；事情；物质",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "move",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "移动；搬家；感动；行动",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "order",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "顺序；命令；点餐；订单",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "pass",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "经过；通过；传递；消逝",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "play",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "玩；比赛；演奏；扮演",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "point",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "点；要点；指向；得分",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "put",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "放；表达；推迟；穿上",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "right",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "正确；右边；权利；立刻",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "run",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "跑；运行；经营；流动",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "set",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "放置；设定；一套；凝固",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "take",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "拿；乘坐；花费；接受",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    },
+    {
+      "word": "turn",
+      "exam_categories": [
+        "CET4-level candidate"
+      ],
+      "status": "published",
+      "basic_zh": "转动；转向；轮次；变成",
+      "content_version": 1,
+      "batch": 4,
+      "source": "independent_editorial_selection_v1",
+      "author": "legacy_editorial",
+      "risk_flags": [],
+      "review_records": [],
+      "source_file": "content/pilot_cet4.tsv"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "word": "accept",
+  "phonetic": "/əkˈsept/",
+  "syllables": [
+    "ac",
+    "cept"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "接受",
+    "同意",
+    "承认"
+  ],
+  "etymology": "经古法语 accepter 或直接由拉丁语 acceptare 进入英语，原有“接过、接受”之意。",
+  "semantic_shift": "从接过别人给的东西，扩展到同意提议，以及在心里承认现实。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to take something that someone offers",
+      "zh_definition": "收下别人给的东西",
+      "usages": [
+        {
+          "usage_label": "收下",
+          "collocations": [
+            {
+              "phrase": "accept a gift",
+              "translation": "收下礼物"
+            },
+            {
+              "phrase": "accept payment",
+              "translation": "接受付款"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please accept this small gift.",
+              "zh": "请收下这份小礼物。"
+            },
+            {
+              "en": "The shop does not accept cash.",
+              "zh": "这家店不收现金。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "receive：指收到，未必表示愿意收下；accept 包含愿意接受。"
+      ],
+      "antonyms": [
+        "refuse：拒绝收下。"
+      ],
+      "confusables": [
+        "accept 是主动接受；except 是介词，意思是“除……之外”。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to agree to an offer or request",
+      "zh_definition": "同意提议或请求",
+      "usages": [
+        {
+          "usage_label": "同意",
+          "collocations": [
+            {
+              "phrase": "accept an offer",
+              "translation": "接受提议"
+            },
+            {
+              "phrase": "accept an invitation",
+              "translation": "接受邀请"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She accepted the job offer.",
+              "zh": "她接受了那份工作邀请。"
+            },
+            {
+              "en": "I accepted his invitation to dinner.",
+              "zh": "我接受了他的晚餐邀请。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "agree to：明确表示同意；accept 还可指正式接受一个提议。"
+      ],
+      "antonyms": [
+        "reject：拒绝提议。"
+      ],
+      "confusables": [
+        "accept an offer 是同意提议；receive an offer 只是收到提议。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to recognize an unpleasant fact as true",
+      "zh_definition": "承认并面对不愿接受的事实",
+      "usages": [
+        {
+          "usage_label": "承认现实",
+          "collocations": [
+            {
+              "phrase": "accept the truth",
+              "translation": "接受事实"
+            },
+            {
+              "phrase": "accept reality",
+              "translation": "接受现实"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He finally accepted the truth.",
+              "zh": "他终于接受了事实。"
+            },
+            {
+              "en": "She accepted that the plan had failed.",
+              "zh": "她接受了计划已经失败的事实。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "acknowledge：强调承认事实存在；accept 还含愿意面对它。"
+      ],
+      "antonyms": [
+        "deny：否认事实。"
+      ],
+      "confusables": [
+        "accept that 后接完整句子；accept the truth 后接名词。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to take responsibility or blame for something",
+      "zh_definition": "承担责任或过错",
+      "usages": [
+        {
+          "usage_label": "承担责任",
+          "collocations": [
+            {
+              "phrase": "accept responsibility",
+              "translation": "承担责任"
+            },
+            {
+              "phrase": "accept the blame",
+              "translation": "承担过错"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We must accept responsibility for the mistake.",
+              "zh": "我们必须为这个错误承担责任。"
+            },
+            {
+              "en": "He accepted the blame for the delay.",
+              "zh": "他为这次延误承担了责任。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "take responsibility：更常见的说法；accept 强调愿意承认并承担。"
+      ],
+      "antonyms": [
+        "deny responsibility：否认自己有责任。"
+      ],
+      "confusables": [
+        "accept responsibility 是承担责任，不是接过一个叫“责任”的物品。"
+      ]
+    }
+  ]
+}

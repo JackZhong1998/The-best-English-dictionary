@@ -1,4 +1,7 @@
 node_modules/
 dist/
+public/data/
+.vercel/
+.env*
 .DS_Store
 .venv/
