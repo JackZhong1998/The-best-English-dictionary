@@ -1,0 +1,178 @@
+{
+  "word": "concern",
+  "phonetic": "/kənˈsɜːrn/",
+  "syllables": [
+    "con",
+    "cern"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "担忧",
+    "使担心",
+    "涉及",
+    "重要的事"
+  ],
+  "etymology": "经古法语 concerner，与拉丁语 concernere“涉及、与……有关”有关。",
+  "semantic_shift": "从与某事有关、值得注意，发展为关心其结果，进而产生担忧。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a feeling of worry about something",
+      "zh_definition": "对某事感到担心",
+      "usages": [
+        {
+          "usage_label": "担忧",
+          "collocations": [
+            {
+              "phrase": "express concern",
+              "translation": "表示担忧"
+            },
+            {
+              "phrase": "cause concern",
+              "translation": "引起担忧"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Parents expressed concern about the plan.",
+              "zh": "家长们对这个计划表示担忧。"
+            },
+            {
+              "en": "The news caused great concern.",
+              "zh": "这则消息引起了很大担忧。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "worry：更日常，也可指具体烦恼；concern 稍正式。"
+      ],
+      "antonyms": [
+        "reassurance：让人安心的保证。"
+      ],
+      "confusables": [
+        "concern about 后接担忧的事情，不是关心某人的同义结构。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make someone feel worried",
+      "zh_definition": "使某人感到担心",
+      "usages": [
+        {
+          "usage_label": "使担心",
+          "collocations": [
+            {
+              "phrase": "concern the parents",
+              "translation": "让家长担心"
+            },
+            {
+              "phrase": "be concerned about safety",
+              "translation": "担心安全问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The delay concerns me.",
+              "zh": "这次延误让我担心。"
+            },
+            {
+              "en": "We are concerned about the children.",
+              "zh": "我们担心孩子们。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "worry：更口语；concern 作动词稍正式。"
+      ],
+      "antonyms": [
+        "reassure：使人安心。"
+      ],
+      "confusables": [
+        "be concerned about 表示担心；be concerned with 常表示涉及。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to be about or involve someone or something",
+      "zh_definition": "与某人或某事有关或涉及它",
+      "usages": [
+        {
+          "usage_label": "涉及",
+          "collocations": [
+            {
+              "phrase": "concern all students",
+              "translation": "涉及所有学生"
+            },
+            {
+              "phrase": "a matter concerning health",
+              "translation": "涉及健康的事情"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The new rule concerns all students.",
+              "zh": "新规定涉及所有学生。"
+            },
+            {
+              "en": "This letter concerns your application.",
+              "zh": "这封信与你的申请有关。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "involve：强调包含或牵涉；concern 强调与某人或主题有关。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "The rule concerns you 可能只是“与你有关”，不一定令你担心。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a matter that is important to someone",
+      "zh_definition": "对某人重要的一件事",
+      "usages": [
+        {
+          "usage_label": "关心的事",
+          "collocations": [
+            {
+              "phrase": "a main concern",
+              "translation": "主要关注点"
+            },
+            {
+              "phrase": "a matter of concern",
+              "translation": "值得关注的事"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Safety is our main concern.",
+              "zh": "安全是我们最关心的事。"
+            },
+            {
+              "en": "Cost is an important concern for families.",
+              "zh": "费用是许多家庭关注的重要问题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "priority：强调优先处理的事；concern 强调在意的事。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "main concern 在此是主要关注点，不一定意味着害怕。"
+      ]
+    }
+  ]
+}

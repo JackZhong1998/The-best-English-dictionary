@@ -1,0 +1,141 @@
+{
+  "word": "complete",
+  "phonetic": "/kəmˈpliːt/",
+  "syllables": [
+    "com",
+    "plete"
+  ],
+  "pos": [
+    "adj.",
+    "v."
+  ],
+  "core_meanings": [
+    "完整的",
+    "完成的",
+    "完成"
+  ],
+  "etymology": "经古法语 complet 或直接来自拉丁语 completus，原有“填满、没有缺项”之意。",
+  "semantic_shift": "从没有缺少部分，发展为工作各环节都已做完；动词表示把余下部分补齐。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "having all its parts",
+      "zh_definition": "具备所有组成部分的",
+      "usages": [
+        {
+          "usage_label": "完整的",
+          "collocations": [
+            {
+              "phrase": "a complete set",
+              "translation": "完整的一套"
+            },
+            {
+              "phrase": "a complete list",
+              "translation": "完整清单"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I have a complete set of the books.",
+              "zh": "我有完整的一套书。"
+            },
+            {
+              "en": "Please send me the complete list.",
+              "zh": "请把完整清单发给我。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "whole：强调作为一个整体；complete 强调没有缺失部分。"
+      ],
+      "antonyms": [
+        "incomplete：不完整的。"
+      ],
+      "confusables": [
+        "a complete list 指项目齐全，不一定是很长的清单。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "finished and needing no more work",
+      "zh_definition": "已经结束且不需再做的",
+      "usages": [
+        {
+          "usage_label": "完成的",
+          "collocations": [
+            {
+              "phrase": "the work is complete",
+              "translation": "工作已完成"
+            },
+            {
+              "phrase": "the project is complete",
+              "translation": "项目已完成"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The project is now complete.",
+              "zh": "这个项目现在已经完成。"
+            },
+            {
+              "en": "The report will be complete tomorrow.",
+              "zh": "报告明天就能完成。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "finished：直接指结束；complete 强调所有必要工作都完成。"
+      ],
+      "antonyms": [
+        "unfinished：尚未完成的。"
+      ],
+      "confusables": [
+        "complete 在这里描述完成状态，不是让人去完成。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to finish a task or process",
+      "zh_definition": "完成任务或过程",
+      "usages": [
+        {
+          "usage_label": "完成",
+          "collocations": [
+            {
+              "phrase": "complete a form",
+              "translation": "填完表格"
+            },
+            {
+              "phrase": "complete a course",
+              "translation": "完成课程"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please complete the form today.",
+              "zh": "请今天填完这张表。"
+            },
+            {
+              "en": "She completed the course last month.",
+              "zh": "她上个月完成了这门课程。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "finish：意思相近；complete 稍正式，也强调完成所有部分。"
+      ],
+      "antonyms": [
+        "leave unfinished：没有完成。"
+      ],
+      "confusables": [
+        "complete 是动词时直接接任务：complete the form。"
+      ]
+    }
+  ]
+}

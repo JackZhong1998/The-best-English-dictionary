@@ -1,0 +1,98 @@
+{
+  "word": "choose",
+  "phonetic": "/tʃuːz/",
+  "syllables": [
+    "choose"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "选择",
+    "决定去做"
+  ],
+  "etymology": "源自古英语 ceosan“挑选、选择”。",
+  "semantic_shift": "核心是从几个可能项中挑出一个；选择的对象也可以是要采取的行动。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to select a person or thing from several possibilities",
+      "zh_definition": "从若干人或物中选出一个",
+      "usages": [
+        {
+          "usage_label": "选择人或物",
+          "collocations": [
+            {
+              "phrase": "choose a book",
+              "translation": "挑一本书"
+            },
+            {
+              "phrase": "choose between two options",
+              "translation": "在两个选项间选择"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please choose a seat near the window.",
+              "zh": "请选一个靠窗的座位。"
+            },
+            {
+              "en": "She chose the red dress.",
+              "zh": "她选了那件红裙子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "select：也指挑选，语气更正式；choose 更日常。"
+      ],
+      "antonyms": [
+        "reject：拒绝选中某项。"
+      ],
+      "confusables": [
+        "choose 的过去式是 chose，过去分词是 chosen。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to decide to do something",
+      "zh_definition": "决定采取某种行动",
+      "usages": [
+        {
+          "usage_label": "决定去做",
+          "collocations": [
+            {
+              "phrase": "choose to stay",
+              "translation": "选择留下"
+            },
+            {
+              "phrase": "choose not to answer",
+              "translation": "选择不回答"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He chose to walk home.",
+              "zh": "他选择步行回家。"
+            },
+            {
+              "en": "I chose not to join the game.",
+              "zh": "我选择不参加比赛。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "decide：泛指作决定；choose 暗示存在其他可选行动。"
+      ],
+      "antonyms": [
+        "be forced to：被迫做某事。"
+      ],
+      "confusables": [
+        "choose to do 后接动词原形，不说 choose doing。"
+      ]
+    }
+  ]
+}

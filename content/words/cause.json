@@ -1,0 +1,138 @@
+{
+  "word": "cause",
+  "phonetic": "/kɔːz/",
+  "syllables": [
+    "cause"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "原因",
+    "导致",
+    "事业或目标"
+  ],
+  "etymology": "经古法语 cause 来自拉丁语 causa“理由、诉讼”；拉丁语词更早来源不明。",
+  "semantic_shift": "从解释行为或结果的理由，扩展到产生结果的因素；值得支持的目标也可称 a cause。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the reason why something happens",
+      "zh_definition": "事情发生的原因",
+      "usages": [
+        {
+          "usage_label": "原因",
+          "collocations": [
+            {
+              "phrase": "the main cause",
+              "translation": "主要原因"
+            },
+            {
+              "phrase": "a cause of the problem",
+              "translation": "问题的一个原因"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The police found the cause of the fire.",
+              "zh": "警方找到了火灾原因。"
+            },
+            {
+              "en": "Stress can be a cause of poor sleep.",
+              "zh": "压力可能是睡眠不佳的原因之一。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "reason：也指原因；cause 更强调引出某个结果的因素。"
+      ],
+      "antonyms": [
+        "effect：原因造成的结果。"
+      ],
+      "confusables": [
+        "cause 是原因；because 是连接原因从句的词。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make something happen",
+      "zh_definition": "使某事发生",
+      "usages": [
+        {
+          "usage_label": "导致",
+          "collocations": [
+            {
+              "phrase": "cause a delay",
+              "translation": "造成延误"
+            },
+            {
+              "phrase": "cause trouble",
+              "translation": "引起麻烦"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Heavy rain caused a delay.",
+              "zh": "大雨造成了延误。"
+            },
+            {
+              "en": "The mistake caused confusion.",
+              "zh": "这个错误引起了混乱。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "lead to：表示导致，后接结果；cause 直接接结果作宾语。"
+      ],
+      "antonyms": [
+        "prevent：防止发生。"
+      ],
+      "confusables": [
+        "cause 是动词时直接接宾语：cause a problem。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "an aim that people support because they think it is important",
+      "zh_definition": "人们认为重要并愿意支持的目标或事业",
+      "usages": [
+        {
+          "usage_label": "事业或目标",
+          "collocations": [
+            {
+              "phrase": "support a cause",
+              "translation": "支持一项事业"
+            },
+            {
+              "phrase": "a good cause",
+              "translation": "有意义的事业"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She gave money to a good cause.",
+              "zh": "她向一项公益事业捐了款。"
+            },
+            {
+              "en": "They work for the cause of peace.",
+              "zh": "他们为和平事业努力。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "campaign：常指为目标开展的具体行动；cause 指所支持的目标。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a good cause 是值得支持的事业，不是“好的原因”。"
+      ]
+    }
+  ]
+}

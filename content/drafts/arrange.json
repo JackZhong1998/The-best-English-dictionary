@@ -107,7 +107,7 @@
           "collocations": [
             {
               "phrase": "arrange transportation",
-              "translation": "安排交通"
+              "translation": "安排交通工具"
             },
             {
               "phrase": "arrange for a taxi",
@@ -117,7 +117,7 @@
           "examples": [
             {
               "en": "I arranged transportation for the guests.",
-              "zh": "我为客人安排了交通。"
+              "zh": "我为客人安排了接送。"
             },
             {
               "en": "We arranged for a taxi to pick her up.",

@@ -1,0 +1,99 @@
+{
+  "word": "common",
+  "phonetic": "/ˈkɑːmən/",
+  "syllables": [
+    "com",
+    "mon"
+  ],
+  "pos": [
+    "adj."
+  ],
+  "core_meanings": [
+    "常见的",
+    "共同的"
+  ],
+  "etymology": "经古法语 comun，来自拉丁语 communis“共同的、共享的”。",
+  "semantic_shift": "从多人共同拥有，发展为很多人都知道或经常遇见的事情。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "happening or seen often",
+      "zh_definition": "经常发生或经常见到的",
+      "usages": [
+        {
+          "usage_label": "常见的",
+          "collocations": [
+            {
+              "phrase": "a common mistake",
+              "translation": "常见错误"
+            },
+            {
+              "phrase": "a common problem",
+              "translation": "常见问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This is a common mistake in English.",
+              "zh": "这是英语中的常见错误。"
+            },
+            {
+              "en": "Rain is common here in summer.",
+              "zh": "这里夏天常下雨。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "usual：强调按惯例会发生；common 强调发生或出现得多。"
+      ],
+      "antonyms": [
+        "rare：罕见的。"
+      ],
+      "confusables": [
+        "common 不一定表示好或坏，只表示常见。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "shared by two or more people",
+      "zh_definition": "由两个或更多人共同拥有的",
+      "usages": [
+        {
+          "usage_label": "共同的",
+          "collocations": [
+            {
+              "phrase": "a common goal",
+              "translation": "共同目标"
+            },
+            {
+              "phrase": "have much in common",
+              "translation": "有很多共同点"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We share a common goal.",
+              "zh": "我们有共同的目标。"
+            },
+            {
+              "en": "The two friends have much in common.",
+              "zh": "这两个朋友有很多共同点。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "shared：直接强调共同拥有；common 还可表示多人共有的特征。"
+      ],
+      "antonyms": [
+        "individual：属于个人的。"
+      ],
+      "confusables": [
+        "have something in common 是有共同点，不是“有常见的东西”。"
+      ]
+    }
+  ]
+}

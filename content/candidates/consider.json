@@ -1,0 +1,139 @@
+{
+  "word": "consider",
+  "phonetic": "/kənˈsɪdər/",
+  "syllables": [
+    "con",
+    "sid",
+    "er"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "仔细考虑",
+    "认为",
+    "顾及"
+  ],
+  "etymology": "经古法语 considerer，来自拉丁语 considerare“仔细观察”；其更早构词解释尚有争议。",
+  "semantic_shift": "从仔细观察，发展为认真思考选择；思考后也可表达对人或事的判断。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to think carefully before deciding",
+      "zh_definition": "作决定前仔细思考",
+      "usages": [
+        {
+          "usage_label": "仔细考虑",
+          "collocations": [
+            {
+              "phrase": "consider a plan",
+              "translation": "考虑一个计划"
+            },
+            {
+              "phrase": "consider doing something",
+              "translation": "考虑做某事"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please consider the plan carefully.",
+              "zh": "请认真考虑这个计划。"
+            },
+            {
+              "en": "She is considering changing jobs.",
+              "zh": "她正在考虑换工作。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "think about：泛指想一想；consider 暗示较认真地权衡。"
+      ],
+      "antonyms": [
+        "ignore：不予考虑。"
+      ],
+      "confusables": [
+        "consider doing 后接动名词，不说 consider to do。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to regard someone or something in a particular way",
+      "zh_definition": "把某人或某事看作某种情况",
+      "usages": [
+        {
+          "usage_label": "认为",
+          "collocations": [
+            {
+              "phrase": "consider it important",
+              "translation": "认为它重要"
+            },
+            {
+              "phrase": "consider someone a friend",
+              "translation": "把某人当朋友"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I consider this result important.",
+              "zh": "我认为这个结果很重要。"
+            },
+            {
+              "en": "They consider her a good leader.",
+              "zh": "他们认为她是位好领导。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "regard as：意思相近，但要有 as；consider 后常直接接名词或形容词。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "consider her a friend 不用加 as；regard her as a friend 要加 as。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to take someone's needs or feelings into account",
+      "zh_definition": "做事时顾及他人的需要或感受",
+      "usages": [
+        {
+          "usage_label": "顾及",
+          "collocations": [
+            {
+              "phrase": "consider other people's feelings",
+              "translation": "顾及他人的感受"
+            },
+            {
+              "phrase": "consider everyone's needs",
+              "translation": "考虑每个人的需要"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please consider other people's feelings.",
+              "zh": "请顾及他人的感受。"
+            },
+            {
+              "en": "We considered everyone's needs in the plan.",
+              "zh": "制定计划时我们顾及了每个人的需要。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "take into account：明确表示纳入考虑；consider 更简洁。"
+      ],
+      "antonyms": [
+        "disregard：不顾及。"
+      ],
+      "confusables": [
+        "consider people 在这里是顾及他们，不是判断他们是什么人。"
+      ]
+    }
+  ]
+}

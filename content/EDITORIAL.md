@@ -4,7 +4,7 @@
 
 `pilot_cet4.tsv` 是本项目独立挑选的 100 个常见英语词头与新写的基础中文提示，不是官方四级词表，也没有复制其他词典的释义、例句或选词顺序。`CET4-level candidate` 只表示计划面向四级程度读者；发布前仍需按教学范围核对。`catalog.json` 中的 `source_file` 指向可追溯的词表文件。
 
-原有 30 个完整词条标为 `published`，但 `review_records` 为空：这表示此前没有独立复核记录，不把它们冒充为已复核。新写的 30 个词条完成独立复核后也已发布；目前另有 40 个词只有 `basic_zh`，标为 `basic`，不能展示不存在的详细释义或播放按钮。
+原有 30 个完整词条标为 `published`，但 `review_records` 为空：这表示此前没有独立复核记录，不把它们冒充为已复核。新写的 40 个词条完成独立复核后也已发布；目前另有 30 个词只有 `basic_zh`，标为 `basic`，不能展示不存在的详细释义或播放按钮。
 
 ## 批次和复核
 
@@ -34,3 +34,5 @@ python3 scripts/content_pipeline.py publish ability
 接下来的十词分别核对了 Etymonline 的 [address](https://www.etymonline.com/word/address)、[allow](https://www.etymonline.com/word/allow)、[almost](https://www.etymonline.com/word/almost)、[among](https://www.etymonline.com/word/among)、[amount](https://www.etymonline.com/word/amount)、[appear](https://www.etymonline.com/word/appear)、[apply](https://www.etymonline.com/word/apply)、[approach](https://www.etymonline.com/word/approach)、[area](https://www.etymonline.com/word/area)、[argue](https://www.etymonline.com/word/argue) 词源词条。词源以可核查的简述为限；例如 area 的更早来源不确定，不写成确定的拉丁语词根演化链。
 
 第三组十词的词源简述参考 Etymonline 的 [arrange](https://www.etymonline.com/word/arrange)、[arrive](https://www.etymonline.com/word/arrive)、[article](https://www.etymonline.com/word/article)、[attend](https://www.etymonline.com/word/attend)、[avoid](https://www.etymonline.com/word/avoid)、[basic](https://www.etymonline.com/word/basic)、[become](https://www.etymonline.com/word/become)、[begin](https://www.etymonline.com/word/begin)、[believe](https://www.etymonline.com/word/believe)、[benefit](https://www.etymonline.com/word/benefit) 词条。前两词由独立复核 Agent 检查，后八词在制词 Agent 中断后由未参与撰写的主 Agent 逐词复核；复核身份和结果记录在 `catalog.json`。
+
+第四组十词的词源事实参考 Etymonline 的 [build](https://www.etymonline.com/word/build)、[business](https://www.etymonline.com/word/business)、[cause](https://www.etymonline.com/word/cause)、[choose](https://www.etymonline.com/word/choose)、[collect](https://www.etymonline.com/word/collect)、[common](https://www.etymonline.com/word/common)、[compare](https://www.etymonline.com/word/compare)、[complete](https://www.etymonline.com/word/complete)、[concern](https://www.etymonline.com/word/concern)、[consider](https://www.etymonline.com/word/consider)。制词 Agent 写候选稿，未参与撰写的主 Agent 逐词复核并修订两处表达；复核记录在 `catalog.json`。

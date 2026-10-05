@@ -1,9 +1,15 @@
 import fs from 'node:fs'
 import path from 'node:path'
+import crypto from 'node:crypto'
 
 const root = path.resolve(import.meta.dirname, '..')
 const legacyWords = new Set(['break', 'call', 'case', 'change', 'charge', 'come', 'cut', 'draw', 'drive', 'fall', 'get', 'go', 'hold', 'keep', 'leave', 'light', 'line', 'make', 'matter', 'move', 'order', 'pass', 'play', 'point', 'put', 'right', 'run', 'set', 'take', 'turn'])
 const audioRoot = path.join(root, 'public', 'audio')
+const manifestFile = path.join(root, 'content', 'audio_manifest.json')
+const audioManifest = fs.existsSync(manifestFile) ? JSON.parse(fs.readFileSync(manifestFile, 'utf8')) : {}
+const clipDigest = (text) => crypto.createHash('sha256').update([
+  'en-US-JennyNeural', '+0%', '+0Hz', '+0%', text,
+].join('\0')).digest('hex')
 const preGeneratedWords = new Set([...legacyWords, ...fs.readdirSync(audioRoot, { withFileTypes: true })
   .filter((item) => item.isDirectory() && fs.existsSync(path.join(audioRoot, item.name, 'word.mp3')))
   .map((item) => item.name)])
@@ -39,10 +45,11 @@ const array = (value, where, min = 0) => {
   if (!Array.isArray(value) || value.length < min) { errors.push(`${where}: expected array with at least ${min} items`); return [] }
   return value
 }
-const audio = (word, name) => {
+const audio = (word, name, text) => {
   if (!requireAudio || !preGeneratedWords.has(word)) return
   const file = path.join(root, 'public', 'audio', word, `${name}.mp3`)
   if (!fs.existsSync(file) || fs.statSync(file).size < 1000) errors.push(`${word}: missing or empty audio ${name}.mp3`)
+  if (audioManifest[`${word}/${name}.mp3`] !== clipDigest(text)) errors.push(`${word}: stale audio ${name}.mp3; regenerate after text or voice change`)
 }
 
 const files = fs.readdirSync(path.join(root, 'content', 'words')).filter((file) => file.endsWith('.json')).sort()
@@ -60,8 +67,8 @@ for (const word of words) {
   if (Array.isArray(entry.syllables) && entry.syllables.join('').toLowerCase() !== word) errors.push(`${word}: syllables must reconstruct the headword`)
   for (const item of array(entry.pos, `${word}.pos`, 1)) string(item, `${word}.pos item`)
   for (const item of array(entry.core_meanings, `${word}.core_meanings`, 1)) string(item, `${word}.core_meanings item`)
-  string(entry.etymology, `${word}.etymology`)
-  string(entry.semantic_shift, `${word}.semantic_shift`)
+  string(entry.etymology, `${word}.etymology`, true)
+  string(entry.semantic_shift, `${word}.semantic_shift`, true)
   const senses = array(entry.senses, `${word}.senses`, 1)
   if (legacyWords.has(word) && !senses.some((sense) => Array.isArray(sense.antonyms) && sense.antonyms.length)) errors.push(`${word}: no antonym comparison in any sense`)
   for (const [senseIndex, sense] of senses.entries()) {
@@ -99,11 +106,11 @@ for (const word of words) {
           if (seenExamples.has(normalized)) errors.push(`${exampleWhere}: duplicate of ${seenExamples.get(normalized)}`)
           else seenExamples.set(normalized, exampleWhere)
         }
-        audio(word, `s${sense.id}-u${usageIndex + 1}-e${index + 1}`)
+        audio(word, `s${sense.id}-u${usageIndex + 1}-e${index + 1}`, example.en)
       }
     }
   }
-  audio(word, 'word')
+  audio(word, 'word', word)
 }
 
 if (errors.length) {

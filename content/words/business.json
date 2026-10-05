@@ -1,0 +1,134 @@
+{
+  "word": "business",
+  "phonetic": "/ˈbɪznəs/",
+  "syllables": [
+    "busi",
+    "ness"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "商业",
+    "企业",
+    "事务"
+  ],
+  "etymology": "源自古英语 busy 对应词形加 -ness，早期指忙碌或操心的状态。",
+  "semantic_shift": "从使人忙碌的事情，发展为谋生工作与商业活动；具体经营单位也称 a business。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the activity of buying and selling goods or services",
+      "zh_definition": "买卖商品或服务的商业活动",
+      "usages": [
+        {
+          "usage_label": "商业",
+          "collocations": [
+            {
+              "phrase": "do business",
+              "translation": "做生意"
+            },
+            {
+              "phrase": "business is growing",
+              "translation": "生意在增长"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her family has been in business for years.",
+              "zh": "她家做生意很多年了。"
+            },
+            {
+              "en": "Business is slow this month.",
+              "zh": "这个月生意清淡。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "trade：强调买卖交易；business 的范围还包括经营和服务。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义 business 通常不可数；a business 常指一家公司。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a company or shop",
+      "zh_definition": "一家公司或商店",
+      "usages": [
+        {
+          "usage_label": "企业",
+          "collocations": [
+            {
+              "phrase": "a small business",
+              "translation": "一家小企业"
+            },
+            {
+              "phrase": "start a business",
+              "translation": "开办企业"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They started a small business together.",
+              "zh": "他们一起创办了一家小企业。"
+            },
+            {
+              "en": "This business employs twenty people.",
+              "zh": "这家企业雇用了二十个人。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "company：多指公司；business 也可以是小店等经营单位。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a business 可数；business 作商业活动时常不可数。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a matter that concerns a person",
+      "zh_definition": "与某人有关的事情",
+      "usages": [
+        {
+          "usage_label": "个人事务",
+          "collocations": [
+            {
+              "phrase": "personal business",
+              "translation": "私事"
+            },
+            {
+              "phrase": "mind your own business",
+              "translation": "管好你自己的事"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This is my personal business.",
+              "zh": "这是我的私事。"
+            },
+            {
+              "en": "She told him to mind his own business.",
+              "zh": "她叫他别管闲事。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "matter：泛指一件事；business 在这里强调与某人有关。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "mind your own business 与经营企业无关，常是让人不要多管闲事。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "word": "collect",
+  "phonetic": "/kəˈlekt/",
+  "syllables": [
+    "col",
+    "lect"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "收集",
+    "采集",
+    "收取"
+  ],
+  "etymology": "经古法语 collecter，与拉丁语 colligere“聚集在一起”有关。",
+  "semantic_shift": "从把分散的东西聚到一起，扩展到采集资料，以及收取分散的款项。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to bring several things together, often as a hobby",
+      "zh_definition": "把若干物品收在一起，常作为爱好",
+      "usages": [
+        {
+          "usage_label": "收集物品",
+          "collocations": [
+            {
+              "phrase": "collect stamps",
+              "translation": "集邮"
+            },
+            {
+              "phrase": "collect old coins",
+              "translation": "收集旧硬币"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My sister collects old postcards.",
+              "zh": "我姐姐收集旧明信片。"
+            },
+            {
+              "en": "He collected shells on the beach.",
+              "zh": "他在海滩上收集贝壳。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "gather：泛指聚拢；collect 常带有有意收集并保存的意味。"
+      ],
+      "antonyms": [
+        "scatter：把东西散开。"
+      ],
+      "confusables": [
+        "collect stamps 是收集邮票，不是寄出邮票。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to gather information for a purpose",
+      "zh_definition": "为特定目的采集信息",
+      "usages": [
+        {
+          "usage_label": "采集信息",
+          "collocations": [
+            {
+              "phrase": "collect data",
+              "translation": "收集数据"
+            },
+            {
+              "phrase": "collect information",
+              "translation": "收集信息"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The students collected data for the project.",
+              "zh": "学生们为项目收集了数据。"
+            },
+            {
+              "en": "We collect information from volunteers.",
+              "zh": "我们从志愿者那里收集信息。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "record：强调把信息记下来；collect 强调从多处汇集。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "collect data 通常指采集，不能理解成“收藏数据”供欣赏。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to receive money that is owed or donated",
+      "zh_definition": "收取应付或捐赠的钱款",
+      "usages": [
+        {
+          "usage_label": "收取款项",
+          "collocations": [
+            {
+              "phrase": "collect a fee",
+              "translation": "收取费用"
+            },
+            {
+              "phrase": "collect donations",
+              "translation": "募集捐款"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The school collects a small fee.",
+              "zh": "学校收取一笔小额费用。"
+            },
+            {
+              "en": "They collected donations for the shelter.",
+              "zh": "他们为收容所募集了捐款。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "receive：只表示收到；collect 常含主动收取或募集。"
+      ],
+      "antonyms": [
+        "pay：支付款项。"
+      ],
+      "confusables": [
+        "collect donations 是募捐；donate 是捐出。"
+      ]
+    }
+  ]
+}

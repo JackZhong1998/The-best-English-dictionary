@@ -5,6 +5,7 @@ Existing nonempty MP3 files are skipped, so interrupted runs can resume.
 """
 
 import asyncio
+import hashlib
 import json
 from pathlib import Path
 
@@ -13,6 +14,19 @@ import edge_tts
 ROOT = Path(__file__).resolve().parents[1]
 VOICE = 'en-US-JennyNeural'
 CONCURRENCY = 3
+MANIFEST = ROOT / 'content' / 'audio_manifest.json'
+RATE = '+0%'
+PITCH = '+0Hz'
+VOLUME = '+0%'
+
+
+def clip_digest(text):
+    payload = '\0'.join((VOICE, RATE, PITCH, VOLUME, text))
+    return hashlib.sha256(payload.encode('utf-8')).hexdigest()
+
+
+def clip_name(target):
+    return target.relative_to(ROOT / 'public' / 'audio').as_posix()
 
 
 def jobs():
@@ -27,9 +41,10 @@ def jobs():
                     yield example['en'], ROOT / 'public' / 'audio' / word / name
 
 
-async def generate(text, target, semaphore):
-    if target.exists() and target.stat().st_size > 1000:
-        return 'skipped'
+async def generate(text, target, semaphore, previous_digest):
+    digest = clip_digest(text)
+    if target.exists() and target.stat().st_size > 1000 and previous_digest == digest:
+        return 'skipped', digest
     async with semaphore:
         target.parent.mkdir(parents=True, exist_ok=True)
         temporary = target.with_suffix('.tmp')
@@ -39,7 +54,7 @@ async def generate(text, target, semaphore):
                 if temporary.stat().st_size < 1000:
                     raise ValueError('empty audio')
                 temporary.replace(target)
-                return 'created'
+                return 'created', digest
             except Exception:
                 temporary.unlink(missing_ok=True)
                 if attempt == 2:
@@ -48,11 +63,20 @@ async def generate(text, target, semaphore):
 
 
 async def main():
+    previous = json.loads(MANIFEST.read_text(encoding='utf-8')) if MANIFEST.exists() else {}
     semaphore = asyncio.Semaphore(CONCURRENCY)
-    tasks = [generate(text, target, semaphore) for text, target in jobs()]
+    clips = list(jobs())
+    tasks = [generate(text, target, semaphore, previous.get(clip_name(target))) for text, target in clips]
     results = await asyncio.gather(*tasks, return_exceptions=True)
     failures = [result for result in results if isinstance(result, Exception)]
-    print(f'{len(tasks)} files: {results.count("created")} created, {results.count("skipped")} skipped, {len(failures)} failed')
+    current = {clip_name(target): result[1] for (_, target), result in zip(clips, results)
+               if not isinstance(result, Exception)}
+    temporary = MANIFEST.with_suffix('.json.tmp')
+    temporary.write_text(json.dumps(current, ensure_ascii=False, indent=2, sort_keys=True) + '\n', encoding='utf-8')
+    temporary.replace(MANIFEST)
+    created = sum(result[0] == 'created' for result in results if not isinstance(result, Exception))
+    skipped = sum(result[0] == 'skipped' for result in results if not isinstance(result, Exception))
+    print(f'{len(tasks)} files: {created} created, {skipped} skipped, {len(failures)} failed')
     if failures:
         for error in failures[:10]:
             print(f'  {type(error).__name__}: {error}')

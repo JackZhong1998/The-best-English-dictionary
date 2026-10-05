@@ -1,0 +1,139 @@
+{
+  "word": "build",
+  "phonetic": "/bɪld/",
+  "syllables": [
+    "build"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "建造",
+    "建立",
+    "逐渐增强"
+  ],
+  "etymology": "源自古英语 byldan，早期指“建造房屋”。",
+  "semantic_shift": "从一块块建成房屋，扩展为逐步建立关系、能力或信心。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to make a structure by putting parts together",
+      "zh_definition": "把材料组合起来建成建筑物",
+      "usages": [
+        {
+          "usage_label": "建造",
+          "collocations": [
+            {
+              "phrase": "build a house",
+              "translation": "建房子"
+            },
+            {
+              "phrase": "build a bridge",
+              "translation": "建桥"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They built a bridge over the river.",
+              "zh": "他们在河上建了一座桥。"
+            },
+            {
+              "en": "My uncle built this small house.",
+              "zh": "我叔叔建了这座小房子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "construct：也指建造，语气较正式；build 更常用。"
+      ],
+      "antonyms": [
+        "demolish：拆除建筑物。"
+      ],
+      "confusables": [
+        "build 的过去式是 built，不是 builded。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to develop something over time",
+      "zh_definition": "经过一段时间逐步建立某事物",
+      "usages": [
+        {
+          "usage_label": "建立",
+          "collocations": [
+            {
+              "phrase": "build trust",
+              "translation": "建立信任"
+            },
+            {
+              "phrase": "build a team",
+              "translation": "组建团队"
+            }
+          ],
+          "examples": [
+            {
+              "en": "It takes time to build trust.",
+              "zh": "建立信任需要时间。"
+            },
+            {
+              "en": "She built a strong team at work.",
+              "zh": "她在工作中组建了一支强大的团队。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "develop：强调发展过程；build 常含逐步投入、建立基础的意思。"
+      ],
+      "antonyms": [
+        "destroy trust：破坏信任。"
+      ],
+      "confusables": [
+        "build trust 不是建造有形物体，而是逐步建立关系。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to increase gradually",
+      "zh_definition": "逐渐增加或增强",
+      "usages": [
+        {
+          "usage_label": "逐渐增强",
+          "collocations": [
+            {
+              "phrase": "build up strength",
+              "translation": "增强体力"
+            },
+            {
+              "phrase": "build up confidence",
+              "translation": "增强信心"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Regular exercise builds up strength.",
+              "zh": "经常锻炼能增强体力。"
+            },
+            {
+              "en": "Practice helped her build up confidence.",
+              "zh": "练习帮助她逐渐建立信心。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "increase：泛指增加；build up 强调逐步积累。"
+      ],
+      "antonyms": [
+        "weaken：变弱。"
+      ],
+      "confusables": [
+        "build up 在这里是“逐渐增强”，不是把东西堆成楼。"
+      ]
+    }
+  ]
+}

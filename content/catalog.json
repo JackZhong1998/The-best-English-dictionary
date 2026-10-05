@@ -497,10 +497,10 @@
       ],
       "status": "published",
       "basic_zh": "安排；整理",
-      "content_version": 1,
+      "content_version": 2,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": "codex-content-agent",
+      "author": "codex-review-agent",
       "risk_flags": [],
       "review_records": [
         {
@@ -511,6 +511,15 @@
           "sha256": "d6398641636af4ea410d994ccaffa6c403296b76b3f23dcb63f279ff480f0583",
           "issue_count": 0,
           "correction_count": 0
+        },
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "复核 arrange transportation 的中文搭配和例句改为自然的“安排交通工具/接送”；英语原句与其余内容不变。",
+          "sha256": "dfb950dd19060d6de857c0752bcae82212a42f4c80347ce6713f8bbb47d03491",
+          "issue_count": 1,
+          "correction_count": 1
         }
       ],
       "source_file": "content/pilot_cet4.tsv"
@@ -547,10 +556,10 @@
       ],
       "status": "published",
       "basic_zh": "文章；物品",
-      "content_version": 1,
+      "content_version": 2,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": "codex-content-agent",
+      "author": "codex-review-agent",
       "risk_flags": [],
       "review_records": [
         {
@@ -561,6 +570,15 @@
           "sha256": "8b4ec76c125121314efa7e99a739d25dd810e05316304fc7b4274db0f48eb817",
           "issue_count": 0,
           "correction_count": 0
+        },
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "复核冠词义第二例句改为明确需要 an 的 apple 场景；英汉对应准确，其余内容不变。",
+          "sha256": "751ac4191c1644a3118191d6e9bf1e5e5084db71bd7d4986b33a21fb06c4501c",
+          "issue_count": 1,
+          "correction_count": 1
         }
       ],
       "source_file": "content/pilot_cet4.tsv"
@@ -672,10 +690,10 @@
       ],
       "status": "published",
       "basic_zh": "开始",
-      "content_version": 2,
+      "content_version": 3,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": "codex-content-agent",
+      "author": "codex-review-agent",
       "risk_flags": [],
       "review_records": [
         {
@@ -693,6 +711,15 @@
           "decision": "accept",
           "notes": "自动校验发现第二义项反义词说明过短；已补足 begin/end 的事件起止区别，其余义项及例句保持核对结果。",
           "sha256": "81009ee436e8a7271d94ca566558f7cf89d0326df2570733bd81e9adb26ae6d4",
+          "issue_count": 1,
+          "correction_count": 1
+        },
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "复核将易误解为副词义的“起初”改为与第三义项一致的“以……开头”；其余内容不变。",
+          "sha256": "3ed9f7dd42807cc0b54256e316c11d4ca07b26ffbc13525198eff29e1100c700",
           "issue_count": 1,
           "correction_count": 1
         }
@@ -769,14 +796,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "建造；建立",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对建造、建立、build up 增强三义；例句、过去式、词源和辨析准确。",
+          "sha256": "363200cb9024aa2c8a05beb7e456c1a57fa75538b2b321608b433b9829558e0a",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -784,14 +821,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "商业；事务",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对商业活动、企业、个人事务三义及可数性；例句和搭配自然。",
+          "sha256": "ba7a73418e453b9f4b494879affae8a60070c8eb275a95f2e86c1dd6ffa38b82",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -829,14 +876,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "原因；导致",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对原因、导致、事业三义；第三义原例句略生硬，已改为和平事业的自然表达。",
+          "sha256": "c237d3773dec239b3f9653af1138619645840ac39d3fddd4ad3696fbac86afe7",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -874,14 +931,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "选择",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对选择对象与 choose to do；音标、例句及 chose/chosen 辨析准确。",
+          "sha256": "40057ddd8899fb442c0183b7ec9b6a91fba7a1d4e0f3ce76088c956be7edc739",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -889,14 +956,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "收集；领取",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对收集物品、采集信息、收取款项三义；英汉对应与搭配自然。",
+          "sha256": "aa225ab06a16673af3f8887638c41ffdd0d176e9dedbe206b315ebcf52212528",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -919,14 +996,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "常见的；共同的",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对常见和共同两义，以及 have in common；例句与词源准确。",
+          "sha256": "d63141a7d7c7d41bfbc6008b74ca00c8e9031dcc5ab7c594a21786c31ada5350",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -934,14 +1021,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "比较",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对比较异同与比作两义；compare with/to 的说明不过度绝对化。",
+          "sha256": "16edf7fe02c3f2a328e8f03c4a2af9a8844a982f60534ed0c17b8b96a5572f09",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -949,14 +1046,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "完整的；完成",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对完整、已完成、完成三义；已把易歧义的 a complete project 改为 the project is complete。",
+          "sha256": "9ad847419284c39ebac35c158f85c2fba5ec86fc8fb265f797ade88b7a6970ec",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -964,14 +1071,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "担忧；涉及；重要的事",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对担忧、使担心、涉及、关注点四义；concerned about/with 的说明与例句准确。",
+          "sha256": "5ca6eef7de0e959179836db98539a9abd9ffdefbac5810efdf597ef613039bb7",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -979,14 +1096,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "考虑；认为",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对思考、认为、顾及三义；consider doing 和 consider someone a friend 搭配准确。",
+          "sha256": "d27953959f52e73c40b6de6598d9a82981faf1ad1f2da0a848d5520001190687",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {

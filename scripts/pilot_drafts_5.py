@@ -12,7 +12,7 @@ ENTRIES = {
         "senses": [
             sense(1, "v.", "to put things in a particular order or position", "把物品按一定顺序或位置摆好", "整理摆放", [("arrange the books", "整理书籍"), ("arrange flowers", "插花")], [("She arranged the books by subject.", "她按主题整理了书籍。"), ("We arranged the chairs in a circle.", "我们把椅子摆成一圈。")], "organize：可指整理物品或工作；arrange 更强调摆放次序。", "scatter：把东西撒乱。", "arrange 是动词“排列”；range 作名词常指“范围”，如 a range of books。"),
             sense(2, "v.", "to plan the details of an event or meeting", "计划活动或会面的具体事项", "安排活动", [("arrange a meeting", "安排会议"), ("arrange a visit", "安排参观")], [("Can we arrange a meeting for Friday?", "我们能把会议安排在星期五吗？"), ("They arranged a visit to the museum.", "他们安排了参观博物馆。")], "plan：偏重制定计划；arrange 常指落实时间、地点等细节。", "cancel：取消已安排的活动。", "arrange to meet someone 是安排见面；arrange a meeting 是安排会议。"),
-            sense(3, "v.", "to make sure something is provided or done", "设法确保某事得到提供或完成", "筹备所需事项", [("arrange transportation", "安排交通"), ("arrange for a taxi", "安排一辆出租车")], [("I arranged transportation for the guests.", "我为客人安排了交通。"), ("We arranged for a taxi to pick her up.", "我们安排了一辆出租车接她。")], "organize：也指组织协调；arrange for 强调让某项服务实现。", "", "arrange for a taxi 是安排车辆，不是把出租车排成一列。"),
+            sense(3, "v.", "to make sure something is provided or done", "设法确保某事得到提供或完成", "筹备所需事项", [("arrange transportation", "安排交通工具"), ("arrange for a taxi", "安排一辆出租车")], [("I arranged transportation for the guests.", "我为客人安排了接送。"), ("We arranged for a taxi to pick her up.", "我们安排了一辆出租车接她。")], "organize：也指组织协调；arrange for 强调让某项服务实现。", "", "arrange for a taxi 是安排车辆，不是把出租车排成一列。"),
         ],
     },
     "arrive": {
@@ -34,7 +34,7 @@ ENTRIES = {
         "senses": [
             sense(1, "n.", "a piece of writing in a newspaper or website", "报纸或网站上的一篇文章", "文章", [("read an article", "读一篇文章"), ("a news article", "新闻报道")], [("I read an article about sleep.", "我读了一篇关于睡眠的文章。"), ("Her article appeared in the school paper.", "她的文章刊登在校报上。")], "essay：常指较完整的论述文章；article 常见于报刊或网站。", "", "article 是一篇文章，不等于整本杂志。"),
             sense(2, "n.", "a single object, especially one in a list", "一件物品，尤指清单中的一项", "物品", [("an article of clothing", "一件衣物"), ("household articles", "家居用品")], [("Each article has a price tag.", "每件商品都有价格标签。"), ("She packed a few articles of clothing.", "她打包了几件衣服。")], "item：也指一件物品；article 在商品或清单语境中较正式。", "", "an article of clothing 指一件衣物，不是一篇关于衣服的文章。"),
-            sense(3, "n.", "a word such as a, an, or the used before a noun", "名词前使用的 a、an 或 the", "冠词", [("the definite article", "定冠词"), ("the indefinite article", "不定冠词")], [("The word 'the' is an article.", "the 这个词是冠词。"), ("Use an article before this noun.", "在这个名词前使用冠词。")], "determiner：范围更广的限定词；article 只指 a、an、the 等冠词。", "", "语法中的 article 不是“文章”；需看讨论的是词还是文本。"),
+            sense(3, "n.", "a word such as a, an, or the used before a noun", "名词前使用的 a、an 或 the", "冠词", [("the definite article", "定冠词"), ("the indefinite article", "不定冠词")], [("The word 'the' is an article.", "the 这个词是冠词。"), ("We use 'an' before 'apple'.", "在 apple 前，我们用冠词 an。")], "determiner：范围更广的限定词；article 只指 a、an、the 等冠词。", "", "语法中的 article 不是“文章”；需看讨论的是词还是文本。"),
         ],
     },
     "attend": {

@@ -1,6 +1,6 @@
 # 词义之间
 
-面向中文学习者的英汉词典。网站先收录词头和原创基础释义，再由本地 Codex 制作并复核完整词条；尚未精修的词仍可查询。现有 30 个高频词条及其音频已迁入新接口；另有 30 个新词经独立复核并预生成美音。当前共 604 个音频文件。100 词四级水平试批的状态记录在 `content/catalog.json`，其中的“CET4-level candidate”是独立编辑选择，不声称来自官方四级词表。
+面向中文学习者的英汉词典。网站先收录词头和原创基础释义，再由本地 Codex 制作并复核完整词条；尚未精修的词仍可查询。现有 30 个高频词条及其音频已迁入新接口；另有 40 个新词经独立复核并预生成美音。当前共 670 个音频文件。100 词四级水平试批的状态记录在 `content/catalog.json`，其中的“CET4-level candidate”是独立编辑选择，不声称来自官方四级词表。
 
 ## 本地运行和校验
 
@@ -22,7 +22,7 @@ Vite 开发服务器使用导出的静态试批数据，入口为 `http://127.0.
 - `content/pilot_cet4.tsv` 是独立整理的 100 词试批词头和原创基础释义。扩展到正式四级、六级、考研词库前，应逐一确认词表的授权和来源元数据；不要复制第三方释义或例句。
 - `scripts/content_pipeline.py` 提供 `status`、`stage`、`review`、`publish` 等命令。候选 JSON 先进入 `content/drafts/`，独立复核通过后才进入 `content/words/`。当前试批首批逐词复核；后续每批 25 词，抽检至少 10%，另查多音、多词源、短语动词等高风险词。出现系统性错误时复核整批。
 - 已发布词条可通过同样的 `stage → review → publish` 路径修订，审核期间旧版仍可读。`review --issues-found N --corrections N` 为后续批次记录结构化质量数据；`scripts/batch_report.mjs` 汇总每批词数、复核记录及音频完整性，历史未记录的错误数显示为未知，不推测。
-- 原有 30 词的生成源在 `scripts/build_content.py`，音频生成脚本在 `scripts/generate_audio.py`。修改旧例句后应重做相应 MP3。词源和词义迁移无可靠说明时可以留空。
+- 原有 30 词的生成源在 `scripts/build_content.py`，音频生成脚本在 `scripts/generate_audio.py`。`content/audio_manifest.json` 记录文本、音色和参数的哈希；修改例句后脚本会重做相应 MP3，构建校验也会拒绝过期音频。词源和词义迁移无可靠说明时可以留空。
 
 ## Vercel 部署
 
@@ -40,7 +40,7 @@ Vite 开发服务器使用导出的静态试批数据，入口为 `http://127.0.
 | `AUDIO_GLOBAL_DAILY_LIMIT` | 可选，默认全站每天 100 次新生成 |
 | `AUDIO_STORAGE_MAX_BYTES` | 可选，默认 8 GB；达到阈值暂停新增生成 |
 
-`GET /api/audio?word=...` 只能读取已发布词条的词头；例句需加 `senseId`、`usageId`、`exampleId`。接口不能接受任意 TTS 文本。首次生成可能返回 202，浏览器等待后重试；成功音频由 R2 缓存，缓存命中不计入新生成额度。当前 60 个完整词条优先读取仓库内的预生成 MP3。线上 `edge-tts` 依赖外部服务，必须在 Vercel 预览环境完成单词、例句、首次等待、失败重试、并发去重和 R2 命中实测后才启用正式站；若不稳定，保留本地预生成，不自动切换付费 TTS。
+`GET /api/audio?word=...` 只能读取已发布词条的词头；例句需加 `senseId`、`usageId`、`exampleId`。接口不能接受任意 TTS 文本。首次生成可能返回 202，浏览器等待后重试；成功音频由 R2 缓存，缓存命中不计入新生成额度。当前 70 个完整词条优先读取仓库内的预生成 MP3。线上 `edge-tts` 依赖外部服务，必须在 Vercel 预览环境完成单词、例句、首次等待、失败重试、并发去重和 R2 命中实测后才启用正式站；若不稳定，保留本地预生成，不自动切换付费 TTS。
 
 音频结果会写入数据库的 `audio_generation_events`；`audio_generation_daily` 和 `audio_generation_failures_daily` 视图分别提供每日失败率与错误原因统计。关闭新增在线生成时，已缓存的 R2 音频仍可播放。
 

@@ -1,0 +1,95 @@
+{
+  "word": "compare",
+  "phonetic": "/kəmˈper/",
+  "syllables": [
+    "com",
+    "pare"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "比较",
+    "比作"
+  ],
+  "etymology": "经古法语 comparer，来自拉丁语 comparare，与 par“相等”有关。",
+  "semantic_shift": "从把两者放在一起看是否相当，发展为比较异同，也可把一件事比作另一件事。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to examine how two things are similar or different",
+      "zh_definition": "考察两者的相同与不同",
+      "usages": [
+        {
+          "usage_label": "比较异同",
+          "collocations": [
+            {
+              "phrase": "compare prices",
+              "translation": "比较价格"
+            },
+            {
+              "phrase": "compare two plans",
+              "translation": "比较两个方案"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Compare the two pictures carefully.",
+              "zh": "仔细比较这两幅画。"
+            },
+            {
+              "en": "We compared prices before buying the phone.",
+              "zh": "买手机前我们比较了价格。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "contrast：偏重指出差异；compare 可以同时看相同和不同。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "compare A with B 常用于比较异同；不要漏掉比较对象。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to describe one thing as similar to another",
+      "zh_definition": "把一件事物说成像另一件事物",
+      "usages": [
+        {
+          "usage_label": "比作",
+          "collocations": [
+            {
+              "phrase": "compare life to a journey",
+              "translation": "把人生比作旅程"
+            },
+            {
+              "phrase": "compare someone to a hero",
+              "translation": "把某人比作英雄"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She compared life to a journey.",
+              "zh": "她把人生比作一段旅程。"
+            },
+            {
+              "en": "The writer compared the city to a garden.",
+              "zh": "作者把这座城市比作花园。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "liken：明确表示比作，语气较正式；compare to 更常见。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "compare A to B 在此是作比喻，不一定逐项分析异同。"
+      ]
+    }
+  ]
+}
