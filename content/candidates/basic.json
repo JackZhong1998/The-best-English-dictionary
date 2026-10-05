@@ -1,0 +1,139 @@
+{
+  "word": "basic",
+  "phonetic": "/ˈbeɪsɪk/",
+  "syllables": [
+    "ba",
+    "sic"
+  ],
+  "pos": [
+    "adj.",
+    "n."
+  ],
+  "core_meanings": [
+    "基本的",
+    "基础的",
+    "基础知识"
+  ],
+  "etymology": "由 base“基础”加形容词后缀 -ic 构成；最早的英语用法与化学有关。",
+  "semantic_shift": "从“与基础有关”，发展为最重要、最初步或最简单的层次；复数 basics 指一门事的基础知识。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "forming the most important or necessary part",
+      "zh_definition": "构成最重要或必需的部分",
+      "usages": [
+        {
+          "usage_label": "基本的",
+          "collocations": [
+            {
+              "phrase": "basic needs",
+              "translation": "基本需求"
+            },
+            {
+              "phrase": "a basic rule",
+              "translation": "基本规则"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Food is a basic human need.",
+              "zh": "食物是人的基本需求。"
+            },
+            {
+              "en": "Please follow the basic safety rules.",
+              "zh": "请遵守基本安全规则。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "essential：强调必不可少；basic 强调处在基础层次。"
+      ],
+      "antonyms": [
+        "optional：可选择的，并非必需。"
+      ],
+      "confusables": [
+        "basic 不一定表示“容易”，basic needs 是根本需求。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "simple and suitable for a beginner",
+      "zh_definition": "简单、适合初学者的",
+      "usages": [
+        {
+          "usage_label": "初级的",
+          "collocations": [
+            {
+              "phrase": "basic English",
+              "translation": "基础英语"
+            },
+            {
+              "phrase": "basic skills",
+              "translation": "基础技能"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I learned basic English at school.",
+              "zh": "我在学校学了基础英语。"
+            },
+            {
+              "en": "This course teaches basic computer skills.",
+              "zh": "这门课教授基础电脑技能。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "elementary：也指初级，常用于学习阶段；basic 范围更广。"
+      ],
+      "antonyms": [
+        "advanced：高级的。"
+      ],
+      "confusables": [
+        "basic skills 是基础技能，不等于能力低下。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "the simplest and most important parts of a subject",
+      "zh_definition": "一门学科最简单也最重要的部分",
+      "usages": [
+        {
+          "usage_label": "基础知识",
+          "collocations": [
+            {
+              "phrase": "learn the basics",
+              "translation": "学习基础知识"
+            },
+            {
+              "phrase": "back to basics",
+              "translation": "回归基本功"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Let's learn the basics first.",
+              "zh": "我们先学基础知识。"
+            },
+            {
+              "en": "She knows the basics of cooking.",
+              "zh": "她懂得烹饪的基础知识。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "fundamentals：也指基本原理，语气较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义通常用复数 the basics；basic 单数一般是形容词。"
+      ]
+    }
+  ]
+}

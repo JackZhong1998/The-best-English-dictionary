@@ -1,0 +1,138 @@
+{
+  "word": "arrange",
+  "phonetic": "/əˈreɪndʒ/",
+  "syllables": [
+    "ar",
+    "range"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "整理",
+    "安排",
+    "筹备"
+  ],
+  "etymology": "经古法语 arengier 进入英语，早期指“排成队列”。",
+  "semantic_shift": "从把人或物排成有序的队列，扩展到整理物品和事先安排活动。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to put things in a particular order or position",
+      "zh_definition": "把物品按一定顺序或位置摆好",
+      "usages": [
+        {
+          "usage_label": "整理摆放",
+          "collocations": [
+            {
+              "phrase": "arrange the books",
+              "translation": "整理书籍"
+            },
+            {
+              "phrase": "arrange flowers",
+              "translation": "插花"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She arranged the books by subject.",
+              "zh": "她按主题整理了书籍。"
+            },
+            {
+              "en": "We arranged the chairs in a circle.",
+              "zh": "我们把椅子摆成一圈。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "organize：可指整理物品或工作；arrange 更强调摆放次序。"
+      ],
+      "antonyms": [
+        "scatter：把东西撒乱。"
+      ],
+      "confusables": [
+        "arrange 是动词“排列”；range 作名词常指“范围”，如 a range of books。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to plan the details of an event or meeting",
+      "zh_definition": "计划活动或会面的具体事项",
+      "usages": [
+        {
+          "usage_label": "安排活动",
+          "collocations": [
+            {
+              "phrase": "arrange a meeting",
+              "translation": "安排会议"
+            },
+            {
+              "phrase": "arrange a visit",
+              "translation": "安排参观"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can we arrange a meeting for Friday?",
+              "zh": "我们能把会议安排在星期五吗？"
+            },
+            {
+              "en": "They arranged a visit to the museum.",
+              "zh": "他们安排了参观博物馆。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "plan：偏重制定计划；arrange 常指落实时间、地点等细节。"
+      ],
+      "antonyms": [
+        "cancel：取消已安排的活动。"
+      ],
+      "confusables": [
+        "arrange to meet someone 是安排见面；arrange a meeting 是安排会议。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to make sure something is provided or done",
+      "zh_definition": "设法确保某事得到提供或完成",
+      "usages": [
+        {
+          "usage_label": "筹备所需事项",
+          "collocations": [
+            {
+              "phrase": "arrange transportation",
+              "translation": "安排交通"
+            },
+            {
+              "phrase": "arrange for a taxi",
+              "translation": "安排一辆出租车"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I arranged transportation for the guests.",
+              "zh": "我为客人安排了交通。"
+            },
+            {
+              "en": "We arranged for a taxi to pick her up.",
+              "zh": "我们安排了一辆出租车接她。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "organize：也指组织协调；arrange for 强调让某项服务实现。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "arrange for a taxi 是安排车辆，不是把出租车排成一列。"
+      ]
+    }
+  ]
+}

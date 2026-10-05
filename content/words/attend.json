@@ -1,0 +1,140 @@
+{
+  "word": "attend",
+  "phonetic": "/əˈtend/",
+  "syllables": [
+    "at",
+    "tend"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "出席",
+    "上学",
+    "处理或照料"
+  ],
+  "etymology": "经古法语 atendre，最终来自拉丁语 attendere，字面上与“把注意力伸向某处”有关。",
+  "semantic_shift": "从把注意力放在某事上，发展为到场参与，以及认真处理某人或某事的需要。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to be present at an event",
+      "zh_definition": "出席活动",
+      "usages": [
+        {
+          "usage_label": "出席",
+          "collocations": [
+            {
+              "phrase": "attend a meeting",
+              "translation": "出席会议"
+            },
+            {
+              "phrase": "attend a concert",
+              "translation": "参加音乐会"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I attended the meeting yesterday.",
+              "zh": "我昨天出席了会议。"
+            },
+            {
+              "en": "Many parents attended the concert.",
+              "zh": "许多家长参加了音乐会。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "go to：一般说去某地；attend 强调到场参与活动。"
+      ],
+      "antonyms": [
+        "miss：错过或缺席。"
+      ],
+      "confusables": [
+        "attend 直接接活动名词，通常不说 attend to a meeting。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to go regularly to a school or course",
+      "zh_definition": "定期到学校或课程学习",
+      "usages": [
+        {
+          "usage_label": "上学或上课",
+          "collocations": [
+            {
+              "phrase": "attend school",
+              "translation": "上学"
+            },
+            {
+              "phrase": "attend classes",
+              "translation": "上课"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She attends school near her home.",
+              "zh": "她在家附近上学。"
+            },
+            {
+              "en": "He attended evening classes last year.",
+              "zh": "他去年上过夜校课程。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "study at：强调在某校学习；attend 强调实际去上课。"
+      ],
+      "antonyms": [
+        "skip class：逃课或缺课。"
+      ],
+      "confusables": [
+        "attend school 不表示去学校一次，而是经常在那里上学。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to deal with or care for someone or something",
+      "zh_definition": "处理事情或照顾某人",
+      "usages": [
+        {
+          "usage_label": "处理或照料",
+          "collocations": [
+            {
+              "phrase": "attend to a problem",
+              "translation": "处理问题"
+            },
+            {
+              "phrase": "attend to a patient",
+              "translation": "照料病人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please attend to this problem today.",
+              "zh": "请今天处理这个问题。"
+            },
+            {
+              "en": "A nurse attended to the patient.",
+              "zh": "一名护士照料了病人。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "deal with：表示处理；attend to 还可强调给予关注和照料。"
+      ],
+      "antonyms": [
+        "neglect：忽视，不予照料。"
+      ],
+      "confusables": [
+        "attend to a patient 是照料病人；attend a meeting 是出席会议。"
+      ]
+    }
+  ]
+}

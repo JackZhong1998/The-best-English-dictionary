@@ -1,0 +1,138 @@
+{
+  "word": "become",
+  "phonetic": "/bɪˈkʌm/",
+  "syllables": [
+    "be",
+    "come"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "变成",
+    "成为",
+    "后来怎样"
+  ],
+  "etymology": "源自古英语 becuman，由 be- 与 come 的旧形式组合，早期有“到来、发生”之意。",
+  "semantic_shift": "从进入一个新状态或发生变化，发展为“变成、成为”；what became of ... 保留了“后来发生什么”的问法。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to start to be in a new state",
+      "zh_definition": "进入新的状态",
+      "usages": [
+        {
+          "usage_label": "变得",
+          "collocations": [
+            {
+              "phrase": "become tired",
+              "translation": "变累"
+            },
+            {
+              "phrase": "become clear",
+              "translation": "变得清楚"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The sky became dark.",
+              "zh": "天空变暗了。"
+            },
+            {
+              "en": "She became more confident with practice.",
+              "zh": "经过练习，她变得更自信了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "get：也可表示变得，语气更口语；become 较中性。"
+      ],
+      "antonyms": [
+        "remain：保持原状。"
+      ],
+      "confusables": [
+        "become 后可直接接形容词，不用 become to be tired。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to gain a new role or identity",
+      "zh_definition": "获得新的身份或角色",
+      "usages": [
+        {
+          "usage_label": "成为",
+          "collocations": [
+            {
+              "phrase": "become a teacher",
+              "translation": "成为老师"
+            },
+            {
+              "phrase": "become a member",
+              "translation": "成为成员"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He became a doctor last year.",
+              "zh": "他去年成为一名医生。"
+            },
+            {
+              "en": "She became the team leader.",
+              "zh": "她成为了团队负责人。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "turn into：强调转变成另一事物；become 常用于身份变化。"
+      ],
+      "antonyms": [
+        "stop being：不再是。"
+      ],
+      "confusables": [
+        "become a doctor 后接名词；become confident 后接形容词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to happen to someone or something later",
+      "zh_definition": "某人或某物后来遭遇什么",
+      "usages": [
+        {
+          "usage_label": "后来怎样",
+          "collocations": [
+            {
+              "phrase": "what became of him",
+              "translation": "他后来怎么样了"
+            },
+            {
+              "phrase": "what became of the plan",
+              "translation": "那个计划后来怎样了"
+            }
+          ],
+          "examples": [
+            {
+              "en": "What became of your old bike?",
+              "zh": "你的旧自行车后来怎么样了？"
+            },
+            {
+              "en": "Nobody knows what became of the plan.",
+              "zh": "没人知道那个计划后来怎么样了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "happen to：也可问后来发生了什么；become of 常见于疑问句。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "what became of 不是“变成什么材料”，而是问后续结果。"
+      ]
+    }
+  ]
+}

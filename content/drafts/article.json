@@ -1,0 +1,135 @@
+{
+  "word": "article",
+  "phonetic": "/ˈɑːrtɪkəl/",
+  "syllables": [
+    "ar",
+    "ti",
+    "cle"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "文章",
+    "物品",
+    "冠词"
+  ],
+  "etymology": "经古法语 article，来自拉丁语 articulus“一个部分、关节”。",
+  "semantic_shift": "从整体中的一小部分，发展为报刊中的一篇文章、清单中的一件物品，也用于语法中的冠词。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a piece of writing in a newspaper or website",
+      "zh_definition": "报纸或网站上的一篇文章",
+      "usages": [
+        {
+          "usage_label": "文章",
+          "collocations": [
+            {
+              "phrase": "read an article",
+              "translation": "读一篇文章"
+            },
+            {
+              "phrase": "a news article",
+              "translation": "新闻报道"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I read an article about sleep.",
+              "zh": "我读了一篇关于睡眠的文章。"
+            },
+            {
+              "en": "Her article appeared in the school paper.",
+              "zh": "她的文章刊登在校报上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "essay：常指较完整的论述文章；article 常见于报刊或网站。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "article 是一篇文章，不等于整本杂志。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a single object, especially one in a list",
+      "zh_definition": "一件物品，尤指清单中的一项",
+      "usages": [
+        {
+          "usage_label": "物品",
+          "collocations": [
+            {
+              "phrase": "an article of clothing",
+              "translation": "一件衣物"
+            },
+            {
+              "phrase": "household articles",
+              "translation": "家居用品"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Each article has a price tag.",
+              "zh": "每件商品都有价格标签。"
+            },
+            {
+              "en": "She packed a few articles of clothing.",
+              "zh": "她打包了几件衣服。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "item：也指一件物品；article 在商品或清单语境中较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "an article of clothing 指一件衣物，不是一篇关于衣服的文章。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a word such as a, an, or the used before a noun",
+      "zh_definition": "名词前使用的 a、an 或 the",
+      "usages": [
+        {
+          "usage_label": "冠词",
+          "collocations": [
+            {
+              "phrase": "the definite article",
+              "translation": "定冠词"
+            },
+            {
+              "phrase": "the indefinite article",
+              "translation": "不定冠词"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The word 'the' is an article.",
+              "zh": "the 这个词是冠词。"
+            },
+            {
+              "en": "Use an article before this noun.",
+              "zh": "在这个名词前使用冠词。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "determiner：范围更广的限定词；article 只指 a、an、the 等冠词。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "语法中的 article 不是“文章”；需看讨论的是词还是文本。"
+      ]
+    }
+  ]
+}

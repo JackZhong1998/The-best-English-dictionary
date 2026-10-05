@@ -1,0 +1,140 @@
+{
+  "word": "believe",
+  "phonetic": "/bɪˈliːv/",
+  "syllables": [
+    "be",
+    "lieve"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "相信属实",
+    "信任",
+    "相信某种价值"
+  ],
+  "etymology": "源自古英语表示“信任、相信”的词形；与日耳曼语系中的“珍视、喜爱”词根有关。",
+  "semantic_shift": "从信任某人，扩展为认为某句话属实，以及认同某种理念或可能性。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to think that something is true",
+      "zh_definition": "认为某件事属实",
+      "usages": [
+        {
+          "usage_label": "相信事实",
+          "collocations": [
+            {
+              "phrase": "believe the story",
+              "translation": "相信这个故事"
+            },
+            {
+              "phrase": "believe that it is true",
+              "translation": "相信这是真的"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I believe your story.",
+              "zh": "我相信你的说法。"
+            },
+            {
+              "en": "She believes that the plan will work.",
+              "zh": "她相信这个计划会奏效。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "think：可表示认为；believe 更强调把某事当作真实的。"
+      ],
+      "antonyms": [
+        "doubt：怀疑。"
+      ],
+      "confusables": [
+        "believe someone 是相信对方说的话；believe in someone 是信任其能力。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to trust a person's ability or character",
+      "zh_definition": "信任一个人的能力或品格",
+      "usages": [
+        {
+          "usage_label": "信任某人",
+          "collocations": [
+            {
+              "phrase": "believe in yourself",
+              "translation": "相信自己"
+            },
+            {
+              "phrase": "believe in a friend",
+              "translation": "信任朋友"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I believe in your ability to succeed.",
+              "zh": "我相信你有成功的能力。"
+            },
+            {
+              "en": "Her parents always believed in her.",
+              "zh": "她的父母一直信任她。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "trust：直接指信任；believe in 还强调相信对方的潜力。"
+      ],
+      "antonyms": [
+        "distrust：不信任。"
+      ],
+      "confusables": [
+        "believe her 是相信她的话；believe in her 是相信她这个人。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to accept an idea or principle as important",
+      "zh_definition": "认同某种理念或原则",
+      "usages": [
+        {
+          "usage_label": "信奉理念",
+          "collocations": [
+            {
+              "phrase": "believe in fairness",
+              "translation": "信奉公平"
+            },
+            {
+              "phrase": "believe in hard work",
+              "translation": "相信努力的价值"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He believes in equal chances for all.",
+              "zh": "他认同人人机会均等的理念。"
+            },
+            {
+              "en": "We believe in working together.",
+              "zh": "我们相信合作的价值。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "value：表示重视；believe in 强调信奉或认同。"
+      ],
+      "antonyms": [
+        "reject a principle：拒绝某种原则。"
+      ],
+      "confusables": [
+        "believe in fairness 是认同公平的价值，不是在判断公平是否存在。"
+      ]
+    }
+  ]
+}

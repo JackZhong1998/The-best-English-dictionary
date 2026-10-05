@@ -1,0 +1,180 @@
+{
+  "word": "benefit",
+  "phonetic": "/ˈbenəfɪt/",
+  "syllables": [
+    "ben",
+    "e",
+    "fit"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "好处",
+    "福利",
+    "受益"
+  ],
+  "etymology": "经法语相关词形来自拉丁语 benefactum“善行”，由 bene“好”与 facere“做”构成。",
+  "semantic_shift": "从对人有益的行为，扩展到得到的好处；动词表示某人因此受益。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "something good that helps a person or situation",
+      "zh_definition": "对人或情况有帮助的好处",
+      "usages": [
+        {
+          "usage_label": "好处",
+          "collocations": [
+            {
+              "phrase": "health benefits",
+              "translation": "健康益处"
+            },
+            {
+              "phrase": "the main benefit",
+              "translation": "主要好处"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Exercise has many health benefits.",
+              "zh": "运动对健康有很多好处。"
+            },
+            {
+              "en": "The main benefit is more free time.",
+              "zh": "主要好处是有更多空闲时间。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "advantage：常强调相对优势；benefit 强调实际得到的好处。"
+      ],
+      "antonyms": [
+        "drawback：缺点或不利之处。"
+      ],
+      "confusables": [
+        "benefit 可数时指一项具体好处；泛指受益也可不可数。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "money or services provided through a job or program",
+      "zh_definition": "工作或计划提供的补贴或服务",
+      "usages": [
+        {
+          "usage_label": "福利待遇",
+          "collocations": [
+            {
+              "phrase": "employee benefits",
+              "translation": "员工福利"
+            },
+            {
+              "phrase": "medical benefits",
+              "translation": "医疗福利"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This job offers good benefits.",
+              "zh": "这份工作提供不错的福利。"
+            },
+            {
+              "en": "Her medical benefits cover the visit.",
+              "zh": "她的医疗福利支付这次就诊的费用。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "perk：常指额外的小福利；benefits 可包括正式医疗等保障。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义常用复数 benefits，通常不指一般性的“好处”。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to gain something helpful from an action or situation",
+      "zh_definition": "从行动或情况中得到好处",
+      "usages": [
+        {
+          "usage_label": "受益",
+          "collocations": [
+            {
+              "phrase": "benefit from practice",
+              "translation": "从练习中受益"
+            },
+            {
+              "phrase": "benefit from exercise",
+              "translation": "从运动中受益"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Students benefit from regular practice.",
+              "zh": "学生能从经常练习中受益。"
+            },
+            {
+              "en": "The town benefited from the new road.",
+              "zh": "这座小镇因新路而受益。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "gain from：也指从中获得好处；benefit 更简洁。"
+      ],
+      "antonyms": [
+        "suffer from：因某事受损。"
+      ],
+      "confusables": [
+        "benefit from 后接好处来源；benefit someone 是使某人受益。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to make someone or something better off",
+      "zh_definition": "使某人或某事获益",
+      "usages": [
+        {
+          "usage_label": "使……受益",
+          "collocations": [
+            {
+              "phrase": "benefit local people",
+              "translation": "让当地居民受益"
+            },
+            {
+              "phrase": "benefit the environment",
+              "translation": "有益于环境"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The new library benefits local people.",
+              "zh": "新图书馆让当地居民受益。"
+            },
+            {
+              "en": "This change will benefit the environment.",
+              "zh": "这项改变将有益于环境。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "help：泛指帮助；benefit 强调带来实际好处。"
+      ],
+      "antonyms": [
+        "harm：造成损害。"
+      ],
+      "confusables": [
+        "benefit people 直接接受益者；people benefit from something 用 from。"
+      ]
+    }
+  ]
+}

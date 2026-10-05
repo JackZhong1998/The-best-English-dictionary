@@ -1,0 +1,137 @@
+{
+  "word": "avoid",
+  "phonetic": "/əˈvɔɪd/",
+  "syllables": [
+    "a",
+    "void"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "避开",
+    "避免"
+  ],
+  "etymology": "经法语相关词形进入英语，早期与“离开、使空”有关。",
+  "semantic_shift": "从离开某个人或地方，扩展到采取行动使不希望发生的事不出现。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to stay away from a person or place",
+      "zh_definition": "有意不接近某人或某地",
+      "usages": [
+        {
+          "usage_label": "避开人或地点",
+          "collocations": [
+            {
+              "phrase": "avoid someone",
+              "translation": "躲开某人"
+            },
+            {
+              "phrase": "avoid crowded places",
+              "translation": "避开拥挤的地方"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I avoided the busy road.",
+              "zh": "我避开了那条繁忙的路。"
+            },
+            {
+              "en": "She avoided him after the argument.",
+              "zh": "争论后她一直躲着他。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "keep away from：也表示远离；avoid 强调有意避开。"
+      ],
+      "antonyms": [
+        "approach：靠近。"
+      ],
+      "confusables": [
+        "avoid someone 是躲开某人，不一定表示讨厌他。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to prevent something bad from happening",
+      "zh_definition": "设法使不好的事情不发生",
+      "usages": [
+        {
+          "usage_label": "避免事情发生",
+          "collocations": [
+            {
+              "phrase": "avoid mistakes",
+              "translation": "避免错误"
+            },
+            {
+              "phrase": "avoid delays",
+              "translation": "避免延误"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Check your work to avoid mistakes.",
+              "zh": "检查作业以避免出错。"
+            },
+            {
+              "en": "We left early to avoid delays.",
+              "zh": "我们提早出发，以免耽搁。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "prevent：强调阻止发生；avoid 常强调通过选择或行动绕开风险。"
+      ],
+      "antonyms": [
+        "cause：引起某事。"
+      ],
+      "confusables": [
+        "avoid 后面可直接接名词；avoid doing 中用动名词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to choose not to do something",
+      "zh_definition": "有意不做某事",
+      "usages": [
+        {
+          "usage_label": "避免某种行为",
+          "collocations": [
+            {
+              "phrase": "avoid eating late",
+              "translation": "避免太晚吃东西"
+            },
+            {
+              "phrase": "avoid making noise",
+              "translation": "避免制造噪音"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Try to avoid eating too late.",
+              "zh": "尽量不要太晚吃东西。"
+            },
+            {
+              "en": "Please avoid making noise here.",
+              "zh": "请不要在这里制造噪音。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "refrain from：同样指克制不做，语气更正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "avoid 后接动词 ing 形式，不说 avoid to do。"
+      ]
+    }
+  ]
+}

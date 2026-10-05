@@ -1,0 +1,138 @@
+{
+  "word": "arrive",
+  "phonetic": "/əˈraɪv/",
+  "syllables": [
+    "ar",
+    "rive"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "到达",
+    "来临",
+    "得出"
+  ],
+  "etymology": "经古法语 ariver，原指船只“抵达岸边”，最终与拉丁语 ripa“岸”有关。",
+  "semantic_shift": "从船靠岸，扩展到人或交通工具到达目的地；时间和事件也可以比喻为“到来”。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to reach a place at the end of a journey",
+      "zh_definition": "旅程结束时到达一个地点",
+      "usages": [
+        {
+          "usage_label": "到达地点",
+          "collocations": [
+            {
+              "phrase": "arrive at the station",
+              "translation": "到达车站"
+            },
+            {
+              "phrase": "arrive in London",
+              "translation": "到达伦敦"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The train arrived at noon.",
+              "zh": "火车中午到站。"
+            },
+            {
+              "en": "We arrived in London yesterday.",
+              "zh": "我们昨天抵达伦敦。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "reach：也指抵达，后面直接接地点；arrive 常配 at 或 in。"
+      ],
+      "antonyms": [
+        "depart：离开出发地。"
+      ],
+      "confusables": [
+        "arrive at 常接较小地点；arrive in 常接城市或国家。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to come or happen at a certain time",
+      "zh_definition": "在某个时候到来或发生",
+      "usages": [
+        {
+          "usage_label": "来临",
+          "collocations": [
+            {
+              "phrase": "spring arrives",
+              "translation": "春天到来"
+            },
+            {
+              "phrase": "the day arrives",
+              "translation": "那一天来临"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Spring arrived early this year.",
+              "zh": "今年春天来得早。"
+            },
+            {
+              "en": "The long-awaited day finally arrived.",
+              "zh": "期待已久的那一天终于到来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "come：更日常；arrive 更突出某个时刻终于到了。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这里的 arrive 是时间来临，不是人乘车抵达。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to reach a decision after thinking",
+      "zh_definition": "经过思考得出决定",
+      "usages": [
+        {
+          "usage_label": "得出结论",
+          "collocations": [
+            {
+              "phrase": "arrive at a decision",
+              "translation": "作出决定"
+            },
+            {
+              "phrase": "arrive at a conclusion",
+              "translation": "得出结论"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We arrived at a decision together.",
+              "zh": "我们一起作出了决定。"
+            },
+            {
+              "en": "The team arrived at a clear conclusion.",
+              "zh": "团队得出了明确结论。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "reach a decision：意思相近；arrive at 强调经过过程后得出结果。"
+      ],
+      "antonyms": [
+        "remain undecided：仍未作出决定。"
+      ],
+      "confusables": [
+        "arrive at a conclusion 是得出结论，没有实际旅行。"
+      ]
+    }
+  ]
+}

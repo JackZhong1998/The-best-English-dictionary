@@ -1,0 +1,139 @@
+{
+  "word": "begin",
+  "phonetic": "/bɪˈɡɪn/",
+  "syllables": [
+    "be",
+    "gin"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "开始",
+    "起初"
+  ],
+  "etymology": "源自古英语 beginnan；后半部分更早词源不确定。",
+  "semantic_shift": "从迈出第一步，泛指活动、过程或事件的开端。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to start doing something",
+      "zh_definition": "开始做某事",
+      "usages": [
+        {
+          "usage_label": "开始行动",
+          "collocations": [
+            {
+              "phrase": "begin to read",
+              "translation": "开始阅读"
+            },
+            {
+              "phrase": "begin working",
+              "translation": "开始工作"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Let's begin the lesson now.",
+              "zh": "我们现在开始上课吧。"
+            },
+            {
+              "en": "She began to read the letter.",
+              "zh": "她开始读那封信。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "start：意思接近，口语更常见；begin 稍正式。"
+      ],
+      "antonyms": [
+        "finish：完成。"
+      ],
+      "confusables": [
+        "begin 可接 to do 或 doing；过去式是 began。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to have a starting point in time or place",
+      "zh_definition": "在某时或某地开始",
+      "usages": [
+        {
+          "usage_label": "开始发生",
+          "collocations": [
+            {
+              "phrase": "the show begins",
+              "translation": "演出开始"
+            },
+            {
+              "phrase": "begin at nine",
+              "translation": "九点开始"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The movie begins at seven.",
+              "zh": "电影七点开始。"
+            },
+            {
+              "en": "The path begins near the bridge.",
+              "zh": "小路从桥附近开始。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "start：也可表示事件开始；begin 常用于较正式的说明。"
+      ],
+      "antonyms": [
+        "end：表示事件或过程结束，与 begin 表示开始相对。"
+      ],
+      "confusables": [
+        "此义 begin 不需要宾语：The movie begins at seven。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to have something as the first part",
+      "zh_definition": "以某事作为开头",
+      "usages": [
+        {
+          "usage_label": "以……开头",
+          "collocations": [
+            {
+              "phrase": "begin with a question",
+              "translation": "以一个问题开头"
+            },
+            {
+              "phrase": "begin by saying hello",
+              "translation": "先打招呼"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The book begins with a short story.",
+              "zh": "这本书以一个短故事开头。"
+            },
+            {
+              "en": "She began by thanking the audience.",
+              "zh": "她首先感谢了观众。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "open with：也表示以某事开场；begin with 更通用。"
+      ],
+      "antonyms": [
+        "end with：以某事结尾。"
+      ],
+      "confusables": [
+        "begin with 后接事物；begin by 后常接 doing。"
+      ]
+    }
+  ]
+}

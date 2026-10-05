@@ -495,14 +495,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "安排；整理",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对排列、安排与筹备三义；介词搭配、例句、音节、词源与辨析自然准确。",
+          "sha256": "d6398641636af4ea410d994ccaffa6c403296b76b3f23dcb63f279ff480f0583",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -510,14 +520,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "到达",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对地点到达、时间来临、arrive at a decision 三义；at/in 搭配及中英例句准确。",
+          "sha256": "d7fe4899eb4d0a2f84ddbed874832dc23b0e0441307ec9e828b1af03410a04c7",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -525,14 +545,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "文章；物品",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "文章、商品单件与语法冠词三义清楚；短例句、搭配、音标及词源核对通过，无需修订。",
+          "sha256": "8b4ec76c125121314efa7e99a739d25dd810e05316304fc7b4274db0f48eb817",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -540,14 +570,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "参加；出席；照料",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-review-agent",
+          "decision": "accept",
+          "notes": "出席、上学与 attend to 照料/处理三义和介词用法准确；音标与词源核对通过，无需修订。",
+          "sha256": "f49b20e3e52b3f167158ee0c398186e1bfb6ffcc02d245d3f34176ca18cc46e4",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -555,14 +595,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "避免",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 1,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对避开人地、避免事件、avoid doing 三义；例句和搭配准确。",
+          "sha256": "c86a08fa4b1be94357d63ce7520a8d71e898718b82dfa82c3347a6187052fd6e",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -570,14 +620,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "基础的；基本的",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对形容词两义及复数名词 the basics；音标、词源和辨析准确。",
+          "sha256": "01c5e65ca01e5f0b64351fedb65e4335afac6293853e8827b908d8d052a9f04f",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -585,14 +645,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "变成；成为",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对状态变化、身份变化及 what became of；例句、搭配与词源准确。",
+          "sha256": "bba610f851b71c2dd446eef295ce3e50a66978fb0ff78391a1f6d7a91ec8a2ea",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -600,14 +670,33 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "开始",
-      "content_version": 0,
+      "content_version": 2,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对 begin to do/doing、时间地点起点、begin with/by；例句与辨析准确。",
+          "sha256": "53736ae6299d0210db14fd549b236e5cd672e486cb33eee5172cc9c232bee3ba",
+          "issue_count": 0,
+          "correction_count": 0
+        },
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "自动校验发现第二义项反义词说明过短；已补足 begin/end 的事件起止区别，其余义项及例句保持核对结果。",
+          "sha256": "81009ee436e8a7271d94ca566558f7cf89d0326df2570733bd81e9adb26ae6d4",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -615,14 +704,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "相信；认为",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对 believe 与 believe in 的事实、信任、理念差别；例句和搭配准确。",
+          "sha256": "f39154f27ad7626025644678f428bbb14dff19cc639a6f94a39ffcd2bf92f3e1",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -630,14 +729,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "好处；使受益",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-04",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对名词好处/福利及动词及物/不及物用法；音节、例句、词源与辨析准确。",
+          "sha256": "4282e9e1ccb395c404c15844334f73f0aba6393a634b7bb25d446fb795819ff4",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
