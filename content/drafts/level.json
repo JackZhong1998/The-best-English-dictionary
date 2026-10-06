@@ -1,0 +1,177 @@
+{
+  "word": "level",
+  "phonetic": "/ˈlevəl/",
+  "syllables": [
+    "lev",
+    "el"
+  ],
+  "pos": [
+    "n.",
+    "adj.",
+    "v."
+  ],
+  "core_meanings": [
+    "水平",
+    "级别",
+    "平的",
+    "使平整"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a particular amount or degree of something",
+      "zh_definition": "事物达到的数量或程度",
+      "usages": [
+        {
+          "usage_label": "水平",
+          "collocations": [
+            {
+              "phrase": "a high level of skill",
+              "translation": "高水平的技能"
+            },
+            {
+              "phrase": "noise level",
+              "translation": "噪声水平"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her English is at a high level.",
+              "zh": "她的英语水平很高。"
+            },
+            {
+              "en": "The noise level fell after midnight.",
+              "zh": "午夜后噪声水平下降了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "degree：也指程度；level 常暗含可衡量的高低。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a level of 后接所衡量的事物。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a position in a system of ranks or stages",
+      "zh_definition": "等级体系中的一个位置",
+      "usages": [
+        {
+          "usage_label": "级别",
+          "collocations": [
+            {
+              "phrase": "beginner level",
+              "translation": "初级水平"
+            },
+            {
+              "phrase": "the next level",
+              "translation": "下一个等级"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This course is at the beginner level.",
+              "zh": "这门课属于初级水平。"
+            },
+            {
+              "en": "He moved to the next level in the game.",
+              "zh": "他在游戏中升到了下一关。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "stage：强调过程阶段；level 强调所处等级。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "level 也可指游戏中的一关。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "flat or at the same height",
+      "zh_definition": "平坦或处于同一高度的",
+      "usages": [
+        {
+          "usage_label": "平的",
+          "collocations": [
+            {
+              "phrase": "level ground",
+              "translation": "平地"
+            },
+            {
+              "phrase": "a level surface",
+              "translation": "平坦的表面"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Choose a level place for the table.",
+              "zh": "给桌子选一处平地。"
+            },
+            {
+              "en": "The floor is not completely level.",
+              "zh": "地板并不完全平整。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "flat：泛指平；level 强调高低一致。"
+      ],
+      "antonyms": [
+        "uneven：不平整的。"
+      ],
+      "confusables": [
+        "形容地面时 level 与名词“水平”不同。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to make a surface flat or even",
+      "zh_definition": "使表面平整",
+      "usages": [
+        {
+          "usage_label": "使平整",
+          "collocations": [
+            {
+              "phrase": "level the ground",
+              "translation": "平整地面"
+            },
+            {
+              "phrase": "level the floor",
+              "translation": "找平地板"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They leveled the ground before building.",
+              "zh": "开工前他们把地整平了。"
+            },
+            {
+              "en": "We need to level the floor.",
+              "zh": "我们需要把地板找平。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "flatten：也指弄平；level 强调高度调到一致。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "美式拼写过去式 leveled；英式常写 levelled。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "word": "judge",
+  "phonetic": "/dʒʌdʒ/",
+  "syllables": [
+    "judge"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "判断",
+    "评判",
+    "法官"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to form an opinion about someone or something",
+      "zh_definition": "对人或事物作出判断",
+      "usages": [
+        {
+          "usage_label": "判断",
+          "collocations": [
+            {
+              "phrase": "judge by appearance",
+              "translation": "凭外表判断"
+            },
+            {
+              "phrase": "judge a situation",
+              "translation": "判断形势"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Do not judge her by her clothes.",
+              "zh": "不要凭衣着评价她。"
+            },
+            {
+              "en": "It is hard to judge the situation now.",
+              "zh": "现在很难判断形势。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "assess：侧重系统评估；judge 可指一般判断。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "judge someone by something 指以某个标准评价人。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to decide the winner or quality in a competition",
+      "zh_definition": "在比赛中评定优劣或胜负",
+      "usages": [
+        {
+          "usage_label": "评判",
+          "collocations": [
+            {
+              "phrase": "judge a contest",
+              "translation": "评判比赛"
+            },
+            {
+              "phrase": "judge the entries",
+              "translation": "评审参赛作品"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She will judge the art contest.",
+              "zh": "她将担任美术比赛评委。"
+            },
+            {
+              "en": "Three teachers judged the entries.",
+              "zh": "三位老师评审了参赛作品。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "evaluate：泛指评估；judge 在比赛中涉及评分裁定。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "动词 judge a contest 不等于在法庭审判。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a person who decides legal cases in court",
+      "zh_definition": "在法庭上裁决案件的人",
+      "usages": [
+        {
+          "usage_label": "法官",
+          "collocations": [
+            {
+              "phrase": "a court judge",
+              "translation": "法院法官"
+            },
+            {
+              "phrase": "the judge’s decision",
+              "translation": "法官的裁决"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The judge listened to both sides.",
+              "zh": "法官听取了双方的陈述。"
+            },
+            {
+              "en": "The judge announced her decision.",
+              "zh": "法官宣布了裁决。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义词：judge 是法官；justice 仅在特定法院作称谓。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "与比赛评委同形；语境决定是否指法官。"
+      ]
+    }
+  ]
+}

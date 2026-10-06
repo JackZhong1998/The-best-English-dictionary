@@ -1,0 +1,141 @@
+{
+  "word": "material",
+  "phonetic": "/məˈtɪriəl/",
+  "syllables": [
+    "ma",
+    "te",
+    "ri",
+    "al"
+  ],
+  "pos": [
+    "n.",
+    "adj."
+  ],
+  "core_meanings": [
+    "材料",
+    "资料",
+    "物质的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a substance used to make something",
+      "zh_definition": "用来制作东西的物质",
+      "usages": [
+        {
+          "usage_label": "材料",
+          "collocations": [
+            {
+              "phrase": "building materials",
+              "translation": "建筑材料"
+            },
+            {
+              "phrase": "a soft material",
+              "translation": "柔软的材料"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Wood is a common building material.",
+              "zh": "木材是一种常见建筑材料。"
+            },
+            {
+              "en": "This bag is made from recycled material.",
+              "zh": "这个袋子用回收材料制成。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：material 强调用于制作东西的物质。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "泛指材料时 material 常不可数；具体种类可数。",
+        "substance：泛指物质；material 强调用途。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "information used to write or study",
+      "zh_definition": "用于写作或学习的信息",
+      "usages": [
+        {
+          "usage_label": "资料",
+          "collocations": [
+            {
+              "phrase": "research material",
+              "translation": "研究资料"
+            },
+            {
+              "phrase": "course materials",
+              "translation": "课程资料"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I gathered material for my report.",
+              "zh": "我为报告收集资料。"
+            },
+            {
+              "en": "The course materials are online.",
+              "zh": "课程资料在网上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：material 此义指用于学习或写作的资料。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义复数 materials 常指成套资料。",
+        "information：泛指信息；material 强调可用于某项工作。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "related to physical things rather than ideas",
+      "zh_definition": "与实物而非想法有关的",
+      "usages": [
+        {
+          "usage_label": "物质的",
+          "collocations": [
+            {
+              "phrase": "material goods",
+              "translation": "物质商品"
+            },
+            {
+              "phrase": "material needs",
+              "translation": "物质需求"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Food and shelter are material needs.",
+              "zh": "食物和住所是物质需求。"
+            },
+            {
+              "en": "They valued friendship over material goods.",
+              "zh": "他们看重友谊胜过物质商品。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "physical：也指实物的；material 常与精神层面对照。"
+      ],
+      "antonyms": [
+        "spiritual：精神的。"
+      ],
+      "confusables": [
+        "material needs 指实际物质需求。"
+      ]
+    }
+  ]
+}

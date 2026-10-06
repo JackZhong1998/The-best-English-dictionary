@@ -1,0 +1,174 @@
+{
+  "word": "land",
+  "phonetic": "/lænd/",
+  "syllables": [
+    "land"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "陆地",
+    "土地",
+    "着陆"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the solid part of Earth rather than the sea",
+      "zh_definition": "与海洋相对的陆地",
+      "usages": [
+        {
+          "usage_label": "陆地",
+          "collocations": [
+            {
+              "phrase": "on land",
+              "translation": "在陆地上"
+            },
+            {
+              "phrase": "reach land",
+              "translation": "到达陆地"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The boat finally reached land.",
+              "zh": "船终于靠了岸。"
+            },
+            {
+              "en": "Turtles move slowly on land.",
+              "zh": "海龟在陆地上行动缓慢。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无直接同义词：land 指陆地；shore 只指水边的岸。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "land 与 sea 相对时通常不可数。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an area of ground owned or used by someone",
+      "zh_definition": "某人拥有或使用的一块土地",
+      "usages": [
+        {
+          "usage_label": "土地",
+          "collocations": [
+            {
+              "phrase": "buy land",
+              "translation": "买地"
+            },
+            {
+              "phrase": "farm land",
+              "translation": "耕地"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her family owns land near the river.",
+              "zh": "她家在河边有地。"
+            },
+            {
+              "en": "They bought land to build a house.",
+              "zh": "他们买了地建房子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义词：land 在此特指土地；property 范围更广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "land 作“土地”通常不可数。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to come down onto the ground after flying",
+      "zh_definition": "飞行后降落到地面",
+      "usages": [
+        {
+          "usage_label": "着陆",
+          "collocations": [
+            {
+              "phrase": "land safely",
+              "translation": "安全着陆"
+            },
+            {
+              "phrase": "land at an airport",
+              "translation": "降落在机场"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The plane landed safely.",
+              "zh": "飞机安全着陆了。"
+            },
+            {
+              "en": "We landed at the airport after dark.",
+              "zh": "天黑后我们在机场降落。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "touch down：也指飞机着陆，较形象。"
+      ],
+      "antonyms": [
+        "take off：起飞，与降落相对。"
+      ],
+      "confusables": [
+        "land 可用于飞机、人或鸟，不仅指飞机。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to succeed in getting a job or opportunity",
+      "zh_definition": "成功获得工作或机会",
+      "usages": [
+        {
+          "usage_label": "获得",
+          "collocations": [
+            {
+              "phrase": "land a job",
+              "translation": "找到一份工作"
+            },
+            {
+              "phrase": "land a role",
+              "translation": "获得一个角色"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She landed a job in a bookstore.",
+              "zh": "她在书店找到了一份工作。"
+            },
+            {
+              "en": "He landed a role in the school play.",
+              "zh": "他在学校戏剧中得到了一个角色。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "get：泛指得到；land 带有努力后成功获得之意。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义较口语化，不涉及飞行。"
+      ]
+    }
+  ]
+}

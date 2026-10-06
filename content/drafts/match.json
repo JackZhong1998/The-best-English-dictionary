@@ -1,0 +1,136 @@
+{
+  "word": "match",
+  "phonetic": "/mætʃ/",
+  "syllables": [
+    "match"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "比赛",
+    "相配",
+    "火柴"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a sports competition between two sides",
+      "zh_definition": "双方之间的一场体育比赛",
+      "usages": [
+        {
+          "usage_label": "比赛",
+          "collocations": [
+            {
+              "phrase": "win a match",
+              "translation": "赢得比赛"
+            },
+            {
+              "phrase": "a tennis match",
+              "translation": "网球赛"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She won the tennis match.",
+              "zh": "她赢了网球赛。"
+            },
+            {
+              "en": "The match starts at noon.",
+              "zh": "比赛中午开始。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "game：也指比赛；match 常强调双方对阵。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a match 是一场比赛，不是单个得分。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to be similar or suitable together",
+      "zh_definition": "在外观或性质上相配",
+      "usages": [
+        {
+          "usage_label": "相配",
+          "collocations": [
+            {
+              "phrase": "match the color",
+              "translation": "与颜色相配"
+            },
+            {
+              "phrase": "match the socks",
+              "translation": "把袜子配成双"
+            }
+          ],
+          "examples": [
+            {
+              "en": "These shoes match your coat.",
+              "zh": "这双鞋和你的外套很相配。"
+            },
+            {
+              "en": "Can you match the socks?",
+              "zh": "你能把袜子配成双吗？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "go with：也表示相配，更口语。"
+      ],
+      "antonyms": [
+        "clash：颜色或风格不协调。"
+      ],
+      "confusables": [
+        "match A with B 可指把两物配在一起。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a small stick used to start a fire",
+      "zh_definition": "用来点火的小木棍",
+      "usages": [
+        {
+          "usage_label": "火柴",
+          "collocations": [
+            {
+              "phrase": "light a match",
+              "translation": "划火柴"
+            },
+            {
+              "phrase": "a box of matches",
+              "translation": "一盒火柴"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He lit a match in the dark.",
+              "zh": "他在黑暗中划亮一根火柴。"
+            },
+            {
+              "en": "Keep matches away from children.",
+              "zh": "让火柴远离儿童。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：match 此义特指点火用的小棍。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义与比赛、相配按语境区分。"
+      ]
+    }
+  ]
+}

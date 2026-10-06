@@ -1,0 +1,175 @@
+{
+  "word": "lift",
+  "phonetic": "/lɪft/",
+  "syllables": [
+    "lift"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "举起",
+    "抬高",
+    "电梯",
+    "搭便车"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to raise something to a higher position",
+      "zh_definition": "把某物举到更高处",
+      "usages": [
+        {
+          "usage_label": "举起",
+          "collocations": [
+            {
+              "phrase": "lift a box",
+              "translation": "抬起箱子"
+            },
+            {
+              "phrase": "lift your hand",
+              "translation": "举手"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can you lift this heavy box?",
+              "zh": "你能抬起这个重箱子吗？"
+            },
+            {
+              "en": "She lifted her hand to ask a question.",
+              "zh": "她举手提问。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "raise：也指抬高；lift 常强调克服重量向上举。"
+      ],
+      "antonyms": [
+        "lower：放低。"
+      ],
+      "confusables": [
+        "lift up 常与 lift 意思接近。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to remove a rule or restriction",
+      "zh_definition": "解除规则或限制",
+      "usages": [
+        {
+          "usage_label": "解除",
+          "collocations": [
+            {
+              "phrase": "lift a ban",
+              "translation": "解除禁令"
+            },
+            {
+              "phrase": "lift restrictions",
+              "translation": "解除限制"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The city lifted the parking ban.",
+              "zh": "市政府取消了停车禁令。"
+            },
+            {
+              "en": "They lifted the travel restrictions.",
+              "zh": "他们解除了旅行限制。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "remove：泛指移除；lift 常搭配 ban 或 restrictions。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义不涉及物理上的举高。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a machine that carries people between floors",
+      "zh_definition": "载人上下楼层的机器（英式用法）",
+      "usages": [
+        {
+          "usage_label": "电梯（英式）",
+          "collocations": [
+            {
+              "phrase": "take the lift",
+              "translation": "乘电梯"
+            },
+            {
+              "phrase": "a lift to the fifth floor",
+              "translation": "通往五楼的电梯"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We took the lift to the fifth floor.",
+              "zh": "我们乘电梯到了五楼。"
+            },
+            {
+              "en": "The lift is out of order today.",
+              "zh": "电梯今天坏了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "elevator：美式英语通常用 elevator 表示电梯。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "本词条统一使用美音读音；lift 表示电梯主要是英式用法，美式通常说 elevator。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a ride in someone else’s vehicle",
+      "zh_definition": "搭乘他人车辆的一程",
+      "usages": [
+        {
+          "usage_label": "搭便车",
+          "collocations": [
+            {
+              "phrase": "give someone a lift",
+              "translation": "让某人搭车"
+            },
+            {
+              "phrase": "get a lift home",
+              "translation": "搭车回家"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can you give me a lift home?",
+              "zh": "你能让我搭车回家吗？"
+            },
+            {
+              "en": "She got a lift to school with her neighbor.",
+              "zh": "她搭邻居的车去了学校。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "ride：美式英语更常用，意为搭乘车辆的一程。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "give someone a lift 在英式英语更常见；美式常说 give someone a ride。"
+      ]
+    }
+  ]
+}

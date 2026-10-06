@@ -1,0 +1,97 @@
+{
+  "word": "idea",
+  "phonetic": "/aɪˈdiːə/",
+  "syllables": [
+    "i",
+    "de",
+    "a"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "想法",
+    "主意",
+    "了解"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a thought or suggestion about what to do",
+      "zh_definition": "关于做什么的想法或建议",
+      "usages": [
+        {
+          "usage_label": "主意",
+          "collocations": [
+            {
+              "phrase": "a good idea",
+              "translation": "好主意"
+            },
+            {
+              "phrase": "have an idea",
+              "translation": "有个主意"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I have an idea for the school fair.",
+              "zh": "我对学校义卖会有个主意。"
+            },
+            {
+              "en": "That sounds like a good idea.",
+              "zh": "那听起来是个好主意。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "plan：指较具体的计划；idea 可只是初步想法。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "idea 后常接 for，表示针对某事的主意。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a general understanding of something",
+      "zh_definition": "对某事的大致了解",
+      "usages": [
+        {
+          "usage_label": "了解",
+          "collocations": [
+            {
+              "phrase": "have no idea",
+              "translation": "完全不知道"
+            },
+            {
+              "phrase": "get an idea of the cost",
+              "translation": "大致了解费用"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I have no idea where he went.",
+              "zh": "我不知道他去了哪里。"
+            },
+            {
+              "en": "This chart gives you an idea of the cost.",
+              "zh": "这张图让你大致了解费用。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "understanding：指理解；idea 在此义多指粗略印象。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "have no idea 在口语中表示不知道，不是没有创意。"
+      ]
+    }
+  ]
+}

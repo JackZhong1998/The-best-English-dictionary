@@ -1,0 +1,139 @@
+{
+  "word": "major",
+  "phonetic": "/ˈmeɪdʒər/",
+  "syllables": [
+    "ma",
+    "jor"
+  ],
+  "pos": [
+    "adj.",
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "主要的",
+    "专业",
+    "主修"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "large or important",
+      "zh_definition": "规模大或重要的",
+      "usages": [
+        {
+          "usage_label": "重大的",
+          "collocations": [
+            {
+              "phrase": "a major problem",
+              "translation": "重大问题"
+            },
+            {
+              "phrase": "a major change",
+              "translation": "重大变化"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Traffic is a major problem here.",
+              "zh": "这里交通是一个大问题。"
+            },
+            {
+              "en": "The plan needs a major change.",
+              "zh": "这个计划需要重大调整。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "important：直接指重要；major 还暗示规模大。"
+      ],
+      "antonyms": [
+        "minor：较小或次要的。"
+      ],
+      "confusables": [
+        "major 常修饰事件、变化或问题。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the main subject a student studies at college",
+      "zh_definition": "大学生主要学习的学科",
+      "usages": [
+        {
+          "usage_label": "专业",
+          "collocations": [
+            {
+              "phrase": "a history major",
+              "translation": "历史专业学生"
+            },
+            {
+              "phrase": "choose a major",
+              "translation": "选择专业"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her major is biology.",
+              "zh": "她的专业是生物学。"
+            },
+            {
+              "en": "He chose history as his major.",
+              "zh": "他选历史作为主修专业。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：major 此义特指大学的主修专业。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "在美式英语中 a biology major 也可指生物专业学生。",
+        "field of study：泛指学习领域；major 特指主修专业。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to study a subject as the main subject at college",
+      "zh_definition": "在大学主修某门学科",
+      "usages": [
+        {
+          "usage_label": "主修",
+          "collocations": [
+            {
+              "phrase": "major in chemistry",
+              "translation": "主修化学"
+            },
+            {
+              "phrase": "major in English",
+              "translation": "主修英语"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She majors in chemistry.",
+              "zh": "她主修化学。"
+            },
+            {
+              "en": "I majored in English in college.",
+              "zh": "我大学主修英语。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "specialize：也指专攻，但不一定是大学主修。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "动词 major 后常接 in。"
+      ]
+    }
+  ]
+}

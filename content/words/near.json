@@ -1,0 +1,141 @@
+{
+  "word": "near",
+  "phonetic": "/nɪr/",
+  "syllables": [
+    "near"
+  ],
+  "pos": [
+    "prep.",
+    "adj.",
+    "adv."
+  ],
+  "core_meanings": [
+    "附近的",
+    "靠近",
+    "差不多"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "prep.",
+      "en_definition": "close to someone or something",
+      "zh_definition": "在某人或某物附近",
+      "usages": [
+        {
+          "usage_label": "靠近",
+          "collocations": [
+            {
+              "phrase": "near the school",
+              "translation": "在学校附近"
+            },
+            {
+              "phrase": "near the river",
+              "translation": "在河边"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The library is near the school.",
+              "zh": "图书馆在学校附近。"
+            },
+            {
+              "en": "We live near the river.",
+              "zh": "我们住在河边。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "close to：也指靠近，通常可互换。"
+      ],
+      "antonyms": [
+        "far from：远离。"
+      ],
+      "confusables": [
+        "near 作介词时后接名词，不另加 to。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "not far away in place or time",
+      "zh_definition": "距离或时间不远的",
+      "usages": [
+        {
+          "usage_label": "近的",
+          "collocations": [
+            {
+              "phrase": "the near future",
+              "translation": "不久的将来"
+            },
+            {
+              "phrase": "the nearest store",
+              "translation": "最近的商店"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I hope to visit in the near future.",
+              "zh": "我希望不久后去参观。"
+            },
+            {
+              "en": "Where is the nearest store?",
+              "zh": "最近的商店在哪儿？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "close：也指近；near 作定语的搭配更受限制。"
+      ],
+      "antonyms": [
+        "distant：遥远的。"
+      ],
+      "confusables": [
+        "比较级 nearer；最高级 nearest。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adv.",
+      "en_definition": "at or to a short distance",
+      "zh_definition": "在近处或到近处",
+      "usages": [
+        {
+          "usage_label": "靠近地",
+          "collocations": [
+            {
+              "phrase": "come near",
+              "translation": "走近"
+            },
+            {
+              "phrase": "draw near",
+              "translation": "临近"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Come near so you can hear me.",
+              "zh": "走近些，这样你才能听见我。"
+            },
+            {
+              "en": "The end of the year is drawing near.",
+              "zh": "年末快到了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "close：也可作副词表示距离近。"
+      ],
+      "antonyms": [
+        "far away：在远处。"
+      ],
+      "confusables": [
+        "draw near 可表示时间临近。"
+      ]
+    }
+  ]
+}

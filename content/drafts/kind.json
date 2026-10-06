@@ -1,0 +1,97 @@
+{
+  "word": "kind",
+  "phonetic": "/kaɪnd/",
+  "syllables": [
+    "kind"
+  ],
+  "pos": [
+    "n.",
+    "adj."
+  ],
+  "core_meanings": [
+    "种类",
+    "友善的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a type or group of people or things",
+      "zh_definition": "人或事物的类别",
+      "usages": [
+        {
+          "usage_label": "种类",
+          "collocations": [
+            {
+              "phrase": "a kind of music",
+              "translation": "一种音乐"
+            },
+            {
+              "phrase": "all kinds of books",
+              "translation": "各种书"
+            }
+          ],
+          "examples": [
+            {
+              "en": "What kind of music do you like?",
+              "zh": "你喜欢哪种音乐？"
+            },
+            {
+              "en": "This shop sells all kinds of books.",
+              "zh": "这家店卖各种书。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "type：也指类型；kind 更日常。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "kind of 后接单数名词时表示“一种”；口语中还可表示“有点儿”。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "caring and helpful toward others",
+      "zh_definition": "对他人体贴、乐于相助的",
+      "usages": [
+        {
+          "usage_label": "友善的",
+          "collocations": [
+            {
+              "phrase": "a kind person",
+              "translation": "善良的人"
+            },
+            {
+              "phrase": "be kind to others",
+              "translation": "善待他人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My neighbor was very kind to me.",
+              "zh": "邻居对我很友善。"
+            },
+            {
+              "en": "It was kind of you to help.",
+              "zh": "你愿意帮忙真好。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "caring：强调关心他人；kind 还含待人友善。"
+      ],
+      "antonyms": [
+        "unkind：不友善的。"
+      ],
+      "confusables": [
+        "It is kind of you to do something 用来感谢善意行为。"
+      ]
+    }
+  ]
+}

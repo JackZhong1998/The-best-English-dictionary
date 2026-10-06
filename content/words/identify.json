@@ -1,0 +1,97 @@
+{
+  "word": "identify",
+  "phonetic": "/aɪˈdentɪfaɪ/",
+  "syllables": [
+    "i",
+    "den",
+    "ti",
+    "fy"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "认出",
+    "确定"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to recognize who or what someone or something is",
+      "zh_definition": "认出某人或某物的身份",
+      "usages": [
+        {
+          "usage_label": "认出",
+          "collocations": [
+            {
+              "phrase": "identify a person",
+              "translation": "认出一个人"
+            },
+            {
+              "phrase": "identify the bird",
+              "translation": "辨认这只鸟"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She identified the man in the photo.",
+              "zh": "她认出了照片中的男子。"
+            },
+            {
+              "en": "Can you identify this bird?",
+              "zh": "你能辨认这种鸟吗？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "recognize：也指认出；identify 更强调确定身份。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "identify 通常需要宾语，如 identify the person。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to find and name a problem, cause, or need",
+      "zh_definition": "找出并指出问题、原因或需求",
+      "usages": [
+        {
+          "usage_label": "找出",
+          "collocations": [
+            {
+              "phrase": "identify the cause",
+              "translation": "查明原因"
+            },
+            {
+              "phrase": "identify a problem",
+              "translation": "找出问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The team identified the cause of the leak.",
+              "zh": "团队查明了漏水的原因。"
+            },
+            {
+              "en": "We need to identify the main problem.",
+              "zh": "我们需要找出主要问题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "find：泛指找到；identify 强调查明并说清是什么。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义的 identify 不一定涉及人的身份。"
+      ]
+    }
+  ]
+}

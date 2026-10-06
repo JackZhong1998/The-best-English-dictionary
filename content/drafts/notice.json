@@ -1,0 +1,139 @@
+{
+  "word": "notice",
+  "phonetic": "/ˈnoʊtɪs/",
+  "syllables": [
+    "no",
+    "tice"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "注意到",
+    "告示",
+    "通知"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to become aware of something",
+      "zh_definition": "觉察到某事",
+      "usages": [
+        {
+          "usage_label": "注意到",
+          "collocations": [
+            {
+              "phrase": "notice a change",
+              "translation": "注意到变化"
+            },
+            {
+              "phrase": "notice a mistake",
+              "translation": "发现错误"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Did you notice the new sign?",
+              "zh": "你注意到新标志了吗？"
+            },
+            {
+              "en": "She noticed a mistake in the report.",
+              "zh": "她发现报告里有一个错误。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "observe：也指注意到，语气较正式。"
+      ],
+      "antonyms": [
+        "overlook：忽略。"
+      ],
+      "confusables": [
+        "notice 后可接名词或 that 从句。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a written announcement for people to read",
+      "zh_definition": "供人阅读的书面告示",
+      "usages": [
+        {
+          "usage_label": "告示",
+          "collocations": [
+            {
+              "phrase": "put up a notice",
+              "translation": "张贴告示"
+            },
+            {
+              "phrase": "read the notice",
+              "translation": "阅读告示"
+            }
+          ],
+          "examples": [
+            {
+              "en": "A notice was posted on the door.",
+              "zh": "门上贴着一张告示。"
+            },
+            {
+              "en": "Please read the notice before entering.",
+              "zh": "进入前请阅读告示。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：notice 此义指供人阅读的书面告示。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "可数名词 notice 在此指一张告示。",
+        "sign：常指简短标志；notice 通常提供更多信息。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "information given before something happens",
+      "zh_definition": "事情发生前提前给出的通知",
+      "usages": [
+        {
+          "usage_label": "提前通知",
+          "collocations": [
+            {
+              "phrase": "give notice",
+              "translation": "提前通知"
+            },
+            {
+              "phrase": "short notice",
+              "translation": "很短的提前通知时间"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please give us a week's notice.",
+              "zh": "请提前一周通知我们。"
+            },
+            {
+              "en": "The meeting was called at short notice.",
+              "zh": "会议临时通知召开。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：notice 此义指事前给出的通知。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "at short notice 表示临时通知后很快发生。",
+        "warning：常指危险警告；notice 可是一般通知。"
+      ]
+    }
+  ]
+}

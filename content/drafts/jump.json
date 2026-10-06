@@ -1,0 +1,134 @@
+{
+  "word": "jump",
+  "phonetic": "/dʒʌmp/",
+  "syllables": [
+    "jump"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "跳",
+    "突然上升",
+    "跳跃"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to push yourself into the air with your legs",
+      "zh_definition": "用腿发力跳起",
+      "usages": [
+        {
+          "usage_label": "跳",
+          "collocations": [
+            {
+              "phrase": "jump over a fence",
+              "translation": "跳过栅栏"
+            },
+            {
+              "phrase": "jump into the water",
+              "translation": "跳进水里"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The child jumped over a puddle.",
+              "zh": "孩子跳过了水坑。"
+            },
+            {
+              "en": "He jumped into the pool.",
+              "zh": "他跳进了泳池。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "leap：也指跳跃，常强调距离或高度。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "jump over 强调越过；jump into 强调跳进。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to rise suddenly by a large amount",
+      "zh_definition": "数量突然大幅上升",
+      "usages": [
+        {
+          "usage_label": "猛增",
+          "collocations": [
+            {
+              "phrase": "prices jump",
+              "translation": "价格猛涨"
+            },
+            {
+              "phrase": "jump by ten percent",
+              "translation": "上涨百分之十"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Ticket prices jumped last month.",
+              "zh": "上个月票价猛涨。"
+            },
+            {
+              "en": "Sales jumped by ten percent.",
+              "zh": "销售额猛增了百分之十。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "surge：也指快速大幅上升；jump 更口语化。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "数值 jump 不表示实物跳起来。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "an act of pushing yourself into the air",
+      "zh_definition": "跳起的一次动作",
+      "usages": [
+        {
+          "usage_label": "一跳",
+          "collocations": [
+            {
+              "phrase": "make a jump",
+              "translation": "跳一下"
+            },
+            {
+              "phrase": "a long jump",
+              "translation": "远距离的一跳"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The cat cleared the wall in one jump.",
+              "zh": "那只猫一跳就越过了墙。"
+            },
+            {
+              "en": "His first jump was too short.",
+              "zh": "他的第一跳距离太短。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "leap：也可作名词指一次跳跃。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the long jump 可指跳远运动；a long jump 指一次跳得远。"
+      ]
+    }
+  ]
+}

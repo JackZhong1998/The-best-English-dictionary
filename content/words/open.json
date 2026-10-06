@@ -1,0 +1,184 @@
+{
+  "word": "open",
+  "phonetic": "/ˈoʊpən/",
+  "syllables": [
+    "o",
+    "pen"
+  ],
+  "pos": [
+    "v.",
+    "adj."
+  ],
+  "core_meanings": [
+    "打开",
+    "开放的",
+    "公开的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move something so it is no longer closed",
+      "zh_definition": "把关着的东西打开",
+      "usages": [
+        {
+          "usage_label": "打开",
+          "collocations": [
+            {
+              "phrase": "open a door",
+              "translation": "开门"
+            },
+            {
+              "phrase": "open a window",
+              "translation": "开窗"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please open the window.",
+              "zh": "请打开窗户。"
+            },
+            {
+              "en": "He opened the box carefully.",
+              "zh": "他小心地打开盒子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：open 此义指使关着的东西打开。"
+      ],
+      "antonyms": [
+        "close：关闭。"
+      ],
+      "confusables": [
+        "open 可直接接门、盒子等。",
+        "unlock：指解除锁定；open 指真正打开。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "not closed or blocked",
+      "zh_definition": "没有关上或堵住的",
+      "usages": [
+        {
+          "usage_label": "开着的",
+          "collocations": [
+            {
+              "phrase": "an open door",
+              "translation": "开着的门"
+            },
+            {
+              "phrase": "keep the window open",
+              "translation": "让窗户开着"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The door is open.",
+              "zh": "门开着。"
+            },
+            {
+              "en": "Keep the window open for fresh air.",
+              "zh": "开着窗户通通风。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：open 此义表示门窗等处于打开状态。"
+      ],
+      "antonyms": [
+        "closed：关着的。"
+      ],
+      "confusables": [
+        "open 作形容词表示状态。",
+        "unclosed 字面表示未关上，但日常更常用 open。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "available for people to enter or use",
+      "zh_definition": "向公众开放或营业的",
+      "usages": [
+        {
+          "usage_label": "营业的",
+          "collocations": [
+            {
+              "phrase": "open to visitors",
+              "translation": "向访客开放"
+            },
+            {
+              "phrase": "open until six",
+              "translation": "营业到六点"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The museum is open today.",
+              "zh": "博物馆今天开放。"
+            },
+            {
+              "en": "The store is open until six.",
+              "zh": "商店营业到六点。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：open 此义指可进入或正在营业。"
+      ],
+      "antonyms": [
+        "closed：不营业的。"
+      ],
+      "confusables": [
+        "be open to 后接可进入的人。",
+        "available：泛指可用；open 强调可进入或营业。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "adj.",
+      "en_definition": "willing to share thoughts honestly",
+      "zh_definition": "愿意坦诚表达想法的",
+      "usages": [
+        {
+          "usage_label": "坦率的",
+          "collocations": [
+            {
+              "phrase": "be open about feelings",
+              "translation": "坦诚谈感受"
+            },
+            {
+              "phrase": "be open with someone",
+              "translation": "对某人坦诚"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She is open about her mistakes.",
+              "zh": "她坦诚谈论自己的错误。"
+            },
+            {
+              "en": "He was open with me about his fears.",
+              "zh": "他坦诚地和我谈了自己的恐惧。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "frank：也指坦率；open 强调不隐瞒。"
+      ],
+      "antonyms": [
+        "secretive：遮遮掩掩的。"
+      ],
+      "confusables": [
+        "此义与门是否打开无关。"
+      ]
+    }
+  ]
+}

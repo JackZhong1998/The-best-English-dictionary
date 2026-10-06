@@ -1,0 +1,175 @@
+{
+  "word": "mind",
+  "phonetic": "/maɪnd/",
+  "syllables": [
+    "mind"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "头脑",
+    "主意",
+    "介意",
+    "照看"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the part of a person that thinks and remembers",
+      "zh_definition": "人思考和记忆的能力",
+      "usages": [
+        {
+          "usage_label": "头脑",
+          "collocations": [
+            {
+              "phrase": "keep in mind",
+              "translation": "记在心里"
+            },
+            {
+              "phrase": "a sharp mind",
+              "translation": "敏锐的头脑"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Keep this rule in mind.",
+              "zh": "记住这条规则。"
+            },
+            {
+              "en": "She has a sharp mind.",
+              "zh": "她头脑敏锐。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：mind 此义指人的思考和记忆能力。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "in my mind 可指在我的想法中。",
+        "thought：指具体想法；mind 指思考的能力或所在。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an opinion or decision about what to do",
+      "zh_definition": "对做什么事的看法或决定",
+      "usages": [
+        {
+          "usage_label": "主意",
+          "collocations": [
+            {
+              "phrase": "change your mind",
+              "translation": "改变主意"
+            },
+            {
+              "phrase": "make up your mind",
+              "translation": "拿定主意"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She changed her mind after the talk.",
+              "zh": "谈话后她改变了主意。"
+            },
+            {
+              "en": "I made up my mind to stay.",
+              "zh": "我拿定主意留下。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：mind 在这些短语中指想法或决定。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "change your mind 与 make up your mind 含义不同。",
+        "decision：强调已经作出的决定；mind 在这些短语中指想法。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to be bothered by something",
+      "zh_definition": "对某事感到不快或介意",
+      "usages": [
+        {
+          "usage_label": "介意",
+          "collocations": [
+            {
+              "phrase": "mind the noise",
+              "translation": "介意噪声"
+            },
+            {
+              "phrase": "mind if I leave",
+              "translation": "介意我离开"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Do you mind if I open the window?",
+              "zh": "你介意我开窗吗？"
+            },
+            {
+              "en": "I do not mind the noise.",
+              "zh": "我不介意噪声。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "object to：也表示反对或介意，语气更强。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "Do you mind if... 的回答需看是否介意，容易误解。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to look after someone or something",
+      "zh_definition": "暂时照看某人或某物",
+      "usages": [
+        {
+          "usage_label": "照看",
+          "collocations": [
+            {
+              "phrase": "mind the children",
+              "translation": "照看孩子"
+            },
+            {
+              "phrase": "mind the shop",
+              "translation": "照看商店"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can you mind the children for an hour?",
+              "zh": "你能照看孩子一小时吗？"
+            },
+            {
+              "en": "She minded the shop while he ate.",
+              "zh": "他吃饭时她照看商店。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "watch：也可指临时照看，更口语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义在英式英语中较常见；美式常说 watch。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "word": "knock",
+  "phonetic": "/nɑːk/",
+  "syllables": [
+    "knock"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "敲",
+    "碰撞",
+    "敲门声"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to hit a door or surface to attract attention",
+      "zh_definition": "敲击门或表面以引起注意",
+      "usages": [
+        {
+          "usage_label": "敲门",
+          "collocations": [
+            {
+              "phrase": "knock on the door",
+              "translation": "敲门"
+            },
+            {
+              "phrase": "knock twice",
+              "translation": "敲两下"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Someone knocked on the door.",
+              "zh": "有人敲门了。"
+            },
+            {
+              "en": "Please knock before you enter.",
+              "zh": "进来之前请先敲门。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "tap：指轻轻敲；knock 可更用力或更响。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "knock on/at the door 都可表示敲门。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to hit someone or something by accident",
+      "zh_definition": "意外碰到某人或某物",
+      "usages": [
+        {
+          "usage_label": "碰撞",
+          "collocations": [
+            {
+              "phrase": "knock a cup over",
+              "translation": "碰倒杯子"
+            },
+            {
+              "phrase": "knock into a table",
+              "translation": "撞到桌子"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He knocked the cup off the desk.",
+              "zh": "他碰掉了桌上的杯子。"
+            },
+            {
+              "en": "I knocked into a chair in the dark.",
+              "zh": "我在黑暗中撞到了一把椅子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "bump：也指碰撞；knock 可强调撞后造成移动。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "knock over 指撞倒；knock into 指撞上。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "the sound of someone hitting a door",
+      "zh_definition": "敲门发出的声音",
+      "usages": [
+        {
+          "usage_label": "敲门声",
+          "collocations": [
+            {
+              "phrase": "a knock at the door",
+              "translation": "敲门声"
+            },
+            {
+              "phrase": "hear a knock",
+              "translation": "听见敲击声"
+            }
+          ],
+          "examples": [
+            {
+              "en": "There was a knock at the door.",
+              "zh": "有人敲门了。"
+            },
+            {
+              "en": "I heard a loud knock downstairs.",
+              "zh": "我听见楼下传来响亮的敲击声。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "tap：轻敲声；knock 通常更响。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 knock 也可指一次撞击。"
+      ]
+    }
+  ]
+}

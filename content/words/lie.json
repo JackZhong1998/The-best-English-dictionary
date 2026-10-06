@@ -1,0 +1,175 @@
+{
+  "word": "lie",
+  "phonetic": "/laɪ/",
+  "syllables": [
+    "lie"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "躺",
+    "位于",
+    "说谎",
+    "谎话"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to be in a flat resting position",
+      "zh_definition": "以平躺姿势休息",
+      "usages": [
+        {
+          "usage_label": "躺",
+          "collocations": [
+            {
+              "phrase": "lie in bed",
+              "translation": "躺在床上"
+            },
+            {
+              "phrase": "lie on the grass",
+              "translation": "躺在草地上"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He lay on the grass after lunch.",
+              "zh": "午饭后他躺在草地上。"
+            },
+            {
+              "en": "I want to lie down for a while.",
+              "zh": "我想躺一会儿。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "rest：泛指休息；lie 指身体平躺。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义过去式 lay、过去分词 lain；别与 lay“放置”混淆。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to be in a particular place or position",
+      "zh_definition": "位于某个地方",
+      "usages": [
+        {
+          "usage_label": "位于",
+          "collocations": [
+            {
+              "phrase": "lie north of the city",
+              "translation": "位于城北"
+            },
+            {
+              "phrase": "lie near the river",
+              "translation": "位于河边"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The village lies near the river.",
+              "zh": "村庄坐落在河边。"
+            },
+            {
+              "en": "The park lies north of the station.",
+              "zh": "公园位于车站以北。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "be located：较正式地表示位于；lie 常用于地理位置。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义不表示“撒谎”。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to say something you know is not true",
+      "zh_definition": "故意说自己知道不真实的话",
+      "usages": [
+        {
+          "usage_label": "说谎",
+          "collocations": [
+            {
+              "phrase": "lie about your age",
+              "translation": "谎报年龄"
+            },
+            {
+              "phrase": "lie to a friend",
+              "translation": "对朋友撒谎"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He lied about his age.",
+              "zh": "他谎报了年龄。"
+            },
+            {
+              "en": "Please do not lie to me.",
+              "zh": "请不要对我撒谎。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "deceive：泛指欺骗；lie 特指说不实的话。"
+      ],
+      "antonyms": [
+        "tell the truth：说实话。"
+      ],
+      "confusables": [
+        "此义过去式和过去分词都是 lied；不同于“躺”的 lay、lain。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a statement that someone knows is not true",
+      "zh_definition": "明知不实却说出的话",
+      "usages": [
+        {
+          "usage_label": "谎话",
+          "collocations": [
+            {
+              "phrase": "tell a lie",
+              "translation": "说谎"
+            },
+            {
+              "phrase": "a little lie",
+              "translation": "一个小谎"
+            }
+          ],
+          "examples": [
+            {
+              "en": "That story was a lie.",
+              "zh": "那个故事是谎言。"
+            },
+            {
+              "en": "She admitted telling a lie.",
+              "zh": "她承认说了谎。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "falsehood：较正式的谎言；lie 更常见。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 lie 可数，常说 tell a lie。"
+      ]
+    }
+  ]
+}

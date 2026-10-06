@@ -1,0 +1,95 @@
+{
+  "word": "invite",
+  "phonetic": "/ɪnˈvaɪt/",
+  "syllables": [
+    "in",
+    "vite"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "邀请",
+    "征求"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to ask someone to come to an event or place",
+      "zh_definition": "请某人参加活动或前来某处",
+      "usages": [
+        {
+          "usage_label": "邀请",
+          "collocations": [
+            {
+              "phrase": "invite a friend to dinner",
+              "translation": "请朋友来吃晚饭"
+            },
+            {
+              "phrase": "invite someone over",
+              "translation": "邀请某人来家里"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We invited our neighbors to dinner.",
+              "zh": "我们请邻居来吃晚饭。"
+            },
+            {
+              "en": "She invited me over on Saturday.",
+              "zh": "她邀请我周六去她家。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "ask over：也指请人来家；invite 更正式一些。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "invite someone to do something 也可用于邀请参加活动。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to ask people to offer comments, ideas, or applications",
+      "zh_definition": "向人们征求意见、想法或申请",
+      "usages": [
+        {
+          "usage_label": "征求",
+          "collocations": [
+            {
+              "phrase": "invite comments",
+              "translation": "征求意见"
+            },
+            {
+              "phrase": "invite applications",
+              "translation": "征集申请"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The website invites comments from readers.",
+              "zh": "网站欢迎读者留言。"
+            },
+            {
+              "en": "The program invites applications each spring.",
+              "zh": "该项目每年春天接受申请。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "request：泛指请求；invite 在此强调欢迎回应。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "invite comments 不表示邀请评论员到场。"
+      ]
+    }
+  ]
+}

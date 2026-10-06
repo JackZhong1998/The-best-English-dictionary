@@ -1,0 +1,135 @@
+{
+  "word": "iron",
+  "phonetic": "/ˈaɪərn/",
+  "syllables": [
+    "i",
+    "ron"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "铁",
+    "熨斗",
+    "熨烫"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a strong metal used to make many objects",
+      "zh_definition": "用于制作许多物品的金属铁",
+      "usages": [
+        {
+          "usage_label": "铁",
+          "collocations": [
+            {
+              "phrase": "made of iron",
+              "translation": "铁制的"
+            },
+            {
+              "phrase": "an iron gate",
+              "translation": "一扇铁门"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The old gate is made of iron.",
+              "zh": "那扇旧门是铁制的。"
+            },
+            {
+              "en": "Iron rusts when it gets wet.",
+              "zh": "铁受潮会生锈。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无直接同义词：iron 是金属铁；metal 指整个金属类别。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "iron 作材料通常不可数；此处非熨斗。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a heated tool used to make clothes smooth",
+      "zh_definition": "用来熨平衣服的加热器具",
+      "usages": [
+        {
+          "usage_label": "熨斗",
+          "collocations": [
+            {
+              "phrase": "a steam iron",
+              "translation": "蒸汽熨斗"
+            },
+            {
+              "phrase": "use an iron",
+              "translation": "使用熨斗"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The iron is on the shelf.",
+              "zh": "熨斗放在架子上。"
+            },
+            {
+              "en": "I bought a new steam iron.",
+              "zh": "我买了一台新的蒸汽熨斗。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "press：可指熨烫用的压烫设备；iron 指普通熨斗。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "作器具时 iron 是可数名词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to make clothes smooth with a hot iron",
+      "zh_definition": "用熨斗使衣服平整",
+      "usages": [
+        {
+          "usage_label": "熨烫",
+          "collocations": [
+            {
+              "phrase": "iron a shirt",
+              "translation": "熨衬衫"
+            },
+            {
+              "phrase": "iron clothes",
+              "translation": "熨衣服"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He ironed his shirt before work.",
+              "zh": "上班前他熨了衬衫。"
+            },
+            {
+              "en": "I need to iron these clothes.",
+              "zh": "我得把这些衣服熨一下。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "press：也可指熨平；iron 更常见于家务语境。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "动词 iron 的过去式是 ironed。"
+      ]
+    }
+  ]
+}

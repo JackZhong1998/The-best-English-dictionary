@@ -1,0 +1,99 @@
+{
+  "word": "minute",
+  "phonetic": "/ˈmɪnɪt/ · /maɪˈnuːt/",
+  "syllables": [
+    "min",
+    "ute"
+  ],
+  "pos": [
+    "n.",
+    "adj."
+  ],
+  "core_meanings": [
+    "分钟",
+    "极小的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a unit of sixty seconds, or a short time in everyday speech",
+      "zh_definition": "六十秒的时间单位；口语中也指很短的一会儿",
+      "usages": [
+        {
+          "usage_label": "分钟",
+          "collocations": [
+            {
+              "phrase": "five minutes",
+              "translation": "五分钟"
+            },
+            {
+              "phrase": "wait a minute",
+              "translation": "等一会儿"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The train leaves in five minutes.",
+              "zh": "火车五分钟后出发。"
+            },
+            {
+              "en": "Wait a minute, please.",
+              "zh": "请稍等一会儿。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：minute 是等于六十秒的时间单位。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 minute 读 /ˈmɪnɪt/。",
+        "moment：泛指片刻；minute 是精确时间单位。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "extremely small",
+      "zh_definition": "极其微小的",
+      "usages": [
+        {
+          "usage_label": "极小的",
+          "collocations": [
+            {
+              "phrase": "minute details",
+              "translation": "细微之处"
+            },
+            {
+              "phrase": "a minute amount",
+              "translation": "极少量"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The report includes minute details.",
+              "zh": "报告包含极细微的细节。"
+            },
+            {
+              "en": "Only a minute amount remained.",
+              "zh": "只剩下极少的一点。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "tiny：也指很小；minute 更正式。"
+      ],
+      "antonyms": [
+        "huge：巨大的。"
+      ],
+      "confusables": [
+        "形容词 minute 读 /maɪˈnuːt/。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "word": "mark",
+  "phonetic": "/mɑːrk/",
+  "syllables": [
+    "mark"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "记号",
+    "分数",
+    "标记"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a small sign or line on a surface",
+      "zh_definition": "表面上的小符号或线条",
+      "usages": [
+        {
+          "usage_label": "记号",
+          "collocations": [
+            {
+              "phrase": "make a mark",
+              "translation": "做记号"
+            },
+            {
+              "phrase": "a red mark",
+              "translation": "红色痕迹"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Put a mark beside your choice.",
+              "zh": "在你的选项旁做个记号。"
+            },
+            {
+              "en": "There is a red mark on the wall.",
+              "zh": "墙上有一道红色痕迹。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：mark 此义指表面的小符号或痕迹。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "mark 作名词可指有意的记号或留下的痕迹。",
+        "sign：可指更明显的标志；mark 可很小。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a score given for schoolwork or a test",
+      "zh_definition": "作业或考试得到的分数",
+      "usages": [
+        {
+          "usage_label": "分数",
+          "collocations": [
+            {
+              "phrase": "a high mark",
+              "translation": "高分"
+            },
+            {
+              "phrase": "full marks",
+              "translation": "满分"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She got a high mark in math.",
+              "zh": "她数学得了高分。"
+            },
+            {
+              "en": "He received full marks on the test.",
+              "zh": "他在测验中得了满分。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "grade：美式英语更常用，mark 多见于英式英语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "full marks 通常用复数。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to put a sign or symbol on something",
+      "zh_definition": "在某物上做符号或标记",
+      "usages": [
+        {
+          "usage_label": "标记",
+          "collocations": [
+            {
+              "phrase": "mark the page",
+              "translation": "标记页面"
+            },
+            {
+              "phrase": "mark the location",
+              "translation": "标出位置"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Mark the page you want to read.",
+              "zh": "把你想读的那一页标出来。"
+            },
+            {
+              "en": "She marked the place on a map.",
+              "zh": "她在地图上标出了那个地方。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：mark 此义指在表面上做符号或标记。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "mark A on B 表示在 B 上标出 A。",
+        "label：常用文字或标签标示；mark 可用简单符号。"
+      ]
+    }
+  ]
+}

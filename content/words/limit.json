@@ -1,0 +1,134 @@
+{
+  "word": "limit",
+  "phonetic": "/ˈlɪmɪt/",
+  "syllables": [
+    "lim",
+    "it"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "限度",
+    "限制"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the greatest amount allowed or possible",
+      "zh_definition": "允许或可能达到的最大数量",
+      "usages": [
+        {
+          "usage_label": "限度",
+          "collocations": [
+            {
+              "phrase": "a speed limit",
+              "translation": "限速"
+            },
+            {
+              "phrase": "a time limit",
+              "translation": "时间限制"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The speed limit here is low.",
+              "zh": "这里的限速很低。"
+            },
+            {
+              "en": "We have a strict time limit.",
+              "zh": "我们有严格的时间限制。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "maximum：指最大值；limit 强调不得超过的界限。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "limit on something 表示对某事的限额。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a point beyond which something cannot go",
+      "zh_definition": "某事无法超越的界限",
+      "usages": [
+        {
+          "usage_label": "界限",
+          "collocations": [
+            {
+              "phrase": "reach a limit",
+              "translation": "达到极限"
+            },
+            {
+              "phrase": "know your limits",
+              "translation": "了解自己的极限"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We reached the limit of our budget.",
+              "zh": "我们已达到预算上限。"
+            },
+            {
+              "en": "She knows her physical limits.",
+              "zh": "她了解自己的体能极限。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "boundary：指边界；limit 可指能力或资源的边界。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "limits 作复数常指个人能力边界。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to control something so it does not exceed an amount",
+      "zh_definition": "控制某物不超过一定数量",
+      "usages": [
+        {
+          "usage_label": "限制",
+          "collocations": [
+            {
+              "phrase": "limit screen time",
+              "translation": "限制看屏幕时间"
+            },
+            {
+              "phrase": "limit spending",
+              "translation": "控制开支"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We limit screen time on school nights.",
+              "zh": "上学日的晚上我们限制看屏幕时间。"
+            },
+            {
+              "en": "The rule limits the number of visitors.",
+              "zh": "规定限制了访客人数。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "restrict：也指限制；limit 更常与数量、范围连用。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "limit something to a number 表示把它限制在某个数量内。"
+      ]
+    }
+  ]
+}

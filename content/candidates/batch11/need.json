@@ -1,0 +1,95 @@
+{
+  "word": "need",
+  "phonetic": "/niːd/",
+  "syllables": [
+    "need"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "需要",
+    "需求"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to require something because it is necessary",
+      "zh_definition": "因必要而需要某物",
+      "usages": [
+        {
+          "usage_label": "需要",
+          "collocations": [
+            {
+              "phrase": "need help",
+              "translation": "需要帮助"
+            },
+            {
+              "phrase": "need to rest",
+              "translation": "需要休息"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I need more time.",
+              "zh": "我需要更多时间。"
+            },
+            {
+              "en": "You need to rest today.",
+              "zh": "你今天需要休息。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "require：也指需要，语气较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "need to 后接动词原形。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "something necessary or a lack of it",
+      "zh_definition": "必要的东西或对此的需求",
+      "usages": [
+        {
+          "usage_label": "需求",
+          "collocations": [
+            {
+              "phrase": "basic needs",
+              "translation": "基本需求"
+            },
+            {
+              "phrase": "a need for change",
+              "translation": "改变的需要"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Food and water are basic needs.",
+              "zh": "食物和水是基本需求。"
+            },
+            {
+              "en": "There is a need for better roads.",
+              "zh": "需要更好的道路。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "necessity：也指必需品或必要性，较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a need for 后接所需要的事物。"
+      ]
+    }
+  ]
+}

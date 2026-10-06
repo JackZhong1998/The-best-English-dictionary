@@ -1,0 +1,136 @@
+{
+  "word": "offer",
+  "phonetic": "/ˈɔːfər/",
+  "syllables": [
+    "of",
+    "fer"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "提供",
+    "提出",
+    "提议"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to say that you are willing to give something",
+      "zh_definition": "表示愿意给予某物",
+      "usages": [
+        {
+          "usage_label": "提供",
+          "collocations": [
+            {
+              "phrase": "offer help",
+              "translation": "主动提供帮助"
+            },
+            {
+              "phrase": "offer a seat",
+              "translation": "让座"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She offered me a seat.",
+              "zh": "她主动给我让座。"
+            },
+            {
+              "en": "The school offered free classes.",
+              "zh": "学校提供免费课程。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：offer 强调表示愿意给，不保证已实际提供。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "offer someone something 是双宾语结构。",
+        "provide：也指提供；offer 更强调主动提出。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to say that you are willing to do something",
+      "zh_definition": "主动表示愿意做某事",
+      "usages": [
+        {
+          "usage_label": "提出做",
+          "collocations": [
+            {
+              "phrase": "offer to help",
+              "translation": "主动提出帮忙"
+            },
+            {
+              "phrase": "offer to pay",
+              "translation": "主动提出付款"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He offered to carry my bag.",
+              "zh": "他主动提出帮我拿包。"
+            },
+            {
+              "en": "I offered to pay for lunch.",
+              "zh": "我主动提出付午餐钱。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "volunteer：也指自愿做事，常带无偿意味。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "offer to 后接动词原形。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a proposal to give, buy or do something",
+      "zh_definition": "提出给予、购买或做某事的建议",
+      "usages": [
+        {
+          "usage_label": "提议",
+          "collocations": [
+            {
+              "phrase": "accept an offer",
+              "translation": "接受提议"
+            },
+            {
+              "phrase": "a job offer",
+              "translation": "工作录用通知"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She received a job offer yesterday.",
+              "zh": "她昨天收到了一份工作邀请。"
+            },
+            {
+              "en": "They made an offer for the house.",
+              "zh": "他们为这栋房子报了价。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "proposal：泛指提案；offer 常有明确条件。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "an offer for a house 可指购买报价。"
+      ]
+    }
+  ]
+}

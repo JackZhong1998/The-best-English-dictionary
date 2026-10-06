@@ -1,0 +1,134 @@
+{
+  "word": "impact",
+  "phonetic": "/ˈɪmpækt/ · /ɪmˈpækt/",
+  "syllables": [
+    "im",
+    "pact"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "影响",
+    "冲击"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a strong effect on someone or something",
+      "zh_definition": "对人或事物产生的强烈影响",
+      "usages": [
+        {
+          "usage_label": "影响",
+          "collocations": [
+            {
+              "phrase": "have an impact on health",
+              "translation": "对健康有影响"
+            },
+            {
+              "phrase": "environmental impact",
+              "translation": "环境影响"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The new rule had an impact on students.",
+              "zh": "新规定影响了学生。"
+            },
+            {
+              "en": "Noise can have a serious impact on sleep.",
+              "zh": "噪声会严重影响睡眠。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "effect：泛指效果；impact 通常强调影响较大。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词重音常在第一音节 /ˈɪmpækt/。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the force of one object hitting another",
+      "zh_definition": "物体相撞时的冲击力",
+      "usages": [
+        {
+          "usage_label": "冲击",
+          "collocations": [
+            {
+              "phrase": "the impact of the crash",
+              "translation": "碰撞的冲击力"
+            },
+            {
+              "phrase": "absorb the impact",
+              "translation": "吸收冲击力"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The helmet reduced the impact of the fall.",
+              "zh": "头盔减轻了摔倒时的冲击。"
+            },
+            {
+              "en": "The glass broke on impact.",
+              "zh": "玻璃一撞就碎了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义词：此义指撞击产生的力量；collision 是碰撞事件。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "on impact 表示一撞击就，不是受长期影响。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to have a strong effect on something",
+      "zh_definition": "对某事产生明显影响",
+      "usages": [
+        {
+          "usage_label": "影响",
+          "collocations": [
+            {
+              "phrase": "impact daily life",
+              "translation": "影响日常生活"
+            },
+            {
+              "phrase": "impact the result",
+              "translation": "影响结果"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The storm impacted travel across the region.",
+              "zh": "暴风雨影响了整个地区的出行。"
+            },
+            {
+              "en": "These changes may impact the final result.",
+              "zh": "这些变化可能影响最终结果。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "affect：更普通的影响；impact 语气较强。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "动词重音常在第二音节 /ɪmˈpækt/。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "main",
+  "phonetic": "/meɪn/",
+  "syllables": [
+    "main"
+  ],
+  "pos": [
+    "adj.",
+    "n."
+  ],
+  "core_meanings": [
+    "主要的",
+    "主干管道"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "most important or largest",
+      "zh_definition": "最重要或最大的",
+      "usages": [
+        {
+          "usage_label": "主要的",
+          "collocations": [
+            {
+              "phrase": "the main reason",
+              "translation": "主要原因"
+            },
+            {
+              "phrase": "the main road",
+              "translation": "主干道"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The main reason is cost.",
+              "zh": "主要原因是费用。"
+            },
+            {
+              "en": "We took the main road into town.",
+              "zh": "我们走主干道进城。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "principal：也指主要的，较正式。"
+      ],
+      "antonyms": [
+        "minor：次要的。"
+      ],
+      "confusables": [
+        "main 通常放在名词前。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a large pipe carrying water or gas",
+      "zh_definition": "输送水或燃气的大管道",
+      "usages": [
+        {
+          "usage_label": "主管道",
+          "collocations": [
+            {
+              "phrase": "a water main",
+              "translation": "自来水主管道"
+            },
+            {
+              "phrase": "a broken main",
+              "translation": "破裂的主管道"
+            }
+          ],
+          "examples": [
+            {
+              "en": "A water main broke last night.",
+              "zh": "昨夜一条自来水主管道破裂了。"
+            },
+            {
+              "en": "Workers repaired the main under the street.",
+              "zh": "工人修好了街道下的主管道。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：main 此义特指输送水或燃气的主管道。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这一义与“主要的”有关，但作可数名词。",
+        "pipe：泛指管子；main 特指主管道。"
+      ]
+    }
+  ]
+}

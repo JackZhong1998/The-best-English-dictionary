@@ -1,0 +1,134 @@
+{
+  "word": "item",
+  "phonetic": "/ˈaɪtəm/",
+  "syllables": [
+    "i",
+    "tem"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "一件物品",
+    "项目",
+    "新闻短讯"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "one thing among a group of things",
+      "zh_definition": "一组东西中的一件",
+      "usages": [
+        {
+          "usage_label": "一件物品",
+          "collocations": [
+            {
+              "phrase": "an item of clothing",
+              "translation": "一件衣服"
+            },
+            {
+              "phrase": "a lost item",
+              "translation": "失物"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Each item has a price tag.",
+              "zh": "每件商品都有价签。"
+            },
+            {
+              "en": "I found one item missing from the box.",
+              "zh": "我发现盒子里少了一件东西。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义词：item 强调一组事物中的一件。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "item of clothing 是一件衣物，不指一套衣服。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "one point on a list or agenda",
+      "zh_definition": "清单或议程上的一个项目",
+      "usages": [
+        {
+          "usage_label": "项目",
+          "collocations": [
+            {
+              "phrase": "an item on the list",
+              "translation": "清单上的一项"
+            },
+            {
+              "phrase": "the next agenda item",
+              "translation": "下一项议程"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Milk is the first item on my list.",
+              "zh": "牛奶是我清单上的第一项。"
+            },
+            {
+              "en": "The next item is the budget.",
+              "zh": "下一项议程是预算。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "entry：也指列表中的一条；item 更强调一个独立事项。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义 item 不一定是实物。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a short piece of news in a newspaper or program",
+      "zh_definition": "报纸或节目中的一则简短新闻",
+      "usages": [
+        {
+          "usage_label": "新闻短讯",
+          "collocations": [
+            {
+              "phrase": "a news item",
+              "translation": "一则新闻"
+            },
+            {
+              "phrase": "a short item",
+              "translation": "一则短讯"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I read a news item about the bridge.",
+              "zh": "我读到一则关于那座桥的新闻。"
+            },
+            {
+              "en": "The radio carried a short item on the storm.",
+              "zh": "电台播了一则关于暴风雨的短讯。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "report：泛指报道；item 常指篇幅较短的一则。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "news 本身不可数，a news item 可数。"
+      ]
+    }
+  ]
+}

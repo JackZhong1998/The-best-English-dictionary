@@ -1,0 +1,96 @@
+{
+  "word": "indicate",
+  "phonetic": "/ˈɪndɪkeɪt/",
+  "syllables": [
+    "in",
+    "di",
+    "cate"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "表明",
+    "指示"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to show that something is likely or true",
+      "zh_definition": "显示某事可能属实",
+      "usages": [
+        {
+          "usage_label": "表明",
+          "collocations": [
+            {
+              "phrase": "indicate a change",
+              "translation": "表明变化"
+            },
+            {
+              "phrase": "results indicate that...",
+              "translation": "结果表明……"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The results indicate a clear trend.",
+              "zh": "结果显示出明显趋势。"
+            },
+            {
+              "en": "Dark clouds indicate that rain is coming.",
+              "zh": "乌云表明快要下雨了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "show：泛指显示；indicate 常用于证据或迹象。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "indicate 并不等于 prove；它所指的是迹象。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to point to a place or choice",
+      "zh_definition": "指向某处或指出选择",
+      "usages": [
+        {
+          "usage_label": "指出",
+          "collocations": [
+            {
+              "phrase": "indicate the door",
+              "translation": "指向门"
+            },
+            {
+              "phrase": "indicate your choice",
+              "translation": "指出你的选择"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She indicated the door with her hand.",
+              "zh": "她用手指了指门。"
+            },
+            {
+              "en": "Please indicate your choice on the form.",
+              "zh": "请在表格上标明你的选择。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "point to：侧重手势指向；indicate 还可用于文字标明。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "在表格上 indicate 常指勾选或写明。"
+      ]
+    }
+  ]
+}

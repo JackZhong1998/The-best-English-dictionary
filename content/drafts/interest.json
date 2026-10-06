@@ -1,0 +1,174 @@
+{
+  "word": "interest",
+  "phonetic": "/ˈɪntrɪst/",
+  "syllables": [
+    "in",
+    "terest"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "兴趣",
+    "利益",
+    "利息",
+    "使感兴趣"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a feeling of wanting to know more about something",
+      "zh_definition": "想进一步了解某事的兴趣",
+      "usages": [
+        {
+          "usage_label": "兴趣",
+          "collocations": [
+            {
+              "phrase": "show interest in science",
+              "translation": "对科学表现出兴趣"
+            },
+            {
+              "phrase": "lose interest",
+              "translation": "失去兴趣"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her interest in music began early.",
+              "zh": "她很早就对音乐产生了兴趣。"
+            },
+            {
+              "en": "He lost interest in the game.",
+              "zh": "他对这场比赛失去了兴趣。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "curiosity：指好奇心；interest 可指持续的兴趣。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "interest in 后接感兴趣的事物。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make someone want to know more about something",
+      "zh_definition": "使某人想进一步了解",
+      "usages": [
+        {
+          "usage_label": "使感兴趣",
+          "collocations": [
+            {
+              "phrase": "interest young readers",
+              "translation": "吸引年轻读者的兴趣"
+            },
+            {
+              "phrase": "interest someone in art",
+              "translation": "让某人对艺术感兴趣"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The story interested the children.",
+              "zh": "这个故事引起了孩子们的兴趣。"
+            },
+            {
+              "en": "Can I interest you in this book?",
+              "zh": "这本书能引起你的兴趣吗？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "attract：泛指吸引；interest 强调引发好奇。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "interesting 形容事物；interested 形容人的感受。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "money paid for using borrowed money, or earned on savings",
+      "zh_definition": "借款须付或存款所得的利息",
+      "usages": [
+        {
+          "usage_label": "利息",
+          "collocations": [
+            {
+              "phrase": "pay interest on a loan",
+              "translation": "支付贷款利息"
+            },
+            {
+              "phrase": "earn interest",
+              "translation": "赚取利息"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We pay interest on the loan.",
+              "zh": "我们要支付贷款利息。"
+            },
+            {
+              "en": "My savings earn a little interest.",
+              "zh": "我的存款有少量利息。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义词：此义专指借款或存款产生的利息。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义通常为不可数名词。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a benefit or concern that matters to a person or group",
+      "zh_definition": "与个人或群体有关的利益",
+      "usages": [
+        {
+          "usage_label": "利益",
+          "collocations": [
+            {
+              "phrase": "protect workers’ interests",
+              "translation": "保护工人利益"
+            },
+            {
+              "phrase": "in the public interest",
+              "translation": "为了公共利益"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The decision protects local interests.",
+              "zh": "这项决定保护当地利益。"
+            },
+            {
+              "en": "They acted in the public interest.",
+              "zh": "他们的行动符合公共利益。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "benefit：泛指好处；interest 在此强调有关各方的利益。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义常用复数 interests 表示利益。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "word": "last",
+  "phonetic": "/læst/",
+  "syllables": [
+    "last"
+  ],
+  "pos": [
+    "adj.",
+    "adv.",
+    "v."
+  ],
+  "core_meanings": [
+    "最后的",
+    "上一次",
+    "持续"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "coming after all others in a series",
+      "zh_definition": "排在所有其他事物之后的",
+      "usages": [
+        {
+          "usage_label": "最后的",
+          "collocations": [
+            {
+              "phrase": "the last page",
+              "translation": "最后一页"
+            },
+            {
+              "phrase": "the last train",
+              "translation": "末班车"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Read the last page carefully.",
+              "zh": "仔细读最后一页。"
+            },
+            {
+              "en": "We caught the last train home.",
+              "zh": "我们赶上了回家的末班车。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "final：也指最后的；last 更常用于顺序或时间。"
+      ],
+      "antonyms": [
+        "first：最先的。"
+      ],
+      "confusables": [
+        "last 不一定意味着此后永远不会再有。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "most recent before the present time",
+      "zh_definition": "离现在最近的上一次",
+      "usages": [
+        {
+          "usage_label": "上一次的",
+          "collocations": [
+            {
+              "phrase": "last night",
+              "translation": "昨晚"
+            },
+            {
+              "phrase": "last year",
+              "translation": "去年"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I saw her last week.",
+              "zh": "我上周见过她。"
+            },
+            {
+              "en": "Last night was very cold.",
+              "zh": "昨晚很冷。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "previous：指前一个；last 在时间短语中指刚过去的。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "last week 通常不用介词 in。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adv.",
+      "en_definition": "after everyone or everything else",
+      "zh_definition": "在其他人或事物之后",
+      "usages": [
+        {
+          "usage_label": "最后",
+          "collocations": [
+            {
+              "phrase": "come last",
+              "translation": "最后到达"
+            },
+            {
+              "phrase": "speak last",
+              "translation": "最后发言"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He came last in the race.",
+              "zh": "他在比赛中得了最后一名。"
+            },
+            {
+              "en": "I will speak last at the meeting.",
+              "zh": "我会在会上最后发言。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "finally：指最终；last 作副词强调顺序末位。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "come last 常表示排在最后，不表示刚刚到来。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to continue for a period of time",
+      "zh_definition": "持续一段时间",
+      "usages": [
+        {
+          "usage_label": "持续",
+          "collocations": [
+            {
+              "phrase": "last for hours",
+              "translation": "持续数小时"
+            },
+            {
+              "phrase": "last until Friday",
+              "translation": "持续到周五"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The meeting lasted two hours.",
+              "zh": "会议持续了两个小时。"
+            },
+            {
+              "en": "This food will last until Friday.",
+              "zh": "这些食物能维持到周五。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "continue：指继续；last 更强调持续的时长。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "last two hours 与 last for two hours 都可用。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "word": "market",
+  "phonetic": "/ˈmɑːrkɪt/",
+  "syllables": [
+    "mar",
+    "ket"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "市场",
+    "集市",
+    "推销"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the system in which goods are bought and sold",
+      "zh_definition": "商品被买卖的整体环境",
+      "usages": [
+        {
+          "usage_label": "市场",
+          "collocations": [
+            {
+              "phrase": "the housing market",
+              "translation": "住房市场"
+            },
+            {
+              "phrase": "enter a market",
+              "translation": "进入市场"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The housing market is changing.",
+              "zh": "住房市场正在变化。"
+            },
+            {
+              "en": "The company entered a new market.",
+              "zh": "公司进入了一个新市场。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：market 此义指整体买卖环境。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义 market 不一定是一个实体地点。",
+        "trade：泛指贸易活动；market 强调整体买卖环境。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a place where people buy and sell things",
+      "zh_definition": "人们买卖东西的场所",
+      "usages": [
+        {
+          "usage_label": "集市",
+          "collocations": [
+            {
+              "phrase": "a farmers market",
+              "translation": "农贸市场"
+            },
+            {
+              "phrase": "go to the market",
+              "translation": "去市场"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We bought fruit at the market.",
+              "zh": "我们在市场买了水果。"
+            },
+            {
+              "en": "The farmers market opens on Sunday.",
+              "zh": "农贸市场星期天开门。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：market 此义指实体买卖场所。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "实体 market 是可数名词。",
+        "bazaar：也指集市，常带特定地区或形式色彩。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to promote and sell a product",
+      "zh_definition": "宣传并销售产品",
+      "usages": [
+        {
+          "usage_label": "推销",
+          "collocations": [
+            {
+              "phrase": "market a product",
+              "translation": "推销产品"
+            },
+            {
+              "phrase": "market a new service",
+              "translation": "推广新服务"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They market the product online.",
+              "zh": "他们在网上推销这个产品。"
+            },
+            {
+              "en": "The firm markets its service to schools.",
+              "zh": "这家公司向学校推广服务。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：market 此义既包括推广也包括销售策略。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "market something to someone 表示向某群体推销。",
+        "promote：强调宣传；market 还包括销售策略。"
+      ]
+    }
+  ]
+}

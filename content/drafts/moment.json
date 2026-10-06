@@ -1,0 +1,96 @@
+{
+  "word": "moment",
+  "phonetic": "/ˈmoʊmənt/",
+  "syllables": [
+    "mo",
+    "ment"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "片刻",
+    "时机"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a very short period of time",
+      "zh_definition": "很短的一段时间",
+      "usages": [
+        {
+          "usage_label": "片刻",
+          "collocations": [
+            {
+              "phrase": "wait a moment",
+              "translation": "等一会儿"
+            },
+            {
+              "phrase": "for a moment",
+              "translation": "片刻"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please wait a moment.",
+              "zh": "请稍等片刻。"
+            },
+            {
+              "en": "I closed my eyes for a moment.",
+              "zh": "我闭了一会儿眼睛。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "instant：也指极短时间；moment 更常用于口语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a moment 不一定精确等于一分钟。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a particular point in time",
+      "zh_definition": "某个特定的时间点",
+      "usages": [
+        {
+          "usage_label": "时刻",
+          "collocations": [
+            {
+              "phrase": "at that moment",
+              "translation": "就在那时"
+            },
+            {
+              "phrase": "the right moment",
+              "translation": "恰当时机"
+            }
+          ],
+          "examples": [
+            {
+              "en": "At that moment, the phone rang.",
+              "zh": "就在那时，电话响了。"
+            },
+            {
+              "en": "She waited for the right moment to speak.",
+              "zh": "她等到合适的时机才开口。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：moment 此义指时间轴上的特定一刻。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the right moment 强调合适的时机。",
+        "time：泛指时间；moment 指具体的一刻。"
+      ]
+    }
+  ]
+}

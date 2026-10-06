@@ -1,0 +1,137 @@
+{
+  "word": "import",
+  "phonetic": "/ˈɪmpɔːrt/ · /ɪmˈpɔːrt/",
+  "syllables": [
+    "im",
+    "port"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "进口货物",
+    "进口",
+    "导入"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to bring goods into a country to sell",
+      "zh_definition": "把商品运进一国销售",
+      "usages": [
+        {
+          "usage_label": "进口",
+          "collocations": [
+            {
+              "phrase": "import oil",
+              "translation": "进口石油"
+            },
+            {
+              "phrase": "import goods from abroad",
+              "translation": "从国外进口商品"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The country imports most of its oil.",
+              "zh": "这个国家的大部分石油靠进口。"
+            },
+            {
+              "en": "They import fruit from Spain.",
+              "zh": "他们从西班牙进口水果。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "bring in：泛指引进；import 专指跨境运入商品。"
+      ],
+      "antonyms": [
+        "export goods：出口商品，与进口方向相反。"
+      ],
+      "confusables": [
+        "动词重音在第二音节；export 表示出口。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a product brought into a country from another country",
+      "zh_definition": "从外国运入的商品",
+      "usages": [
+        {
+          "usage_label": "进口货物",
+          "collocations": [
+            {
+              "phrase": "cheap imports",
+              "translation": "廉价进口商品"
+            },
+            {
+              "phrase": "food imports",
+              "translation": "进口食品"
+            }
+          ],
+          "examples": [
+            {
+              "en": "These shoes are imports from Italy.",
+              "zh": "这些鞋是从意大利进口的。"
+            },
+            {
+              "en": "Food imports rose last year.",
+              "zh": "去年食品进口量上升了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "imported product：指进口产品，与名词 import 意思接近。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词重音在第一音节；常用复数 imports。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to move data from one program or device into another",
+      "zh_definition": "把数据导入另一程序或设备",
+      "usages": [
+        {
+          "usage_label": "导入",
+          "collocations": [
+            {
+              "phrase": "import a file",
+              "translation": "导入文件"
+            },
+            {
+              "phrase": "import data into a program",
+              "translation": "将数据导入程序"
+            }
+          ],
+          "examples": [
+            {
+              "en": "You can import the file into the app.",
+              "zh": "你可以把文件导入这个应用。"
+            },
+            {
+              "en": "I imported the photos from my phone.",
+              "zh": "我从手机导入了照片。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "load：也可指载入；import 强调从外部来源导入。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "计算机用法中的 import 不涉及海关。"
+      ]
+    }
+  ]
+}

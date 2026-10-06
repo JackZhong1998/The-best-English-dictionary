@@ -1,0 +1,95 @@
+{
+  "word": "impress",
+  "phonetic": "/ɪmˈpres/",
+  "syllables": [
+    "im",
+    "press"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "给人深刻印象",
+    "使佩服"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to make someone admire or notice you because of your qualities",
+      "zh_definition": "凭表现或品质使人佩服",
+      "usages": [
+        {
+          "usage_label": "使佩服",
+          "collocations": [
+            {
+              "phrase": "impress the teacher",
+              "translation": "给老师留下好印象"
+            },
+            {
+              "phrase": "impress someone with skill",
+              "translation": "以技能使人佩服"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her clear answer impressed the teacher.",
+              "zh": "她清楚的回答让老师印象深刻。"
+            },
+            {
+              "en": "He impressed us with his patience.",
+              "zh": "他的耐心令我们佩服。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "amaze：表示使人惊奇；impress 强调留下良好印象。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "be impressed by/with 表示对某人或某事印象深刻。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make an idea or fact clear and important to someone",
+      "zh_definition": "使某个道理或事实深深留在心中",
+      "usages": [
+        {
+          "usage_label": "使铭记",
+          "collocations": [
+            {
+              "phrase": "impress the importance of safety on someone",
+              "translation": "使某人牢记安全的重要性"
+            },
+            {
+              "phrase": "impress on someone the value of honesty",
+              "translation": "使某人深知诚实的价值"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The coach impressed on us the importance of teamwork.",
+              "zh": "教练让我们牢记团队合作的重要性。"
+            },
+            {
+              "en": "My father impressed on me the value of honesty.",
+              "zh": "父亲让我深知诚实的价值。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "emphasize：指强调；impress on 强调让人记住。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "impress something on someone 是固定结构；与给人留下好印象不同。"
+      ]
+    }
+  ]
+}

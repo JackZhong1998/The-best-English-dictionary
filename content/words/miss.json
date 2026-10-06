@@ -1,0 +1,179 @@
+{
+  "word": "miss",
+  "phonetic": "/mɪs/",
+  "syllables": [
+    "miss"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "错过",
+    "想念",
+    "未击中",
+    "小姐"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to fail to catch transport or attend an event",
+      "zh_definition": "未能赶上交通工具或参加某项活动",
+      "usages": [
+        {
+          "usage_label": "错过",
+          "collocations": [
+            {
+              "phrase": "miss the bus",
+              "translation": "错过公交车"
+            },
+            {
+              "phrase": "miss a meeting",
+              "translation": "错过会议"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I missed the last bus.",
+              "zh": "我错过了末班公交车。"
+            },
+            {
+              "en": "She missed the meeting yesterday.",
+              "zh": "她昨天错过了会议。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：miss 可指没赶上交通工具或错过活动。"
+      ],
+      "antonyms": [
+        "catch：赶上。"
+      ],
+      "confusables": [
+        "miss a bus 不表示想念公交车。",
+        "fail to catch：也指没赶上交通工具。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to feel sad because someone is absent",
+      "zh_definition": "因某人不在身边而思念",
+      "usages": [
+        {
+          "usage_label": "想念",
+          "collocations": [
+            {
+              "phrase": "miss your family",
+              "translation": "想念家人"
+            },
+            {
+              "phrase": "miss home",
+              "translation": "想家"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I miss my friends at home.",
+              "zh": "我想念家乡的朋友。"
+            },
+            {
+              "en": "He missed his family while abroad.",
+              "zh": "他在国外时想念家人。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "long for：也指渴望见到，语气更强。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "miss someone 可指想念，不一定是错过见面。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to fail to hit or reach a target",
+      "zh_definition": "未击中或未到达目标",
+      "usages": [
+        {
+          "usage_label": "未击中",
+          "collocations": [
+            {
+              "phrase": "miss the target",
+              "translation": "没打中目标"
+            },
+            {
+              "phrase": "miss a shot",
+              "translation": "投篮不中"
+            }
+          ],
+          "examples": [
+            {
+              "en": "His arrow missed the target.",
+              "zh": "他的箭没有射中靶子。"
+            },
+            {
+              "en": "She missed the final shot.",
+              "zh": "她最后一投没进。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "fail to hit：直接表示未击中。"
+      ],
+      "antonyms": [
+        "hit：击中目标。"
+      ],
+      "confusables": [
+        "miss the target 与 miss the bus 意义不同。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a title before the name of a girl or unmarried woman",
+      "zh_definition": "用于女孩或未婚女性姓名前的称谓",
+      "usages": [
+        {
+          "usage_label": "小姐",
+          "collocations": [
+            {
+              "phrase": "Miss Chen",
+              "translation": "陈小姐"
+            },
+            {
+              "phrase": "Miss Taylor",
+              "translation": "泰勒小姐"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Miss Chen is our teacher.",
+              "zh": "陈老师是我们的老师。"
+            },
+            {
+              "en": "Please ask Miss Taylor.",
+              "zh": "请去问泰勒小姐。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：Miss 是传统上用于未婚女性姓名前的称谓。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "称谓 Miss 首字母大写；现代职场常用 Ms.。",
+        "Ms.：不说明婚姻状况；Miss 传统上用于未婚女性。"
+      ]
+    }
+  ]
+}

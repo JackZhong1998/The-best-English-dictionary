@@ -1,0 +1,98 @@
+{
+  "word": "monitor",
+  "phonetic": "/ˈmɑːnɪtər/",
+  "syllables": [
+    "mon",
+    "i",
+    "tor"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "显示器",
+    "监测"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a screen that shows images from a computer",
+      "zh_definition": "显示计算机画面的屏幕",
+      "usages": [
+        {
+          "usage_label": "显示器",
+          "collocations": [
+            {
+              "phrase": "a computer monitor",
+              "translation": "电脑显示器"
+            },
+            {
+              "phrase": "a large monitor",
+              "translation": "大显示器"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The monitor is too bright.",
+              "zh": "显示器太亮了。"
+            },
+            {
+              "en": "She bought a larger monitor.",
+              "zh": "她买了一个更大的显示器。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：monitor 此义指用来显示电脑画面的设备。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "monitor 可指电脑显示器，不一定是电视。",
+        "screen：泛指屏幕；monitor 通常指独立显示器。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to watch and check something over time",
+      "zh_definition": "持续观察并检查某事",
+      "usages": [
+        {
+          "usage_label": "监测",
+          "collocations": [
+            {
+              "phrase": "monitor progress",
+              "translation": "监测进展"
+            },
+            {
+              "phrase": "monitor air quality",
+              "translation": "监测空气质量"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The teacher monitored our progress.",
+              "zh": "老师跟踪了我们的进展。"
+            },
+            {
+              "en": "The city monitors air quality daily.",
+              "zh": "这座城市每天监测空气质量。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "track：也指跟踪变化；monitor 强调持续检查。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义 monitor 是动词。"
+      ]
+    }
+  ]
+}

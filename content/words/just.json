@@ -1,0 +1,175 @@
+{
+  "word": "just",
+  "phonetic": "/dʒʌst/",
+  "syllables": [
+    "just"
+  ],
+  "pos": [
+    "adv.",
+    "adj."
+  ],
+  "core_meanings": [
+    "恰好",
+    "刚刚",
+    "仅仅",
+    "公正的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adv.",
+      "en_definition": "exactly at a particular point or place",
+      "zh_definition": "恰在某个时间、位置或程度",
+      "usages": [
+        {
+          "usage_label": "恰好",
+          "collocations": [
+            {
+              "phrase": "just before noon",
+              "translation": "就在中午前"
+            },
+            {
+              "phrase": "just right",
+              "translation": "恰好合适"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We arrived just before noon.",
+              "zh": "我们恰好在中午前到达。"
+            },
+            {
+              "en": "This size is just right for me.",
+              "zh": "这个尺寸对我刚好合适。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "exactly：表示精确地；just 在口语中很常用。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "just right 指正合适，与 only 的意思不同。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adv.",
+      "en_definition": "a very short time ago",
+      "zh_definition": "就在不久前",
+      "usages": [
+        {
+          "usage_label": "刚刚",
+          "collocations": [
+            {
+              "phrase": "have just finished",
+              "translation": "刚完成"
+            },
+            {
+              "phrase": "just now",
+              "translation": "刚才"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She has just left the room.",
+              "zh": "她刚离开房间。"
+            },
+            {
+              "en": "I just heard the news.",
+              "zh": "我刚听说这个消息。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "recently：泛指最近；just 更强调时间很近。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "美式英语常用 I just heard；英式也常用 I have just heard。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adv.",
+      "en_definition": "only and no more than that",
+      "zh_definition": "仅限于所说范围",
+      "usages": [
+        {
+          "usage_label": "仅仅",
+          "collocations": [
+            {
+              "phrase": "just a minute",
+              "translation": "只要一分钟"
+            },
+            {
+              "phrase": "just one question",
+              "translation": "只问一个问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I need just a minute.",
+              "zh": "我只需要一分钟。"
+            },
+            {
+              "en": "It was just a small mistake.",
+              "zh": "那只是个小错误。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "only：也指仅仅；just 常带缓和语气。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "just 在不同句子里可表示恰好、刚刚或仅仅。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "adj.",
+      "en_definition": "fair and morally right",
+      "zh_definition": "符合公平与道德的",
+      "usages": [
+        {
+          "usage_label": "公正的",
+          "collocations": [
+            {
+              "phrase": "a just decision",
+              "translation": "公正的决定"
+            },
+            {
+              "phrase": "a just society",
+              "translation": "公正的社会"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The judge made a just decision.",
+              "zh": "法官作出了公正的裁决。"
+            },
+            {
+              "en": "They hope for a more just society.",
+              "zh": "他们希望社会更加公正。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "fair：指公平；just 还强调道德上正当。"
+      ],
+      "antonyms": [
+        "unjust：不公正的。"
+      ],
+      "confusables": [
+        "形容词 just 与副词“刚刚”的用法不同。"
+      ]
+    }
+  ]
+}

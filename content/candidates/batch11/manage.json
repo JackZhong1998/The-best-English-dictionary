@@ -1,0 +1,136 @@
+{
+  "word": "manage",
+  "phonetic": "/ˈmænɪdʒ/",
+  "syllables": [
+    "man",
+    "age"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "管理",
+    "设法做到",
+    "应付"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to be responsible for running an organization or activity",
+      "zh_definition": "负责组织或活动的日常运作",
+      "usages": [
+        {
+          "usage_label": "管理",
+          "collocations": [
+            {
+              "phrase": "manage a team",
+              "translation": "管理团队"
+            },
+            {
+              "phrase": "manage a store",
+              "translation": "经营商店"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She manages a small store.",
+              "zh": "她经营一家小店。"
+            },
+            {
+              "en": "He manages the project well.",
+              "zh": "他把这个项目管理得很好。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "run：也指经营，更口语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "manage 这一义后直接接负责的对象。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to succeed in doing something difficult",
+      "zh_definition": "设法完成有难度的事",
+      "usages": [
+        {
+          "usage_label": "设法做到",
+          "collocations": [
+            {
+              "phrase": "manage to finish",
+              "translation": "设法完成"
+            },
+            {
+              "phrase": "manage to arrive on time",
+              "translation": "设法准时到达"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We managed to finish before dark.",
+              "zh": "我们设法在天黑前完成了。"
+            },
+            {
+              "en": "She managed to find the address.",
+              "zh": "她设法找到了地址。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "succeed：也指成功；manage 强调困难中做到。"
+      ],
+      "antonyms": [
+        "fail：未能做到。"
+      ],
+      "confusables": [
+        "manage to 后接动词原形。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to deal with a difficult situation",
+      "zh_definition": "应对困难情况",
+      "usages": [
+        {
+          "usage_label": "应付",
+          "collocations": [
+            {
+              "phrase": "manage stress",
+              "translation": "应对压力"
+            },
+            {
+              "phrase": "manage without help",
+              "translation": "没有帮助也能应付"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He learned to manage stress.",
+              "zh": "他学会了应对压力。"
+            },
+            {
+              "en": "Can you manage without a car?",
+              "zh": "没有车你能应付吗？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "cope：也指应付，常接 with。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "manage 可不及物，如 manage without a car。"
+      ]
+    }
+  ]
+}

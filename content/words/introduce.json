@@ -1,0 +1,135 @@
+{
+  "word": "introduce",
+  "phonetic": "/ˌɪntrəˈduːs/",
+  "syllables": [
+    "in",
+    "tro",
+    "duce"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "介绍",
+    "引入",
+    "推出"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to tell people each other’s names when they first meet",
+      "zh_definition": "在初次见面时介绍人",
+      "usages": [
+        {
+          "usage_label": "介绍",
+          "collocations": [
+            {
+              "phrase": "introduce a friend",
+              "translation": "介绍一位朋友"
+            },
+            {
+              "phrase": "introduce yourself",
+              "translation": "介绍自己"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Let me introduce my friend Mei.",
+              "zh": "让我介绍一下我的朋友梅。"
+            },
+            {
+              "en": "She introduced herself to the class.",
+              "zh": "她向全班作了自我介绍。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "present：正式场合也可指介绍；introduce 更常用。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "introduce A to B 表示把 A 介绍给 B。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to bring a new thing or practice into use",
+      "zh_definition": "将新事物或做法引入使用",
+      "usages": [
+        {
+          "usage_label": "引入",
+          "collocations": [
+            {
+              "phrase": "introduce a new rule",
+              "translation": "推出新规定"
+            },
+            {
+              "phrase": "introduce changes",
+              "translation": "引入变化"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The school introduced a new rule.",
+              "zh": "学校制定了一项新规定。"
+            },
+            {
+              "en": "They introduced changes to the schedule.",
+              "zh": "他们调整了日程安排。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "bring in：泛指引入；introduce 通常突出首次采用。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "introduce a product 指推出产品，不是介绍某个人。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to bring a topic to people’s attention for the first time",
+      "zh_definition": "首次提出一个话题",
+      "usages": [
+        {
+          "usage_label": "引出",
+          "collocations": [
+            {
+              "phrase": "introduce a topic",
+              "translation": "引出话题"
+            },
+            {
+              "phrase": "introduce a question",
+              "translation": "提出问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The teacher introduced the topic with a story.",
+              "zh": "老师用一个故事引出了话题。"
+            },
+            {
+              "en": "The opening paragraph introduces the main question.",
+              "zh": "开头一段提出了主要问题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "raise：也指提出问题；introduce 强调首次引入讨论。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "introduce an idea 与 introduce a person 用法不同。"
+      ]
+    }
+  ]
+}

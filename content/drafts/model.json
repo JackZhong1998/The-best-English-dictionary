@@ -1,0 +1,136 @@
+{
+  "word": "model",
+  "phonetic": "/ˈmɑːdəl/",
+  "syllables": [
+    "mod",
+    "el"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "模型",
+    "榜样",
+    "模特"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a small representation of a larger thing",
+      "zh_definition": "按实物缩小制作的样品",
+      "usages": [
+        {
+          "usage_label": "模型",
+          "collocations": [
+            {
+              "phrase": "a model airplane",
+              "translation": "模型飞机"
+            },
+            {
+              "phrase": "build a model",
+              "translation": "制作模型"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He built a model airplane.",
+              "zh": "他做了一架模型飞机。"
+            },
+            {
+              "en": "The museum displays a model of the city.",
+              "zh": "博物馆展示了一座城市模型。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：model 此义指按实物制作的模型。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a model of 后接所模拟的原物。",
+        "replica：复制品可与原物同尺寸；model 常缩小。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a person or thing worth copying",
+      "zh_definition": "值得效仿的人或事物",
+      "usages": [
+        {
+          "usage_label": "榜样",
+          "collocations": [
+            {
+              "phrase": "a role model",
+              "translation": "榜样"
+            },
+            {
+              "phrase": "a model for others",
+              "translation": "他人的典范"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her kindness makes her a role model.",
+              "zh": "她的善良使她成为榜样。"
+            },
+            {
+              "en": "This school is a model for others.",
+              "zh": "这所学校是其他学校的典范。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：model 此义强调值得效仿的榜样。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "role model 特指行为榜样。",
+        "example：也指范例；model 强调值得仿效。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a person who wears clothes for photographs or shows",
+      "zh_definition": "为拍摄或展示穿戴服饰的人",
+      "usages": [
+        {
+          "usage_label": "模特",
+          "collocations": [
+            {
+              "phrase": "a fashion model",
+              "translation": "时装模特"
+            },
+            {
+              "phrase": "work as a model",
+              "translation": "当模特"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She works as a fashion model.",
+              "zh": "她是一名时装模特。"
+            },
+            {
+              "en": "The model wore a blue coat.",
+              "zh": "模特穿着一件蓝色外套。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：model 在此是展示服饰或产品的人。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义与小型模型无关。"
+      ]
+    }
+  ]
+}

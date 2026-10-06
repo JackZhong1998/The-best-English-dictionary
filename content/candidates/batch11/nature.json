@@ -1,0 +1,95 @@
+{
+  "word": "nature",
+  "phonetic": "/ˈneɪtʃər/",
+  "syllables": [
+    "na",
+    "ture"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "自然界",
+    "本性"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "plants, animals and the physical world",
+      "zh_definition": "植物、动物与物质世界",
+      "usages": [
+        {
+          "usage_label": "自然界",
+          "collocations": [
+            {
+              "phrase": "protect nature",
+              "translation": "保护自然"
+            },
+            {
+              "phrase": "enjoy nature",
+              "translation": "享受大自然"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We should protect nature.",
+              "zh": "我们应该保护自然。"
+            },
+            {
+              "en": "They spent the weekend in nature.",
+              "zh": "他们周末在大自然中度过。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "natural world：也指自然界，比 nature 更明确。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义 nature 通常不加 the。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the basic character of a person or thing",
+      "zh_definition": "人或事物的基本性格或性质",
+      "usages": [
+        {
+          "usage_label": "本性",
+          "collocations": [
+            {
+              "phrase": "human nature",
+              "translation": "人性"
+            },
+            {
+              "phrase": "the nature of the problem",
+              "translation": "问题的性质"
+            }
+          ],
+          "examples": [
+            {
+              "en": "It is human nature to ask questions.",
+              "zh": "爱问问题是人的天性。"
+            },
+            {
+              "en": "We must understand the nature of the problem.",
+              "zh": "我们必须理解问题的性质。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "character：可指人的性格；nature 也可指事物的本质。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the nature of 后接要说明其性质的事物。"
+      ]
+    }
+  ]
+}

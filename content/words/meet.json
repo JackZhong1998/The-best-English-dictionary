@@ -1,0 +1,136 @@
+{
+  "word": "meet",
+  "phonetic": "/miːt/",
+  "syllables": [
+    "meet"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "见面",
+    "迎接",
+    "满足"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to see someone by arrangement",
+      "zh_definition": "按约定与某人见面",
+      "usages": [
+        {
+          "usage_label": "会面",
+          "collocations": [
+            {
+              "phrase": "meet a friend",
+              "translation": "见朋友"
+            },
+            {
+              "phrase": "meet at noon",
+              "translation": "中午见面"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I will meet her at noon.",
+              "zh": "我会在中午见她。"
+            },
+            {
+              "en": "We met at the station.",
+              "zh": "我们在车站见面。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "see：也可指会见；meet 强调双方碰面。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "meet someone 不加 with；meet with someone 另有用法。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to go to a place to greet someone arriving",
+      "zh_definition": "到某地迎接抵达的人",
+      "usages": [
+        {
+          "usage_label": "迎接",
+          "collocations": [
+            {
+              "phrase": "meet someone at the airport",
+              "translation": "去机场接某人"
+            },
+            {
+              "phrase": "meet the train",
+              "translation": "到车站接火车上的人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Dad met us at the airport.",
+              "zh": "爸爸在机场接我们。"
+            },
+            {
+              "en": "She went to meet her guests.",
+              "zh": "她去迎接客人。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：meet 此义指到场迎接抵达的人。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "meet someone at the airport 常指接机。",
+        "greet：强调打招呼；meet 还可指到场接人。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to satisfy a requirement or need",
+      "zh_definition": "符合要求或满足需求",
+      "usages": [
+        {
+          "usage_label": "满足",
+          "collocations": [
+            {
+              "phrase": "meet a need",
+              "translation": "满足需求"
+            },
+            {
+              "phrase": "meet the standards",
+              "translation": "达到标准"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This plan meets our needs.",
+              "zh": "这个计划满足我们的需求。"
+            },
+            {
+              "en": "The product meets safety standards.",
+              "zh": "这款产品符合安全标准。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "satisfy：也指满足；meet 常用于要求和标准。"
+      ],
+      "antonyms": [
+        "fall short of：达不到。"
+      ],
+      "confusables": [
+        "此义不表示两个人见面。"
+      ]
+    }
+  ]
+}

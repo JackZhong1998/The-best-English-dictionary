@@ -1,0 +1,173 @@
+{
+  "word": "key",
+  "phonetic": "/kiː/",
+  "syllables": [
+    "key"
+  ],
+  "pos": [
+    "n.",
+    "adj."
+  ],
+  "core_meanings": [
+    "钥匙",
+    "关键",
+    "按键",
+    "重要的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a metal object used to open a lock",
+      "zh_definition": "开锁用的金属物",
+      "usages": [
+        {
+          "usage_label": "钥匙",
+          "collocations": [
+            {
+              "phrase": "a house key",
+              "translation": "家门钥匙"
+            },
+            {
+              "phrase": "turn the key",
+              "translation": "转动钥匙"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I left my house key at school.",
+              "zh": "我把家门钥匙落在学校了。"
+            },
+            {
+              "en": "Turn the key to open the door.",
+              "zh": "转动钥匙把门打开。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义词：这里指开锁用的钥匙；passkey 只是钥匙的一种。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "key to the door 可指开门的钥匙，也可比喻解决方法。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "something that makes success or understanding possible",
+      "zh_definition": "使成功或理解成为可能的关键",
+      "usages": [
+        {
+          "usage_label": "关键",
+          "collocations": [
+            {
+              "phrase": "the key to success",
+              "translation": "成功的关键"
+            },
+            {
+              "phrase": "find the key to a problem",
+              "translation": "找到问题的关键"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Practice is the key to improvement.",
+              "zh": "练习是进步的关键。"
+            },
+            {
+              "en": "We found the key to the problem.",
+              "zh": "我们找到了问题的关键。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义词：这里指使事情成功的关键因素。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the key to 后通常接名词或动名词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a button on a keyboard or similar device",
+      "zh_definition": "键盘等设备上的按键",
+      "usages": [
+        {
+          "usage_label": "按键",
+          "collocations": [
+            {
+              "phrase": "press a key",
+              "translation": "按一个键"
+            },
+            {
+              "phrase": "the Enter key",
+              "translation": "回车键"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Press any key to continue.",
+              "zh": "按任意键继续。"
+            },
+            {
+              "en": "The Enter key is on the right.",
+              "zh": "回车键在右边。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "button：泛指按钮；key 多指键盘按键。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义为可数名词，可说 two keys。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "adj.",
+      "en_definition": "very important to an outcome",
+      "zh_definition": "对结果非常重要的",
+      "usages": [
+        {
+          "usage_label": "关键的",
+          "collocations": [
+            {
+              "phrase": "a key role",
+              "translation": "关键作用"
+            },
+            {
+              "phrase": "a key question",
+              "translation": "关键问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She played a key role in the project.",
+              "zh": "她在项目中发挥了关键作用。"
+            },
+            {
+              "en": "That is a key question for us.",
+              "zh": "那对我们是个关键问题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "crucial：也指至关重要；key 更常置于名词前。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "形容词 key 通常作定语，如 key point。"
+      ]
+    }
+  ]
+}

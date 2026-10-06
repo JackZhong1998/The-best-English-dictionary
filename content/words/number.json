@@ -1,0 +1,177 @@
+{
+  "word": "number",
+  "phonetic": "/ˈnʌmbər/",
+  "syllables": [
+    "num",
+    "ber"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "数字",
+    "数量",
+    "编号"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a symbol used to count or identify an amount",
+      "zh_definition": "用来计数或表示数量的数字",
+      "usages": [
+        {
+          "usage_label": "数字",
+          "collocations": [
+            {
+              "phrase": "write a number",
+              "translation": "写数字"
+            },
+            {
+              "phrase": "a two-digit number",
+              "translation": "两位数"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Seven is my favorite number.",
+              "zh": "七是我最喜欢的数字。"
+            },
+            {
+              "en": "Write the number on the board.",
+              "zh": "把数字写在黑板上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：number 可指数字本身或计数值。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "number 既可指数字，也可指编号。",
+        "numeral：更强调表示数字的符号。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the total amount of people or things",
+      "zh_definition": "人或物的总数量",
+      "usages": [
+        {
+          "usage_label": "数量",
+          "collocations": [
+            {
+              "phrase": "a large number of people",
+              "translation": "大量的人"
+            },
+            {
+              "phrase": "the number of students",
+              "translation": "学生人数"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The number of students rose.",
+              "zh": "学生人数增加了。"
+            },
+            {
+              "en": "A large number of people came.",
+              "zh": "来了很多人。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：number 此义指可数对象的数量。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the number of 后接复数名词，但整体作主语常用单数动词。",
+        "amount：多用于不可数物；number 用于可数对象。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a code of digits used to identify someone or something",
+      "zh_definition": "用来识别某人或某物的一串数字",
+      "usages": [
+        {
+          "usage_label": "号码",
+          "collocations": [
+            {
+              "phrase": "a phone number",
+              "translation": "电话号码"
+            },
+            {
+              "phrase": "a room number",
+              "translation": "房间号"
+            }
+          ],
+          "examples": [
+            {
+              "en": "What is your phone number?",
+              "zh": "你的电话号码是多少？"
+            },
+            {
+              "en": "I forgot the room number.",
+              "zh": "我忘了房间号。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：number 此义指用数字构成的识别号码。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "电话号码是识别用号码，不是数量。",
+        "code：泛指识别代码；number 特指数字号码。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to give numbers to things in order",
+      "zh_definition": "按顺序给事物编号",
+      "usages": [
+        {
+          "usage_label": "编号",
+          "collocations": [
+            {
+              "phrase": "number the pages",
+              "translation": "给页面编号"
+            },
+            {
+              "phrase": "number the seats",
+              "translation": "给座位编号"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please number the pages.",
+              "zh": "请给每一页编号。"
+            },
+            {
+              "en": "The seats are numbered from one to fifty.",
+              "zh": "座位从一号编到五十号。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：number 特指按顺序给事物标上数字。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "动词 number 常用被动语态。",
+        "label：泛指加标签；number 特指加数字。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "word": "imagine",
+  "phonetic": "/ɪˈmædʒɪn/",
+  "syllables": [
+    "im",
+    "ag",
+    "ine"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "想象",
+    "料想"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to form a picture or situation in your mind",
+      "zh_definition": "在脑海中形成画面或情境",
+      "usages": [
+        {
+          "usage_label": "想象",
+          "collocations": [
+            {
+              "phrase": "imagine a place",
+              "translation": "想象一个地方"
+            },
+            {
+              "phrase": "imagine doing something",
+              "translation": "想象做某事"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Imagine a house beside the sea.",
+              "zh": "想象一栋海边的房子。"
+            },
+            {
+              "en": "I can imagine living there.",
+              "zh": "我能想象在那里生活。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "picture：作动词也指在脑中想象画面。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "imagine doing 常接动名词，不说 imagine to do。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to think something is probably true, without being certain",
+      "zh_definition": "没有把握时料想某事可能属实",
+      "usages": [
+        {
+          "usage_label": "料想",
+          "collocations": [
+            {
+              "phrase": "I imagine so",
+              "translation": "我想是这样"
+            },
+            {
+              "phrase": "imagine that it is difficult",
+              "translation": "料想那很难"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I imagine the trip was tiring.",
+              "zh": "我想那趟旅程挺累的。"
+            },
+            {
+              "en": "She imagined he was already home.",
+              "zh": "她料想他已经到家了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "suppose：也可表示料想；imagine 带有推想意味。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义并非凭空幻想，而是根据情况作推测。"
+      ]
+    }
+  ]
+}

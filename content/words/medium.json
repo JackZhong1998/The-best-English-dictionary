@@ -1,0 +1,140 @@
+{
+  "word": "medium",
+  "phonetic": "/ˈmiːdiəm/",
+  "syllables": [
+    "me",
+    "di",
+    "um"
+  ],
+  "pos": [
+    "adj.",
+    "n."
+  ],
+  "core_meanings": [
+    "中等的",
+    "媒介",
+    "介质"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "in the middle between large and small",
+      "zh_definition": "处于大与小之间的",
+      "usages": [
+        {
+          "usage_label": "中等的",
+          "collocations": [
+            {
+              "phrase": "a medium size",
+              "translation": "中号"
+            },
+            {
+              "phrase": "medium height",
+              "translation": "中等身高"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I wear a medium size.",
+              "zh": "我穿中号。"
+            },
+            {
+              "en": "The table is of medium height.",
+              "zh": "这张桌子高度适中。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：medium 此义指规格或尺寸处于中间。"
+      ],
+      "antonyms": [
+        "large：大的。"
+      ],
+      "confusables": [
+        "medium 在尺寸标签上常写作 M。",
+        "average：也可指中等水平；medium 更常指规格大小。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a way of communicating information or art",
+      "zh_definition": "传递信息或艺术的方式",
+      "usages": [
+        {
+          "usage_label": "媒介",
+          "collocations": [
+            {
+              "phrase": "a medium of communication",
+              "translation": "交流媒介"
+            },
+            {
+              "phrase": "a digital medium",
+              "translation": "数字媒介"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Radio is a powerful medium.",
+              "zh": "广播是一种有力的传播媒介。"
+            },
+            {
+              "en": "She chose film as her medium.",
+              "zh": "她选择电影作为表达媒介。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "channel：也指传播渠道；medium 范围更广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义复数通常是 media。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a substance in which a process takes place",
+      "zh_definition": "供某种过程发生的物质环境",
+      "usages": [
+        {
+          "usage_label": "介质",
+          "collocations": [
+            {
+              "phrase": "a growing medium",
+              "translation": "培养基质"
+            },
+            {
+              "phrase": "water as a medium",
+              "translation": "水作为介质"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Water is a medium for sound.",
+              "zh": "水是声音传播的一种介质。"
+            },
+            {
+              "en": "The seeds grew in a moist medium.",
+              "zh": "种子在潮湿的基质中生长。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：medium 强调承载某过程的介质。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "科学语境中的 medium 不指媒体。",
+        "substance：泛指物质；medium 强调它承载某过程。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "word": "measure",
+  "phonetic": "/ˈmeʒər/",
+  "syllables": [
+    "meas",
+    "ure"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "测量",
+    "措施",
+    "尺寸"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to find the size or amount of something",
+      "zh_definition": "查出某物的尺寸或数量",
+      "usages": [
+        {
+          "usage_label": "测量",
+          "collocations": [
+            {
+              "phrase": "measure the length",
+              "translation": "测量长度"
+            },
+            {
+              "phrase": "measure the temperature",
+              "translation": "测量温度"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We measured the length of the room.",
+              "zh": "我们测量了房间的长度。"
+            },
+            {
+              "en": "The nurse measured his temperature.",
+              "zh": "护士量了他的体温。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：measure 指通过测量获取数值。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "measure 可直接接被测量的对象。",
+        "calculate：常指运算；measure 用工具获取数值。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an action taken to deal with a problem",
+      "zh_definition": "为应对问题采取的行动",
+      "usages": [
+        {
+          "usage_label": "措施",
+          "collocations": [
+            {
+              "phrase": "safety measures",
+              "translation": "安全措施"
+            },
+            {
+              "phrase": "take measures",
+              "translation": "采取措施"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The school introduced new safety measures.",
+              "zh": "学校采取了新的安全措施。"
+            },
+            {
+              "en": "We must take measures to save water.",
+              "zh": "我们必须采取措施节约用水。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "step：也指行动步骤；measure 常强调解决问题。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义常用复数 measures。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "the size, amount or degree of something",
+      "zh_definition": "某物的数量或程度",
+      "usages": [
+        {
+          "usage_label": "程度",
+          "collocations": [
+            {
+              "phrase": "a measure of success",
+              "translation": "一定程度的成功"
+            },
+            {
+              "phrase": "some measure of control",
+              "translation": "一定程度的控制"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The plan had a measure of success.",
+              "zh": "这个计划取得了一定程度的成功。"
+            },
+            {
+              "en": "She gained some measure of control.",
+              "zh": "她获得了一定程度的控制权。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "degree：也指程度；measure 在此常表示一定程度。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a measure of 后接被衡量的性质。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "word": "object",
+  "phonetic": "/ˈɑːbdʒekt/ · /əbˈdʒekt/",
+  "syllables": [
+    "ob",
+    "ject"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "物体",
+    "目标",
+    "反对"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a physical thing that can be seen or touched",
+      "zh_definition": "可以看见或触摸的东西",
+      "usages": [
+        {
+          "usage_label": "物体",
+          "collocations": [
+            {
+              "phrase": "a small object",
+              "translation": "小物件"
+            },
+            {
+              "phrase": "a moving object",
+              "translation": "移动的物体"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I found a small object under the desk.",
+              "zh": "我在桌下发现一个小物件。"
+            },
+            {
+              "en": "The camera tracks moving objects.",
+              "zh": "这台相机追踪移动物体。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：object 此义指可感知的实体物体。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 object 读 /ˈɑːbdʒekt/。",
+        "thing：泛指东西；object 更强调可感知的实体。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the purpose of an action",
+      "zh_definition": "某个行动想达到的目的",
+      "usages": [
+        {
+          "usage_label": "目标",
+          "collocations": [
+            {
+              "phrase": "the object of the game",
+              "translation": "游戏目标"
+            },
+            {
+              "phrase": "the main object",
+              "translation": "主要目标"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The object of the game is to score points.",
+              "zh": "游戏的目标是得分。"
+            },
+            {
+              "en": "Our main object is to save time.",
+              "zh": "我们的主要目标是节省时间。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "aim：也指目的；object 在此较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the object of 后接活动。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to say that you disagree with something",
+      "zh_definition": "表示不同意或反对某事",
+      "usages": [
+        {
+          "usage_label": "反对",
+          "collocations": [
+            {
+              "phrase": "object to a plan",
+              "translation": "反对计划"
+            },
+            {
+              "phrase": "object strongly",
+              "translation": "强烈反对"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Several parents objected to the plan.",
+              "zh": "几位家长反对这个计划。"
+            },
+            {
+              "en": "I object to this decision.",
+              "zh": "我反对这个决定。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "oppose：也指反对，可直接接宾语。"
+      ],
+      "antonyms": [
+        "support：支持。"
+      ],
+      "confusables": [
+        "动词 object 读 /əbˈdʒekt/，常接 to。"
+      ]
+    }
+  ]
+}

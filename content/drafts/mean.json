@@ -1,0 +1,176 @@
+{
+  "word": "mean",
+  "phonetic": "/miːn/",
+  "syllables": [
+    "mean"
+  ],
+  "pos": [
+    "v.",
+    "adj.",
+    "n."
+  ],
+  "core_meanings": [
+    "意思是",
+    "打算",
+    "刻薄的",
+    "平均数"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to have a particular meaning",
+      "zh_definition": "表示某个意思",
+      "usages": [
+        {
+          "usage_label": "意思是",
+          "collocations": [
+            {
+              "phrase": "mean the same thing",
+              "translation": "意思相同"
+            },
+            {
+              "phrase": "mean something different",
+              "translation": "有不同含义"
+            }
+          ],
+          "examples": [
+            {
+              "en": "What does this word mean?",
+              "zh": "这个词是什么意思？"
+            },
+            {
+              "en": "The sign means you must stop.",
+              "zh": "这个标志表示你必须停下。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "signify：也指表示意义，较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "mean 作动词可直接接意思或句子。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to intend to do something",
+      "zh_definition": "打算做某件事",
+      "usages": [
+        {
+          "usage_label": "打算",
+          "collocations": [
+            {
+              "phrase": "mean to call",
+              "translation": "本打算打电话"
+            },
+            {
+              "phrase": "mean no harm",
+              "translation": "没有恶意"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I meant to call you yesterday.",
+              "zh": "我昨天本想给你打电话。"
+            },
+            {
+              "en": "She did not mean to hurt him.",
+              "zh": "她并非有意伤害他。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "intend：也指打算，语气更正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "mean 的过去式是 meant。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "unkind or cruel to someone",
+      "zh_definition": "对人不友善或刻薄的",
+      "usages": [
+        {
+          "usage_label": "刻薄的",
+          "collocations": [
+            {
+              "phrase": "a mean comment",
+              "translation": "刻薄的话"
+            },
+            {
+              "phrase": "be mean to someone",
+              "translation": "对某人刻薄"
+            }
+          ],
+          "examples": [
+            {
+              "en": "That was a mean thing to say.",
+              "zh": "那样说话很刻薄。"
+            },
+            {
+              "en": "Do not be mean to your sister.",
+              "zh": "不要对你妹妹刻薄。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "unkind：也指不友善；mean 语气更强。"
+      ],
+      "antonyms": [
+        "kind：友善的。"
+      ],
+      "confusables": [
+        "mean to someone 表示对某人刻薄。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "the average found by dividing a total by a count",
+      "zh_definition": "把总数除以数量得到的平均数",
+      "usages": [
+        {
+          "usage_label": "平均数",
+          "collocations": [
+            {
+              "phrase": "calculate the mean",
+              "translation": "计算平均数"
+            },
+            {
+              "phrase": "the mean of two numbers",
+              "translation": "两个数的平均数"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The mean of four and six is five.",
+              "zh": "四和六的平均数是五。"
+            },
+            {
+              "en": "We calculated the mean for the class.",
+              "zh": "我们算出了全班的平均数。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "average：日常更常用；mean 在数学中常指算术平均数。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "数学义是名词，与刻薄义无关。"
+      ]
+    }
+  ]
+}

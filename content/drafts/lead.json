@@ -1,0 +1,212 @@
+{
+  "word": "lead",
+  "phonetic": "/liːd/ · /led/",
+  "syllables": [
+    "lead"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "引领",
+    "领先",
+    "领先优势",
+    "导致",
+    "铅"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to guide people to a place",
+      "zh_definition": "带领人们去某处",
+      "usages": [
+        {
+          "usage_label": "带领",
+          "collocations": [
+            {
+              "phrase": "lead the way",
+              "translation": "带路"
+            },
+            {
+              "phrase": "lead a group",
+              "translation": "带领一组人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She led us through the museum.",
+              "zh": "她带我们参观了博物馆。"
+            },
+            {
+              "en": "He led the group to the station.",
+              "zh": "他带大家去了车站。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "guide：侧重沿途指引；lead 可强调走在前面。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "动词 lead 读 /liːd/；过去式 led 读 /led/。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to be ahead of others in a race or competition",
+      "zh_definition": "在比赛或竞争中处于前列",
+      "usages": [
+        {
+          "usage_label": "领先",
+          "collocations": [
+            {
+              "phrase": "lead the race",
+              "translation": "在比赛中领先"
+            },
+            {
+              "phrase": "lead by two points",
+              "translation": "领先两分"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our team leads by two points.",
+              "zh": "我们队领先两分。"
+            },
+            {
+              "en": "She led the race until the final lap.",
+              "zh": "她在最后一圈前一直领先。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "be ahead：指处于前面；lead 还可带领先幅度。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "lead by 后接领先的分数或距离。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to cause a result or situation",
+      "zh_definition": "引起某种结果或情况",
+      "usages": [
+        {
+          "usage_label": "导致",
+          "collocations": [
+            {
+              "phrase": "lead to change",
+              "translation": "带来变化"
+            },
+            {
+              "phrase": "lead to problems",
+              "translation": "导致问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Heavy rain led to flooding.",
+              "zh": "大雨引发了洪水。"
+            },
+            {
+              "en": "One small error can lead to problems.",
+              "zh": "一个小错误可能造成问题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "cause：直接表示造成；lead to 强调发展导致结果。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "lead to 后接名词或动名词，不接动词原形。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a position ahead of others in a competition",
+      "zh_definition": "比赛或竞争中领先于别人的位置或优势",
+      "usages": [
+        {
+          "usage_label": "领先优势",
+          "collocations": [
+            {
+              "phrase": "take the lead",
+              "translation": "取得领先"
+            },
+            {
+              "phrase": "have a narrow lead",
+              "translation": "以微弱优势领先"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our team took the lead in the second half.",
+              "zh": "我们队在下半场取得了领先。"
+            },
+            {
+              "en": "She has a narrow lead over her rival.",
+              "zh": "她以微弱优势领先对手。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "advantage：也指优势；lead 特指在比赛或竞争中暂时领先的位置。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词“领先优势”与动词“带领”都读 /liːd/；金属“铅”读 /led/。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "a soft, heavy metal",
+      "zh_definition": "一种柔软而沉重的金属铅",
+      "usages": [
+        {
+          "usage_label": "铅",
+          "collocations": [
+            {
+              "phrase": "lead pipes",
+              "translation": "铅管"
+            },
+            {
+              "phrase": "lead paint",
+              "translation": "含铅油漆"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Old pipes sometimes contain lead.",
+              "zh": "旧水管有时含铅。"
+            },
+            {
+              "en": "Lead paint can be harmful.",
+              "zh": "含铅油漆可能有害。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无直接同义词：lead 在此是金属铅；metal 是上位词。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词“铅”读 /led/，与动词 /liːd/ 不同；铅笔芯并非金属铅。"
+      ]
+    }
+  ]
+}
