@@ -1,0 +1,97 @@
+{
+  "word": "environment",
+  "phonetic": "/ɪnˈvaɪrənmənt/",
+  "syllables": [
+    "en",
+    "vi",
+    "ron",
+    "ment"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "自然环境",
+    "周围条件"
+  ],
+  "etymology": "由 environ（围绕）加名词后缀 -ment 构成；environ 来自古法语，原意为“环绕”。",
+  "semantic_shift": "从“被周围事物包围的状态”，发展为影响人或事物的周围条件，后来也专指自然环境。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the natural world around people, plants, and animals",
+      "zh_definition": "人、植物和动物所处的自然世界",
+      "usages": [
+        {
+          "usage_label": "自然环境",
+          "collocations": [
+            {
+              "phrase": "protect the environment",
+              "translation": "保护环境"
+            },
+            {
+              "phrase": "damage the environment",
+              "translation": "破坏环境"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We should protect the environment.",
+              "zh": "我们应该保护环境。"
+            },
+            {
+              "en": "Plastic waste can damage the environment.",
+              "zh": "塑料垃圾可能破坏环境。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "nature：强调自然界本身；environment 常强调其受到人类活动的影响。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the environment 常指整体自然环境，通常用单数。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the conditions in which someone lives, learns, or works",
+      "zh_definition": "生活、学习或工作的周围条件",
+      "usages": [
+        {
+          "usage_label": "环境",
+          "collocations": [
+            {
+              "phrase": "a learning environment",
+              "translation": "学习环境"
+            },
+            {
+              "phrase": "a safe environment",
+              "translation": "安全的环境"
+            }
+          ],
+          "examples": [
+            {
+              "en": "A quiet environment helps me study.",
+              "zh": "安静的环境有助于我学习。"
+            },
+            {
+              "en": "Children need a safe environment to grow.",
+              "zh": "孩子们需要安全的成长环境。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "setting：指事情发生的场所或背景；environment 还包括氛围和条件。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义可说 an environment，指一个具体的学习或工作环境。"
+      ]
+    }
+  ]
+}

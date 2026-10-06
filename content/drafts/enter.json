@@ -1,0 +1,140 @@
+{
+  "word": "enter",
+  "phonetic": "/ˈentər/",
+  "syllables": [
+    "en",
+    "ter"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "进入",
+    "参加",
+    "输入"
+  ],
+  "etymology": "经古法语 entrer 进入英语，源于拉丁语 intrare，意为“进入”。",
+  "semantic_shift": "从走进一个地方，扩展到加入活动或比赛；“输入资料”则是把信息放进表格或系统。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to go or come into a place",
+      "zh_definition": "走进或来到某处",
+      "usages": [
+        {
+          "usage_label": "进入",
+          "collocations": [
+            {
+              "phrase": "enter a room",
+              "translation": "进入房间"
+            },
+            {
+              "phrase": "enter the building",
+              "translation": "进入大楼"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She entered the room quietly.",
+              "zh": "她悄悄走进房间。"
+            },
+            {
+              "en": "Visitors must enter through the front door.",
+              "zh": "访客必须从前门进入。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "go in：口语中表示走进去；enter 较正式。"
+      ],
+      "antonyms": [
+        "leave：离开。"
+      ],
+      "confusables": [
+        "enter 直接接地点，不说 enter into the room。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to take part in a competition or activity",
+      "zh_definition": "报名参加比赛或活动",
+      "usages": [
+        {
+          "usage_label": "参加",
+          "collocations": [
+            {
+              "phrase": "enter a competition",
+              "translation": "报名参加比赛"
+            },
+            {
+              "phrase": "enter the race",
+              "translation": "参加赛跑"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our class entered the singing competition.",
+              "zh": "我们班报名参加了歌唱比赛。"
+            },
+            {
+              "en": "He entered the race at the last minute.",
+              "zh": "他在最后一刻报名参加赛跑。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "join：泛指加入组织或活动；enter 常用于比赛报名。"
+      ],
+      "antonyms": [
+        "withdraw：退出比赛。"
+      ],
+      "confusables": [
+        "enter a competition 指报名参赛，不是走进比赛场地。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to put information into a computer or form",
+      "zh_definition": "把信息写入表格或系统",
+      "usages": [
+        {
+          "usage_label": "输入",
+          "collocations": [
+            {
+              "phrase": "enter a password",
+              "translation": "输入密码"
+            },
+            {
+              "phrase": "enter your name",
+              "translation": "填写姓名"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Enter your password to open the file.",
+              "zh": "输入密码后即可打开文件。"
+            },
+            {
+              "en": "Please enter your name on the form.",
+              "zh": "请在表格上填写你的姓名。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "type：强调按键输入；enter 强调把信息填进系统。"
+      ],
+      "antonyms": [
+        "delete：删除已输入的信息。"
+      ],
+      "confusables": [
+        "enter information into a system 中的 into 指进入系统。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "word": "experience",
+  "phonetic": "/ɪkˈspɪriəns/",
+  "syllables": [
+    "ex",
+    "pe",
+    "ri",
+    "ence"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "经验",
+    "经历",
+    "亲身经历"
+  ],
+  "etymology": "经古法语 esperience 来自拉丁语 experientia，原指尝试、检验及由此获得的知识。",
+  "semantic_shift": "亲身试过而获得的知识成为“经验”；亲身遇到的一件事成为“一段经历”，作动词时指亲自经历。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "knowledge or skill gained by doing something",
+      "zh_definition": "通过亲自做事获得的知识或技能",
+      "usages": [
+        {
+          "usage_label": "经验",
+          "collocations": [
+            {
+              "phrase": "work experience",
+              "translation": "工作经验"
+            },
+            {
+              "phrase": "gain experience",
+              "translation": "积累经验"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She has years of teaching experience.",
+              "zh": "她有多年的教学经验。"
+            },
+            {
+              "en": "You can gain experience by volunteering.",
+              "zh": "做志愿者可以积累经验。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "practice：强调练习过程；experience 强调实践后积累的所得。"
+      ],
+      "antonyms": [
+        "lack of experience：缺乏经验。"
+      ],
+      "confusables": [
+        "表示经验总量时，experience 通常不可数。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an event that happens to someone",
+      "zh_definition": "某人亲身遇到的一件事",
+      "usages": [
+        {
+          "usage_label": "经历",
+          "collocations": [
+            {
+              "phrase": "a new experience",
+              "translation": "一次新体验"
+            },
+            {
+              "phrase": "a pleasant experience",
+              "translation": "一次愉快的经历"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The trip was a wonderful experience.",
+              "zh": "这次旅行是一段美好的经历。"
+            },
+            {
+              "en": "Moving to a new city was a new experience for me.",
+              "zh": "搬到新城市对我是一次新体验。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "event：指发生的事件；experience 强调亲身感受。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "指一次具体经历时，experience 可数。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to have a situation happen to someone or something",
+      "zh_definition": "人或事物经历某种情况或变化",
+      "usages": [
+        {
+          "usage_label": "经历",
+          "collocations": [
+            {
+              "phrase": "experience difficulties",
+              "translation": "经历困难"
+            },
+            {
+              "phrase": "experience change",
+              "translation": "经历变化"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Many students experience stress before exams.",
+              "zh": "许多学生在考试前会感到压力。"
+            },
+            {
+              "en": "The city experienced rapid growth.",
+              "zh": "这座城市经历了快速发展。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "undergo：也指经历，常用于较重大的变化或过程。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "experience 作动词直接接经历的事，不接 of。"
+      ]
+    }
+  ]
+}

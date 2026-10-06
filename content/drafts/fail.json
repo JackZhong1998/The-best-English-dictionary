@@ -1,0 +1,139 @@
+{
+  "word": "fail",
+  "phonetic": "/feɪl/",
+  "syllables": [
+    "fail"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "未能做到",
+    "考试不及格",
+    "失灵"
+  ],
+  "etymology": "经古法语 falir 进入英语，意为“欠缺、未成功”；更早可追溯到拉丁语 fallere。",
+  "semantic_shift": "“未达到目标”用于做事或考试，“未达到应有状态”可用于机器失灵；这些用法都围绕未能如预期发挥作用。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to be unsuccessful in doing something",
+      "zh_definition": "没有成功做到某事",
+      "usages": [
+        {
+          "usage_label": "未能做到",
+          "collocations": [
+            {
+              "phrase": "fail to finish",
+              "translation": "未能完成"
+            },
+            {
+              "phrase": "fail to notice",
+              "translation": "未能注意到"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We failed to finish the work on time.",
+              "zh": "我们没能按时完成工作。"
+            },
+            {
+              "en": "I failed to notice the sign.",
+              "zh": "我没注意到那个标志。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "be unable to：表示无法做到；fail to 强调结果没有实现。"
+      ],
+      "antonyms": [
+        "succeed：成功做到。"
+      ],
+      "confusables": [
+        "fail to 后接动词原形。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to not pass a test or examination",
+      "zh_definition": "考试或测验没有及格",
+      "usages": [
+        {
+          "usage_label": "不及格",
+          "collocations": [
+            {
+              "phrase": "fail an exam",
+              "translation": "考试不及格"
+            },
+            {
+              "phrase": "fail a driving test",
+              "translation": "驾照考试没通过"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He failed the math exam.",
+              "zh": "他数学考试不及格。"
+            },
+            {
+              "en": "I failed my first driving test.",
+              "zh": "我第一次驾照考试没通过。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "not pass：也表示没通过；fail 更直接。"
+      ],
+      "antonyms": [
+        "pass：通过考试。"
+      ],
+      "confusables": [
+        "fail an exam 直接接考试名称；不要说 fail in an exam。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to stop working properly",
+      "zh_definition": "停止正常运转",
+      "usages": [
+        {
+          "usage_label": "失灵",
+          "collocations": [
+            {
+              "phrase": "the engine fails",
+              "translation": "发动机失灵"
+            },
+            {
+              "phrase": "the system fails",
+              "translation": "系统故障"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The engine failed during the trip.",
+              "zh": "旅途中发动机出了故障。"
+            },
+            {
+              "en": "The computer system failed this morning.",
+              "zh": "今天早上电脑系统出了故障。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "break down：机器或车辆出故障的常见说法。"
+      ],
+      "antonyms": [
+        "keep working：继续正常运转。"
+      ],
+      "confusables": [
+        "机器作主语时，fail 表示失灵，不是考试不及格。"
+      ]
+    }
+  ]
+}

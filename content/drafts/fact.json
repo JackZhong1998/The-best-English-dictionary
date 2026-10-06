@@ -1,0 +1,96 @@
+{
+  "word": "fact",
+  "phonetic": "/fækt/",
+  "syllables": [
+    "fact"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "事实",
+    "实际上"
+  ],
+  "etymology": "来自拉丁语 factum，原指“做过的事”，与 facere（做）有关。",
+  "semantic_shift": "从“已经发生的事”，发展为“可证实的真实情况”；in fact 因而可用来补充事实或纠正先前印象。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "something that is known to be true",
+      "zh_definition": "已经证实为真的事情",
+      "usages": [
+        {
+          "usage_label": "事实",
+          "collocations": [
+            {
+              "phrase": "check the facts",
+              "translation": "核实事实"
+            },
+            {
+              "phrase": "a well-known fact",
+              "translation": "众所周知的事实"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please check the facts before writing.",
+              "zh": "动笔前请核实事实。"
+            },
+            {
+              "en": "It is a fact that water freezes at zero degrees Celsius.",
+              "zh": "水在零摄氏度结冰是事实。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "truth：强调真实本身；fact 指一条可核实的事实。"
+      ],
+      "antonyms": [
+        "fiction：虚构的事情。"
+      ],
+      "confusables": [
+        "fact 是可数名词；a fact 指一条事实。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "used in the phrase in fact to add or correct information",
+      "zh_definition": "用于 in fact，补充或纠正实际情况",
+      "usages": [
+        {
+          "usage_label": "实际上",
+          "collocations": [
+            {
+              "phrase": "in fact",
+              "translation": "事实上"
+            },
+            {
+              "phrase": "in actual fact",
+              "translation": "实际上"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I thought she was tired; in fact, she was ill.",
+              "zh": "我以为她累了；其实她生病了。"
+            },
+            {
+              "en": "The test looked hard. In fact, it was easy.",
+              "zh": "考试看起来难，其实很简单。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "actually：也表示实际上；in fact 常用于纠正前面的印象。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "in fact 是固定短语，后面常加逗号。"
+      ]
+    }
+  ]
+}

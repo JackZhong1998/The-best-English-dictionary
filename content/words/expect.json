@@ -1,0 +1,97 @@
+{
+  "word": "expect",
+  "phonetic": "/ɪkˈspekt/",
+  "syllables": [
+    "ex",
+    "pect"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "预料",
+    "期望"
+  ],
+  "etymology": "源自拉丁语 expectare／exspectare，含“等待、盼望”之意；其中 spectare 与“看”有关。",
+  "semantic_shift": "从等待和盼望，扩展为认为某事将发生；对他人使用时，也可表示希望或要求对方照预期行动。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to think something will happen",
+      "zh_definition": "认为某事将会发生",
+      "usages": [
+        {
+          "usage_label": "预料",
+          "collocations": [
+            {
+              "phrase": "expect rain",
+              "translation": "预计会下雨"
+            },
+            {
+              "phrase": "expect a reply",
+              "translation": "预计会收到回复"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We expect rain tomorrow.",
+              "zh": "我们预计明天会下雨。"
+            },
+            {
+              "en": "I did not expect the train to be late.",
+              "zh": "我没料到火车会晚点。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "predict：强调根据证据作预测；expect 也可凭经验作判断。"
+      ],
+      "antonyms": [
+        "be surprised by：对某事感到意外。"
+      ],
+      "confusables": [
+        "expect something to happen 表示预计某事会发生。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to want or require someone to do something",
+      "zh_definition": "希望或要求某人做某事",
+      "usages": [
+        {
+          "usage_label": "期望",
+          "collocations": [
+            {
+              "phrase": "expect someone to help",
+              "translation": "期望某人帮忙"
+            },
+            {
+              "phrase": "expect everyone to arrive on time",
+              "translation": "要求大家准时到场"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My parents expect me to study hard.",
+              "zh": "父母希望我认真学习。"
+            },
+            {
+              "en": "The coach expects everyone to arrive on time.",
+              "zh": "教练要求所有人准时到达。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "hope：强调希望发生；expect 往往还带有认为应该如此的意思。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "expect someone to do something 后接人，再接动词不定式。"
+      ]
+    }
+  ]
+}

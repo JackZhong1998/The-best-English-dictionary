@@ -1,0 +1,142 @@
+{
+  "word": "enough",
+  "phonetic": "/ɪˈnʌf/",
+  "syllables": [
+    "e",
+    "nough"
+  ],
+  "pos": [
+    "det.",
+    "adv.",
+    "pron."
+  ],
+  "core_meanings": [
+    "足够的",
+    "足够地",
+    "足够的量"
+  ],
+  "etymology": "源自古英语 genog，意为“数量或程度足够”。",
+  "semantic_shift": "原有“达到所需数量”的意思，用于时间、食物等数量，也可指程度已经足够；作代词时独立表示“足够的量”。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "det.",
+      "en_definition": "as much or as many as needed",
+      "zh_definition": "数量达到需要的程度",
+      "usages": [
+        {
+          "usage_label": "足够的",
+          "collocations": [
+            {
+              "phrase": "enough time",
+              "translation": "足够的时间"
+            },
+            {
+              "phrase": "enough money",
+              "translation": "足够的钱"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We have enough time to walk there.",
+              "zh": "我们有足够的时间走过去。"
+            },
+            {
+              "en": "Is there enough food for everyone?",
+              "zh": "食物够每个人吃吗？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "sufficient：也指足够，语气较正式。"
+      ],
+      "antonyms": [
+        "not enough：不足的。"
+      ],
+      "confusables": [
+        "enough 放在名词前：enough time；不能说 time enough。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adv.",
+      "en_definition": "to the degree that is needed",
+      "zh_definition": "达到所需的程度",
+      "usages": [
+        {
+          "usage_label": "足够地",
+          "collocations": [
+            {
+              "phrase": "old enough",
+              "translation": "年龄足够大"
+            },
+            {
+              "phrase": "quickly enough",
+              "translation": "足够快地"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She is old enough to travel alone.",
+              "zh": "她已经大到可以独自旅行了。"
+            },
+            {
+              "en": "I did not run fast enough to catch the bus.",
+              "zh": "我跑得不够快，没赶上公交车。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "sufficiently：意思接近，但更正式。"
+      ],
+      "antonyms": [
+        "too：表示过度，与 enough 的足够程度不同。"
+      ],
+      "confusables": [
+        "enough 放在形容词或副词后：old enough、fast enough。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "pron.",
+      "en_definition": "the amount that is needed",
+      "zh_definition": "所需的数量",
+      "usages": [
+        {
+          "usage_label": "足够的量",
+          "collocations": [
+            {
+              "phrase": "have enough",
+              "translation": "有足够的量"
+            },
+            {
+              "phrase": "enough for everyone",
+              "translation": "够每个人用的量"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We have enough for lunch.",
+              "zh": "我们有足够的东西吃午饭。"
+            },
+            {
+              "en": "That is enough for today.",
+              "zh": "今天就到这里吧。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "plenty：表示充裕，往往超过刚好够用的程度。"
+      ],
+      "antonyms": [
+        "too little：太少。"
+      ],
+      "confusables": [
+        "enough 单独使用时，后面不用再接名词。"
+      ]
+    }
+  ]
+}

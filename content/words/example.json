@@ -1,0 +1,98 @@
+{
+  "word": "example",
+  "phonetic": "/ɪɡˈzæmpəl/",
+  "syllables": [
+    "ex",
+    "am",
+    "ple"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "例子",
+    "榜样"
+  ],
+  "etymology": "经古法语 essemple 来自拉丁语 exemplum，原指抽取出来的样本或范例。",
+  "semantic_shift": "从一类事物中选出的样本，可用来说明一般情况，也可成为供人仿效的榜样。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "something that shows what a group or idea is like",
+      "zh_definition": "用来说明一类事物或观点的具体事物",
+      "usages": [
+        {
+          "usage_label": "例子",
+          "collocations": [
+            {
+              "phrase": "give an example",
+              "translation": "举例"
+            },
+            {
+              "phrase": "for example",
+              "translation": "例如"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can you give me an example?",
+              "zh": "你能给我举个例子吗？"
+            },
+            {
+              "en": "Some fruits, for example oranges, contain vitamin C.",
+              "zh": "有些水果，例如橙子，含有维生素 C。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "instance：也指具体事例，语气稍正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "for example 用于引出例子；example 是可数名词。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a person or action that others should copy",
+      "zh_definition": "值得他人学习的人或做法",
+      "usages": [
+        {
+          "usage_label": "榜样",
+          "collocations": [
+            {
+              "phrase": "set an example",
+              "translation": "树立榜样"
+            },
+            {
+              "phrase": "a good example",
+              "translation": "好榜样"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Parents should set a good example.",
+              "zh": "父母应该树立好榜样。"
+            },
+            {
+              "en": "Her honesty is an example to us all.",
+              "zh": "她的诚实是我们大家的榜样。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "role model：通常指值得效仿的人；example 也可指具体行为。"
+      ],
+      "antonyms": [
+        "a bad example：坏榜样。"
+      ],
+      "confusables": [
+        "set an example 指用自己的行为示范，不是列举例句。"
+      ]
+    }
+  ]
+}

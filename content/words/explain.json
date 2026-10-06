@@ -1,0 +1,95 @@
+{
+  "word": "explain",
+  "phonetic": "/ɪkˈspleɪn/",
+  "syllables": [
+    "ex",
+    "plain"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "解释清楚",
+    "说明原因"
+  ],
+  "etymology": "源自拉丁语 explanare，原有“弄平、讲清楚”之意，与 planus（平坦的）有关。",
+  "semantic_shift": "核心意思是把不清楚的事讲明白；说明事情为何发生，是“解释”的一种具体用法。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to make something clear by giving details",
+      "zh_definition": "通过说明细节让人明白",
+      "usages": [
+        {
+          "usage_label": "解释清楚",
+          "collocations": [
+            {
+              "phrase": "explain a rule",
+              "translation": "解释规则"
+            },
+            {
+              "phrase": "explain how it works",
+              "translation": "解释它如何运作"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can you explain this word to me?",
+              "zh": "你能给我解释这个词吗？"
+            },
+            {
+              "en": "The teacher explained the rule again.",
+              "zh": "老师又解释了一遍规则。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "describe：描述事物是什么样；explain 还要让人理解。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "说 explain something to someone，不说 explain someone something。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to give the reason for something",
+      "zh_definition": "说明某事发生的原因",
+      "usages": [
+        {
+          "usage_label": "说明原因",
+          "collocations": [
+            {
+              "phrase": "explain the delay",
+              "translation": "解释延误原因"
+            },
+            {
+              "phrase": "explain why",
+              "translation": "说明为什么"
+            }
+          ],
+          "examples": [
+            {
+              "en": "How do you explain the delay?",
+              "zh": "你如何解释这次延误？"
+            },
+            {
+              "en": "She explained why she was late.",
+              "zh": "她解释了自己迟到的原因。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "account for：也指解释原因，语气较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "explain why 后接完整句子；explain the delay 后接名词。"
+      ]
+    }
+  ]
+}

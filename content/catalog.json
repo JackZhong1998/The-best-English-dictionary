@@ -783,12 +783,22 @@
       ],
       "status": "published",
       "basic_zh": "打破；中断；休息",
-      "content_version": 1,
+      "content_version": 2,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": "legacy_editorial",
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-lexicon-review-agent",
+          "decision": "accept",
+          "notes": "Independent editorial QA of definitions, meaning splits, example translations, collocations and IPA; set horizon and take advice wording corrected before acceptance.",
+          "sha256": "ec5cff3d176b0c5ee1c877fb3828deea4dd19048132ec2ff84c1f6ff2a087049",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1425,14 +1435,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "足够的；足够地",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent review of meaning boundaries, examples, translations, collocations, comparisons and etymology source notes; corrected candidate restaged.",
+          "sha256": "4cd91596fa0a2658c8f69f62a7f6cc680ca93e0aa85c47cae73cdc9ef5f71e7d",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1440,14 +1460,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "进入；参加",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent review of meaning boundaries, examples, translations, collocations, comparisons and etymology source notes; corrected candidate restaged.",
+          "sha256": "ab8ecd6d510a3d7864bdbee3724a2a2e90c6b2f473130f2d42e3d60cc9037a63",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1455,14 +1485,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "环境",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent review of meaning boundaries, examples, translations, collocations, comparisons and etymology source notes; corrected candidate restaged.",
+          "sha256": "fe0fc4450c570d8124ecfab79259d0d246e6ffeba8baebb61274ee19a0f90136",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1470,14 +1510,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "例子",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent review of meaning boundaries, examples, translations, collocations, comparisons and etymology source notes; corrected candidate restaged.",
+          "sha256": "b952d438c39411ede638b9d1bcd29d55685bb08287320b830b600daeb3e2c181",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1485,14 +1535,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "预期；期待",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent review of meaning boundaries, examples, translations, collocations, comparisons and etymology source notes; corrected candidate restaged.",
+          "sha256": "8c768a2da838561c0a376aa765d89dd01b892403f93ff07d3a144af038cffcf9",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1500,14 +1560,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "经验；经历",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent review of meaning boundaries, examples, translations, collocations, comparisons and etymology source notes; corrected candidate restaged.",
+          "sha256": "e0badfddeb51d93ee19a9930b3e8d37fed502c85495624fd2cc3b3cddb665a4c",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1515,14 +1585,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "解释；说明",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent review of meaning boundaries, examples, translations, collocations, comparisons and etymology source notes; corrected candidate restaged.",
+          "sha256": "f13019d2504f93e5dba2f5ba588df1e435966f21e91db9ae4f243ec40bd2c8db",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1530,14 +1610,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "表达；快递的",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent review of meaning boundaries, examples, translations, collocations, comparisons and etymology source notes; corrected candidate restaged.",
+          "sha256": "26d6a804e52d1f5edf81a85b1eb8176fec14841d9f527c25b6ca2c6e1ae6dfd2",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1545,14 +1635,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "事实",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent review of meaning boundaries, examples, translations, collocations, comparisons and etymology source notes; corrected candidate restaged.",
+          "sha256": "428171c67c344086682f30dcbad64870d484731502fa1c7a349ca0fdca425a5b",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1560,14 +1660,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "失败；未能做到",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent review of meaning boundaries, examples, translations, collocations, comparisons and etymology source notes; corrected candidate restaged.",
+          "sha256": "d25ac5ccd6cfff5e07af8c0aa46f54f60181ad162a9b338c8fd053d2dff2c9f5",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1622,12 +1732,22 @@
       ],
       "status": "published",
       "basic_zh": "得到；到达；变得；理解",
-      "content_version": 1,
+      "content_version": 2,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": "legacy_editorial",
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-lexicon-review-agent",
+          "decision": "accept",
+          "notes": "Independent editorial QA of definitions, meaning splits, example translations, collocations and IPA; set horizon and take advice wording corrected before acceptance.",
+          "sha256": "60518ed1ba22b59f53e8dd96188d02f559560eb152f14da31569e875b30202dc",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1982,12 +2102,22 @@
       ],
       "status": "published",
       "basic_zh": "跑；运行；经营；流动",
-      "content_version": 1,
+      "content_version": 2,
       "batch": 4,
       "source": "independent_editorial_selection_v1",
-      "author": "legacy_editorial",
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-lexicon-review-agent",
+          "decision": "accept",
+          "notes": "Independent editorial QA of definitions, meaning splits, example translations, collocations and IPA; set horizon and take advice wording corrected before acceptance.",
+          "sha256": "f579936442c3baeb23b466eebb2d573d584704d19a85bb66a4bc751b5d72d6c4",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1997,12 +2127,22 @@
       ],
       "status": "published",
       "basic_zh": "放置；设定；一套；凝固",
-      "content_version": 1,
+      "content_version": 2,
       "batch": 4,
       "source": "independent_editorial_selection_v1",
-      "author": "legacy_editorial",
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent QA found wording issues; root corrected candidate, verified corrections and accepted the final content. See content/EDITORIAL.md.",
+          "sha256": "5bbf4a7b1c5cba0fbbc135d1e0107b17b85a72a730855dd159c53b7dbde424ea",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -2012,12 +2152,22 @@
       ],
       "status": "published",
       "basic_zh": "拿；乘坐；花费；接受",
-      "content_version": 1,
+      "content_version": 2,
       "batch": 4,
       "source": "independent_editorial_selection_v1",
-      "author": "legacy_editorial",
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent QA found wording issues; root corrected candidate, verified corrections and accepted the final content. See content/EDITORIAL.md.",
+          "sha256": "8ae1afe691c6051f51a1e9e582b2cdd09253a7a0bb36804a8f30c25ebda02e01",
+          "issue_count": 2,
+          "correction_count": 2
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {

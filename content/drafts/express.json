@@ -1,0 +1,100 @@
+{
+  "word": "express",
+  "phonetic": "/ɪkˈspres/",
+  "syllables": [
+    "ex",
+    "press"
+  ],
+  "pos": [
+    "v.",
+    "adj."
+  ],
+  "core_meanings": [
+    "表达",
+    "特快的"
+  ],
+  "etymology": "动词经古法语来自拉丁语 exprimere，字面意为“压出”，后来用于“表达”；形容词也与其过去分词 expressus 有关。",
+  "semantic_shift": "“表达”是把想法或感受明确呈现出来；形容词有“明确指定”之意，后来也用于专门、快速的运输服务。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to show a thought or feeling in words or actions",
+      "zh_definition": "用语言或行动表现想法、感受",
+      "usages": [
+        {
+          "usage_label": "表达",
+          "collocations": [
+            {
+              "phrase": "express an opinion",
+              "translation": "表达意见"
+            },
+            {
+              "phrase": "express thanks",
+              "translation": "表达感谢"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She expressed her opinion clearly.",
+              "zh": "她清楚地表达了自己的意见。"
+            },
+            {
+              "en": "He expressed his thanks in a letter.",
+              "zh": "他在信中表达了谢意。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "say：泛指说出；express 强调把内心想法或感受传达出来。"
+      ],
+      "antonyms": [
+        "hide one's feelings：隐藏感受。"
+      ],
+      "confusables": [
+        "express 作动词后直接接 opinion、thanks 等宾语。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "traveling or delivered faster than usual",
+      "zh_definition": "比普通服务更快的",
+      "usages": [
+        {
+          "usage_label": "特快的",
+          "collocations": [
+            {
+              "phrase": "an express train",
+              "translation": "特快列车"
+            },
+            {
+              "phrase": "express delivery",
+              "translation": "快递服务"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We took the express train to the city.",
+              "zh": "我们乘特快列车进了城。"
+            },
+            {
+              "en": "Express delivery costs more.",
+              "zh": "快递服务收费更高。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "fast：泛指速度快；express 常指有专门安排的快速服务。"
+      ],
+      "antonyms": [
+        "standard delivery：普通配送。"
+      ],
+      "confusables": [
+        "express 在这里是形容词，不是“表达”的意思。"
+      ]
+    }
+  ]
+}

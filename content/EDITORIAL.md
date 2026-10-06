@@ -4,7 +4,7 @@
 
 `pilot_cet4.tsv` 是本项目独立挑选的 100 个常见英语词头与新写的基础中文提示，不是官方四级词表，也没有复制其他词典的释义、例句或选词顺序。`CET4-level candidate` 只表示计划面向四级程度读者；发布前仍需按教学范围核对。`catalog.json` 中的 `source_file` 指向可追溯的词表文件。
 
-原有 30 个完整词条标为 `published`，但 `review_records` 为空：这表示此前没有独立复核记录，不把它们冒充为已复核。新写的 50 个词条完成独立复核后也已发布；目前另有 20 个词只有 `basic_zh`，标为 `basic`，不能展示不存在的详细释义或播放按钮。
+原有 30 个完整词条标为 `published`，但 `review_records` 为空：这表示此前没有独立复核记录，不把它们冒充为已复核。新写的 60 个词条完成独立复核后也已发布；目前另有 10 个词只有 `basic_zh`，标为 `basic`，不能展示不存在的详细释义或播放按钮。
 
 ## 批次和复核
 
@@ -38,3 +38,9 @@ python3 scripts/content_pipeline.py publish ability
 第四组十词的词源事实参考 Etymonline 的 [build](https://www.etymonline.com/word/build)、[business](https://www.etymonline.com/word/business)、[cause](https://www.etymonline.com/word/cause)、[choose](https://www.etymonline.com/word/choose)、[collect](https://www.etymonline.com/word/collect)、[common](https://www.etymonline.com/word/common)、[compare](https://www.etymonline.com/word/compare)、[complete](https://www.etymonline.com/word/complete)、[concern](https://www.etymonline.com/word/concern)、[consider](https://www.etymonline.com/word/consider)。制词 Agent 写候选稿，未参与撰写的主 Agent 逐词复核并修订两处表达；复核记录在 `catalog.json`。
 
 第五组十词的词源事实参考 Etymonline 的 [contain](https://www.etymonline.com/word/contain)、[continue](https://www.etymonline.com/word/continue)、[control](https://www.etymonline.com/word/control)、[create](https://www.etymonline.com/word/create)、[culture](https://www.etymonline.com/word/culture)、[decide](https://www.etymonline.com/word/decide)、[develop](https://www.etymonline.com/word/develop)、[difference](https://www.etymonline.com/word/difference)、[effect](https://www.etymonline.com/word/effect)、[effort](https://www.etymonline.com/word/effort)。全部由另一位 Agent 逐词复核，发现的表达问题修订后才发布。预生成音频的新鲜度由 `audio_manifest.json` 和构建校验共同检查。
+
+本组十词的词源与词义迁移说明核对了 Etymonline 的 [enough](https://www.etymonline.com/word/enough)、[enter](https://www.etymonline.com/word/enter)、[environment](https://www.etymonline.com/word/environment)、[example](https://www.etymonline.com/word/example)、[expect](https://www.etymonline.com/word/expect)、[experience](https://www.etymonline.com/word/experience)、[explain](https://www.etymonline.com/word/explain)、[express](https://www.etymonline.com/word/express)、[fact](https://www.etymonline.com/word/fact)、[fail](https://www.etymonline.com/word/fail) 词条；中文说明由本项目独立撰写。
+
+第六组十词的词源事实参考 Etymonline 的 [enough](https://www.etymonline.com/word/enough)、[enter](https://www.etymonline.com/word/enter)、[environment](https://www.etymonline.com/word/environment)、[example](https://www.etymonline.com/word/example)、[expect](https://www.etymonline.com/word/expect)、[experience](https://www.etymonline.com/word/experience)、[explain](https://www.etymonline.com/word/explain)、[express](https://www.etymonline.com/word/express)、[fact](https://www.etymonline.com/word/fact)、[fail](https://www.etymonline.com/word/fail)。主 Agent 对作者候选稿独立检查义项、例句、中译及辨析后发布。
+
+原有高频词的 `break`、`get`、`run`、`set`、`take` 已完成独立复核修订，五词均升至内容版本 2。`set` 的日月落下定义和 `take someone’s advice` 的搭配、辨析在复核后修正，最终稿由主 Agent 再检查。
