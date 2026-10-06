@@ -1,0 +1,212 @@
+{
+  "word": "check",
+  "phonetic": "/tʃek/",
+  "syllables": [
+    "check"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "检查",
+    "核实",
+    "支票",
+    "餐厅账单"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to look at something carefully to find problems",
+      "zh_definition": "仔细查看以发现问题",
+      "usages": [
+        {
+          "usage_label": "检查",
+          "collocations": [
+            {
+              "phrase": "check the brakes",
+              "translation": "检查刹车"
+            },
+            {
+              "phrase": "check for mistakes",
+              "translation": "检查错误"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please check your answers.",
+              "zh": "请检查你的答案。"
+            },
+            {
+              "en": "The mechanic checked the brakes.",
+              "zh": "修理工检查了刹车。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "inspect：较正式，常指细致检查。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "check for 后接要寻找的问题。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to find out whether something is true or available",
+      "zh_definition": "核实事实或可用情况",
+      "usages": [
+        {
+          "usage_label": "核实",
+          "collocations": [
+            {
+              "phrase": "check the time",
+              "translation": "核对时间"
+            },
+            {
+              "phrase": "check if the shop is open",
+              "translation": "确认商店是否营业"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I checked the train time online.",
+              "zh": "我在网上核对了火车时间。"
+            },
+            {
+              "en": "Check if the door is locked.",
+              "zh": "确认门是否锁好了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "verify：也指核实，语气更正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "check if 后接完整句子。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "an act of looking carefully for problems or facts",
+      "zh_definition": "为发现问题或核实情况而进行的检查",
+      "usages": [
+        {
+          "usage_label": "检查",
+          "collocations": [
+            {
+              "phrase": "a final check",
+              "translation": "最后一次检查"
+            },
+            {
+              "phrase": "a quick check",
+              "translation": "快速核对"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We did a final check before leaving.",
+              "zh": "离开前我们做了最后一次检查。"
+            },
+            {
+              "en": "A quick check found a missing page.",
+              "zh": "快速核对发现少了一页。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "inspection：也指检查，通常更正式或更彻底。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a check of something 指对某物进行的一次检查。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a written order to a bank to pay money",
+      "zh_definition": "要求银行付款的支票",
+      "usages": [
+        {
+          "usage_label": "支票",
+          "collocations": [
+            {
+              "phrase": "write a check",
+              "translation": "开支票"
+            },
+            {
+              "phrase": "pay by check",
+              "translation": "用支票付款"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He wrote a check for the rent.",
+              "zh": "他开了一张支票付房租。"
+            },
+            {
+              "en": "Can I pay by check?",
+              "zh": "我可以用支票付款吗？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：check 在美式英语中指特定的银行支付工具。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "cheque 是同一个词的英式拼写，不是另一个近义词。",
+        "payment order 泛指付款指令，范围比 check 更广。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "the bill for food in a restaurant",
+      "zh_definition": "餐馆的消费账单",
+      "usages": [
+        {
+          "usage_label": "餐厅账单",
+          "collocations": [
+            {
+              "phrase": "ask for the check",
+              "translation": "要账单"
+            },
+            {
+              "phrase": "split the check",
+              "translation": "分摊餐费"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Could we have the check, please?",
+              "zh": "请给我们账单，好吗？"
+            },
+            {
+              "en": "We split the check after dinner.",
+              "zh": "晚饭后我们分摊了餐费。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "bill：也指账单；美式餐厅常说 check。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这里的 check 不是银行支票。"
+      ]
+    }
+  ]
+}

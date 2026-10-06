@@ -1,0 +1,96 @@
+{
+  "word": "detail",
+  "phonetic": "/dɪˈteɪl/",
+  "syllables": [
+    "de",
+    "tail"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "细节",
+    "详述"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a small fact or part of something",
+      "zh_definition": "整体中的一项具体细节",
+      "usages": [
+        {
+          "usage_label": "细节",
+          "collocations": [
+            {
+              "phrase": "small details",
+              "translation": "小细节"
+            },
+            {
+              "phrase": "a detail of the plan",
+              "translation": "计划的一个细节"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I forgot one important detail.",
+              "zh": "我忘了一个重要细节。"
+            },
+            {
+              "en": "Check every detail before you sign.",
+              "zh": "签字前核对每个细节。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "particular：也可指细节，较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "in detail 表示详细地。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to describe all the facts or parts",
+      "zh_definition": "把事实或部分详细列出",
+      "usages": [
+        {
+          "usage_label": "详述",
+          "collocations": [
+            {
+              "phrase": "detail a plan",
+              "translation": "详述计划"
+            },
+            {
+              "phrase": "detail the costs",
+              "translation": "列明费用"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The report details the costs.",
+              "zh": "报告详细列明了费用。"
+            },
+            {
+              "en": "She detailed the steps in an email.",
+              "zh": "她在邮件中详述了各个步骤。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "describe：泛指描述；detail 强调逐项说明。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "本词条名词和动词均采用美音 /dɪˈteɪl/；美音另有首音节重读变体。"
+      ]
+    }
+  ]
+}

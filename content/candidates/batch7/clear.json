@@ -1,0 +1,217 @@
+{
+  "word": "clear",
+  "phonetic": "/klɪr/",
+  "syllables": [
+    "clear"
+  ],
+  "pos": [
+    "adj.",
+    "v."
+  ],
+  "core_meanings": [
+    "清楚的",
+    "畅通的",
+    "清理",
+    "澄清"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "easy to understand or see",
+      "zh_definition": "容易理解或看清的",
+      "usages": [
+        {
+          "usage_label": "清楚的",
+          "collocations": [
+            {
+              "phrase": "a clear explanation",
+              "translation": "清楚的解释"
+            },
+            {
+              "phrase": "a clear view",
+              "translation": "清晰的视野"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her explanation was clear.",
+              "zh": "她的解释很清楚。"
+            },
+            {
+              "en": "We had a clear view of the lake.",
+              "zh": "我们能清楚地看见湖。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "plain：也可指清楚明白；clear 更常用。"
+      ],
+      "antonyms": [
+        "unclear：不清楚的。"
+      ],
+      "confusables": [
+        "clear 可指意思清楚，也可指视野清晰。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "free from things that block the way",
+      "zh_definition": "没有障碍物阻挡的",
+      "usages": [
+        {
+          "usage_label": "畅通的",
+          "collocations": [
+            {
+              "phrase": "a clear path",
+              "translation": "畅通的小路"
+            },
+            {
+              "phrase": "keep the door clear",
+              "translation": "保持门口畅通"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The path is clear now.",
+              "zh": "小路现在畅通了。"
+            },
+            {
+              "en": "Keep the exit clear.",
+              "zh": "不要堵住出口。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "open：也可指道路畅通；clear 强调无障碍。"
+      ],
+      "antonyms": [
+        "blocked：被堵住的。"
+      ],
+      "confusables": [
+        "keep clear of 表示避开，不等于保持清楚。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to remove things from a place",
+      "zh_definition": "从某处移走东西",
+      "usages": [
+        {
+          "usage_label": "清理",
+          "collocations": [
+            {
+              "phrase": "clear the table",
+              "translation": "收拾桌子"
+            },
+            {
+              "phrase": "clear the snow",
+              "translation": "清除积雪"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please clear the table after dinner.",
+              "zh": "饭后请收拾桌子。"
+            },
+            {
+              "en": "Workers cleared the snow from the road.",
+              "zh": "工人清除了路上的积雪。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "remove：泛指移走；clear 常指清空一处地方。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "clear A from B 是把 A 从 B 处清走。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to make a confusing matter easier to understand",
+      "zh_definition": "使疑惑或误解变得清楚",
+      "usages": [
+        {
+          "usage_label": "澄清",
+          "collocations": [
+            {
+              "phrase": "clear up confusion",
+              "translation": "消除困惑"
+            },
+            {
+              "phrase": "clear up a misunderstanding",
+              "translation": "澄清误会"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her explanation cleared up my confusion.",
+              "zh": "她的解释消除了我的困惑。"
+            },
+            {
+              "en": "We talked and cleared up the misunderstanding.",
+              "zh": "我们谈了谈，澄清了误会。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "clarify：也指澄清；clear up 较口语化。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "clear up confusion 指消除疑惑，不是清理物品。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to become free of clouds",
+      "zh_definition": "天空的云散去",
+      "usages": [
+        {
+          "usage_label": "放晴",
+          "collocations": [
+            {
+              "phrase": "the sky clears",
+              "translation": "天空放晴"
+            },
+            {
+              "phrase": "clear by noon",
+              "translation": "中午前放晴"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The sky cleared after lunch.",
+              "zh": "午饭后天放晴了。"
+            },
+            {
+              "en": "It should clear by noon.",
+              "zh": "中午前应该会放晴。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "brighten：也可指天气转晴，强调变亮。"
+      ],
+      "antonyms": [
+        "cloud over：阴下来。"
+      ],
+      "confusables": [
+        "天气作主语时 clear 可不接宾语。"
+      ]
+    }
+  ]
+}

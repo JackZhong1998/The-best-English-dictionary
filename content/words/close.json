@@ -1,0 +1,180 @@
+{
+  "word": "close",
+  "phonetic": "/kloʊz/ · /kloʊs/",
+  "syllables": [
+    "close"
+  ],
+  "pos": [
+    "v.",
+    "adj."
+  ],
+  "core_meanings": [
+    "关上",
+    "靠近的",
+    "亲密的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move a door or opening shut",
+      "zh_definition": "把门或开口关上",
+      "usages": [
+        {
+          "usage_label": "关闭",
+          "collocations": [
+            {
+              "phrase": "close the door",
+              "translation": "关门"
+            },
+            {
+              "phrase": "close a window",
+              "translation": "关窗"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please close the door quietly.",
+              "zh": "请轻轻关门。"
+            },
+            {
+              "en": "He closed the window before bed.",
+              "zh": "睡前他关上了窗户。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "shut：同样指关上；close 语气稍中性。"
+      ],
+      "antonyms": [
+        "open：打开。"
+      ],
+      "confusables": [
+        "动词 close 读 /kloʊz/，末尾是浊音。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to stop operating or being open",
+      "zh_definition": "停止营业或开放",
+      "usages": [
+        {
+          "usage_label": "停业",
+          "collocations": [
+            {
+              "phrase": "close at six",
+              "translation": "六点关门"
+            },
+            {
+              "phrase": "close a store",
+              "translation": "关闭一家商店"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The library closes at six.",
+              "zh": "图书馆六点关门。"
+            },
+            {
+              "en": "They closed the store last year.",
+              "zh": "他们去年关闭了那家商店。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "shut down：常指完全停止运营。"
+      ],
+      "antonyms": [
+        "open：开业。"
+      ],
+      "confusables": [
+        "商店作主语时 close 可表示停止营业。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "near in distance or time",
+      "zh_definition": "距离或时间上很近的",
+      "usages": [
+        {
+          "usage_label": "接近的",
+          "collocations": [
+            {
+              "phrase": "close to home",
+              "translation": "离家近"
+            },
+            {
+              "phrase": "close to the end",
+              "translation": "接近终点"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The station is close to our house.",
+              "zh": "车站离我们家很近。"
+            },
+            {
+              "en": "We are close to the end of the book.",
+              "zh": "我们快读到这本书的结尾了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "near：也表示近；close 常接 to。"
+      ],
+      "antonyms": [
+        "far away：距离很远的。"
+      ],
+      "confusables": [
+        "形容词 close 读 /kloʊs/，末尾是清音。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "adj.",
+      "en_definition": "having a strong personal relationship",
+      "zh_definition": "关系亲密的",
+      "usages": [
+        {
+          "usage_label": "亲密的",
+          "collocations": [
+            {
+              "phrase": "a close friend",
+              "translation": "亲密的朋友"
+            },
+            {
+              "phrase": "a close family",
+              "translation": "关系亲密的家庭"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Mia is a close friend of mine.",
+              "zh": "米娅是我的一位密友。"
+            },
+            {
+              "en": "The two sisters are very close.",
+              "zh": "这对姐妹关系很亲密。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "intimate：也可指亲密，程度通常更深。"
+      ],
+      "antonyms": [
+        "distant：关系疏远的。"
+      ],
+      "confusables": [
+        "此义 close 仍读 /kloʊs/。"
+      ]
+    }
+  ]
+}

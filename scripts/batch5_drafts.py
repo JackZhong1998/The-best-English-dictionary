@@ -108,6 +108,8 @@ ENTRIES.update({
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
+    if any(OUT.glob("*.json")):
+        raise SystemExit("Batch-5 candidates have reviewed edits; refusing to overwrite them")
     for word, entry in ENTRIES.items():
         (OUT / f"{word}.json").write_text(json.dumps(entry, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {len(ENTRIES)} batch-5 candidates")

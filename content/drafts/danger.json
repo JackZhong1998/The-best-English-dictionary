@@ -1,0 +1,97 @@
+{
+  "word": "danger",
+  "phonetic": "/ˈdeɪndʒər/",
+  "syllables": [
+    "dan",
+    "ger"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "危险",
+    "威胁"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the possibility of being hurt",
+      "zh_definition": "受到伤害的可能性",
+      "usages": [
+        {
+          "usage_label": "危险",
+          "collocations": [
+            {
+              "phrase": "in danger",
+              "translation": "处于危险中"
+            },
+            {
+              "phrase": "out of danger",
+              "translation": "脱离危险"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The hikers were in danger.",
+              "zh": "徒步者处于危险中。"
+            },
+            {
+              "en": "The child is out of danger now.",
+              "zh": "孩子现在脱离危险了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "risk：强调损失或伤害发生的可能性；danger 更直接指危险处境。"
+      ],
+      "antonyms": [
+        "safety：安全。"
+      ],
+      "confusables": [
+        "in danger 不加冠词。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a person or thing that may cause harm",
+      "zh_definition": "可能造成伤害的人或事物",
+      "usages": [
+        {
+          "usage_label": "危险因素",
+          "collocations": [
+            {
+              "phrase": "a danger to children",
+              "translation": "对儿童的威胁"
+            },
+            {
+              "phrase": "a hidden danger",
+              "translation": "隐患"
+            }
+          ],
+          "examples": [
+            {
+              "en": "That broken step is a danger to visitors.",
+              "zh": "那级损坏的台阶对访客是个危险。"
+            },
+            {
+              "en": "Ice on the road is a hidden danger.",
+              "zh": "路上的冰是一个隐患。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "threat：可指具体威胁；danger 也可指无意造成危险的事物。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a danger to 后接可能受伤害的对象。"
+      ]
+    }
+  ]
+}

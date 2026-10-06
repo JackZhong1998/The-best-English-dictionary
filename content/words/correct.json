@@ -1,0 +1,98 @@
+{
+  "word": "correct",
+  "phonetic": "/kəˈrekt/",
+  "syllables": [
+    "cor",
+    "rect"
+  ],
+  "pos": [
+    "adj.",
+    "v."
+  ],
+  "core_meanings": [
+    "正确的",
+    "改正"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "right and free from mistakes",
+      "zh_definition": "正确且没有错误的",
+      "usages": [
+        {
+          "usage_label": "正确的",
+          "collocations": [
+            {
+              "phrase": "the correct answer",
+              "translation": "正确答案"
+            },
+            {
+              "phrase": "a correct address",
+              "translation": "准确地址"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Your answer is correct.",
+              "zh": "你的答案是正确的。"
+            },
+            {
+              "en": "Please give me the correct address.",
+              "zh": "请给我准确的地址。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "right：日常常用；correct 更强调符合事实或规则。"
+      ],
+      "antonyms": [
+        "incorrect：不正确的。"
+      ],
+      "confusables": [
+        "correct 作形容词时重音在第二音节。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to find and remove a mistake",
+      "zh_definition": "找出并改掉错误",
+      "usages": [
+        {
+          "usage_label": "纠正",
+          "collocations": [
+            {
+              "phrase": "correct a mistake",
+              "translation": "改正错误"
+            },
+            {
+              "phrase": "correct an answer",
+              "translation": "订正答案"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The teacher corrected my mistake.",
+              "zh": "老师纠正了我的错误。"
+            },
+            {
+              "en": "Please correct the date on the form.",
+              "zh": "请改正表格上的日期。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "fix：泛指修好；correct 特指纠正错误。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "correct 可直接接要修改的内容。"
+      ]
+    }
+  ]
+}

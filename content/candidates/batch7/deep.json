@@ -1,0 +1,138 @@
+{
+  "word": "deep",
+  "phonetic": "/diːp/",
+  "syllables": [
+    "deep"
+  ],
+  "pos": [
+    "adj.",
+    "adv."
+  ],
+  "core_meanings": [
+    "深的",
+    "深刻的",
+    "深入地"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "going far down from a surface",
+      "zh_definition": "从表面向下延伸很远的",
+      "usages": [
+        {
+          "usage_label": "深的",
+          "collocations": [
+            {
+              "phrase": "deep water",
+              "translation": "深水"
+            },
+            {
+              "phrase": "a deep hole",
+              "translation": "深洞"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The water is deep here.",
+              "zh": "这里的水很深。"
+            },
+            {
+              "en": "They dug a deep hole.",
+              "zh": "他们挖了一个深洞。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "bottomless：形容深得看不见底，程度比 deep 强。"
+      ],
+      "antonyms": [
+        "shallow：浅的。"
+      ],
+      "confusables": [
+        "deep 修饰水、洞等实际深度。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "strong or serious in feeling or thought",
+      "zh_definition": "感情强烈或思考深入的",
+      "usages": [
+        {
+          "usage_label": "深刻的",
+          "collocations": [
+            {
+              "phrase": "deep love",
+              "translation": "深厚的爱"
+            },
+            {
+              "phrase": "a deep question",
+              "translation": "深刻的问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She felt deep sadness after the loss.",
+              "zh": "失去亲人后，她感到深深的悲伤。"
+            },
+            {
+              "en": "That is a deep question.",
+              "zh": "那是一个值得深入思考的问题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "profound：也指深刻，语气更正式。"
+      ],
+      "antonyms": [
+        "superficial：肤浅的。"
+      ],
+      "confusables": [
+        "此义是抽象深度，不是物理深度。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adv.",
+      "en_definition": "far below the surface or far into something",
+      "zh_definition": "向下或向内达到很深处",
+      "usages": [
+        {
+          "usage_label": "深入地",
+          "collocations": [
+            {
+              "phrase": "dig deep",
+              "translation": "挖得很深"
+            },
+            {
+              "phrase": "deep in the forest",
+              "translation": "在森林深处"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The roots go deep into the soil.",
+              "zh": "树根深入土壤。"
+            },
+            {
+              "en": "They walked deep into the forest.",
+              "zh": "他们走进森林深处。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "far：泛指距离远；deep 特指向内或向下。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "deep 可作副词；deeply 多用于抽象程度。"
+      ]
+    }
+  ]
+}

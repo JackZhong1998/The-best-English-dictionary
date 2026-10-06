@@ -1,0 +1,134 @@
+{
+  "word": "design",
+  "phonetic": "/dɪˈzaɪn/",
+  "syllables": [
+    "de",
+    "sign"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "设计",
+    "图案"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to plan how something will look or work",
+      "zh_definition": "规划某物的外观或功能",
+      "usages": [
+        {
+          "usage_label": "设计",
+          "collocations": [
+            {
+              "phrase": "design a building",
+              "translation": "设计建筑"
+            },
+            {
+              "phrase": "design a website",
+              "translation": "设计网站"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She designed the new website.",
+              "zh": "她设计了新网站。"
+            },
+            {
+              "en": "They designed a bridge for the town.",
+              "zh": "他们为镇上设计了一座桥。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "plan：泛指规划；design 强调结构或外观。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "design 可用于建筑、产品和服务。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a plan for how something will look or work",
+      "zh_definition": "展示某物外观或功能的设计方案",
+      "usages": [
+        {
+          "usage_label": "设计方案",
+          "collocations": [
+            {
+              "phrase": "a new design",
+              "translation": "新设计"
+            },
+            {
+              "phrase": "the design of a house",
+              "translation": "房屋设计"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I like the design of this chair.",
+              "zh": "我喜欢这把椅子的设计。"
+            },
+            {
+              "en": "The team chose a simple design.",
+              "zh": "团队选择了一个简洁的设计方案。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "plan：可指行动安排；design 更重外观和结构。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "design 作名词可指方案或成品的设计。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a decorative pattern",
+      "zh_definition": "装饰性的线条或图形",
+      "usages": [
+        {
+          "usage_label": "图案",
+          "collocations": [
+            {
+              "phrase": "a flower design",
+              "translation": "花卉图案"
+            },
+            {
+              "phrase": "a design on a shirt",
+              "translation": "衬衫上的图案"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The shirt has a flower design.",
+              "zh": "这件衬衫上有花卉图案。"
+            },
+            {
+              "en": "She drew a design on the card.",
+              "zh": "她在卡片上画了一个图案。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pattern：泛指重复的图案；design 可以是单个图形。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义不是设计工作过程。"
+      ]
+    }
+  ]
+}

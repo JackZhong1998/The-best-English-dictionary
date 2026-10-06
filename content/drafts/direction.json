@@ -1,0 +1,135 @@
+{
+  "word": "direction",
+  "phonetic": "/dəˈrekʃən/",
+  "syllables": [
+    "di",
+    "rec",
+    "tion"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "方向",
+    "指示",
+    "管理"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the way something points or moves",
+      "zh_definition": "某物指向或移动的方位",
+      "usages": [
+        {
+          "usage_label": "方向",
+          "collocations": [
+            {
+              "phrase": "change direction",
+              "translation": "改变方向"
+            },
+            {
+              "phrase": "the right direction",
+              "translation": "正确方向"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The wind changed direction.",
+              "zh": "风改变了方向。"
+            },
+            {
+              "en": "We walked in the wrong direction.",
+              "zh": "我们走错了方向。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "way：泛指路或方式；direction 特指方位。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "in the direction of 后接目标地点。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "instructions on how to do something",
+      "zh_definition": "说明如何做事的指示",
+      "usages": [
+        {
+          "usage_label": "指示",
+          "collocations": [
+            {
+              "phrase": "follow the directions",
+              "translation": "按说明操作"
+            },
+            {
+              "phrase": "give directions",
+              "translation": "指路"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Follow the directions on the box.",
+              "zh": "按照盒子上的说明操作。"
+            },
+            {
+              "en": "A woman gave us directions to the station.",
+              "zh": "一位女士给我们指了去车站的路。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "instructions：也指操作说明；directions 还可指路线指引。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "表示说明或路线时常用复数 directions。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "control or guidance of an activity",
+      "zh_definition": "对活动的指导或管理",
+      "usages": [
+        {
+          "usage_label": "指导",
+          "collocations": [
+            {
+              "phrase": "under her direction",
+              "translation": "在她的指导下"
+            },
+            {
+              "phrase": "provide direction",
+              "translation": "提供指导"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The play was staged under her direction.",
+              "zh": "这部戏是在她的指导下上演的。"
+            },
+            {
+              "en": "The team needs clear direction.",
+              "zh": "团队需要明确的指导。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "guidance：也指指导；direction 更强调引领行动。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义通常不可数。"
+      ]
+    }
+  ]
+}

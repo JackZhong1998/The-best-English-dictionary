@@ -1,0 +1,96 @@
+{
+  "word": "discover",
+  "phonetic": "/dɪˈskʌvər/",
+  "syllables": [
+    "dis",
+    "cov",
+    "er"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "发现",
+    "发觉"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to find something that was not known before",
+      "zh_definition": "发现先前不为人知的事物",
+      "usages": [
+        {
+          "usage_label": "发现",
+          "collocations": [
+            {
+              "phrase": "discover a new planet",
+              "translation": "发现一颗新行星"
+            },
+            {
+              "phrase": "discover a species",
+              "translation": "发现一个物种"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Scientists discovered a new species.",
+              "zh": "科学家发现了一个新物种。"
+            },
+            {
+              "en": "She discovered a small cave.",
+              "zh": "她发现了一个小洞穴。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "find：泛指找到；discover 强调之前未知。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "发现新事物常用 discover。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to realize a fact you did not know",
+      "zh_definition": "发觉此前不知道的事实",
+      "usages": [
+        {
+          "usage_label": "发觉",
+          "collocations": [
+            {
+              "phrase": "discover the truth",
+              "translation": "发现真相"
+            },
+            {
+              "phrase": "discover that you were wrong",
+              "translation": "发现自己错了"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I discovered that the door was open.",
+              "zh": "我发现门开着。"
+            },
+            {
+              "en": "He discovered his mistake too late.",
+              "zh": "他发现自己的错误时已经太晚了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "realize：强调意识到；discover 常强调经过观察才知道。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "discover that 后接完整句子。"
+      ]
+    }
+  ]
+}

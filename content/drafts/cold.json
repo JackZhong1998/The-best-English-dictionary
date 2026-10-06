@@ -1,0 +1,139 @@
+{
+  "word": "cold",
+  "phonetic": "/koʊld/",
+  "syllables": [
+    "cold"
+  ],
+  "pos": [
+    "adj.",
+    "n."
+  ],
+  "core_meanings": [
+    "冷的",
+    "冷漠的",
+    "感冒"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "having a low temperature",
+      "zh_definition": "温度低的",
+      "usages": [
+        {
+          "usage_label": "寒冷的",
+          "collocations": [
+            {
+              "phrase": "cold water",
+              "translation": "冷水"
+            },
+            {
+              "phrase": "a cold day",
+              "translation": "寒冷的一天"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The water is too cold to swim in.",
+              "zh": "水太冷，不能在里面游泳。"
+            },
+            {
+              "en": "It was a cold morning.",
+              "zh": "那是个寒冷的早晨。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "cool：偏凉；cold 更冷。"
+      ],
+      "antonyms": [
+        "hot：温度高的。"
+      ],
+      "confusables": [
+        "cold 可形容天气、物品或人感到冷。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "not showing kindness or warmth",
+      "zh_definition": "态度缺少热情或善意的",
+      "usages": [
+        {
+          "usage_label": "冷淡的",
+          "collocations": [
+            {
+              "phrase": "a cold reply",
+              "translation": "冷淡的回答"
+            },
+            {
+              "phrase": "a cold look",
+              "translation": "冷漠的眼神"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She gave me a cold look.",
+              "zh": "她冷冷地看了我一眼。"
+            },
+            {
+              "en": "His reply sounded cold.",
+              "zh": "他的回答听起来很冷淡。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "unfriendly：泛指不友好；cold 强调没有情感温度。"
+      ],
+      "antonyms": [
+        "warm：热情的。"
+      ],
+      "confusables": [
+        "此义说的是态度，不是身体温度。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a common illness with a runny nose or sore throat",
+      "zh_definition": "常伴有流鼻涕或喉咙痛的普通感冒",
+      "usages": [
+        {
+          "usage_label": "感冒",
+          "collocations": [
+            {
+              "phrase": "have a cold",
+              "translation": "感冒了"
+            },
+            {
+              "phrase": "catch a cold",
+              "translation": "患上感冒"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I have a cold today.",
+              "zh": "我今天感冒了。"
+            },
+            {
+              "en": "He caught a cold during the trip.",
+              "zh": "他在旅途中患了感冒。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "common cold：普通感冒的完整名称，日常常简称 cold。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "have a cold 中的 cold 是可数名词。",
+        "flu 是流感，症状通常更重，不等同于普通感冒。"
+      ]
+    }
+  ]
+}

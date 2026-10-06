@@ -1,0 +1,215 @@
+{
+  "word": "cover",
+  "phonetic": "/ˈkʌvər/",
+  "syllables": [
+    "cov",
+    "er"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "覆盖",
+    "封面",
+    "报道",
+    "涵盖",
+    "支付"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to put something over another thing",
+      "zh_definition": "把某物盖在另一物上",
+      "usages": [
+        {
+          "usage_label": "盖住",
+          "collocations": [
+            {
+              "phrase": "cover the pot",
+              "translation": "盖住锅"
+            },
+            {
+              "phrase": "cover a table with cloth",
+              "translation": "用布盖住桌子"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Cover the pot with a lid.",
+              "zh": "用盖子盖住锅。"
+            },
+            {
+              "en": "Snow covered the road.",
+              "zh": "雪盖住了道路。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "hide：强调使看不见；cover 强调盖在上面。"
+      ],
+      "antonyms": [
+        "uncover：揭开。"
+      ],
+      "confusables": [
+        "cover A with B 指用 B 盖住 A。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the outer part of a book or magazine",
+      "zh_definition": "书或杂志外面的封皮",
+      "usages": [
+        {
+          "usage_label": "封面",
+          "collocations": [
+            {
+              "phrase": "a book cover",
+              "translation": "书的封面"
+            },
+            {
+              "phrase": "on the cover",
+              "translation": "在封面上"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The book has a blue cover.",
+              "zh": "这本书有蓝色封面。"
+            },
+            {
+              "en": "Her photo is on the cover.",
+              "zh": "她的照片登在封面上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "jacket：可指书的护封；cover 泛指封面。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这里的 cover 是名词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to report news about an event",
+      "zh_definition": "对事件进行新闻报道",
+      "usages": [
+        {
+          "usage_label": "报道",
+          "collocations": [
+            {
+              "phrase": "cover an election",
+              "translation": "报道选举"
+            },
+            {
+              "phrase": "cover the story",
+              "translation": "报道这件事"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The reporter covered the election.",
+              "zh": "记者报道了这次选举。"
+            },
+            {
+              "en": "Several papers covered the story.",
+              "zh": "几家报纸报道了这件事。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "report on：也指报道，结构不同。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "记者 cover 事件，不表示拿东西盖住它。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to include a subject or range",
+      "zh_definition": "涉及某个主题或范围",
+      "usages": [
+        {
+          "usage_label": "涵盖",
+          "collocations": [
+            {
+              "phrase": "cover three topics",
+              "translation": "涵盖三个主题"
+            },
+            {
+              "phrase": "cover a wide area",
+              "translation": "覆盖大片区域"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This chapter covers three topics.",
+              "zh": "这一章涵盖三个主题。"
+            },
+            {
+              "en": "The course covers basic grammar.",
+              "zh": "这门课讲授基础语法。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "include：泛指包含；cover 强调所讨论的范围。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "课程或书籍作主语时常用此义。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to provide enough money to pay for something",
+      "zh_definition": "提供足够的钱支付某项费用",
+      "usages": [
+        {
+          "usage_label": "支付费用",
+          "collocations": [
+            {
+              "phrase": "cover the cost",
+              "translation": "支付费用"
+            },
+            {
+              "phrase": "cover medical expenses",
+              "translation": "支付医疗费用"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The grant will cover the cost of books.",
+              "zh": "这笔补助会支付书本费用。"
+            },
+            {
+              "en": "Our income barely covers the rent.",
+              "zh": "我们的收入勉强够付房租。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pay for：指付款；cover 在此强调款项足够支付。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义 cover 后接费用或支出，不表示把钱盖住。"
+      ]
+    }
+  ]
+}

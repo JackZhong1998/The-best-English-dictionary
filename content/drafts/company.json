@@ -1,0 +1,96 @@
+{
+  "word": "company",
+  "phonetic": "/ˈkʌmpəni/",
+  "syllables": [
+    "com",
+    "pa",
+    "ny"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "公司",
+    "陪伴"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a business organization that sells goods or services",
+      "zh_definition": "出售商品或服务的商业组织",
+      "usages": [
+        {
+          "usage_label": "公司",
+          "collocations": [
+            {
+              "phrase": "start a company",
+              "translation": "创办公司"
+            },
+            {
+              "phrase": "a technology company",
+              "translation": "科技公司"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She works for a small company.",
+              "zh": "她在一家小公司工作。"
+            },
+            {
+              "en": "They started a company last year.",
+              "zh": "他们去年创办了一家公司。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "business：可泛指生意或企业；company 常指具体组织。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "company 作公司时是可数名词。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the presence of another person with you",
+      "zh_definition": "有人与你待在一起的状态",
+      "usages": [
+        {
+          "usage_label": "陪伴",
+          "collocations": [
+            {
+              "phrase": "enjoy someone's company",
+              "translation": "喜欢某人的陪伴"
+            },
+            {
+              "phrase": "keep someone company",
+              "translation": "陪伴某人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I enjoyed her company on the trip.",
+              "zh": "旅途中我很喜欢有她作伴。"
+            },
+            {
+              "en": "Can you keep me company tonight?",
+              "zh": "今晚你能陪陪我吗？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "companionship：也指陪伴，更强调长期关系。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义 company 通常不可数。"
+      ]
+    }
+  ]
+}

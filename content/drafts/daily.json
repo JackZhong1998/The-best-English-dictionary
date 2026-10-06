@@ -1,0 +1,138 @@
+{
+  "word": "daily",
+  "phonetic": "/ˈdeɪli/",
+  "syllables": [
+    "dai",
+    "ly"
+  ],
+  "pos": [
+    "adj.",
+    "adv.",
+    "n."
+  ],
+  "core_meanings": [
+    "每天的",
+    "每天",
+    "日报"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "happening or used every day",
+      "zh_definition": "每天发生或使用的",
+      "usages": [
+        {
+          "usage_label": "每天的",
+          "collocations": [
+            {
+              "phrase": "daily exercise",
+              "translation": "每日锻炼"
+            },
+            {
+              "phrase": "a daily routine",
+              "translation": "日常安排"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Daily exercise helps me sleep.",
+              "zh": "每天锻炼有助于我睡眠。"
+            },
+            {
+              "en": "Reading is part of her daily routine.",
+              "zh": "阅读是她日常安排的一部分。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "everyday：也指日常的，但不强调每天发生。"
+      ],
+      "antonyms": [
+        "weekly：每周的。"
+      ],
+      "confusables": [
+        "daily 作形容词通常放在名词前。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adv.",
+      "en_definition": "once every day",
+      "zh_definition": "每天一次或每天都",
+      "usages": [
+        {
+          "usage_label": "每天",
+          "collocations": [
+            {
+              "phrase": "exercise daily",
+              "translation": "每天锻炼"
+            },
+            {
+              "phrase": "check daily",
+              "translation": "每天检查"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She practices English daily.",
+              "zh": "她每天练习英语。"
+            },
+            {
+              "en": "The buses run daily.",
+              "zh": "公交车每天运行。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "every day：常用短语；daily 更简洁。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "副词 daily 常放在动词后。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a newspaper published every day",
+      "zh_definition": "每天出版的报纸",
+      "usages": [
+        {
+          "usage_label": "日报",
+          "collocations": [
+            {
+              "phrase": "a local daily",
+              "translation": "当地日报"
+            },
+            {
+              "phrase": "read a daily",
+              "translation": "阅读一份日报"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He writes for a local daily.",
+              "zh": "他为当地一家日报撰稿。"
+            },
+            {
+              "en": "The city has two daily newspapers.",
+              "zh": "这座城市有两家日报。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "newspaper：泛指报纸；daily 特指日报。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 daily 的复数是 dailies。"
+      ]
+    }
+  ]
+}

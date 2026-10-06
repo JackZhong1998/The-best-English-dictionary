@@ -1,0 +1,135 @@
+{
+  "word": "degree",
+  "phonetic": "/dɪˈɡriː/",
+  "syllables": [
+    "de",
+    "gree"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "度",
+    "程度",
+    "学位"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a unit for measuring temperature or angles",
+      "zh_definition": "测量温度或角度的单位",
+      "usages": [
+        {
+          "usage_label": "度",
+          "collocations": [
+            {
+              "phrase": "twenty degrees Celsius",
+              "translation": "摄氏二十度"
+            },
+            {
+              "phrase": "a ninety-degree angle",
+              "translation": "九十度角"
+            }
+          ],
+          "examples": [
+            {
+              "en": "It is twenty degrees outside.",
+              "zh": "室外是二十度。"
+            },
+            {
+              "en": "The two lines form a ninety-degree angle.",
+              "zh": "两条线形成一个九十度角。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "unit：泛指计量单位；degree 是特定单位。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "温度和角度都可用 degree 表示。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the amount or level of something",
+      "zh_definition": "某种特性或情况达到的程度",
+      "usages": [
+        {
+          "usage_label": "程度",
+          "collocations": [
+            {
+              "phrase": "a high degree of skill",
+              "translation": "很高的技能水平"
+            },
+            {
+              "phrase": "to some degree",
+              "translation": "在某种程度上"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The job requires a high degree of skill.",
+              "zh": "这份工作需要很高的技能水平。"
+            },
+            {
+              "en": "I agree with you to some degree.",
+              "zh": "我在某种程度上同意你。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "extent：也指程度，常见于 to some extent。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a degree of 后接所描述的性质。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a qualification earned after study at a university",
+      "zh_definition": "完成大学课程后获得的学位",
+      "usages": [
+        {
+          "usage_label": "学位",
+          "collocations": [
+            {
+              "phrase": "earn a degree",
+              "translation": "获得学位"
+            },
+            {
+              "phrase": "a degree in history",
+              "translation": "历史学学位"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She earned a degree in biology.",
+              "zh": "她获得了生物学学位。"
+            },
+            {
+              "en": "He is studying for a master's degree.",
+              "zh": "他正在攻读硕士学位。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：degree 此处特指大学授予的学位。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a degree in 后接所学专业。",
+        "diploma 通常指毕业证书，并不等同于学位。"
+      ]
+    }
+  ]
+}

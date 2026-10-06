@@ -1,0 +1,213 @@
+{
+  "word": "deal",
+  "phonetic": "/diːl/",
+  "syllables": [
+    "deal"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "处理",
+    "协议",
+    "数量",
+    "划算的交易"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to take action to handle a problem",
+      "zh_definition": "采取行动处理问题",
+      "usages": [
+        {
+          "usage_label": "处理",
+          "collocations": [
+            {
+              "phrase": "deal with a problem",
+              "translation": "处理问题"
+            },
+            {
+              "phrase": "deal with stress",
+              "translation": "应对压力"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We need to deal with this problem.",
+              "zh": "我们需要处理这个问题。"
+            },
+            {
+              "en": "She deals with stress by walking.",
+              "zh": "她通过散步来应对压力。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "handle：也指处理，可直接接宾语。"
+      ],
+      "antonyms": [
+        "ignore：忽视。"
+      ],
+      "confusables": [
+        "deal with 后接要处理的事物。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an agreement between people or organizations",
+      "zh_definition": "人与人或机构之间达成的协议",
+      "usages": [
+        {
+          "usage_label": "交易",
+          "collocations": [
+            {
+              "phrase": "make a deal",
+              "translation": "达成交易"
+            },
+            {
+              "phrase": "sign a deal",
+              "translation": "签署协议"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The two companies made a deal.",
+              "zh": "两家公司达成了交易。"
+            },
+            {
+              "en": "They signed a deal to share the costs.",
+              "zh": "他们签署了分担费用的协议。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "agreement：泛指协议；deal 常带交易或交换意味。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a deal 是可数名词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a purchase or agreement that gives good value",
+      "zh_definition": "价格或条件划算的购买或协议",
+      "usages": [
+        {
+          "usage_label": "划算的交易",
+          "collocations": [
+            {
+              "phrase": "get a good deal",
+              "translation": "买得划算"
+            },
+            {
+              "phrase": "a good deal on a car",
+              "translation": "买车的好价钱"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We got a good deal on the tickets.",
+              "zh": "我们买这些票很划算。"
+            },
+            {
+              "en": "This coat was a good deal at thirty dollars.",
+              "zh": "这件外套三十美元，很划算。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "bargain：也指划算的东西，常强调价格低。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a good deal 可指划算的交易；a great deal of 表示大量。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a large or noticeable amount",
+      "zh_definition": "相当多的数量",
+      "usages": [
+        {
+          "usage_label": "大量",
+          "collocations": [
+            {
+              "phrase": "a great deal of time",
+              "translation": "大量时间"
+            },
+            {
+              "phrase": "a good deal of work",
+              "translation": "大量工作"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The project took a great deal of time.",
+              "zh": "这个项目花了大量时间。"
+            },
+            {
+              "en": "We still have a good deal of work to do.",
+              "zh": "我们还有不少工作要做。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "a lot of：更口语，也指许多。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a great deal of 后通常接不可数名词。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to give playing cards to players",
+      "zh_definition": "把纸牌分发给玩家",
+      "usages": [
+        {
+          "usage_label": "发牌",
+          "collocations": [
+            {
+              "phrase": "deal the cards",
+              "translation": "发牌"
+            },
+            {
+              "phrase": "deal five cards",
+              "translation": "发五张牌"
+            }
+          ],
+          "examples": [
+            {
+              "en": "It's your turn to deal the cards.",
+              "zh": "轮到你发牌了。"
+            },
+            {
+              "en": "She dealt five cards to each player.",
+              "zh": "她给每位玩家发了五张牌。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "distribute：泛指分发；deal 特指牌局中发牌。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "deal 的过去式是 dealt。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "word": "copy",
+  "phonetic": "/ˈkɑːpi/",
+  "syllables": [
+    "cop",
+    "y"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "复制",
+    "副本",
+    "抄写"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to make something exactly like an original",
+      "zh_definition": "制作与原件相同的东西",
+      "usages": [
+        {
+          "usage_label": "复制",
+          "collocations": [
+            {
+              "phrase": "copy a file",
+              "translation": "复制文件"
+            },
+            {
+              "phrase": "copy a photo",
+              "translation": "复制照片"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I copied the file to my phone.",
+              "zh": "我把文件复制到了手机上。"
+            },
+            {
+              "en": "She copied the photo for me.",
+              "zh": "她为我复制了那张照片。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "duplicate：较正式，强调完全复制。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "copy A to B 可表示把文件复制到另一位置。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "one of several versions of the same thing",
+      "zh_definition": "同一内容的一个副本或一本",
+      "usages": [
+        {
+          "usage_label": "副本",
+          "collocations": [
+            {
+              "phrase": "a copy of the report",
+              "translation": "一份报告副本"
+            },
+            {
+              "phrase": "three copies of a book",
+              "translation": "三本同样的书"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please send me a copy of the report.",
+              "zh": "请给我发一份报告副本。"
+            },
+            {
+              "en": "The library has two copies of this book.",
+              "zh": "图书馆有这本书的两册。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "duplicate：通常强调与原件完全相同的副本。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "一本书可以说 a copy of a book。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to write down words from another source",
+      "zh_definition": "照着别处的文字抄写",
+      "usages": [
+        {
+          "usage_label": "抄写",
+          "collocations": [
+            {
+              "phrase": "copy a sentence",
+              "translation": "抄写一句话"
+            },
+            {
+              "phrase": "copy notes",
+              "translation": "抄笔记"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Copy the sentence into your notebook.",
+              "zh": "把这句话抄进笔记本。"
+            },
+            {
+              "en": "He copied the notes from the board.",
+              "zh": "他把黑板上的笔记抄了下来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "transcribe：较正式，指转写文字或语音。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义是照着写，不涉及复印机。"
+      ]
+    }
+  ]
+}

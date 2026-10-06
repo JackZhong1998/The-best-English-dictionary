@@ -1,0 +1,134 @@
+{
+  "word": "chance",
+  "phonetic": "/tʃæns/",
+  "syllables": [
+    "chance"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "机会",
+    "可能性",
+    "偶然"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "an opportunity to do something",
+      "zh_definition": "做某事的机会",
+      "usages": [
+        {
+          "usage_label": "机会",
+          "collocations": [
+            {
+              "phrase": "a chance to learn",
+              "translation": "学习机会"
+            },
+            {
+              "phrase": "give someone a chance",
+              "translation": "给某人一个机会"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Give me a chance to explain.",
+              "zh": "给我一个解释的机会。"
+            },
+            {
+              "en": "She got a chance to study abroad.",
+              "zh": "她获得了出国学习的机会。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "opportunity：也指机会，语气稍正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a chance to do something 后接动词原形。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the possibility that something will happen",
+      "zh_definition": "某事发生的可能性",
+      "usages": [
+        {
+          "usage_label": "可能性",
+          "collocations": [
+            {
+              "phrase": "a good chance of rain",
+              "translation": "很可能下雨"
+            },
+            {
+              "phrase": "little chance of success",
+              "translation": "成功的可能性很小"
+            }
+          ],
+          "examples": [
+            {
+              "en": "There is a good chance of rain.",
+              "zh": "很可能会下雨。"
+            },
+            {
+              "en": "We have little chance of winning.",
+              "zh": "我们获胜的可能性很小。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "possibility：泛指可能性；chance 常用于估计发生概率。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a chance of 后接名词或动名词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "the way things happen without planning",
+      "zh_definition": "事情未经安排而发生的偶然性",
+      "usages": [
+        {
+          "usage_label": "偶然",
+          "collocations": [
+            {
+              "phrase": "by chance",
+              "translation": "偶然"
+            },
+            {
+              "phrase": "a chance meeting",
+              "translation": "一次偶遇"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We met by chance at the station.",
+              "zh": "我们在车站偶然相遇。"
+            },
+            {
+              "en": "We left nothing to chance before the trip.",
+              "zh": "出发前我们把一切都安排妥当，不靠运气。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "randomness：也指没有计划的随机性；chance 更常见。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "by chance 表示偶然，不是冒险。",
+        "accident：可指意外事件；chance 在此强调偶然性。"
+      ]
+    }
+  ]
+}

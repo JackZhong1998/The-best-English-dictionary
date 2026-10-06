@@ -1,0 +1,96 @@
+{
+  "word": "determine",
+  "phonetic": "/dɪˈtɝːmɪn/",
+  "syllables": [
+    "de",
+    "ter",
+    "mine"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "决定",
+    "查明"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to decide or control what will happen",
+      "zh_definition": "决定事情的结果或走向",
+      "usages": [
+        {
+          "usage_label": "决定",
+          "collocations": [
+            {
+              "phrase": "determine the result",
+              "translation": "决定结果"
+            },
+            {
+              "phrase": "determine the price",
+              "translation": "决定价格"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Weather will determine our route.",
+              "zh": "天气将决定我们的路线。"
+            },
+            {
+              "en": "Several factors determine the price.",
+              "zh": "几个因素决定价格。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "decide：可指人作决定；determine 也指因素决定结果。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义的主语常是因素或条件。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to discover a fact after checking",
+      "zh_definition": "通过调查或核对查出事实",
+      "usages": [
+        {
+          "usage_label": "查明",
+          "collocations": [
+            {
+              "phrase": "determine the cause",
+              "translation": "查明原因"
+            },
+            {
+              "phrase": "determine whether it is safe",
+              "translation": "确定是否安全"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The test will determine the cause.",
+              "zh": "这项检测将查明原因。"
+            },
+            {
+              "en": "We must determine whether the water is safe.",
+              "zh": "我们必须确定这水是否安全。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "find out：更口语，也指查明。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "determine whether 后接完整句子。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "damage",
+  "phonetic": "/ˈdæmɪdʒ/",
+  "syllables": [
+    "dam",
+    "age"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "损害",
+    "损失"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to harm something physically or reduce its quality",
+      "zh_definition": "使某物受损或质量下降",
+      "usages": [
+        {
+          "usage_label": "损坏",
+          "collocations": [
+            {
+              "phrase": "damage a car",
+              "translation": "损坏汽车"
+            },
+            {
+              "phrase": "damage your health",
+              "translation": "损害健康"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The storm damaged our roof.",
+              "zh": "暴风雨损坏了我们的屋顶。"
+            },
+            {
+              "en": "Too much sun can damage your skin.",
+              "zh": "晒太阳过多会损伤皮肤。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "harm：也指伤害；damage 常用于物品或健康受损。"
+      ],
+      "antonyms": [
+        "repair：修复。"
+      ],
+      "confusables": [
+        "damage 作动词可直接接受损对象。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "physical harm or loss caused to something",
+      "zh_definition": "对某物造成的损坏或损失",
+      "usages": [
+        {
+          "usage_label": "损失",
+          "collocations": [
+            {
+              "phrase": "cause damage",
+              "translation": "造成损害"
+            },
+            {
+              "phrase": "repair the damage",
+              "translation": "修复损坏"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The flood caused serious damage.",
+              "zh": "洪水造成了严重损失。"
+            },
+            {
+              "en": "Workers repaired the damage to the bridge.",
+              "zh": "工人修复了桥梁受损处。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "harm：更常指对人或环境的不良影响。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "表示损害时 damage 通常不可数。"
+      ]
+    }
+  ]
+}

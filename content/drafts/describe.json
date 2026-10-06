@@ -1,0 +1,95 @@
+{
+  "word": "describe",
+  "phonetic": "/dɪˈskraɪb/",
+  "syllables": [
+    "de",
+    "scribe"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "描述",
+    "形容"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to say what someone or something is like",
+      "zh_definition": "说出人或事物的样子与特点",
+      "usages": [
+        {
+          "usage_label": "描述",
+          "collocations": [
+            {
+              "phrase": "describe a person",
+              "translation": "描述一个人"
+            },
+            {
+              "phrase": "describe the scene",
+              "translation": "描绘场景"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can you describe the person you saw?",
+              "zh": "你能描述一下你看到的人吗？"
+            },
+            {
+              "en": "She described the room in detail.",
+              "zh": "她详细描述了那个房间。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "portray：也指描绘，常用于文学或艺术。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "describe 后可直接接被描述的人或物。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to explain how something happened or works",
+      "zh_definition": "说明事情经过或运作方式",
+      "usages": [
+        {
+          "usage_label": "说明",
+          "collocations": [
+            {
+              "phrase": "describe the process",
+              "translation": "说明过程"
+            },
+            {
+              "phrase": "describe what happened",
+              "translation": "描述发生了什么"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please describe how the machine works.",
+              "zh": "请说明这台机器如何运作。"
+            },
+            {
+              "en": "He described what happened yesterday.",
+              "zh": "他讲述了昨天发生的事。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "explain：强调说明原因；describe 可只陈述经过。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "describe how 后接具体过程。"
+      ]
+    }
+  ]
+}

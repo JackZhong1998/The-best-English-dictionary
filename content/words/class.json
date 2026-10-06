@@ -1,0 +1,171 @@
+{
+  "word": "class",
+  "phonetic": "/klæs/",
+  "syllables": [
+    "class"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "课",
+    "班级",
+    "类别"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a lesson or period of teaching",
+      "zh_definition": "一节课或一段教学时间",
+      "usages": [
+        {
+          "usage_label": "课程",
+          "collocations": [
+            {
+              "phrase": "attend a class",
+              "translation": "上课"
+            },
+            {
+              "phrase": "an English class",
+              "translation": "英语课"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I have an English class at nine.",
+              "zh": "我九点有英语课。"
+            },
+            {
+              "en": "She missed class yesterday.",
+              "zh": "她昨天缺课了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "lesson：常指一节具体课；class 也可指整门课程。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "in class 可表示正在上课。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a group of students taught together",
+      "zh_definition": "一起接受教学的一群学生",
+      "usages": [
+        {
+          "usage_label": "班级",
+          "collocations": [
+            {
+              "phrase": "the whole class",
+              "translation": "全班"
+            },
+            {
+              "phrase": "a class of thirty",
+              "translation": "三十人的班级"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The whole class went to the museum.",
+              "zh": "全班去了博物馆。"
+            },
+            {
+              "en": "Our class has thirty students.",
+              "zh": "我们班有三十名学生。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "group：泛指群体；class 特指共同上课的学生。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "class 作集体名词，可指班级成员。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a group of similar things or people",
+      "zh_definition": "有共同特点的一类事物或人",
+      "usages": [
+        {
+          "usage_label": "类别",
+          "collocations": [
+            {
+              "phrase": "a class of animals",
+              "translation": "一类动物"
+            },
+            {
+              "phrase": "different classes of books",
+              "translation": "不同类别的书"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This class of plants needs little water.",
+              "zh": "这类植物不需要太多水。"
+            },
+            {
+              "en": "The library sorts books into different classes.",
+              "zh": "图书馆把书分成不同类别。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "category：也指类别，常见于分类系统。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这一义不表示学校里的班级。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a social group with a similar economic position",
+      "zh_definition": "经济地位相近的社会群体",
+      "usages": [
+        {
+          "usage_label": "社会阶层",
+          "collocations": [
+            {
+              "phrase": "social class",
+              "translation": "社会阶层"
+            },
+            {
+              "phrase": "the middle class",
+              "translation": "中产阶级"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her family moved into the middle class.",
+              "zh": "她的家庭进入了中产阶级。"
+            },
+            {
+              "en": "Social class can affect access to education.",
+              "zh": "社会阶层可能影响受教育机会。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "social group：泛指社会群体；class 强调社会经济地位。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the middle class 常作为一个整体使用。"
+      ]
+    }
+  ]
+}

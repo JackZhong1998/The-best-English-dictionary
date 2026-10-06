@@ -1,0 +1,95 @@
+{
+  "word": "discuss",
+  "phonetic": "/dɪˈskʌs/",
+  "syllables": [
+    "dis",
+    "cuss"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "讨论",
+    "论述"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to talk about something with others",
+      "zh_definition": "与别人交换对某事的看法",
+      "usages": [
+        {
+          "usage_label": "讨论",
+          "collocations": [
+            {
+              "phrase": "discuss a problem",
+              "translation": "讨论问题"
+            },
+            {
+              "phrase": "discuss the plan",
+              "translation": "讨论计划"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Let's discuss the plan tomorrow.",
+              "zh": "我们明天讨论这个计划吧。"
+            },
+            {
+              "en": "They discussed the problem after class.",
+              "zh": "他们课后讨论了这个问题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "talk about：更日常；discuss 稍正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "discuss 直接接宾语，不说 discuss about the plan。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to examine a subject in speech or writing",
+      "zh_definition": "在讲话或文章中分析某个话题",
+      "usages": [
+        {
+          "usage_label": "论述",
+          "collocations": [
+            {
+              "phrase": "discuss the findings",
+              "translation": "论述研究结果"
+            },
+            {
+              "phrase": "discuss a topic",
+              "translation": "论述一个话题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The article discusses the causes of stress.",
+              "zh": "文章论述了压力产生的原因。"
+            },
+            {
+              "en": "The speaker discussed three possible solutions.",
+              "zh": "演讲者讨论了三种可能的解决办法。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "analyze：强调分解研究；discuss 侧重展开论述。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "文章或讲话作主语时也可用 discuss。"
+      ]
+    }
+  ]
+}

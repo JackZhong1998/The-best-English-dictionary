@@ -1,0 +1,135 @@
+{
+  "word": "depend",
+  "phonetic": "/dɪˈpend/",
+  "syllables": [
+    "de",
+    "pend"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "取决于",
+    "依靠"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to be decided or changed by something else",
+      "zh_definition": "由另一件事决定或影响",
+      "usages": [
+        {
+          "usage_label": "取决于",
+          "collocations": [
+            {
+              "phrase": "depend on the weather",
+              "translation": "取决于天气"
+            },
+            {
+              "phrase": "depend on the result",
+              "translation": "取决于结果"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our plan depends on the weather.",
+              "zh": "我们的计划取决于天气。"
+            },
+            {
+              "en": "The price depends on the size.",
+              "zh": "价格取决于大小。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "be determined by：也表示由……决定，较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义 depend on 后接决定因素。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to need help or support from someone or something",
+      "zh_definition": "需要某人或某物的帮助支持",
+      "usages": [
+        {
+          "usage_label": "依靠",
+          "collocations": [
+            {
+              "phrase": "depend on your parents",
+              "translation": "依靠父母"
+            },
+            {
+              "phrase": "depend on public transport",
+              "translation": "依赖公共交通"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Many children depend on their parents.",
+              "zh": "许多孩子依靠父母。"
+            },
+            {
+              "en": "We depend on buses to get to work.",
+              "zh": "我们靠公交车上班。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "rely on：也指依靠，语气相近。"
+      ],
+      "antonyms": [
+        "be independent of：不依赖。"
+      ],
+      "confusables": [
+        "depend on 可指生活依赖，不只是逻辑条件。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to trust someone to do what is needed",
+      "zh_definition": "相信某人会按需要行事",
+      "usages": [
+        {
+          "usage_label": "信赖",
+          "collocations": [
+            {
+              "phrase": "depend on a friend",
+              "translation": "信赖朋友"
+            },
+            {
+              "phrase": "depend on someone to help",
+              "translation": "指望某人帮忙"
+            }
+          ],
+          "examples": [
+            {
+              "en": "You can depend on Mei to help.",
+              "zh": "你可以指望梅帮忙。"
+            },
+            {
+              "en": "I know I can depend on him.",
+              "zh": "我知道我能信赖他。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "count on：也表示指望，口语常用。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "depend on someone to do something 指望某人做某事。"
+      ]
+    }
+  ]
+}

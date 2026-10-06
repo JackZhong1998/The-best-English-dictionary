@@ -1,0 +1,138 @@
+{
+  "word": "cross",
+  "phonetic": "/krɔːs/",
+  "syllables": [
+    "cross"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "穿过",
+    "交叉",
+    "十字形"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to go from one side to the other",
+      "zh_definition": "从一侧到另一侧",
+      "usages": [
+        {
+          "usage_label": "穿过",
+          "collocations": [
+            {
+              "phrase": "cross the street",
+              "translation": "过马路"
+            },
+            {
+              "phrase": "cross a bridge",
+              "translation": "过桥"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Look both ways before you cross the street.",
+              "zh": "过马路前看看两边。"
+            },
+            {
+              "en": "We crossed the bridge at sunrise.",
+              "zh": "我们在日出时过了桥。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "go across：也指穿过；cross 可直接接宾语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "cross the road 不需再加 across。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to put one thing over another so they form an X",
+      "zh_definition": "使两物交叠成 X 形",
+      "usages": [
+        {
+          "usage_label": "交叉",
+          "collocations": [
+            {
+              "phrase": "cross your arms",
+              "translation": "交叉双臂"
+            },
+            {
+              "phrase": "cross your legs",
+              "translation": "交叉双腿"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He crossed his arms and waited.",
+              "zh": "他抱起双臂等待。"
+            },
+            {
+              "en": "She crossed her legs under the desk.",
+              "zh": "她在桌下交叉双腿。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：cross your arms 特指双臂交叠。"
+      ],
+      "antonyms": [
+        "uncross：把交叉的肢体分开。"
+      ],
+      "confusables": [
+        "cross your arms 常可译为抱起双臂。",
+        "fold 表示折叠；fold your arms 常与 cross your arms 近义，但 fold 并非 cross 的一般同义词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a shape made of two lines crossing",
+      "zh_definition": "两条线交叉形成的形状",
+      "usages": [
+        {
+          "usage_label": "十字形",
+          "collocations": [
+            {
+              "phrase": "draw a cross",
+              "translation": "画十字"
+            },
+            {
+              "phrase": "mark with a cross",
+              "translation": "用十字标记"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Draw a cross beside your choice.",
+              "zh": "在你的选项旁画个十字。"
+            },
+            {
+              "en": "The sign shows a red cross.",
+              "zh": "标志上有一个红十字。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：cross 是两条线相交形成的十字形。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a cross 可指十字形，不一定指宗教符号。",
+        "X 可指字母或相似的形状，不是 cross 的词汇近义词。"
+      ]
+    }
+  ]
+}
