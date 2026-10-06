@@ -142,8 +142,15 @@ def validate_candidate(entry, word):
             if not isinstance(sense[field], str) or not sense[field].strip():
                 problems.append(f"sense {index}: missing {field}")
         for field in ("synonyms", "antonyms", "confusables"):
-            if not isinstance(sense[field], list):
+            items = sense[field]
+            if not isinstance(items, list):
                 problems.append(f"sense {index}: {field} must be an array")
+                continue
+            if field != "antonyms" and not items:
+                problems.append(f"sense {index}: missing {field} comparison")
+            for item in items:
+                if not isinstance(item, str) or len(item.strip()) < 8 or (field != "confusables" and "：" not in item):
+                    problems.append(f"sense {index}: {field} needs a useful explanation")
         usages = sense.get("usages")
         if not isinstance(usages, list) or not usages:
             problems.append(f"sense {index}: missing usages")

@@ -1,0 +1,140 @@
+{
+  "word": "create",
+  "phonetic": "/kriˈeɪt/",
+  "syllables": [
+    "cre",
+    "ate"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "创造",
+    "创建",
+    "造成"
+  ],
+  "etymology": "来自拉丁语 creare“产生、造出”，与生长相关的词族有关。",
+  "semantic_shift": "从使新事物产生，扩展到制作作品或建立组织；抽象结果也可以被“造成”。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to make something new",
+      "zh_definition": "创造出新的东西",
+      "usages": [
+        {
+          "usage_label": "创造",
+          "collocations": [
+            {
+              "phrase": "create a story",
+              "translation": "创作故事"
+            },
+            {
+              "phrase": "create art",
+              "translation": "创作艺术作品"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She created a story for the children.",
+              "zh": "她为孩子们创作了一个故事。"
+            },
+            {
+              "en": "The students created their own games.",
+              "zh": "学生们设计了自己的游戏。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "make：泛指制作；create 更强调产生新的想法或作品。"
+      ],
+      "antonyms": [
+        "destroy：毁掉已经存在的东西。"
+      ],
+      "confusables": [
+        "create 常强调新意，make 的使用范围更广。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to establish a new organization or system",
+      "zh_definition": "建立新的组织或系统",
+      "usages": [
+        {
+          "usage_label": "创建",
+          "collocations": [
+            {
+              "phrase": "create a website",
+              "translation": "创建网站"
+            },
+            {
+              "phrase": "create a team",
+              "translation": "组建团队"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They created a website for the club.",
+              "zh": "他们为俱乐部创建了网站。"
+            },
+            {
+              "en": "We created a small study group.",
+              "zh": "我们组建了一个小学习小组。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "set up：也指建立，较口语；create 常强调从无到有。"
+      ],
+      "antonyms": [
+        "close down：关闭组织或系统。"
+      ],
+      "confusables": [
+        "create an account 是创建账号，不是创作一篇文章。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to cause a situation or feeling",
+      "zh_definition": "造成某种局面或感受",
+      "usages": [
+        {
+          "usage_label": "造成",
+          "collocations": [
+            {
+              "phrase": "create problems",
+              "translation": "制造问题"
+            },
+            {
+              "phrase": "create interest",
+              "translation": "引起兴趣"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The delay created problems for us.",
+              "zh": "延误给我们造成了麻烦。"
+            },
+            {
+              "en": "The pictures created interest in the show.",
+              "zh": "这些图片激起了人们对演出的兴趣。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "cause：直接表示导致；create 强调新的局面由此出现。"
+      ],
+      "antonyms": [
+        "prevent：防止某事出现。"
+      ],
+      "confusables": [
+        "create problems 不是设计一个实体产品，而是造成问题。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "word": "effect",
+  "phonetic": "/ɪˈfekt/",
+  "syllables": [
+    "ef",
+    "fect"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "结果",
+    "影响",
+    "特效"
+  ],
+  "etymology": "经古法语 efet，来自拉丁语 effectus“完成、产生的结果”。",
+  "semantic_shift": "从做成一件事，发展为行动造成的结果；在电影等语境中又指刻意制造的视觉或声音效果。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a change produced by a cause",
+      "zh_definition": "某个原因带来的变化",
+      "usages": [
+        {
+          "usage_label": "结果或影响",
+          "collocations": [
+            {
+              "phrase": "have an effect on",
+              "translation": "对……有影响"
+            },
+            {
+              "phrase": "a positive effect",
+              "translation": "积极影响"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Sleep has a strong effect on memory.",
+              "zh": "睡眠对记忆有很大影响。"
+            },
+            {
+              "en": "The change had a positive effect.",
+              "zh": "这项改变产生了积极效果。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "result：强调最终结果；effect 可指原因造成的任何作用。"
+      ],
+      "antonyms": [
+        "cause：产生作用的原因。"
+      ],
+      "confusables": [
+        "effect 常是名词；affect 常是表示“影响”的动词。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a particular impression created deliberately",
+      "zh_definition": "刻意营造出的特定效果",
+      "usages": [
+        {
+          "usage_label": "效果",
+          "collocations": [
+            {
+              "phrase": "create an effect",
+              "translation": "营造效果"
+            },
+            {
+              "phrase": "a dramatic effect",
+              "translation": "戏剧性效果"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The lighting created a warm effect.",
+              "zh": "灯光营造出温暖的效果。"
+            },
+            {
+              "en": "The music added a dramatic effect to the scene.",
+              "zh": "音乐给这一幕增添了戏剧效果。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "impression：指给人的总体印象；effect 常强调设计产生的效果。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义的 effect 常与灯光、色彩、音乐等手段连用。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a visual or sound feature added to a film or show",
+      "zh_definition": "为电影或演出制作的画面或声音效果",
+      "usages": [
+        {
+          "usage_label": "特效",
+          "collocations": [
+            {
+              "phrase": "special effects",
+              "translation": "特效"
+            },
+            {
+              "phrase": "sound effects",
+              "translation": "音效"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The film has impressive special effects.",
+              "zh": "这部电影的特效令人印象深刻。"
+            },
+            {
+              "en": "They added sound effects to the game.",
+              "zh": "他们给游戏加入了音效。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "animation：指动画制作；effects 也可用于真人影片。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "special effects 通常用复数，指具体制作出的特效。"
+      ]
+    }
+  ]
+}

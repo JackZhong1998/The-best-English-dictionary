@@ -1,0 +1,139 @@
+{
+  "word": "develop",
+  "phonetic": "/dɪˈveləp/",
+  "syllables": [
+    "de",
+    "vel",
+    "op"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "发展",
+    "开发",
+    "逐渐形成"
+  ],
+  "etymology": "源自法语 développer“展开、揭开”；其中表示“包裹”的旧词部分更早来源不确定。",
+  "semantic_shift": "从把包裹的东西展开，发展为让潜力逐渐显现，以及事物随时间形成。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to grow or change over time",
+      "zh_definition": "随时间成长或变化",
+      "usages": [
+        {
+          "usage_label": "发展",
+          "collocations": [
+            {
+              "phrase": "develop quickly",
+              "translation": "快速发展"
+            },
+            {
+              "phrase": "develop into an adult",
+              "translation": "长大成人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The town developed quickly.",
+              "zh": "这座小镇发展得很快。"
+            },
+            {
+              "en": "Children develop at different speeds.",
+              "zh": "孩子们的发展速度各不相同。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "grow：泛指生长或增大；develop 更强调逐步变化和成熟。"
+      ],
+      "antonyms": [
+        "stop developing：停止发展。"
+      ],
+      "confusables": [
+        "develop 可不接宾语，表示事物自身逐渐发展。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to design and make a new product or idea",
+      "zh_definition": "设计并制作新的产品或想法",
+      "usages": [
+        {
+          "usage_label": "开发",
+          "collocations": [
+            {
+              "phrase": "develop an app",
+              "translation": "开发应用"
+            },
+            {
+              "phrase": "develop a new method",
+              "translation": "开发新方法"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They developed a new study app.",
+              "zh": "他们开发了一款新的学习应用。"
+            },
+            {
+              "en": "Our team developed a safer method.",
+              "zh": "我们团队开发了一种更安全的方法。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "create：强调从无到有；develop 常包含反复设计和改进。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "develop an app 指开发应用，不是下载或安装应用。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to begin to have a quality, habit, or illness",
+      "zh_definition": "逐渐形成特征、习惯或疾病",
+      "usages": [
+        {
+          "usage_label": "逐渐形成",
+          "collocations": [
+            {
+              "phrase": "develop a habit",
+              "translation": "养成习惯"
+            },
+            {
+              "phrase": "develop a fever",
+              "translation": "开始发烧"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She developed a habit of reading daily.",
+              "zh": "她养成了每天阅读的习惯。"
+            },
+            {
+              "en": "He developed a fever overnight.",
+              "zh": "他一夜之间发烧了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "acquire：泛指获得；develop 更强调逐渐形成。"
+      ],
+      "antonyms": [
+        "lose a habit：失去某种习惯。"
+      ],
+      "confusables": [
+        "develop a fever 是开始发烧，不是“研发发烧”。"
+      ]
+    }
+  ]
+}

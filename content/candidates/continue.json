@@ -1,0 +1,141 @@
+{
+  "word": "continue",
+  "phonetic": "/kənˈtɪnjuː/",
+  "syllables": [
+    "con",
+    "tin",
+    "ue"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "继续",
+    "持续",
+    "接着做"
+  ],
+  "etymology": "经古法语 continuer，来自拉丁语 continuare“使连续不断”。",
+  "semantic_shift": "从一段接着一段而不断开，发展为动作继续、状态持续；短暂停下后也可接着做。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to keep doing something",
+      "zh_definition": "不中断地继续做某事",
+      "usages": [
+        {
+          "usage_label": "继续做",
+          "collocations": [
+            {
+              "phrase": "continue working",
+              "translation": "继续工作"
+            },
+            {
+              "phrase": "continue to study",
+              "translation": "继续学习"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please continue reading the story.",
+              "zh": "请继续读这个故事。"
+            },
+            {
+              "en": "She continued to work after lunch.",
+              "zh": "午饭后她继续工作。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "keep：口语中也表示继续；continue 较中性、正式。"
+      ],
+      "antonyms": [
+        "stop：停止。"
+      ],
+      "confusables": [
+        "continue 后可接 doing 或 to do，两者常都可用。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to remain in the same state for a period",
+      "zh_definition": "某种状态持续一段时间",
+      "usages": [
+        {
+          "usage_label": "持续",
+          "collocations": [
+            {
+              "phrase": "the rain continues",
+              "translation": "雨仍在下"
+            },
+            {
+              "phrase": "continue for hours",
+              "translation": "持续数小时"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The rain continued all night.",
+              "zh": "雨下了一整夜。"
+            },
+            {
+              "en": "The noise continued for hours.",
+              "zh": "噪声持续了好几个小时。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "last：强调持续时间；continue 强调没有结束。"
+      ],
+      "antonyms": [
+        "end：指事件或状态终止，与 continue 表示持续相对。"
+      ],
+      "confusables": [
+        "The rain continued 中的 continue 没有宾语。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to begin again after a pause",
+      "zh_definition": "暂停后接着进行",
+      "usages": [
+        {
+          "usage_label": "暂停后继续",
+          "collocations": [
+            {
+              "phrase": "continue after a break",
+              "translation": "休息后继续"
+            },
+            {
+              "phrase": "continue the lesson",
+              "translation": "接着上课"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We continued the game after the rain.",
+              "zh": "雨停后我们接着比赛。"
+            },
+            {
+              "en": "The teacher continued the lesson after lunch.",
+              "zh": "午饭后老师接着上课。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "resume：明确指暂停后恢复；continue 也可表示从停下处接着做。"
+      ],
+      "antonyms": [
+        "pause：暂停。"
+      ],
+      "confusables": [
+        "continue 在这里暗示前面已经开始过，不是首次开始。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "word": "control",
+  "phonetic": "/kənˈtroʊl/",
+  "syllables": [
+    "con",
+    "trol"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "控制",
+    "管理",
+    "控制权",
+    "控制装置"
+  ],
+  "etymology": "经法语词形进入英语，早期与用副本核对账目有关，后来发展出管理、支配义。",
+  "semantic_shift": "从检查、核对，扩展到指挥事物如何运行，再到对过程或情绪施加约束。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to direct how someone or something acts",
+      "zh_definition": "决定人或事物如何行动",
+      "usages": [
+        {
+          "usage_label": "控制或管理",
+          "collocations": [
+            {
+              "phrase": "control a machine",
+              "translation": "控制机器"
+            },
+            {
+              "phrase": "control traffic",
+              "translation": "指挥交通"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This button controls the machine.",
+              "zh": "这个按钮控制机器。"
+            },
+            {
+              "en": "The police controlled traffic near the school.",
+              "zh": "警察在学校附近指挥交通。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "manage：强调负责安排；control 更强调决定或限制运行方式。"
+      ],
+      "antonyms": [
+        "lose control：失去控制。"
+      ],
+      "confusables": [
+        "control 作动词直接接对象，如 control a machine。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to limit the strength or spread of something",
+      "zh_definition": "限制某种力量或事物的蔓延",
+      "usages": [
+        {
+          "usage_label": "抑制",
+          "collocations": [
+            {
+              "phrase": "control your anger",
+              "translation": "控制怒气"
+            },
+            {
+              "phrase": "control a fire",
+              "translation": "控制火势"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He tried to control his anger.",
+              "zh": "他努力控制自己的怒气。"
+            },
+            {
+              "en": "The crew controlled the fire quickly.",
+              "zh": "消防队很快控制住了火势。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "restrain：常指克制冲动；control 适用范围更广。"
+      ],
+      "antonyms": [
+        "let loose：放任不管。"
+      ],
+      "confusables": [
+        "control a fire 是控制火势，不是让火按指令行动。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "the power to direct a situation",
+      "zh_definition": "指挥或决定局势的权力",
+      "usages": [
+        {
+          "usage_label": "控制权",
+          "collocations": [
+            {
+              "phrase": "have control over",
+              "translation": "对……有控制权"
+            },
+            {
+              "phrase": "take control of",
+              "translation": "掌控……"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She has control over the budget.",
+              "zh": "她掌握预算的决定权。"
+            },
+            {
+              "en": "The team took control of the project.",
+              "zh": "团队接管了这个项目。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "authority：强调正式权力；control 也可以是实际掌控力。"
+      ],
+      "antonyms": [
+        "loss of control：失去控制权。"
+      ],
+      "confusables": [
+        "have control over 中的 over 后接被控制的事物。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a device used to operate a machine",
+      "zh_definition": "操作机器的装置",
+      "usages": [
+        {
+          "usage_label": "控制装置",
+          "collocations": [
+            {
+              "phrase": "remote control",
+              "translation": "遥控器"
+            },
+            {
+              "phrase": "volume control",
+              "translation": "音量控制键"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I cannot find the remote control.",
+              "zh": "我找不到遥控器。"
+            },
+            {
+              "en": "Use this control to lower the volume.",
+              "zh": "用这个控制键调低音量。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "switch：通常是开关；control 可用于调节多种功能。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "remote control 指遥控器，和“控制权”不是同一具体物品。"
+      ]
+    }
+  ]
+}

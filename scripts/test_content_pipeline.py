@@ -10,6 +10,15 @@ from scripts import content_pipeline as pipeline
 
 
 class PublishedRevisionTest(unittest.TestCase):
+    def test_candidate_gate_rejects_vague_comparison_but_allows_unknown_origin(self):
+        fixture = json.loads((Path(__file__).resolve().parents[1] / "content" / "words" / "case.json").read_text(encoding="utf-8"))
+        fixture["etymology"] = ""
+        fixture["semantic_shift"] = ""
+        self.assertEqual(pipeline.validate_candidate(fixture, "case"), [])
+        fixture["senses"][0]["antonyms"] = ["end：结束。"]
+        self.assertTrue(any("antonyms needs a useful explanation" in issue
+                            for issue in pipeline.validate_candidate(fixture, "case")))
+
     def test_restage_unpublished_draft_preserves_rejected_review(self):
         fixture = json.loads((Path(__file__).resolve().parents[1] / "content" / "words" / "case.json").read_text(encoding="utf-8"))
         old_paths = pipeline.CATALOG, pipeline.WORDS, pipeline.DRAFTS

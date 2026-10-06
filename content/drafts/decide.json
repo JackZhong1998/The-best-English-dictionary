@@ -1,0 +1,97 @@
+{
+  "word": "decide",
+  "phonetic": "/dɪˈsaɪd/",
+  "syllables": [
+    "de",
+    "cide"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "决定",
+    "使结果确定"
+  ],
+  "etymology": "经古法语 decider，来自拉丁语 decidere“切断、作出决定”。",
+  "semantic_shift": "从把犹豫的可能性“切开”，发展为作出选择；决定性的因素也可以使结果确定。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to choose after thinking about possibilities",
+      "zh_definition": "考虑各种可能后作出选择",
+      "usages": [
+        {
+          "usage_label": "作出决定",
+          "collocations": [
+            {
+              "phrase": "decide to leave",
+              "translation": "决定离开"
+            },
+            {
+              "phrase": "decide on a date",
+              "translation": "定下日期"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We decided to take the train.",
+              "zh": "我们决定坐火车。"
+            },
+            {
+              "en": "Have you decided on a date yet?",
+              "zh": "你定好日期了吗？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "choose：强调从选项中挑一个；decide 更强调最终作出决定。"
+      ],
+      "antonyms": [
+        "remain undecided：尚未决定。"
+      ],
+      "confusables": [
+        "decide to 后接动词；decide on 后接所选事物。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to determine the result of something",
+      "zh_definition": "使某事的结果得到确定",
+      "usages": [
+        {
+          "usage_label": "决定结果",
+          "collocations": [
+            {
+              "phrase": "decide the winner",
+              "translation": "决定胜者"
+            },
+            {
+              "phrase": "decide the outcome",
+              "translation": "决定结果"
+            }
+          ],
+          "examples": [
+            {
+              "en": "One goal decided the match.",
+              "zh": "一个进球决定了比赛胜负。"
+            },
+            {
+              "en": "The final vote will decide the outcome.",
+              "zh": "最后一轮投票将决定结果。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "determine：也表示决定结果，语气较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义的主语可以是进球或投票，不一定是作选择的人。"
+      ]
+    }
+  ]
+}

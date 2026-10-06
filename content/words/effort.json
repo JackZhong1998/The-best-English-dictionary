@@ -1,0 +1,99 @@
+{
+  "word": "effort",
+  "phonetic": "/ˈefərt/",
+  "syllables": [
+    "ef",
+    "fort"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "努力",
+    "尝试"
+  ],
+  "etymology": "经法语 effort，来自表示“用力”的旧词，与拉丁语 fortis“强壮”有关。",
+  "semantic_shift": "从用力，扩展到为目标投入的体力或心力；一次具体努力也可指一次尝试。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "physical or mental energy used to do something",
+      "zh_definition": "做事投入的体力或心力",
+      "usages": [
+        {
+          "usage_label": "努力",
+          "collocations": [
+            {
+              "phrase": "make an effort",
+              "translation": "作出努力"
+            },
+            {
+              "phrase": "a lot of effort",
+              "translation": "大量心力"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Learning a language takes effort.",
+              "zh": "学习一门语言需要付出努力。"
+            },
+            {
+              "en": "She put a lot of effort into the project.",
+              "zh": "她在这个项目上投入了很多心力。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "work：泛指工作；effort 强调投入的力量。"
+      ],
+      "antonyms": [
+        "lack of effort：缺乏努力。"
+      ],
+      "confusables": [
+        "put effort into 后接投入心力的事情。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an attempt to achieve something",
+      "zh_definition": "为达成目标而作的一次尝试",
+      "usages": [
+        {
+          "usage_label": "尝试",
+          "collocations": [
+            {
+              "phrase": "an effort to save time",
+              "translation": "为节省时间所作的努力"
+            },
+            {
+              "phrase": "a final effort",
+              "translation": "最后一次努力"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Their effort to save the tree succeeded.",
+              "zh": "他们努力保住这棵树，最后成功了。"
+            },
+            {
+              "en": "In a final effort, she called for help.",
+              "zh": "最后她又试了一次，打电话求助。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "attempt：强调试一试；effort 通常也强调投入的心力。"
+      ],
+      "antonyms": [
+        "give up：放弃尝试。"
+      ],
+      "confusables": [
+        "an effort to do 后接动词原形；make an effort 是作出努力。"
+      ]
+    }
+  ]
+}

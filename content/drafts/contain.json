@@ -1,0 +1,138 @@
+{
+  "word": "contain",
+  "phonetic": "/kənˈteɪn/",
+  "syllables": [
+    "con",
+    "tain"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "容纳",
+    "包含",
+    "控制蔓延"
+  ],
+  "etymology": "经古法语 contenir，来自拉丁语 continere“合在一起、围住”。",
+  "semantic_shift": "从把东西围在一个范围里，发展为容器装有东西、整体包含部分，也可指把危险限制在范围内。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to have something inside",
+      "zh_definition": "内部装有某物",
+      "usages": [
+        {
+          "usage_label": "容纳",
+          "collocations": [
+            {
+              "phrase": "contain water",
+              "translation": "装水"
+            },
+            {
+              "phrase": "a box containing books",
+              "translation": "装着书的箱子"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This bottle contains water.",
+              "zh": "这个瓶子里装着水。"
+            },
+            {
+              "en": "The box contains old photos.",
+              "zh": "盒子里装着旧照片。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "hold：也指容纳；contain 强调内容物在内部。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "contain 的主语常是容器，宾语是里面的东西。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to include something as a part",
+      "zh_definition": "把某物作为组成部分包括在内",
+      "usages": [
+        {
+          "usage_label": "包含成分",
+          "collocations": [
+            {
+              "phrase": "contain sugar",
+              "translation": "含糖"
+            },
+            {
+              "phrase": "contain useful information",
+              "translation": "包含有用信息"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This drink contains no sugar.",
+              "zh": "这种饮料不含糖。"
+            },
+            {
+              "en": "The report contains useful information.",
+              "zh": "报告包含有用的信息。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "include：强调把某项算在内；contain 常强调它是内容或成分。"
+      ],
+      "antonyms": [
+        "exclude：不包括。"
+      ],
+      "confusables": [
+        "contain sugar 说的是成分，不是瓶子里装着一袋糖。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to stop something dangerous from spreading",
+      "zh_definition": "阻止危险事物向外扩散",
+      "usages": [
+        {
+          "usage_label": "控制蔓延",
+          "collocations": [
+            {
+              "phrase": "contain a fire",
+              "translation": "控制火势"
+            },
+            {
+              "phrase": "contain the spread",
+              "translation": "遏制扩散"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Firefighters contained the fire by morning.",
+              "zh": "消防员在早上控制住了火势。"
+            },
+            {
+              "en": "The town acted quickly to contain the spread.",
+              "zh": "镇上迅速采取行动遏制扩散。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "limit：泛指限制范围；contain 更强调不让它向外蔓延。"
+      ],
+      "antonyms": [
+        "let it spread：任其扩散。"
+      ],
+      "confusables": [
+        "contain a fire 是阻止火势扩散，不是把火放进盒子。"
+      ]
+    }
+  ]
+}

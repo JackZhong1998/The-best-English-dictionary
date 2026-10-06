@@ -1121,14 +1121,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "包含；容纳",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对容器装有、成分包含及遏制扩散三义；修正不自然的反义搭配为 let it spread，词源与例句准确。",
+          "sha256": "166e121ade8edaff812748a721b602b1f203b14e2b8373066a95a2b0a6a73003",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1136,14 +1146,33 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "继续",
-      "content_version": 0,
+      "content_version": 2,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对不中断继续、状态持续及暂停后接着做三义；continue doing/to do 的用法、音标与例句准确。",
+          "sha256": "775b59e650131e081acdac2e48c3d3c83afabe58ea963cceb22d05f92978f2ba",
+          "issue_count": 0,
+          "correction_count": 0
+        },
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "复核第二义反义词补充事件终止与持续的区别；英汉表达清楚，其余内容不变。",
+          "sha256": "079354e455d480a1a89e19b550a60d75d960e0732e2af78352ba3f1bf8dac2e6",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1151,14 +1180,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "控制；管理",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对动词管理/抑制与名词控制权/控制装置四义；早期核账词源有依据，例句和辨析准确。",
+          "sha256": "0824b960c79c41d53470e0a45a6e8de69a5673edd63c44e6a8e052141245be54",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1166,14 +1205,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "创造；创建",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 2,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对创造作品、创建组织、造成局面三义；搭配、例句、词源与音标准确。",
+          "sha256": "53f11c48650232b208fc5940028eff52c0075bfc9b23e0d3d878b0baecf4f4c8",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1181,14 +1230,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "文化",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对社会文化与群体风气两义；搭配及英汉例句自然，词源与词义迁移准确。",
+          "sha256": "4843101653ae979346b4c182e84de2f3cf6b3e878ccde3691c9a00d353b85ca6",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1211,14 +1270,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "决定",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对作决定和决定结果两义；decide to/on 搭配、例句、拉丁语词源准确。",
+          "sha256": "b3edf80cdcd076d598d215b73ac812ab25cb236b95bfd5c79f1531d0f50972b9",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1226,14 +1295,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "发展；开发；形成",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对自然发展、开发产品、逐渐形成三义；例句、音标和法语词源的保留说明准确。",
+          "sha256": "53fe29f1d38c5bd7871c81ce764507beaa71b81afb5123c3a1412a9ed492015e",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1241,14 +1320,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "差别；差异",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对差别、数值差额、make a difference 三义；搭配和中英例句清楚。",
+          "sha256": "41146883873b8f83be5d5df42b56e167c2291b15d05e323dc785a5f47e42806f",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1286,14 +1375,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "影响；效果",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对作用、营造效果、特效三义及 affect/effect 易混点；已补充音乐例句的作用对象。",
+          "sha256": "a2d887faa1be913120b0ea190e21251dff2ea14ee28afed9de38734596956a7f",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1301,14 +1400,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "努力",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-05",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "核对投入心力和一次尝试两义；make an effort 与 an effort to do 搭配准确。",
+          "sha256": "a625dfc4fe167e1dd4a3c33984a888916a2d83133afbd3ed5471cb8be6498695",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {

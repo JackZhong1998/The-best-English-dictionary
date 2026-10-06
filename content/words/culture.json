@@ -1,0 +1,95 @@
+{
+  "word": "culture",
+  "phonetic": "/ˈkʌltʃər/",
+  "syllables": [
+    "cul",
+    "ture"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "文化",
+    "群体风气"
+  ],
+  "etymology": "来自拉丁语 cultura“耕作、培育”，后来用于人的教育和社会生活。",
+  "semantic_shift": "从培育土地转为培育心智，再指一个群体共有的习惯、观念与艺术。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the ideas, customs, and art of a society",
+      "zh_definition": "一个社会共有的观念、习俗和艺术",
+      "usages": [
+        {
+          "usage_label": "社会文化",
+          "collocations": [
+            {
+              "phrase": "local culture",
+              "translation": "当地文化"
+            },
+            {
+              "phrase": "learn about a culture",
+              "translation": "了解一种文化"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Food is part of local culture.",
+              "zh": "饮食是当地文化的一部分。"
+            },
+            {
+              "en": "She studies the culture of the region.",
+              "zh": "她研究这个地区的文化。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "tradition：强调代代相传的做法；culture 范围更广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "culture 不只指艺术，也包括日常习俗和观念。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the shared way people behave in a group",
+      "zh_definition": "群体成员共有的行事方式",
+      "usages": [
+        {
+          "usage_label": "群体风气",
+          "collocations": [
+            {
+              "phrase": "school culture",
+              "translation": "学校风气"
+            },
+            {
+              "phrase": "workplace culture",
+              "translation": "职场文化"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The school has a culture of teamwork.",
+              "zh": "这所学校有重视合作的风气。"
+            },
+            {
+              "en": "A healthy workplace culture helps everyone.",
+              "zh": "健康的职场氛围对大家都有帮助。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "atmosphere：偏重当下氛围；culture 指较稳定的共同习惯。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "workplace culture 是工作场所的共同风气，不是一个国家的文化。"
+      ]
+    }
+  ]
+}

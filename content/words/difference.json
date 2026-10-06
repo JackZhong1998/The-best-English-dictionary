@@ -1,0 +1,139 @@
+{
+  "word": "difference",
+  "phonetic": "/ˈdɪfərəns/",
+  "syllables": [
+    "dif",
+    "fer",
+    "ence"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "差别",
+    "差额",
+    "影响"
+  ],
+  "etymology": "经古法语 difference，来自拉丁语 differentia“差异、区别”。",
+  "semantic_shift": "从两个事物不相同，发展为数值上的差额；make a difference 表示这种差异足以影响结果。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a way in which two things are not the same",
+      "zh_definition": "两个事物不相同的地方",
+      "usages": [
+        {
+          "usage_label": "差别",
+          "collocations": [
+            {
+              "phrase": "a big difference",
+              "translation": "很大的差别"
+            },
+            {
+              "phrase": "the difference between A and B",
+              "translation": "A 与 B 的差别"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I can see the difference between the two pictures.",
+              "zh": "我能看出这两幅画的区别。"
+            },
+            {
+              "en": "There is a big difference in price.",
+              "zh": "价格有很大差别。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "distinction：也表示区别，常强调分类时的界线。"
+      ],
+      "antonyms": [
+        "similarity：相似之处。"
+      ],
+      "confusables": [
+        "the difference between 后通常接两个被比较对象。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the amount by which two numbers differ",
+      "zh_definition": "两个数字相差的数量",
+      "usages": [
+        {
+          "usage_label": "差额",
+          "collocations": [
+            {
+              "phrase": "a difference of ten dollars",
+              "translation": "十美元的差额"
+            },
+            {
+              "phrase": "calculate the difference",
+              "translation": "算出差额"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The difference is only two dollars.",
+              "zh": "两者只差两美元。"
+            },
+            {
+              "en": "Please calculate the difference between the totals.",
+              "zh": "请算出两个总数的差额。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "gap：也可指数量上的差距；difference 常指可计算的相差量。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这里的 difference 是数值差，不只是外观不同。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a noticeable effect on a situation",
+      "zh_definition": "对某种情况产生明显影响",
+      "usages": [
+        {
+          "usage_label": "产生影响",
+          "collocations": [
+            {
+              "phrase": "make a difference",
+              "translation": "产生影响"
+            },
+            {
+              "phrase": "make a big difference",
+              "translation": "产生很大影响"
+            }
+          ],
+          "examples": [
+            {
+              "en": "One kind word can make a difference.",
+              "zh": "一句善意的话也能产生影响。"
+            },
+            {
+              "en": "The new road made a big difference.",
+              "zh": "新路带来了很大改变。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "impact：直接表示影响；make a difference 强调结果因之不同。"
+      ],
+      "antonyms": [
+        "make no difference：没有影响。"
+      ],
+      "confusables": [
+        "make a difference 是固定搭配，不必出现两个可比较的物品。"
+      ]
+    }
+  ]
+}
