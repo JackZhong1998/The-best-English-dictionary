@@ -1,0 +1,177 @@
+{
+  "word": "branch",
+  "phonetic": "/bræntʃ/",
+  "syllables": [
+    "branch"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "树枝",
+    "分支",
+    "分店"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a part of a tree growing from its trunk",
+      "zh_definition": "从树干长出的部分",
+      "usages": [
+        {
+          "usage_label": "树枝",
+          "collocations": [
+            {
+              "phrase": "a tree branch",
+              "translation": "树枝"
+            },
+            {
+              "phrase": "a broken branch",
+              "translation": "断枝"
+            }
+          ],
+          "examples": [
+            {
+              "en": "A bird sat on a branch.",
+              "zh": "一只鸟停在树枝上。"
+            },
+            {
+              "en": "The wind broke a large branch.",
+              "zh": "风折断了一根大树枝。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：branch 指从树干伸出的树枝。"
+      ],
+      "antonyms": [
+        "trunk：树干。"
+      ],
+      "confusables": [
+        "branch 是树枝，不等于整棵树。",
+        "twig 是较小的末端枝条，不等于所有 branch。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a part of an organization or field of study",
+      "zh_definition": "组织或知识领域的一个分部",
+      "usages": [
+        {
+          "usage_label": "分支",
+          "collocations": [
+            {
+              "phrase": "a branch of science",
+              "translation": "科学的一个分支"
+            },
+            {
+              "phrase": "a branch of government",
+              "translation": "政府的一个部门"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Biology is a branch of science.",
+              "zh": "生物学是科学的一个分支。"
+            },
+            {
+              "en": "The government has three branches.",
+              "zh": "政府有三个部门。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "division：也指分部；branch 常强调与更大整体的联系。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a branch of 后接所属的整体。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a local office or shop belonging to a larger organization",
+      "zh_definition": "大型机构或商店的当地分部",
+      "usages": [
+        {
+          "usage_label": "分店或分行",
+          "collocations": [
+            {
+              "phrase": "a bank branch",
+              "translation": "银行分行"
+            },
+            {
+              "phrase": "a local branch",
+              "translation": "当地分店"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The bank opened a new branch downtown.",
+              "zh": "银行在市中心开了一家新分行。"
+            },
+            {
+              "en": "Visit your local branch for help.",
+              "zh": "需要帮助请前往当地分店。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "office：泛指办事处；branch 属于更大机构。"
+      ],
+      "antonyms": [
+        "head office：总部。"
+      ],
+      "confusables": [
+        "branch 是分部，不是独立的新公司。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to begin doing a new kind of work or activity",
+      "zh_definition": "开始涉足新的工作或活动",
+      "usages": [
+        {
+          "usage_label": "拓展新领域",
+          "collocations": [
+            {
+              "phrase": "branch out into design",
+              "translation": "拓展到设计领域"
+            },
+            {
+              "phrase": "branch out into online sales",
+              "translation": "拓展线上销售"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She branched out into design after college.",
+              "zh": "大学毕业后，她开始涉足设计。"
+            },
+            {
+              "en": "The shop branched out into online sales.",
+              "zh": "这家店把业务拓展到了线上销售。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "expand：泛指扩大；branch out 强调进入原来没有涉及的领域。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "branch out into 后接新领域或新活动。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "word": "cable",
+  "phonetic": "/ˈkeɪbəl/",
+  "syllables": [
+    "ca",
+    "ble"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "电缆",
+    "缆绳",
+    "有线电视"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a thick wire that carries electricity or signals",
+      "zh_definition": "传输电力或信号的粗线",
+      "usages": [
+        {
+          "usage_label": "电缆",
+          "collocations": [
+            {
+              "phrase": "an electric cable",
+              "translation": "电缆"
+            },
+            {
+              "phrase": "a charging cable",
+              "translation": "充电线"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The workers repaired the damaged cable.",
+              "zh": "工人修好了受损的电缆。"
+            },
+            {
+              "en": "I forgot my charging cable.",
+              "zh": "我忘了带充电线。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "wire：泛指金属线；cable 通常由多股线组成或有外层保护。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "charging cable 是充电线，不是电视节目。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a strong thick rope made of twisted wires",
+      "zh_definition": "由多股金属线绞成的粗绳",
+      "usages": [
+        {
+          "usage_label": "钢缆",
+          "collocations": [
+            {
+              "phrase": "a steel cable",
+              "translation": "钢缆"
+            },
+            {
+              "phrase": "tie a boat with a cable",
+              "translation": "用缆绳系住船"
+            }
+          ],
+          "examples": [
+            {
+              "en": "A steel cable held the bridge in place.",
+              "zh": "一根钢缆固定住了桥。"
+            },
+            {
+              "en": "The boat was tied with a thick cable.",
+              "zh": "船被一根粗缆绳系住了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "rope：通常由纤维制成；cable 可由钢丝等绞成。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "cable 在此承受拉力，不是传输电信号。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "television delivered through a cable network",
+      "zh_definition": "通过有线网络传送的电视服务",
+      "usages": [
+        {
+          "usage_label": "有线电视",
+          "collocations": [
+            {
+              "phrase": "watch cable",
+              "translation": "看有线电视"
+            },
+            {
+              "phrase": "a cable channel",
+              "translation": "有线电视频道"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My grandparents still watch cable.",
+              "zh": "我祖父母仍然看有线电视。"
+            },
+            {
+              "en": "The show is on a cable channel.",
+              "zh": "这个节目在有线电视频道播出。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "cable TV：有线电视的完整说法；cable 是口语中的简写。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "cable 在这个语境中可省略 television。",
+        "satellite TV 通过卫星接收，与 cable 的传输方式不同。"
+      ]
+    }
+  ]
+}

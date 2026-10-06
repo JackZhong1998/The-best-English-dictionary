@@ -10,6 +10,24 @@ from scripts import content_pipeline as pipeline
 
 
 class PublishedRevisionTest(unittest.TestCase):
+    def test_candidate_catches_examples_used_by_existing_entries(self):
+        fixture = json.loads((Path(__file__).resolve().parents[1] / "content" / "words" / "case.json").read_text(encoding="utf-8"))
+        old_words, old_drafts = pipeline.WORDS, pipeline.DRAFTS
+        try:
+            with tempfile.TemporaryDirectory() as folder:
+                root = Path(folder)
+                pipeline.WORDS, pipeline.DRAFTS = root / "words", root / "drafts"
+                pipeline.WORDS.mkdir()
+                (pipeline.WORDS / "case.json").write_text(json.dumps(fixture, ensure_ascii=False), encoding="utf-8")
+                catalog = {"entries": [{"word": "case", "status": "published"}, {"word": "other", "status": "basic"}]}
+                candidate = json.loads(json.dumps(fixture))
+                candidate["word"] = "other"
+                self.assertTrue(any("duplicate example" in issue
+                                    for issue in pipeline.example_duplicates(candidate, "other", catalog)))
+                self.assertEqual(pipeline.example_duplicates(fixture, "case", catalog), [])
+        finally:
+            pipeline.WORDS, pipeline.DRAFTS = old_words, old_drafts
+
     def test_candidate_gate_rejects_vague_comparison_but_allows_unknown_origin(self):
         fixture = json.loads((Path(__file__).resolve().parents[1] / "content" / "words" / "case.json").read_text(encoding="utf-8"))
         fixture["etymology"] = ""

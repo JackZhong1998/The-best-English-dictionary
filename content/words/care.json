@@ -1,0 +1,179 @@
+{
+  "word": "care",
+  "phonetic": "/ker/",
+  "syllables": [
+    "care"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "关心",
+    "照料",
+    "在意"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "attention and concern given to someone or something",
+      "zh_definition": "对人或事物给予的关注和关心",
+      "usages": [
+        {
+          "usage_label": "关心",
+          "collocations": [
+            {
+              "phrase": "show care",
+              "translation": "表现出关心"
+            },
+            {
+              "phrase": "care and attention",
+              "translation": "关心和关注"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her care meant a lot to me.",
+              "zh": "她的关心对我很重要。"
+            },
+            {
+              "en": "Children need care and attention.",
+              "zh": "孩子需要关心和关注。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "concern：强调担忧或关切；care 也含愿意付出行动。"
+      ],
+      "antonyms": [
+        "neglect：忽视。"
+      ],
+      "confusables": [
+        "care 作名词通常不可数。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the work of looking after someone",
+      "zh_definition": "照顾某人的工作或服务",
+      "usages": [
+        {
+          "usage_label": "照料",
+          "collocations": [
+            {
+              "phrase": "medical care",
+              "translation": "医疗照护"
+            },
+            {
+              "phrase": "child care",
+              "translation": "儿童照料"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The patient needs medical care.",
+              "zh": "病人需要医疗照护。"
+            },
+            {
+              "en": "Good child care is important for families.",
+              "zh": "良好的儿童照料服务对家庭很重要。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：care 在此统称照料他人的工作。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "medical care 是医疗照护，不一定只是药物治疗。",
+        "treatment 强调治疗，是 medical care 的一部分。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to feel that someone or something matters to you",
+      "zh_definition": "觉得某人或某事对自己重要",
+      "usages": [
+        {
+          "usage_label": "在意",
+          "collocations": [
+            {
+              "phrase": "care about a friend",
+              "translation": "关心朋友"
+            },
+            {
+              "phrase": "care about the result",
+              "translation": "在意结果"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I care about what happens to you.",
+              "zh": "我在意你会遇到什么事。"
+            },
+            {
+              "en": "She cares about the result.",
+              "zh": "她在意结果。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "mind：也可表示介意；care about 更强调关切。"
+      ],
+      "antonyms": [
+        "not care：不在乎。"
+      ],
+      "confusables": [
+        "care about 后接在意的人或事。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to look after someone or something",
+      "zh_definition": "照顾某人或某物",
+      "usages": [
+        {
+          "usage_label": "照料",
+          "collocations": [
+            {
+              "phrase": "care for a patient",
+              "translation": "照顾病人"
+            },
+            {
+              "phrase": "care for a pet",
+              "translation": "照料宠物"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He cares for his elderly father.",
+              "zh": "他照顾年迈的父亲。"
+            },
+            {
+              "en": "She cares for the family's dog.",
+              "zh": "她照料家里的狗。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "look after：更日常；care for 常见于照护语境。"
+      ],
+      "antonyms": [
+        "neglect：疏于照顾。"
+      ],
+      "confusables": [
+        "care for 有时还表示喜欢，须结合语境。"
+      ]
+    }
+  ]
+}

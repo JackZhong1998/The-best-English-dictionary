@@ -1,0 +1,138 @@
+{
+  "word": "bring",
+  "phonetic": "/brɪŋ/",
+  "syllables": [
+    "bring"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "带来",
+    "引起",
+    "带回"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to carry someone or something toward the speaker or a place",
+      "zh_definition": "把人或物带到说话者或指定地点",
+      "usages": [
+        {
+          "usage_label": "带来",
+          "collocations": [
+            {
+              "phrase": "bring a friend",
+              "translation": "带朋友来"
+            },
+            {
+              "phrase": "bring your book",
+              "translation": "带上书"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please bring your book tomorrow.",
+              "zh": "明天请带上你的书。"
+            },
+            {
+              "en": "She brought her sister to the party.",
+              "zh": "她带妹妹来参加聚会。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "carry：强调拿着东西移动；bring 还强调带到这里或目的地。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bring something to someone 表示把东西带给某人。",
+        "take 常强调从这里带走，与 bring 的方向不同。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to cause a result or situation",
+      "zh_definition": "造成一种结果或情况",
+      "usages": [
+        {
+          "usage_label": "引起",
+          "collocations": [
+            {
+              "phrase": "bring change",
+              "translation": "带来改变"
+            },
+            {
+              "phrase": "bring problems",
+              "translation": "引发问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The new road brought more visitors.",
+              "zh": "新路带来了更多游客。"
+            },
+            {
+              "en": "Heavy rain brought flooding to the area.",
+              "zh": "大雨导致了这一地区的洪水。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "cause：直接表示导致；bring 常强调结果随之到来。"
+      ],
+      "antonyms": [
+        "prevent：防止发生。"
+      ],
+      "confusables": [
+        "bring trouble 不是真把麻烦拿在手里。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to return something or someone to an earlier place",
+      "zh_definition": "把人或物带回原来的地方",
+      "usages": [
+        {
+          "usage_label": "带回",
+          "collocations": [
+            {
+              "phrase": "bring back a book",
+              "translation": "把书带回来"
+            },
+            {
+              "phrase": "bring someone home",
+              "translation": "把某人带回家"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please bring back the library book.",
+              "zh": "请把图书馆的书带回来。"
+            },
+            {
+              "en": "He brought his daughter back home after the trip.",
+              "zh": "旅行后他把女儿带回了家。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "return：也指归还或返回；bring back 强调带着东西回来。"
+      ],
+      "antonyms": [
+        "take away：带走。"
+      ],
+      "confusables": [
+        "bring back 后接带回的人或物。"
+      ]
+    }
+  ]
+}

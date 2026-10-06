@@ -1,0 +1,96 @@
+{
+  "word": "broadcast",
+  "phonetic": "/ˈbrɔːdkæst/",
+  "syllables": [
+    "broad",
+    "cast"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "播出",
+    "广播节目"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to send a program by radio or television",
+      "zh_definition": "通过广播或电视向公众播出节目",
+      "usages": [
+        {
+          "usage_label": "播出",
+          "collocations": [
+            {
+              "phrase": "broadcast a program",
+              "translation": "播出节目"
+            },
+            {
+              "phrase": "broadcast live",
+              "translation": "现场直播"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The station broadcast the match live.",
+              "zh": "电视台直播了这场比赛。"
+            },
+            {
+              "en": "The interview was broadcast on radio.",
+              "zh": "那次访谈通过广播播出了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "air：也表示播出；broadcast 强调向公众传播。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "broadcast 的过去式通常仍是 broadcast。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a radio or television program sent to the public",
+      "zh_definition": "面向公众播出的广播或电视节目",
+      "usages": [
+        {
+          "usage_label": "广播节目",
+          "collocations": [
+            {
+              "phrase": "a live broadcast",
+              "translation": "现场直播"
+            },
+            {
+              "phrase": "a news broadcast",
+              "translation": "新闻广播"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We watched the live broadcast at home.",
+              "zh": "我们在家看了现场直播。"
+            },
+            {
+              "en": "The news broadcast began at six.",
+              "zh": "新闻广播六点开始。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "program：泛指节目；broadcast 强调已播出的传送形式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a broadcast 是一次播出或一个播出节目。"
+      ]
+    }
+  ]
+}

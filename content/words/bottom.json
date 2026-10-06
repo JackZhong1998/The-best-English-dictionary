@@ -1,0 +1,141 @@
+{
+  "word": "bottom",
+  "phonetic": "/ˈbɑːtəm/",
+  "syllables": [
+    "bot",
+    "tom"
+  ],
+  "pos": [
+    "n.",
+    "adj."
+  ],
+  "core_meanings": [
+    "底部",
+    "末尾",
+    "最低的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the lowest part of something",
+      "zh_definition": "某物最下面的部分",
+      "usages": [
+        {
+          "usage_label": "底部",
+          "collocations": [
+            {
+              "phrase": "the bottom of a box",
+              "translation": "盒底"
+            },
+            {
+              "phrase": "at the bottom",
+              "translation": "在底部"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The keys were at the bottom of the bag.",
+              "zh": "钥匙在包底。"
+            },
+            {
+              "en": "There is water at the bottom of the cup.",
+              "zh": "杯底有水。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "base：常指起支撑作用的底座；bottom 只强调位置最低。"
+      ],
+      "antonyms": [
+        "top：物体最上面的部分，与 bottom 的位置相对。"
+      ],
+      "confusables": [
+        "at the bottom of 后接有上下之分的事物。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the end of a list or page",
+      "zh_definition": "列表或页面的末端",
+      "usages": [
+        {
+          "usage_label": "末尾",
+          "collocations": [
+            {
+              "phrase": "the bottom of the page",
+              "translation": "页面底端"
+            },
+            {
+              "phrase": "at the bottom of the list",
+              "translation": "在名单末尾"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Write your name at the bottom of the page.",
+              "zh": "把名字写在页面底端。"
+            },
+            {
+              "en": "Her name was at the bottom of the list.",
+              "zh": "她的名字在名单末尾。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "end：泛指末端；bottom 用于按上下排列的内容。"
+      ],
+      "antonyms": [
+        "top：开头或顶部。"
+      ],
+      "confusables": [
+        "名单里的 bottom 是排序位置，不是纸张的厚度。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "at the lowest position",
+      "zh_definition": "处于最下面位置的",
+      "usages": [
+        {
+          "usage_label": "最下面的",
+          "collocations": [
+            {
+              "phrase": "the bottom shelf",
+              "translation": "最下层架子"
+            },
+            {
+              "phrase": "the bottom drawer",
+              "translation": "最下面的抽屉"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The plates are on the bottom shelf.",
+              "zh": "盘子在最下层架子上。"
+            },
+            {
+              "en": "Look in the bottom drawer.",
+              "zh": "到最下面的抽屉里找找。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "lowest：也指最低的；bottom 常作名词前的定语。"
+      ],
+      "antonyms": [
+        "top：最上面的。"
+      ],
+      "confusables": [
+        "bottom shelf 中 bottom 修饰 shelf。"
+      ]
+    }
+  ]
+}

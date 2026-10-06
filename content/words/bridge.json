@@ -1,0 +1,98 @@
+{
+  "word": "bridge",
+  "phonetic": "/brɪdʒ/",
+  "syllables": [
+    "bridge"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "桥",
+    "弥合"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a structure that carries a road or path across water or a gap",
+      "zh_definition": "让道路跨过水面或空隙的建筑",
+      "usages": [
+        {
+          "usage_label": "桥",
+          "collocations": [
+            {
+              "phrase": "cross a bridge",
+              "translation": "过桥"
+            },
+            {
+              "phrase": "a stone bridge",
+              "translation": "石桥"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We crossed the bridge on foot.",
+              "zh": "我们步行过了桥。"
+            },
+            {
+              "en": "A new bridge connects the two towns.",
+              "zh": "一座新桥连接了两座城镇。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：bridge 是跨越水面或空隙的桥。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bridge 是跨越障碍的结构，不是河岸。",
+        "overpass 是跨越道路的立交桥，属于特定类型的 bridge。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to reduce a difference between people or groups",
+      "zh_definition": "缩小人与群体之间的差异",
+      "usages": [
+        {
+          "usage_label": "弥合",
+          "collocations": [
+            {
+              "phrase": "bridge a gap",
+              "translation": "弥合差距"
+            },
+            {
+              "phrase": "bridge differences",
+              "translation": "弥合分歧"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The talks helped bridge their differences.",
+              "zh": "谈话帮助他们弥合分歧。"
+            },
+            {
+              "en": "Education can bridge the gap between groups.",
+              "zh": "教育可以缩小群体之间的差距。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "connect：强调建立联系；bridge 还强调跨过原有差距。"
+      ],
+      "antonyms": [
+        "widen a gap：扩大差距。"
+      ],
+      "confusables": [
+        "bridge the gap 是弥合差距，不是真的造桥。"
+      ]
+    }
+  ]
+}

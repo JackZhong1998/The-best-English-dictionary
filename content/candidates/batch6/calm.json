@@ -1,0 +1,141 @@
+{
+  "word": "calm",
+  "phonetic": "/kɑːm/",
+  "syllables": [
+    "calm"
+  ],
+  "pos": [
+    "adj.",
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "平静的",
+    "平静",
+    "使平静"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "not excited, worried, or angry",
+      "zh_definition": "不激动、不担心也不生气的",
+      "usages": [
+        {
+          "usage_label": "平静的",
+          "collocations": [
+            {
+              "phrase": "stay calm",
+              "translation": "保持冷静"
+            },
+            {
+              "phrase": "a calm voice",
+              "translation": "平静的声音"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Try to stay calm during the test.",
+              "zh": "考试时尽量保持冷静。"
+            },
+            {
+              "en": "She spoke in a calm voice.",
+              "zh": "她用平静的声音说话。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "peaceful：强调安宁；calm 常指人的情绪或表现。"
+      ],
+      "antonyms": [
+        "upset：心烦意乱的。"
+      ],
+      "confusables": [
+        "calm 作形容词时 l 不发音。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a state of quiet or lack of strong emotion",
+      "zh_definition": "安静或没有强烈情绪的状态",
+      "usages": [
+        {
+          "usage_label": "平静",
+          "collocations": [
+            {
+              "phrase": "a moment of calm",
+              "translation": "片刻平静"
+            },
+            {
+              "phrase": "the calm after the storm",
+              "translation": "暴风雨后的平静"
+            }
+          ],
+          "examples": [
+            {
+              "en": "There was a moment of calm after the noise.",
+              "zh": "喧闹过后有片刻平静。"
+            },
+            {
+              "en": "Everyone enjoyed the calm of the morning.",
+              "zh": "大家都享受早晨的宁静。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "peace：也指安宁；calm 可指短暂的安静状态。"
+      ],
+      "antonyms": [
+        "chaos：混乱。"
+      ],
+      "confusables": [
+        "the calm before the storm 是常见习语。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to make someone less upset or worried",
+      "zh_definition": "使某人不那么激动或担忧",
+      "usages": [
+        {
+          "usage_label": "使平静",
+          "collocations": [
+            {
+              "phrase": "calm a child",
+              "translation": "安抚孩子"
+            },
+            {
+              "phrase": "calm someone down",
+              "translation": "让某人冷静下来"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The music calmed the baby.",
+              "zh": "音乐让宝宝平静下来。"
+            },
+            {
+              "en": "She took a breath to calm herself down.",
+              "zh": "她深吸一口气让自己冷静下来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "soothe：也指安抚；calm 强调恢复平静。"
+      ],
+      "antonyms": [
+        "agitate：使激动不安。"
+      ],
+      "confusables": [
+        "calm down 可不接宾语，表示自己冷静下来。"
+      ]
+    }
+  ]
+}

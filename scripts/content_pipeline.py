@@ -178,6 +178,38 @@ def validate_candidate(entry, word):
     return problems
 
 
+def example_duplicates(entry, word, catalog):
+    """Catch repeated English examples before a draft reaches publication."""
+    seen = {}
+    problems = []
+
+    def collect(data, owner, candidate=False):
+        for sense in data.get("senses", []):
+            for usage in sense.get("usages", []):
+                for example in usage.get("examples", []):
+                    english = example.get("en", "")
+                    if not isinstance(english, str):
+                        continue
+                    normalized = re.sub(r"[^a-z ]", "", english.lower()).strip()
+                    if not normalized:
+                        continue
+                    if normalized in seen and candidate:
+                        problems.append(f"duplicate example '{english}' (already in {seen[normalized]})")
+                    else:
+                        seen[normalized] = owner
+
+    for item in catalog["entries"]:
+        other = item["word"]
+        if other == word:
+            continue
+        path = (WORDS / f"{other}.json") if item["status"] == "published" else (DRAFTS / f"{other}.json")
+        if item["status"] not in ("published", "draft", "reviewed") or not path.exists():
+            continue
+        collect(json.loads(path.read_text(encoding="utf-8")), other)
+    collect(entry, word, candidate=True)
+    return problems
+
+
 def status(_args):
     catalog = load_catalog()
     for batch in sorted({item["batch"] for item in catalog["entries"]}):
@@ -243,7 +275,7 @@ def stage(args):
     catalog = load_catalog()
     item = record(catalog, args.word)
     candidate = json.loads(Path(args.file).read_text(encoding="utf-8"))
-    problems = validate_candidate(candidate, args.word)
+    problems = validate_candidate(candidate, args.word) + example_duplicates(candidate, args.word, catalog)
     if problems:
         raise SystemExit("Candidate failed: " + "; ".join(problems))
     if item["status"] == "published":
@@ -326,7 +358,7 @@ def publish(args):
             raise SystemExit("Published version changed; restage the revision")
         source = DRAFTS / f"{args.word}.json"
         candidate = json.loads(source.read_text(encoding="utf-8"))
-        problems = validate_candidate(candidate, args.word)
+        problems = validate_candidate(candidate, args.word) + example_duplicates(candidate, args.word, catalog)
         if problems:
             raise SystemExit("Draft failed validation: " + "; ".join(problems))
         if latest["sha256"] != content_digest(candidate):
@@ -356,7 +388,7 @@ def publish(args):
         raise SystemExit("Independent review is required for this word")
     source = DRAFTS / f"{args.word}.json"
     candidate = json.loads(source.read_text(encoding="utf-8"))
-    problems = validate_candidate(candidate, args.word)
+    problems = validate_candidate(candidate, args.word) + example_duplicates(candidate, args.word, catalog)
     if problems:
         raise SystemExit("Draft failed validation: " + "; ".join(problems))
     digest = content_digest(candidate)

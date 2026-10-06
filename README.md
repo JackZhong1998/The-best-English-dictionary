@@ -1,6 +1,6 @@
 # 词义之间
 
-面向中文学习者的英汉词典。网站先收录词头和原创基础释义，再由本地 Codex 制作并复核完整词条；尚未精修的词仍可查询。现已发布 125 个完整词条，包括 100 词试批和第五批 25 个四／六级大纲候选词。前 100 词附有 869 个预生成音频文件，新扩词暂不预生成音频。`content/catalog.json` 保存每词的状态与复核记录；首批的“CET4-level candidate”是独立编辑选择，不声称来自官方四级词表。
+面向中文学习者的英汉词典。网站先收录词头和原创基础释义，再由本地 Codex 制作并复核完整词条；尚未精修的词仍可查询。现已发布 150 个完整词条，包括 100 词试批和第五、第六批各 25 个四／六级大纲候选词。前 100 词附有 869 个预生成音频文件，新扩词暂不预生成音频。`content/catalog.json` 保存每词的状态与复核记录；首批的“CET4-level candidate”是独立编辑选择，不声称来自官方四级词表。
 
 ## 本地运行和校验
 
@@ -27,7 +27,7 @@ Vite 开发服务器使用导出的静态试批数据，入口为 `http://127.0.
 
 ## Vercel 部署
 
-`vercel.json` 保证 `/word/:word` 直达链接返回 Vite 页面。网页从 `/api/words` 分页查询词头，从 `/api/entries/:word` 获取单个词条；当数据库不可用时，已发布的 125 词仍可通过静态导出阅读。正式扩大到数万词时，数据库是搜索的主要来源，不能把完整 JSON 打进浏览器包。
+`vercel.json` 保证 `/word/:word` 直达链接返回 Vite 页面。网页从 `/api/words` 分页查询词头，从 `/api/entries/:word` 获取单个词条；当数据库不可用时，已发布的 150 词仍可通过静态导出阅读。正式扩大到数万词时，数据库是搜索的主要来源，不能把完整 JSON 打进浏览器包。
 
 运行数据库初始化脚本 `db/schema.sql`、`db/audio.sql`，在 Vercel 项目设置 `DATABASE_URL`，然后运行 `node scripts/import_entries.mjs`。每次内容发布后可用 `node scripts/import_entries.mjs --batch N` 仅导入对应 25 词批次；脚本按词头幂等更新，中断后可重跑。Python Function 的依赖列在 `requirements.txt`。按需发音还需要以下环境变量：
 

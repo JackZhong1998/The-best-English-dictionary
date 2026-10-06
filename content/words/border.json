@@ -1,0 +1,136 @@
+{
+  "word": "border",
+  "phonetic": "/ˈbɔːrdər/",
+  "syllables": [
+    "bor",
+    "der"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "边界",
+    "边饰",
+    "接壤"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the line between two countries or areas",
+      "zh_definition": "两个国家或地区之间的分界线",
+      "usages": [
+        {
+          "usage_label": "边界",
+          "collocations": [
+            {
+              "phrase": "cross the border",
+              "translation": "越过边境"
+            },
+            {
+              "phrase": "a national border",
+              "translation": "国界"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We crossed the border at noon.",
+              "zh": "我们中午越过了边境。"
+            },
+            {
+              "en": "The river forms the border between the countries.",
+              "zh": "这条河构成两国之间的边界。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "boundary：泛指界线；border 常指国家或地区边界。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "border between 后接被分开的两地。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to be next to another country or area",
+      "zh_definition": "与另一国家或地区相邻",
+      "usages": [
+        {
+          "usage_label": "接壤",
+          "collocations": [
+            {
+              "phrase": "border another country",
+              "translation": "与另一国接壤"
+            },
+            {
+              "phrase": "border the sea",
+              "translation": "濒临大海"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Canada borders the United States.",
+              "zh": "加拿大与美国接壤。"
+            },
+            {
+              "en": "The park borders the river.",
+              "zh": "公园紧邻河流。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "adjoin：也指毗邻，较正式；border 更常用。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "border 作动词直接接相邻的地方。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a narrow band that decorates the edge of something",
+      "zh_definition": "装饰物品边缘的一条窄带",
+      "usages": [
+        {
+          "usage_label": "边饰",
+          "collocations": [
+            {
+              "phrase": "a colored border",
+              "translation": "彩色边框"
+            },
+            {
+              "phrase": "a border around a picture",
+              "translation": "画作周围的边框"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The photo has a white border.",
+              "zh": "这张照片有白色边框。"
+            },
+            {
+              "en": "She drew a border around the page.",
+              "zh": "她在页面四周画了一圈边框。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "edging：也指物品边缘的装饰条；border 用法更广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "border 此义是边缘装饰，不是国界。",
+        "frame 是围住图片的外框，不等于所有 border。"
+      ]
+    }
+  ]
+}

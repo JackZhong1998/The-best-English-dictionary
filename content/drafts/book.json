@@ -1,0 +1,97 @@
+{
+  "word": "book",
+  "phonetic": "/bʊk/",
+  "syllables": [
+    "book"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "书",
+    "预订"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a set of written or printed pages bound together",
+      "zh_definition": "装订成册的文字或图片",
+      "usages": [
+        {
+          "usage_label": "书",
+          "collocations": [
+            {
+              "phrase": "read a book",
+              "translation": "读书"
+            },
+            {
+              "phrase": "a history book",
+              "translation": "历史书"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I borrowed a book from the library.",
+              "zh": "我从图书馆借了一本书。"
+            },
+            {
+              "en": "This book has clear pictures.",
+              "zh": "这本书里的图片很清楚。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "volume：可指一册书，较正式；book 是日常用词。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "book 是可数名词；one book、two books。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to arrange to use a seat, room, or service at a future time",
+      "zh_definition": "提前安排将来使用座位、房间或服务",
+      "usages": [
+        {
+          "usage_label": "预订",
+          "collocations": [
+            {
+              "phrase": "book a room",
+              "translation": "预订房间"
+            },
+            {
+              "phrase": "book a ticket",
+              "translation": "订票"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We booked a room for Friday night.",
+              "zh": "我们预订了周五晚上的房间。"
+            },
+            {
+              "en": "She booked two train tickets online.",
+              "zh": "她在网上订了两张火车票。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "reserve：也表示预订；book 更常用于旅行服务。"
+      ],
+      "antonyms": [
+        "cancel：取消预订。"
+      ],
+      "confusables": [
+        "book a room 是订房，不是写一本关于房间的书。"
+      ]
+    }
+  ]
+}

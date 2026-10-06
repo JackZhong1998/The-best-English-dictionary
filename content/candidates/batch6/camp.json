@@ -1,0 +1,135 @@
+{
+  "word": "camp",
+  "phonetic": "/kæmp/",
+  "syllables": [
+    "camp"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "营地",
+    "夏令营",
+    "露营"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a place where people stay in tents or temporary buildings",
+      "zh_definition": "人们住帐篷或临时建筑的地方",
+      "usages": [
+        {
+          "usage_label": "营地",
+          "collocations": [
+            {
+              "phrase": "set up camp",
+              "translation": "扎营"
+            },
+            {
+              "phrase": "a mountain camp",
+              "translation": "山中营地"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We set up camp near the lake.",
+              "zh": "我们在湖边扎了营。"
+            },
+            {
+              "en": "The camp was empty in the morning.",
+              "zh": "早上营地里空无一人。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：camp 在此指整个临时营地。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "camp 在这里是地点，不是活动。",
+        "campsite 特指搭帐篷的地点，可只是 camp 的一部分。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an organized activity where children stay and learn or play",
+      "zh_definition": "孩子集中居住、学习或活动的项目",
+      "usages": [
+        {
+          "usage_label": "夏令营等活动",
+          "collocations": [
+            {
+              "phrase": "summer camp",
+              "translation": "夏令营"
+            },
+            {
+              "phrase": "science camp",
+              "translation": "科学营"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My son went to summer camp.",
+              "zh": "我儿子参加了夏令营。"
+            },
+            {
+              "en": "The school runs a science camp.",
+              "zh": "学校举办一个科学营。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "program：泛指活动项目；camp 通常有集体生活。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "summer camp 可能不在野外搭帐篷。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to stay outdoors in a tent",
+      "zh_definition": "在户外住帐篷",
+      "usages": [
+        {
+          "usage_label": "露营",
+          "collocations": [
+            {
+              "phrase": "camp by a lake",
+              "translation": "在湖边露营"
+            },
+            {
+              "phrase": "go camping",
+              "translation": "去露营"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We camped by the river last night.",
+              "zh": "昨晚我们在河边露营。"
+            },
+            {
+              "en": "They camp in the mountains every summer.",
+              "zh": "他们每年夏天都在山里露营。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "stay outdoors：泛指待在户外；camp 特指过夜或临时居住。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "camp 可作动词；go camping 更常见于日常对话。"
+      ]
+    }
+  ]
+}

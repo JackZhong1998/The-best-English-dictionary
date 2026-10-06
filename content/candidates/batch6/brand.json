@@ -1,0 +1,174 @@
+{
+  "word": "brand",
+  "phonetic": "/brænd/",
+  "syllables": [
+    "brand"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "品牌",
+    "烙印",
+    "给商品建立品牌",
+    "给人贴标签"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a name or design that identifies a company's products",
+      "zh_definition": "识别一家公司产品的名称或设计",
+      "usages": [
+        {
+          "usage_label": "品牌",
+          "collocations": [
+            {
+              "phrase": "a popular brand",
+              "translation": "受欢迎的品牌"
+            },
+            {
+              "phrase": "a clothing brand",
+              "translation": "服装品牌"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This brand makes sports shoes.",
+              "zh": "这个品牌生产运动鞋。"
+            },
+            {
+              "en": "She chose a local brand.",
+              "zh": "她选了一个本地品牌。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "make：口语中可指商品品牌；brand 更强调可识别的名称与形象。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "brand 是品牌，不必是某一件具体商品。",
+        "trademark 是受法律保护的商标，只是 brand 的一部分。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a permanent mark made by burning skin or material",
+      "zh_definition": "在皮肤或材料上烫出的永久标记",
+      "usages": [
+        {
+          "usage_label": "烙印",
+          "collocations": [
+            {
+              "phrase": "a cattle brand",
+              "translation": "牲畜身上的烙印"
+            },
+            {
+              "phrase": "a brand on an animal",
+              "translation": "动物身上的烙印"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The horse had a brand on its side.",
+              "zh": "那匹马侧身有一个烙印。"
+            },
+            {
+              "en": "The old brand was still visible on the wood.",
+              "zh": "木头上的旧烙印仍然看得见。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "mark：泛指痕迹；brand 此义特指烫出的标记。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这里的 brand 是实体烙印，不是商品品牌。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to give a product a name, image, or identifying mark",
+      "zh_definition": "为商品设计名称、形象或识别标记",
+      "usages": [
+        {
+          "usage_label": "给商品建立品牌",
+          "collocations": [
+            {
+              "phrase": "brand a product",
+              "translation": "给商品建立品牌"
+            },
+            {
+              "phrase": "brand a drink as healthy",
+              "translation": "把饮料定位为健康饮品"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The company branded the bags with its logo.",
+              "zh": "公司在包上印了自己的品牌标志。"
+            },
+            {
+              "en": "They branded the drink as a healthy choice.",
+              "zh": "他们把这种饮料定位为健康之选。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "market：强调推广销售；brand 强调建立可识别的商品形象。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "brand a product 是建立品牌形象，不只是给物品烫印记。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to give someone a damaging public label",
+      "zh_definition": "给某人贴上负面的社会标签",
+      "usages": [
+        {
+          "usage_label": "给人贴标签",
+          "collocations": [
+            {
+              "phrase": "brand someone a liar",
+              "translation": "给某人贴上骗子标签"
+            },
+            {
+              "phrase": "be branded a failure",
+              "translation": "被贴上失败者标签"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The rumor branded him a liar.",
+              "zh": "那条传言让他背上骗子的名声。"
+            },
+            {
+              "en": "One mistake branded her a failure.",
+              "zh": "一次失误让她被贴上失败者的标签。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "label：也指给人贴标签；brand 往往带难以摆脱的负面评价。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "brand someone a liar 是舆论上的标签，不是给身体烙印。"
+      ]
+    }
+  ]
+}

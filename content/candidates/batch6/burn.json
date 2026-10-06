@@ -1,0 +1,137 @@
+{
+  "word": "burn",
+  "phonetic": "/bɝːn/",
+  "syllables": [
+    "burn"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "燃烧",
+    "烧伤",
+    "灼伤"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to be on fire or make something catch fire",
+      "zh_definition": "自身着火或使某物燃烧",
+      "usages": [
+        {
+          "usage_label": "燃烧",
+          "collocations": [
+            {
+              "phrase": "burn wood",
+              "translation": "烧木头"
+            },
+            {
+              "phrase": "a fire burns",
+              "translation": "火在燃烧"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The fire burned all night.",
+              "zh": "火烧了一整夜。"
+            },
+            {
+              "en": "We burned dry wood in the stove.",
+              "zh": "我们在炉子里烧干木柴。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "combust：也指燃烧，较正式；burn 是日常用词。"
+      ],
+      "antonyms": [
+        "put out：扑灭火。"
+      ],
+      "confusables": [
+        "burn 可接燃料，也可不接宾语。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to injure skin with heat or chemicals",
+      "zh_definition": "用热或化学物质伤害皮肤",
+      "usages": [
+        {
+          "usage_label": "烧伤或灼伤",
+          "collocations": [
+            {
+              "phrase": "burn your hand",
+              "translation": "烫伤手"
+            },
+            {
+              "phrase": "burn your skin",
+              "translation": "灼伤皮肤"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I burned my hand on the hot pan.",
+              "zh": "我被热锅烫伤了手。"
+            },
+            {
+              "en": "Strong sunlight can burn your skin.",
+              "zh": "强烈阳光会灼伤皮肤。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：burn 在此泛指热或化学物质造成的灼伤。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "burned 是美式英语常用的过去式。",
+        "scald 特指热液体或蒸汽造成的烫伤。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "an injury caused by heat, chemicals, or sunlight",
+      "zh_definition": "热、化学物质或阳光造成的皮肤伤害",
+      "usages": [
+        {
+          "usage_label": "烧伤",
+          "collocations": [
+            {
+              "phrase": "a small burn",
+              "translation": "轻微烧伤"
+            },
+            {
+              "phrase": "a sunburn",
+              "translation": "晒伤"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The hot cup left a small burn on my hand.",
+              "zh": "热杯子把我的手烫出了一小块伤。"
+            },
+            {
+              "en": "She had a burn on her arm.",
+              "zh": "她胳膊上有一处烧伤。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "wound：泛指伤口；burn 特指灼热等造成的伤。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a burn 是一处烧伤；burn 作动词是烧伤。"
+      ]
+    }
+  ]
+}

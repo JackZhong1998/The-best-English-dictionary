@@ -1,0 +1,138 @@
+{
+  "word": "capital",
+  "phonetic": "/ˈkæpɪtəl/",
+  "syllables": [
+    "cap",
+    "i",
+    "tal"
+  ],
+  "pos": [
+    "n.",
+    "adj."
+  ],
+  "core_meanings": [
+    "首都",
+    "资本",
+    "大写的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the city where a country's government is based",
+      "zh_definition": "国家政府所在的城市",
+      "usages": [
+        {
+          "usage_label": "首都",
+          "collocations": [
+            {
+              "phrase": "the national capital",
+              "translation": "国家首都"
+            },
+            {
+              "phrase": "the capital of France",
+              "translation": "法国首都"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Beijing is the capital of China.",
+              "zh": "北京是中国的首都。"
+            },
+            {
+              "en": "We visited the capital last summer.",
+              "zh": "去年夏天我们游览了首都。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "seat of government：指政府所在地；capital 是首都的常用说法。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "capital of 后接国家或地区。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "money used to start or run a business",
+      "zh_definition": "用于创办或经营企业的钱",
+      "usages": [
+        {
+          "usage_label": "资本",
+          "collocations": [
+            {
+              "phrase": "raise capital",
+              "translation": "筹集资本"
+            },
+            {
+              "phrase": "invest capital",
+              "translation": "投入资本"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The company raised capital for a new factory.",
+              "zh": "公司为新工厂筹集了资本。"
+            },
+            {
+              "en": "They invested their capital in the business.",
+              "zh": "他们把资本投进了这家公司。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "funds：泛指资金；capital 特指用于经营或投资的钱。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "capital 在此通常不可数，不是城市名称。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "written in the large form used at the start of names or sentences",
+      "zh_definition": "采用姓名或句首所用大写形式的",
+      "usages": [
+        {
+          "usage_label": "大写的",
+          "collocations": [
+            {
+              "phrase": "a capital letter",
+              "translation": "大写字母"
+            },
+            {
+              "phrase": "write in capital letters",
+              "translation": "用大写字母写"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Start the sentence with a capital letter.",
+              "zh": "句首要用大写字母。"
+            },
+            {
+              "en": "Please write your name in capital letters.",
+              "zh": "请用大写字母写下你的名字。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "uppercase：也指大写；capital 常与 letter 连用。"
+      ],
+      "antonyms": [
+        "lowercase：小写的。"
+      ],
+      "confusables": [
+        "capital letter 不表示首都里的信件。"
+      ]
+    }
+  ]
+}

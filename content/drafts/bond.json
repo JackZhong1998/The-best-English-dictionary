@@ -1,0 +1,137 @@
+{
+  "word": "bond",
+  "phonetic": "/bɑːnd/",
+  "syllables": [
+    "bond"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "纽带",
+    "债券",
+    "粘合"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a close connection between people",
+      "zh_definition": "人与人之间的紧密联系",
+      "usages": [
+        {
+          "usage_label": "纽带",
+          "collocations": [
+            {
+              "phrase": "a strong bond",
+              "translation": "牢固的纽带"
+            },
+            {
+              "phrase": "a bond between friends",
+              "translation": "朋友间的情谊"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The trip created a strong bond between us.",
+              "zh": "这次旅行让我们之间建立了深厚的情谊。"
+            },
+            {
+              "en": "She has a close bond with her sister.",
+              "zh": "她和姐姐关系很亲密。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "connection：泛指联系；bond 强调情感上的紧密。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bond with someone 可表示与某人建立感情。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an investment in which an organization borrows money and promises repayment",
+      "zh_definition": "机构借钱并承诺偿还的债务凭证",
+      "usages": [
+        {
+          "usage_label": "债券",
+          "collocations": [
+            {
+              "phrase": "government bonds",
+              "translation": "政府债券"
+            },
+            {
+              "phrase": "buy a bond",
+              "translation": "购买债券"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He bought a government bond.",
+              "zh": "他买了一张政府债券。"
+            },
+            {
+              "en": "Bonds usually pay interest.",
+              "zh": "债券通常会支付利息。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：bond 在此指可交易的债务凭证。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bond 作金融名词不表示人与人的纽带。",
+        "loan 是借贷关系或借出的款项，不等于 bond 凭证。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to join materials firmly together",
+      "zh_definition": "使材料牢固地粘在一起",
+      "usages": [
+        {
+          "usage_label": "粘合",
+          "collocations": [
+            {
+              "phrase": "bond two surfaces",
+              "translation": "粘合两个表面"
+            },
+            {
+              "phrase": "bond with glue",
+              "translation": "用胶粘合"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The glue bonds the two pieces together.",
+              "zh": "胶水把两块材料粘在一起。"
+            },
+            {
+              "en": "These layers bond when heated.",
+              "zh": "这些层受热后会粘合。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "stick：也指粘住；bond 强调形成牢固连接。"
+      ],
+      "antonyms": [
+        "separate：使分开。"
+      ],
+      "confusables": [
+        "材料作主语时 bond 可表示自行粘合。"
+      ]
+    }
+  ]
+}

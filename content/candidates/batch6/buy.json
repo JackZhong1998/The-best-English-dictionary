@@ -1,0 +1,98 @@
+{
+  "word": "buy",
+  "phonetic": "/baɪ/",
+  "syllables": [
+    "buy"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "购买",
+    "相信"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to get something by paying money",
+      "zh_definition": "付钱取得某物",
+      "usages": [
+        {
+          "usage_label": "购买",
+          "collocations": [
+            {
+              "phrase": "buy a ticket",
+              "translation": "买票"
+            },
+            {
+              "phrase": "buy groceries",
+              "translation": "买食品杂货"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I bought a ticket online.",
+              "zh": "我在网上买了票。"
+            },
+            {
+              "en": "She buys groceries on Sundays.",
+              "zh": "她星期天买食品杂货。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "purchase：也指购买，较正式；buy 是日常用词。"
+      ],
+      "antonyms": [
+        "sell：卖出。"
+      ],
+      "confusables": [
+        "buy something for someone 表示给某人买东西。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to believe an explanation or claim, often in the negative",
+      "zh_definition": "相信某种解释或说法，常用于否定句",
+      "usages": [
+        {
+          "usage_label": "相信",
+          "collocations": [
+            {
+              "phrase": "not buy an excuse",
+              "translation": "不相信借口"
+            },
+            {
+              "phrase": "buy that story",
+              "translation": "相信那番说辞"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I don't buy his excuse.",
+              "zh": "我不相信他的借口。"
+            },
+            {
+              "en": "She did not buy that story.",
+              "zh": "她不相信那番说辞。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "believe：泛指相信；buy 此义较口语，常表示接受一种说法。"
+      ],
+      "antonyms": [
+        "doubt：怀疑。"
+      ],
+      "confusables": [
+        "I don't buy it 是“不信这一套”，不是不买东西。"
+      ]
+    }
+  ]
+}

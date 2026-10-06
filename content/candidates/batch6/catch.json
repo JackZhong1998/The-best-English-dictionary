@@ -1,0 +1,220 @@
+{
+  "word": "catch",
+  "phonetic": "/kætʃ/",
+  "syllables": [
+    "catch"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "接住",
+    "赶上",
+    "感染",
+    "抓住",
+    "听清"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to stop and hold something moving through the air",
+      "zh_definition": "抓住空中运动的东西",
+      "usages": [
+        {
+          "usage_label": "接住",
+          "collocations": [
+            {
+              "phrase": "catch a ball",
+              "translation": "接球"
+            },
+            {
+              "phrase": "catch a falling object",
+              "translation": "接住落下的东西"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She caught the ball with one hand.",
+              "zh": "她用一只手接住了球。"
+            },
+            {
+              "en": "He caught the falling glass.",
+              "zh": "他接住了掉下来的杯子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "grab：泛指抓取；catch 强调东西正在运动。"
+      ],
+      "antonyms": [
+        "drop：失手掉落。"
+      ],
+      "confusables": [
+        "catch 的过去式是 caught。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to get on a bus, train, or plane before it leaves",
+      "zh_definition": "在交通工具离开前登上它",
+      "usages": [
+        {
+          "usage_label": "赶上",
+          "collocations": [
+            {
+              "phrase": "catch the bus",
+              "translation": "赶上公交车"
+            },
+            {
+              "phrase": "catch a train",
+              "translation": "赶上火车"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We ran to catch the bus.",
+              "zh": "我们跑着去赶公交车。"
+            },
+            {
+              "en": "She caught the last train home.",
+              "zh": "她赶上了回家的末班车。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "board：表示登上交通工具；catch 还强调及时赶上。"
+      ],
+      "antonyms": [
+        "miss：错过。"
+      ],
+      "confusables": [
+        "catch a bus 是赶上公交，不是用手接公交。",
+        "take 表示乘坐交通工具，不一定强调赶上发车。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to become ill with an infectious disease",
+      "zh_definition": "感染一种传染病",
+      "usages": [
+        {
+          "usage_label": "染上",
+          "collocations": [
+            {
+              "phrase": "catch a cold",
+              "translation": "感冒"
+            },
+            {
+              "phrase": "catch the flu",
+              "translation": "染上流感"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I caught a cold last week.",
+              "zh": "我上周感冒了。"
+            },
+            {
+              "en": "Several students caught the flu.",
+              "zh": "几名学生染上了流感。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "get：也可表示患病；catch 强调被传染。"
+      ],
+      "antonyms": [
+        "recover from：从疾病中恢复。"
+      ],
+      "confusables": [
+        "catch a cold 是感冒，不是接住一个冷的东西。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to capture a person or animal that is trying to get away",
+      "zh_definition": "抓住试图逃跑的人或动物",
+      "usages": [
+        {
+          "usage_label": "抓获",
+          "collocations": [
+            {
+              "phrase": "catch a thief",
+              "translation": "抓住小偷"
+            },
+            {
+              "phrase": "catch a mouse",
+              "translation": "抓到老鼠"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The police caught the thief.",
+              "zh": "警察抓住了小偷。"
+            },
+            {
+              "en": "The cat caught a mouse.",
+              "zh": "猫抓到了一只老鼠。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "capture：也指抓获，较正式；catch 是日常说法。"
+      ],
+      "antonyms": [
+        "release：放走。"
+      ],
+      "confusables": [
+        "catch a thief 强调抓到人，不是赶交通工具。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to hear and understand something someone says",
+      "zh_definition": "听到并理解别人说的话",
+      "usages": [
+        {
+          "usage_label": "听清",
+          "collocations": [
+            {
+              "phrase": "catch a name",
+              "translation": "听清名字"
+            },
+            {
+              "phrase": "catch what someone says",
+              "translation": "听清某人说的话"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Sorry, I did not catch your name.",
+              "zh": "抱歉，我没听清你的名字。"
+            },
+            {
+              "en": "I could not catch what she said.",
+              "zh": "我没听清她说的话。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "make out：也指听清模糊的话语；catch 更口语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "catch your name 是听清名字，不是用手抓住名字。"
+      ]
+    }
+  ]
+}

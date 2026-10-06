@@ -1,0 +1,138 @@
+{
+  "word": "button",
+  "phonetic": "/ˈbʌtən/",
+  "syllables": [
+    "but",
+    "ton"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "纽扣",
+    "按钮",
+    "扣上"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a small object used to fasten clothes",
+      "zh_definition": "用来系紧衣服的小圆片",
+      "usages": [
+        {
+          "usage_label": "纽扣",
+          "collocations": [
+            {
+              "phrase": "sew on a button",
+              "translation": "缝上纽扣"
+            },
+            {
+              "phrase": "a shirt button",
+              "translation": "衬衫纽扣"
+            }
+          ],
+          "examples": [
+            {
+              "en": "A button fell off my coat.",
+              "zh": "我外套上的一颗纽扣掉了。"
+            },
+            {
+              "en": "She sewed a new button on the shirt.",
+              "zh": "她给衬衫缝了一颗新纽扣。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：button 在此特指衣服上的纽扣。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "button 作名词也可指机器上的按钮。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a small part you press to operate a device",
+      "zh_definition": "按下后操控设备的小部件",
+      "usages": [
+        {
+          "usage_label": "按钮",
+          "collocations": [
+            {
+              "phrase": "press a button",
+              "translation": "按按钮"
+            },
+            {
+              "phrase": "the power button",
+              "translation": "电源按钮"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Press the green button to start.",
+              "zh": "按绿色按钮启动。"
+            },
+            {
+              "en": "The power button is on the side.",
+              "zh": "电源按钮在侧面。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：button 在此指按下后操控设备的小部件。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "press a button 是按按钮；不是缝纽扣。",
+        "key 通常是键盘上的键，不等于所有 button。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to fasten clothes using buttons",
+      "zh_definition": "用纽扣把衣服扣好",
+      "usages": [
+        {
+          "usage_label": "扣上",
+          "collocations": [
+            {
+              "phrase": "button a coat",
+              "translation": "扣上外套"
+            },
+            {
+              "phrase": "button up a shirt",
+              "translation": "扣好衬衫"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Button your coat before you go out.",
+              "zh": "出门前把外套扣好。"
+            },
+            {
+              "en": "He buttoned up his shirt.",
+              "zh": "他扣好了衬衫。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "fasten：泛指系好；button 特指用纽扣扣好。"
+      ],
+      "antonyms": [
+        "unbutton：解开纽扣。"
+      ],
+      "confusables": [
+        "button up 与 button 在衣服语境中意思相近。"
+      ]
+    }
+  ]
+}

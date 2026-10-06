@@ -1,0 +1,172 @@
+{
+  "word": "burst",
+  "phonetic": "/bɝːst/",
+  "syllables": [
+    "burst"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "爆裂",
+    "猛然出现",
+    "一阵"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to break open suddenly",
+      "zh_definition": "突然裂开",
+      "usages": [
+        {
+          "usage_label": "爆裂",
+          "collocations": [
+            {
+              "phrase": "a pipe bursts",
+              "translation": "水管爆裂"
+            },
+            {
+              "phrase": "a balloon bursts",
+              "translation": "气球爆裂"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The balloon burst with a loud pop.",
+              "zh": "气球啪的一声爆了。"
+            },
+            {
+              "en": "A water pipe burst last night.",
+              "zh": "昨晚一根水管爆裂了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "explode：常指爆炸；burst 可以只是因压力而破裂。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "burst 的过去式仍是 burst。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to move suddenly and forcefully into or out of a place",
+      "zh_definition": "突然有力地进入或冲出某处",
+      "usages": [
+        {
+          "usage_label": "冲入或冲出",
+          "collocations": [
+            {
+              "phrase": "burst into a room",
+              "translation": "闯进房间"
+            },
+            {
+              "phrase": "burst out of the door",
+              "translation": "冲出门"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She burst into the room without knocking.",
+              "zh": "她没敲门就冲进房间。"
+            },
+            {
+              "en": "The dog burst out of the house.",
+              "zh": "狗猛地冲出了房子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "rush：也指冲向某处；burst 强调突然且有力。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "burst into a room 是闯入；burst into tears 是突然哭起来。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to suddenly start crying or laughing",
+      "zh_definition": "突然开始哭或笑",
+      "usages": [
+        {
+          "usage_label": "突然出现情绪",
+          "collocations": [
+            {
+              "phrase": "burst into tears",
+              "translation": "突然哭起来"
+            },
+            {
+              "phrase": "burst out laughing",
+              "translation": "突然大笑"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She burst into tears after the call.",
+              "zh": "接完电话后，她突然哭了起来。"
+            },
+            {
+              "en": "We burst out laughing at the joke.",
+              "zh": "听到那个笑话，我们突然大笑起来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "suddenly cry：描述突然哭；burst into tears 是固定表达。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "burst into tears 与 burst out laughing 的介词搭配不同。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a short sudden period of activity or sound",
+      "zh_definition": "短暂而突然的一阵活动或声音",
+      "usages": [
+        {
+          "usage_label": "一阵",
+          "collocations": [
+            {
+              "phrase": "a burst of laughter",
+              "translation": "一阵笑声"
+            },
+            {
+              "phrase": "a burst of energy",
+              "translation": "一股劲头"
+            }
+          ],
+          "examples": [
+            {
+              "en": "A burst of laughter came from the room.",
+              "zh": "房间里传出一阵笑声。"
+            },
+            {
+              "en": "A burst of energy helped him finish the race.",
+              "zh": "一股劲头让他跑完了比赛。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "rush：也可指突然涌来；burst 强调短促。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a burst of 后接突然出现的声音或活动。"
+      ]
+    }
+  ]
+}

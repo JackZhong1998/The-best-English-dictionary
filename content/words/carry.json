@@ -1,0 +1,177 @@
+{
+  "word": "carry",
+  "phonetic": "/ˈkæri/",
+  "syllables": [
+    "car",
+    "ry"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "携带",
+    "运输",
+    "承担",
+    "传送"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to hold something while moving",
+      "zh_definition": "移动时拿着某物",
+      "usages": [
+        {
+          "usage_label": "携带",
+          "collocations": [
+            {
+              "phrase": "carry a bag",
+              "translation": "提包"
+            },
+            {
+              "phrase": "carry a child",
+              "translation": "抱孩子"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She carried a heavy bag upstairs.",
+              "zh": "她提着一个重包上楼。"
+            },
+            {
+              "en": "He carried the baby in his arms.",
+              "zh": "他把宝宝抱在怀里。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "bring：强调带到某地；carry 强调拿着或背着移动。"
+      ],
+      "antonyms": [
+        "put down：放下。"
+      ],
+      "confusables": [
+        "carry 可用于提、抱或背，不限定姿势。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to transport people or goods from one place to another",
+      "zh_definition": "把人或货物运送到另一地点",
+      "usages": [
+        {
+          "usage_label": "运输",
+          "collocations": [
+            {
+              "phrase": "carry passengers",
+              "translation": "载客"
+            },
+            {
+              "phrase": "carry goods",
+              "translation": "运货"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The bus carries fifty passengers.",
+              "zh": "这辆公交车可载五十名乘客。"
+            },
+            {
+              "en": "The ship carried goods across the sea.",
+              "zh": "这艘船把货物运过了海。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "transport：也指运输，较正式；carry 更常用。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "车辆或船作主语时 carry 指运载。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to accept a duty or responsibility",
+      "zh_definition": "承担职责或责任",
+      "usages": [
+        {
+          "usage_label": "承担",
+          "collocations": [
+            {
+              "phrase": "carry responsibility",
+              "translation": "承担责任"
+            },
+            {
+              "phrase": "carry a heavy burden",
+              "translation": "承担重担"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The manager carries responsibility for safety.",
+              "zh": "经理对安全负有责任。"
+            },
+            {
+              "en": "She carried a heavy burden for years.",
+              "zh": "多年来她一直承担着沉重的负担。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "bear：也指承担；carry 还可强调持续背负的感觉。"
+      ],
+      "antonyms": [
+        "avoid responsibility：逃避责任。"
+      ],
+      "confusables": [
+        "carry a burden 可指真实重量，也可指压力。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to send sound, water, or information through a medium",
+      "zh_definition": "通过媒介传送声音、水或信息",
+      "usages": [
+        {
+          "usage_label": "传送",
+          "collocations": [
+            {
+              "phrase": "carry a signal",
+              "translation": "传送信号"
+            },
+            {
+              "phrase": "carry water",
+              "translation": "输水"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The cable carries signals to the house.",
+              "zh": "电缆把信号传到房子里。"
+            },
+            {
+              "en": "This pipe carries water to the kitchen.",
+              "zh": "这根管道把水送到厨房。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "transmit：多指传送信号；carry 也可用于水等实体。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "电缆或管道作主语时 carry 不表示用手拿。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "word": "box",
+  "phonetic": "/bɑːks/",
+  "syllables": [
+    "box"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "盒子",
+    "方框",
+    "拳击",
+    "装箱"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a container with flat sides and a lid or opening",
+      "zh_definition": "有平整侧面、可装东西的容器",
+      "usages": [
+        {
+          "usage_label": "盒子",
+          "collocations": [
+            {
+              "phrase": "a cardboard box",
+              "translation": "纸箱"
+            },
+            {
+              "phrase": "a box of chocolates",
+              "translation": "一盒巧克力"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The books are in a cardboard box.",
+              "zh": "书放在一个纸箱里。"
+            },
+            {
+              "en": "She opened a box of chocolates.",
+              "zh": "她打开一盒巧克力。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "container：泛指容器；box 通常有较规则的外形。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a box of 后接盒内的东西。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a square or rectangular space on a form or screen",
+      "zh_definition": "表格或屏幕上的方形区域",
+      "usages": [
+        {
+          "usage_label": "方框",
+          "collocations": [
+            {
+              "phrase": "tick a box",
+              "translation": "勾选方框"
+            },
+            {
+              "phrase": "a text box",
+              "translation": "文本框"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Tick the box beside your answer.",
+              "zh": "在答案旁的方框里打勾。"
+            },
+            {
+              "en": "Type your name in the text box.",
+              "zh": "在文本框里输入姓名。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "square：也可指方形区域；box 常是表格上的可填区域。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "text box 是输入区域，不是装东西的盒子。",
+        "field 是填写区域的统称，不一定画成方框。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to fight someone using fists as a sport",
+      "zh_definition": "作为运动用拳头与人比赛",
+      "usages": [
+        {
+          "usage_label": "拳击",
+          "collocations": [
+            {
+              "phrase": "box professionally",
+              "translation": "从事职业拳击"
+            },
+            {
+              "phrase": "box against someone",
+              "translation": "与某人打拳击赛"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He boxed professionally for five years.",
+              "zh": "他当了五年职业拳击手。"
+            },
+            {
+              "en": "She boxed against a stronger opponent.",
+              "zh": "她与一名更强的对手打了一场拳击赛。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "fight：泛指打斗；box 指按拳击规则比赛。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "box 作动词是打拳击，不是把人装进盒子。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to put things into boxes for storage or moving",
+      "zh_definition": "把物品放进箱子以便存放或搬运",
+      "usages": [
+        {
+          "usage_label": "装箱",
+          "collocations": [
+            {
+              "phrase": "box up the books",
+              "translation": "把书装箱"
+            },
+            {
+              "phrase": "box up old clothes",
+              "translation": "把旧衣服装箱"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We boxed up the books before moving.",
+              "zh": "搬家前我们把书装进了箱子。"
+            },
+            {
+              "en": "She boxed up her old clothes.",
+              "zh": "她把旧衣服装进了箱子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pack：泛指打包；box up 特指装进箱子。"
+      ],
+      "antonyms": [
+        "unpack：把打包的东西取出来。"
+      ],
+      "confusables": [
+        "box up 作动词短语，不是参加拳击。"
+      ]
+    }
+  ]
+}

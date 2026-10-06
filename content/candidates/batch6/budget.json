@@ -1,0 +1,138 @@
+{
+  "word": "budget",
+  "phonetic": "/ˈbʌdʒɪt/",
+  "syllables": [
+    "bud",
+    "get"
+  ],
+  "pos": [
+    "n.",
+    "v.",
+    "adj."
+  ],
+  "core_meanings": [
+    "预算",
+    "编预算",
+    "低价的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a plan for how much money to spend",
+      "zh_definition": "计划如何花钱的预算方案",
+      "usages": [
+        {
+          "usage_label": "预算",
+          "collocations": [
+            {
+              "phrase": "a monthly budget",
+              "translation": "月度预算"
+            },
+            {
+              "phrase": "stay within budget",
+              "translation": "不超预算"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We made a budget for the trip.",
+              "zh": "我们为这次旅行做了预算。"
+            },
+            {
+              "en": "The project stayed within budget.",
+              "zh": "这个项目没有超出预算。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "spending plan：描述花钱计划；budget 是更常用的名词。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "on a budget 表示手头资金有限。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to plan how to use a limited amount of money",
+      "zh_definition": "计划如何使用有限的钱",
+      "usages": [
+        {
+          "usage_label": "编制预算",
+          "collocations": [
+            {
+              "phrase": "budget carefully",
+              "translation": "仔细做预算"
+            },
+            {
+              "phrase": "budget for rent",
+              "translation": "为房租留预算"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We need to budget for travel costs.",
+              "zh": "我们需要把差旅费列入预算。"
+            },
+            {
+              "en": "She budgets carefully each month.",
+              "zh": "她每个月都仔细做预算。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "plan spending：泛指计划开支；budget 强调金额限制。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "budget for 后接预留资金的用途。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "available at a low price",
+      "zh_definition": "价格较低的",
+      "usages": [
+        {
+          "usage_label": "低价的",
+          "collocations": [
+            {
+              "phrase": "a budget hotel",
+              "translation": "经济型酒店"
+            },
+            {
+              "phrase": "a budget airline",
+              "translation": "廉价航空公司"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We stayed at a budget hotel.",
+              "zh": "我们住了一家经济型酒店。"
+            },
+            {
+              "en": "They chose a budget airline.",
+              "zh": "他们选择了一家廉价航空公司。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "cheap：可指便宜，也可能暗示质量差；budget 主要强调省钱。"
+      ],
+      "antonyms": [
+        "expensive：昂贵的。"
+      ],
+      "confusables": [
+        "budget hotel 指价格低，不一定表示服务差。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "word": "board",
+  "phonetic": "/bɔːrd/",
+  "syllables": [
+    "board"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "木板",
+    "董事会",
+    "登上交通工具"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a long flat piece of wood or other material",
+      "zh_definition": "一块长而平的木头或其他材料",
+      "usages": [
+        {
+          "usage_label": "板",
+          "collocations": [
+            {
+              "phrase": "a wooden board",
+              "translation": "木板"
+            },
+            {
+              "phrase": "a cutting board",
+              "translation": "砧板"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He put the cups on a wooden board.",
+              "zh": "他把杯子放在木板上。"
+            },
+            {
+              "en": "Use this board to cut the vegetables.",
+              "zh": "用这块砧板切菜。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "plank：通常指狭长的木板；board 的材料和形状范围更广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "board 作名词指板；bored 是感到无聊的。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a group of people who direct an organization",
+      "zh_definition": "负责管理一个组织的一群人",
+      "usages": [
+        {
+          "usage_label": "董事会",
+          "collocations": [
+            {
+              "phrase": "the board of directors",
+              "translation": "董事会"
+            },
+            {
+              "phrase": "a board meeting",
+              "translation": "董事会会议"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The board approved the plan.",
+              "zh": "董事会批准了这项计划。"
+            },
+            {
+              "en": "She joined the board last year.",
+              "zh": "她去年加入了董事会。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：board 在此是组织的决策管理群体。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "board 在这里指一群人，不是一块木板。",
+        "committee 是处理特定事务的委员会，不一定是 board。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to get onto a bus, train, plane, or ship",
+      "zh_definition": "登上公交、火车、飞机或船",
+      "usages": [
+        {
+          "usage_label": "登上交通工具",
+          "collocations": [
+            {
+              "phrase": "board a plane",
+              "translation": "登机"
+            },
+            {
+              "phrase": "board the train",
+              "translation": "登上火车"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Passengers are boarding the plane now.",
+              "zh": "乘客现在正在登机。"
+            },
+            {
+              "en": "We boarded the train at noon.",
+              "zh": "我们中午登上了火车。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "get on：日常说法；board 常见于车站和机场通知。"
+      ],
+      "antonyms": [
+        "get off：下车或下飞机。"
+      ],
+      "confusables": [
+        "board 直接接交通工具，不说 board on the plane。"
+      ]
+    }
+  ]
+}

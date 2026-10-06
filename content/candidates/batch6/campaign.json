@@ -1,0 +1,136 @@
+{
+  "word": "campaign",
+  "phonetic": "/kæmˈpeɪn/",
+  "syllables": [
+    "cam",
+    "paign"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "宣传活动",
+    "竞选",
+    "开展活动"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a planned series of actions to achieve a public goal",
+      "zh_definition": "为实现公共目标而安排的一系列行动",
+      "usages": [
+        {
+          "usage_label": "活动",
+          "collocations": [
+            {
+              "phrase": "a health campaign",
+              "translation": "健康宣传活动"
+            },
+            {
+              "phrase": "a campaign against waste",
+              "translation": "反浪费活动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The school started a campaign against food waste.",
+              "zh": "学校发起了反对浪费食物的活动。"
+            },
+            {
+              "en": "The health campaign reached many families.",
+              "zh": "健康宣传活动影响了许多家庭。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "drive：也指集中开展的活动；campaign 通常有明确目标和持续安排。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a campaign against 后接要反对的问题。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "organized activities to win an election",
+      "zh_definition": "为赢得选举而开展的有组织活动",
+      "usages": [
+        {
+          "usage_label": "竞选活动",
+          "collocations": [
+            {
+              "phrase": "an election campaign",
+              "translation": "竞选活动"
+            },
+            {
+              "phrase": "run a campaign",
+              "translation": "开展竞选"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her election campaign began in March.",
+              "zh": "她的竞选活动三月开始。"
+            },
+            {
+              "en": "The candidate ran a small campaign.",
+              "zh": "这名候选人开展了小规模竞选。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "election drive：也指争取选票的竞选活动；campaign 更常用。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "run a campaign 是开展竞选，不是跑步。",
+        "election 指投票选举本身；campaign 是选前的活动。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to work publicly for a political or social goal",
+      "zh_definition": "公开为政治或社会目标努力",
+      "usages": [
+        {
+          "usage_label": "开展活动",
+          "collocations": [
+            {
+              "phrase": "campaign for change",
+              "translation": "为改变而奔走"
+            },
+            {
+              "phrase": "campaign against pollution",
+              "translation": "开展反污染活动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They campaigned for safer streets.",
+              "zh": "他们为更安全的街道奔走。"
+            },
+            {
+              "en": "The group campaigns against pollution.",
+              "zh": "这个团体开展反污染活动。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "advocate：强调公开主张；campaign 强调持续组织行动。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "campaign for 表示争取；campaign against 表示反对。"
+      ]
+    }
+  ]
+}

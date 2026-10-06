@@ -1,0 +1,139 @@
+{
+  "word": "broad",
+  "phonetic": "/brɔːd/",
+  "syllables": [
+    "broad"
+  ],
+  "pos": [
+    "adj."
+  ],
+  "core_meanings": [
+    "宽阔的",
+    "广泛的",
+    "概括的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "wide from one side to the other",
+      "zh_definition": "从一侧到另一侧距离大的",
+      "usages": [
+        {
+          "usage_label": "宽阔的",
+          "collocations": [
+            {
+              "phrase": "broad shoulders",
+              "translation": "宽肩膀"
+            },
+            {
+              "phrase": "a broad street",
+              "translation": "宽阔的街道"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The river is broad here.",
+              "zh": "这条河在这里很宽。"
+            },
+            {
+              "en": "He has broad shoulders.",
+              "zh": "他肩膀很宽。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "wide：也表示宽；broad 常用于道路、河流和肩膀。"
+      ],
+      "antonyms": [
+        "narrow：狭窄的。"
+      ],
+      "confusables": [
+        "broad shoulders 是肩膀宽，不是知识广。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "covering many kinds of people or things",
+      "zh_definition": "涉及许多种人或事物的",
+      "usages": [
+        {
+          "usage_label": "广泛的",
+          "collocations": [
+            {
+              "phrase": "a broad range",
+              "translation": "广泛的范围"
+            },
+            {
+              "phrase": "broad support",
+              "translation": "广泛支持"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The plan has broad support.",
+              "zh": "这项计划获得广泛支持。"
+            },
+            {
+              "en": "The course covers a broad range of topics.",
+              "zh": "这门课程涵盖广泛的话题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "wide-ranging：也指涉及范围广；broad 更简洁。"
+      ],
+      "antonyms": [
+        "limited：范围有限的。"
+      ],
+      "confusables": [
+        "a broad range of 后接复数可数名词或不可数名词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "giving only the main points without details",
+      "zh_definition": "只概括主要方面而不含细节的",
+      "usages": [
+        {
+          "usage_label": "概括的",
+          "collocations": [
+            {
+              "phrase": "a broad outline",
+              "translation": "大致轮廓"
+            },
+            {
+              "phrase": "in broad terms",
+              "translation": "概括地说"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She gave us a broad outline of the plan.",
+              "zh": "她向我们概述了计划的大致内容。"
+            },
+            {
+              "en": "In broad terms, the project is working.",
+              "zh": "概括地说，这个项目进展顺利。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "general：也指概括的；broad 强调覆盖范围大但细节少。"
+      ],
+      "antonyms": [
+        "detailed：详细的。"
+      ],
+      "confusables": [
+        "in broad terms 是固定表达。"
+      ]
+    }
+  ]
+}
