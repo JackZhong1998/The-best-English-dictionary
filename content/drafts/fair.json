@@ -1,0 +1,179 @@
+{
+  "word": "fair",
+  "phonetic": "/fer/",
+  "syllables": [
+    "fair"
+  ],
+  "pos": [
+    "adj.",
+    "n."
+  ],
+  "core_meanings": [
+    "公平的",
+    "尚可的",
+    "集市",
+    "相当多的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "treating people equally and reasonably",
+      "zh_definition": "平等而合理地对待人",
+      "usages": [
+        {
+          "usage_label": "公平的",
+          "collocations": [
+            {
+              "phrase": "a fair decision",
+              "translation": "公平的决定"
+            },
+            {
+              "phrase": "fair treatment",
+              "translation": "公平待遇"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The judge made a fair decision.",
+              "zh": "法官作出了公平的决定。"
+            },
+            {
+              "en": "All students deserve fair treatment.",
+              "zh": "所有学生都应受到公平对待。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "just：也指公正；fair 更日常。"
+      ],
+      "antonyms": [
+        "unfair：不公平的。"
+      ],
+      "confusables": [
+        "fair 在此与权利或决定有关，不表示天气晴朗。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "reasonably good but not excellent",
+      "zh_definition": "还算不错但并不出色的",
+      "usages": [
+        {
+          "usage_label": "尚可的",
+          "collocations": [
+            {
+              "phrase": "in fair condition",
+              "translation": "状况尚可"
+            },
+            {
+              "phrase": "fair quality",
+              "translation": "尚可的质量"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The old car is in fair condition.",
+              "zh": "这辆旧车状况尚可。"
+            },
+            {
+              "en": "The service was fair, but not excellent.",
+              "zh": "服务还可以，但谈不上出色。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "acceptable：表示可以接受；fair 有时暗示只是一般。"
+      ],
+      "antonyms": [
+        "poor：差的。"
+      ],
+      "confusables": [
+        "fair 作质量评价时不等于“公平”。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a public event with stalls, games, or displays",
+      "zh_definition": "有摊位、游戏或展示的公众活动",
+      "usages": [
+        {
+          "usage_label": "集市或展会",
+          "collocations": [
+            {
+              "phrase": "a book fair",
+              "translation": "书展"
+            },
+            {
+              "phrase": "a county fair",
+              "translation": "县集市"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We visited the book fair on Sunday.",
+              "zh": "星期天我们参观了书展。"
+            },
+            {
+              "en": "The county fair has food and games.",
+              "zh": "县集市有食物和游戏。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "exhibition：强调展示；fair 常有摊位和销售。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "book fair 是书展，不是公平的书。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "adj.",
+      "en_definition": "quite large in amount",
+      "zh_definition": "数量相当多的",
+      "usages": [
+        {
+          "usage_label": "相当多的",
+          "collocations": [
+            {
+              "phrase": "a fair amount of time",
+              "translation": "相当多的时间"
+            },
+            {
+              "phrase": "a fair number of people",
+              "translation": "相当多的人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The work took a fair amount of time.",
+              "zh": "这项工作花了相当多的时间。"
+            },
+            {
+              "en": "A fair number of people came.",
+              "zh": "来了相当多的人。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "considerable：也指数量不少，较正式。"
+      ],
+      "antonyms": [
+        "little：少量的。"
+      ],
+      "confusables": [
+        "a fair amount of 后接不可数名词。"
+      ]
+    }
+  ]
+}

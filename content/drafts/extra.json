@@ -1,0 +1,138 @@
+{
+  "word": "extra",
+  "phonetic": "/ˈekstrə/",
+  "syllables": [
+    "ex",
+    "tra"
+  ],
+  "pos": [
+    "adj.",
+    "n.",
+    "adv."
+  ],
+  "core_meanings": [
+    "额外的",
+    "额外的东西",
+    "格外地"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "more than what is usual or expected",
+      "zh_definition": "超过通常或预期数量的",
+      "usages": [
+        {
+          "usage_label": "额外的",
+          "collocations": [
+            {
+              "phrase": "extra time",
+              "translation": "额外时间"
+            },
+            {
+              "phrase": "extra money",
+              "translation": "额外的钱"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We need extra time to finish.",
+              "zh": "我们需要额外时间完成。"
+            },
+            {
+              "en": "She brought an extra coat for the trip.",
+              "zh": "她为旅行多带了一件外套。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "additional：也指额外的，稍正式。"
+      ],
+      "antonyms": [
+        "standard：标准的。"
+      ],
+      "confusables": [
+        "extra charge 是额外收费。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an additional item or amount",
+      "zh_definition": "额外的一件东西或一笔数量",
+      "usages": [
+        {
+          "usage_label": "额外的东西",
+          "collocations": [
+            {
+              "phrase": "pay for extras",
+              "translation": "为额外项目付费"
+            },
+            {
+              "phrase": "a few extras",
+              "translation": "几项额外项目"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Breakfast is included, but extras cost more.",
+              "zh": "早餐包含在内，但额外项目要加钱。"
+            },
+            {
+              "en": "We paid for a few extras.",
+              "zh": "我们为几项额外项目付了钱。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "add-on：也指额外附加项；extra 更日常。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "extra 作名词可数，通常指额外项目。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adv.",
+      "en_definition": "more than usual",
+      "zh_definition": "比平常更加",
+      "usages": [
+        {
+          "usage_label": "格外地",
+          "collocations": [
+            {
+              "phrase": "work extra hard",
+              "translation": "格外努力地工作"
+            },
+            {
+              "phrase": "be extra careful",
+              "translation": "格外小心"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please be extra careful on the stairs.",
+              "zh": "走楼梯时请格外小心。"
+            },
+            {
+              "en": "She worked extra hard this week.",
+              "zh": "她这周工作格外努力。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "especially：也可加强程度；extra 更口语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "extra 放在形容词或副词前表示程度加强。"
+      ]
+    }
+  ]
+}

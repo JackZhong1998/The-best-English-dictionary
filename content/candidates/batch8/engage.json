@@ -1,0 +1,138 @@
+{
+  "word": "engage",
+  "phonetic": "/ɪnˈɡeɪdʒ/",
+  "syllables": [
+    "en",
+    "gage"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "参与",
+    "吸引",
+    "雇用"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to take part in an activity",
+      "zh_definition": "参与某项活动",
+      "usages": [
+        {
+          "usage_label": "参与",
+          "collocations": [
+            {
+              "phrase": "engage in discussion",
+              "translation": "参与讨论"
+            },
+            {
+              "phrase": "engage in exercise",
+              "translation": "参加锻炼"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Students engaged in a lively discussion.",
+              "zh": "学生们进行了热烈讨论。"
+            },
+            {
+              "en": "He engages in regular exercise.",
+              "zh": "他定期锻炼。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "participate：也指参与；engage in 常强调实际投入。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "engage in 后接活动或动名词。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to attract and hold someone’s attention",
+      "zh_definition": "吸引并保持某人的注意力",
+      "usages": [
+        {
+          "usage_label": "吸引",
+          "collocations": [
+            {
+              "phrase": "engage an audience",
+              "translation": "吸引观众"
+            },
+            {
+              "phrase": "engage students",
+              "translation": "吸引学生注意"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The story engaged the children.",
+              "zh": "这个故事吸引了孩子们。"
+            },
+            {
+              "en": "The speaker engaged the audience from the start.",
+              "zh": "演讲者从一开始就吸引住了听众。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "interest：也指使人感兴趣；engage 更强调持续投入。"
+      ],
+      "antonyms": [
+        "bore：使厌烦。"
+      ],
+      "confusables": [
+        "engage an audience 不表示雇用观众。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to hire someone for a job or service",
+      "zh_definition": "雇用某人做工作或提供服务",
+      "usages": [
+        {
+          "usage_label": "雇用",
+          "collocations": [
+            {
+              "phrase": "engage a lawyer",
+              "translation": "聘请律师"
+            },
+            {
+              "phrase": "engage a guide",
+              "translation": "雇用导游"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The family engaged a guide for the trip.",
+              "zh": "这家人旅行时雇了一名导游。"
+            },
+            {
+              "en": "They engaged a lawyer to help them.",
+              "zh": "他们聘请了一名律师帮忙。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "hire：更常见的雇用说法；engage 较正式。"
+      ],
+      "antonyms": [
+        "dismiss：解雇。"
+      ],
+      "confusables": [
+        "engage someone to do something 表示聘请某人做事。"
+      ]
+    }
+  ]
+}

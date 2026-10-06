@@ -1,0 +1,138 @@
+{
+  "word": "extend",
+  "phonetic": "/ɪkˈstend/",
+  "syllables": [
+    "ex",
+    "tend"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "延伸",
+    "延长",
+    "提供"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to make something longer or stretch farther",
+      "zh_definition": "使某物更长或延伸得更远",
+      "usages": [
+        {
+          "usage_label": "延伸",
+          "collocations": [
+            {
+              "phrase": "extend a road",
+              "translation": "延长道路"
+            },
+            {
+              "phrase": "extend to the river",
+              "translation": "延伸至河边"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The city plans to extend the road.",
+              "zh": "这座城市计划把道路延长。"
+            },
+            {
+              "en": "The park extends to the river.",
+              "zh": "公园一直延伸到河边。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "stretch：也指伸展；extend 可用于道路或区域。"
+      ],
+      "antonyms": [
+        "shorten：缩短。"
+      ],
+      "confusables": [
+        "extend 可不接宾语，表示某区域延伸到某处。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make a period of time last longer",
+      "zh_definition": "使一段时间持续更久",
+      "usages": [
+        {
+          "usage_label": "延长时间",
+          "collocations": [
+            {
+              "phrase": "extend a deadline",
+              "translation": "延长截止日期"
+            },
+            {
+              "phrase": "extend a stay",
+              "translation": "延长停留时间"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They extended the deadline by a week.",
+              "zh": "他们把截止日期延长了一周。"
+            },
+            {
+              "en": "We decided to extend our stay.",
+              "zh": "我们决定延长停留时间。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "prolong：也指延长时间，较正式。"
+      ],
+      "antonyms": [
+        "cut short：提前结束。"
+      ],
+      "confusables": [
+        "extend a deadline by a week 表示延后一周。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to offer something to someone formally",
+      "zh_definition": "正式向某人提供某物",
+      "usages": [
+        {
+          "usage_label": "提供",
+          "collocations": [
+            {
+              "phrase": "extend an invitation",
+              "translation": "发出邀请"
+            },
+            {
+              "phrase": "extend help",
+              "translation": "提供帮助"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The school extended an invitation to parents.",
+              "zh": "学校向家长发出了邀请。"
+            },
+            {
+              "en": "She extended her thanks to the team.",
+              "zh": "她向团队表达了谢意。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "offer：泛指提供；extend 常用于正式邀请或致谢。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "extend thanks 是表达感谢，不是把谢谢拉长。"
+      ]
+    }
+  ]
+}

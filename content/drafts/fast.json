@@ -1,0 +1,139 @@
+{
+  "word": "fast",
+  "phonetic": "/fæst/",
+  "syllables": [
+    "fast"
+  ],
+  "pos": [
+    "adj.",
+    "adv.",
+    "v."
+  ],
+  "core_meanings": [
+    "快的",
+    "快地",
+    "禁食"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "moving or happening quickly",
+      "zh_definition": "移动或发生得很快的",
+      "usages": [
+        {
+          "usage_label": "快的",
+          "collocations": [
+            {
+              "phrase": "a fast train",
+              "translation": "高速列车"
+            },
+            {
+              "phrase": "a fast runner",
+              "translation": "跑得快的人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This train is very fast.",
+              "zh": "这列火车很快。"
+            },
+            {
+              "en": "She is a fast runner.",
+              "zh": "她跑得很快。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "quick：也指快；fast 常强调速度。"
+      ],
+      "antonyms": [
+        "slow：慢的。"
+      ],
+      "confusables": [
+        "fast train 指速度快，不表示时间早。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adv.",
+      "en_definition": "at a high speed",
+      "zh_definition": "以较高速度",
+      "usages": [
+        {
+          "usage_label": "快地",
+          "collocations": [
+            {
+              "phrase": "run fast",
+              "translation": "跑得快"
+            },
+            {
+              "phrase": "move fast",
+              "translation": "快速移动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The dog ran fast across the field.",
+              "zh": "狗快速跑过田野。"
+            },
+            {
+              "en": "You need to move fast.",
+              "zh": "你得快点行动。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "quickly：也表示快地；fast 本身可作副词。"
+      ],
+      "antonyms": [
+        "slowly：慢慢地。"
+      ],
+      "confusables": [
+        "不说 fastly；fast 就可作副词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to choose not to eat for a period of time",
+      "zh_definition": "在一段时间内主动不吃东西",
+      "usages": [
+        {
+          "usage_label": "禁食",
+          "collocations": [
+            {
+              "phrase": "fast for a day",
+              "translation": "禁食一天"
+            },
+            {
+              "phrase": "fast during a holiday",
+              "translation": "在节日期间禁食"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He fasted for a day.",
+              "zh": "他禁食了一天。"
+            },
+            {
+              "en": "Some people fast during religious holidays.",
+              "zh": "有些人在宗教节日期间禁食。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "abstain from food：也指不进食，较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "fast 作动词的禁食义与“速度快”不是同一用法。"
+      ]
+    }
+  ]
+}

@@ -4443,6 +4443,1177 @@
           "correction_count": 0
         }
       ]
+    },
+    {
+      "word": "ease",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "轻松；缓解",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1624
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "aa242dfaa6fe46674a6d79f91f30b59363dc32329884cb169ed65ad256d46069",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "edge",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "边缘；优势",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1637
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "e416e7913f970d195f8e751e2f1e332fa7a86535ac439534bae85a2bc7e468c6",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "element",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "元素；要素",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1664
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "29215232defa43c30229d838b8aaf79613cc98b4f7e1851182613bf009126615",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "empty",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "空的；倒空",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1697
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "af0cbda37501375d95fae9fda3e94d78828e96b34117ea75381aec94f8289314",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "end",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "末端；结束；目的",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1705
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。初审问题已修正。",
+          "sha256": "e9a9a64179f4e50d63fe52014eb439c85dcabe25bcb0efd5b68b94ea163092b7",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "engage",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "参与；吸引；雇用",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1714
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "phrasal_verb"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "79955013337486ebe0d9a6afe792041feff4c49253b96a77cd4c0c50492d7598",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "equal",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "相等的；相等；对手",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1749
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "dca36638b574642a5bba9dbdee2a55730bcd014b6b7754a926a4c84e2dc88bd5",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "escape",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "逃离；避开；逃脱",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1764
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。初审问题已修正。",
+          "sha256": "998fe6eb593111fbb8090cc09e4caf865261b9e96dfe636eacec3039370b8e72",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "even",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "平坦的；甚至；使平整",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1784
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "phrasal_verb"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。初审问题已修正。",
+          "sha256": "872fd1b22f4e5f7e462040494e1cffe0ae23f392e7a00a188e30e108cf579d1f",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "exchange",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "交换；交流；交易所",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1810
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。初审问题已修正。",
+          "sha256": "282067b1d984c75d5d0f851efbb7c066234936afeb1156ac999b70c420627ce0",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "excuse",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "借口；原谅",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1815
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "multiple_pronunciations"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。初审问题已修正。",
+          "sha256": "92d1d0e0df44c5fc80cb1d3a671195b0e8824abb62a8f441fc34d0724de42c3d",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "exercise",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "锻炼；练习；行使",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1818
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "95bc680e5fcab2efc088d8f252094bdadef16cd4ec231d0476d630d738817874",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "expose",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "暴露；揭露；使接触",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1844
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "fb5da2608e57c6ab866793ea903ab10c766e7075a78204cbb5a5c57fc9e93cf5",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "extend",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "延伸；延长；提供",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1849
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "e156f72b7cb5245a5e8be843adc1da25dd14158a0d1214d1333c75f67d08bd59",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "extra",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "额外的；额外的东西",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1855
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。初审问题已修正。",
+          "sha256": "85a4778cce11fb05108db6a3ac2c4a2a32d9792e44f9c4757e40bc10da711cda",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "face",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "脸；面向；面对",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1867
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "70075dee18e60a82516b2149359f18ff2c3d53b6649aa67aa94fc2b91846f629",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "fair",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "公平的；集市；相当",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1878,
+        1879
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "multiple_etymologies"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "57d47519174071b7ab4fbb82b21b9d9b41b00d4c1b06227fd2859c345af6655f",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "fan",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "扇子；粉丝；扇风",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1890
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "multiple_etymologies"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "c5713cfd7a3cbc10a1146c7f456c3c7b3392cebe74d2e6ffe6d7854c2fc6435a",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "fast",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "快的；快速地；禁食",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1901
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "multiple_etymologies"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "33f0b5e27298757237c87fb9107a83605aade90dd44cf7aa5ca1d6fd5b0f37f9",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "feature",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "特征；以……为特色",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1916
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "dff89a2cd62b4176df0a5402f0a3f9896364ab2527b02fdb4e0b94ae69a770f4",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "field",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "田野；领域；球场",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1937
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "ab1eb1f3bb9b5780b512f6594c20d654628637d39db3cc567ada662b9623a60b",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "figure",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "数字；人物；认为",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1943
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "phrasal_verb"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "4f77ebe7caec88a6a4e1af4e88fc51ef9b1341ac28c745bf537f76db4d30a250",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "file",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "文件；归档；锉",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1944
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "multiple_etymologies"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。初审问题已修正。",
+          "sha256": "5901a827c6cdf0bdcbaa2fe3aa7113644895eac928178b8ae58de0e579428bde",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "fine",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "好的；细的；罚款",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        1951,
+        1952
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "multiple_etymologies"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "4173355fa15b721e8fb1cd3f1e9f946d650be4010514e23ba86d154d1e2b9bc3",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "form",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "形式；表格；形成",
+      "content_version": 1,
+      "batch": 8,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-8.tsv",
+      "source_rows": [
+        2035
+      ],
+      "author": "codex-content-agent",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、双语例句、搭配及辨析。未发现需修正问题。",
+          "sha256": "eb1bc4d4d47f1b1c5ead954beb3cbfbaedc2593fea60725d0d3620676449826d",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "gain",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "获得；增加；收益",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2114
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "game",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "游戏；比赛；愿意参与",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2119
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "gather",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "聚集；收集；推断",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2132
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "general",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "一般的；总体的；将军",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2139
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "gift",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "礼物；天赋",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2156
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "glass",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "玻璃；玻璃杯；眼镜",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2167
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "goal",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "目标；进球",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2180
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "grade",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "成绩；年级；等级",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2198
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "grant",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "授予；承认；拨款",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2207
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "green",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "绿色的；环保的；草地",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2222
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "ground",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "地面；理由；场地",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2237
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "group",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "群体；分组",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2238
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "grow",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "生长；种植；变得",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2239
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "guard",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "守卫；警惕；警卫",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2241
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "guess",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "猜测；猜想",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2242
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "guide",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "引导；指南；导游",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2244
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "half",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "一半；半的；部分地",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2261
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "hand",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "手；指针；递给",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2269
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "hard",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "坚硬的；困难的；努力地",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2282
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "head",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "头；负责人；前往",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2306
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "heat",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "热；加热；激烈程度",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2318
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "help",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "帮助；有助于；不由得",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2332
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "high",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "高的；高水平的；高处",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2353
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "home",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "家；家乡；回家",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2380
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "host",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "主人；主持人；主办；许多",
+      "content_version": 0,
+      "batch": 9,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-9.tsv",
+      "source_rows": [
+        2400,
+        2401
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
     }
   ]
 }

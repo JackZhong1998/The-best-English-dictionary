@@ -1,0 +1,138 @@
+{
+  "word": "edge",
+  "phonetic": "/edʒ/",
+  "syllables": [
+    "edge"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "边缘",
+    "优势",
+    "慢慢移动"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the outer line or part of something",
+      "zh_definition": "某物最外侧的线或部分",
+      "usages": [
+        {
+          "usage_label": "边缘",
+          "collocations": [
+            {
+              "phrase": "the edge of a table",
+              "translation": "桌子边缘"
+            },
+            {
+              "phrase": "stand at the edge",
+              "translation": "站在边缘"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Keep the glass away from the edge.",
+              "zh": "把杯子放远一些，别靠边。"
+            },
+            {
+              "en": "She sat on the edge of the bed.",
+              "zh": "她坐在床沿上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "border：也指边界；edge 常指具体物体的外侧。"
+      ],
+      "antonyms": [
+        "center：中心。"
+      ],
+      "confusables": [
+        "on the edge of 后接有边沿的事物。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a small advantage over someone else",
+      "zh_definition": "比别人略占优势的地方",
+      "usages": [
+        {
+          "usage_label": "优势",
+          "collocations": [
+            {
+              "phrase": "have an edge",
+              "translation": "占有优势"
+            },
+            {
+              "phrase": "gain an edge over a rival",
+              "translation": "比对手占优势"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our team has an edge in speed.",
+              "zh": "我们队在速度方面有优势。"
+            },
+            {
+              "en": "Practice gave her an edge over the others.",
+              "zh": "练习让她比其他人更有优势。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "advantage：泛指优势；an edge 常表示略胜一筹。"
+      ],
+      "antonyms": [
+        "disadvantage：劣势。"
+      ],
+      "confusables": [
+        "an edge over 后接比较对象。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to move slowly and carefully in a direction",
+      "zh_definition": "小心地朝某方向缓慢移动",
+      "usages": [
+        {
+          "usage_label": "慢慢移动",
+          "collocations": [
+            {
+              "phrase": "edge toward the door",
+              "translation": "慢慢移向门口"
+            },
+            {
+              "phrase": "edge closer",
+              "translation": "慢慢靠近"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He edged toward the exit.",
+              "zh": "他慢慢挪向出口。"
+            },
+            {
+              "en": "The cat edged closer to the food.",
+              "zh": "猫慢慢靠近食物。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "inch：也指一点点挪动；edge 常接方向。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "edge toward 与名词 edge 的边缘义不同。"
+      ]
+    }
+  ]
+}

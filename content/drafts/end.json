@@ -1,0 +1,178 @@
+{
+  "word": "end",
+  "phonetic": "/end/",
+  "syllables": [
+    "end"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "末端",
+    "结束",
+    "目的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the last part of a physical object or place",
+      "zh_definition": "物体或地点最末端的一部分",
+      "usages": [
+        {
+          "usage_label": "末端",
+          "collocations": [
+            {
+              "phrase": "the end of a road",
+              "translation": "道路尽头"
+            },
+            {
+              "phrase": "one end of a rope",
+              "translation": "绳子的一端"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The school is at the end of this road.",
+              "zh": "学校在这条路的尽头。"
+            },
+            {
+              "en": "He held one end of the rope.",
+              "zh": "他握住绳子的一端。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "tip：常指细长物体的尖端；end 范围更广。"
+      ],
+      "antonyms": [
+        "beginning：起点。"
+      ],
+      "confusables": [
+        "the end of a road 是道路尽头，不是时间结束。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the final part of a period of time",
+      "zh_definition": "一段时间的最后部分",
+      "usages": [
+        {
+          "usage_label": "时间结束时",
+          "collocations": [
+            {
+              "phrase": "at the end of the day",
+              "translation": "一天结束时"
+            },
+            {
+              "phrase": "by the end of the year",
+              "translation": "到年底时"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I was tired by the end of the day.",
+              "zh": "一天结束时我很累。"
+            },
+            {
+              "en": "She finished the course by the end of the year.",
+              "zh": "到年底时，她完成了这门课程。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "finish：也指结束；end 可指一段时间的最后阶段。"
+      ],
+      "antonyms": [
+        "start：开始。"
+      ],
+      "confusables": [
+        "by the end of 强调在某段时间结束前。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to stop or make something stop",
+      "zh_definition": "停止或使某事停止",
+      "usages": [
+        {
+          "usage_label": "结束",
+          "collocations": [
+            {
+              "phrase": "end a meeting",
+              "translation": "结束会议"
+            },
+            {
+              "phrase": "the film ends",
+              "translation": "电影结束"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The meeting ended at noon.",
+              "zh": "会议中午结束了。"
+            },
+            {
+              "en": "They ended the game early.",
+              "zh": "他们提前结束了比赛。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "finish：强调完成；end 只表示停止。"
+      ],
+      "antonyms": [
+        "begin：开始。"
+      ],
+      "confusables": [
+        "end 可接宾语，也可不接宾语。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a purpose or result someone wants",
+      "zh_definition": "某人希望达成的目的",
+      "usages": [
+        {
+          "usage_label": "目的",
+          "collocations": [
+            {
+              "phrase": "an end in itself",
+              "translation": "目的本身"
+            },
+            {
+              "phrase": "to this end",
+              "translation": "为此目的"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Education is an end in itself.",
+              "zh": "教育本身就是一种目的。"
+            },
+            {
+              "en": "To this end, we changed the plan.",
+              "zh": "为此，我们修改了计划。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "aim：也指目标；end 作“目的”时较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "to this end 是“为此”，不是“到这个结尾”。"
+      ]
+    }
+  ]
+}

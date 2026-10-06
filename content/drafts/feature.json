@@ -1,0 +1,135 @@
+{
+  "word": "feature",
+  "phonetic": "/ˈfiːtʃər/",
+  "syllables": [
+    "fea",
+    "ture"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "特征",
+    "专题",
+    "以……为特色"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a noticeable quality or part of something",
+      "zh_definition": "某物容易注意到的性质或部分",
+      "usages": [
+        {
+          "usage_label": "特征",
+          "collocations": [
+            {
+              "phrase": "a key feature",
+              "translation": "关键特征"
+            },
+            {
+              "phrase": "a useful feature",
+              "translation": "实用功能"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The phone has a useful safety feature.",
+              "zh": "这部手机有一项实用的安全功能。"
+            },
+            {
+              "en": "Its main feature is the large screen.",
+              "zh": "它的主要特点是大屏幕。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "characteristic：也指特征，较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "feature 可指产品功能，也可指一般特点。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a special article or program about a subject",
+      "zh_definition": "围绕某主题制作的专题文章或节目",
+      "usages": [
+        {
+          "usage_label": "专题",
+          "collocations": [
+            {
+              "phrase": "a newspaper feature",
+              "translation": "报纸专题文章"
+            },
+            {
+              "phrase": "a feature on wildlife",
+              "translation": "野生动物专题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I read a feature on city gardens.",
+              "zh": "我读了一篇关于城市花园的专题文章。"
+            },
+            {
+              "en": "The magazine published a feature on sleep.",
+              "zh": "杂志刊登了一篇睡眠专题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "article：泛指文章；feature 常篇幅较长且围绕专题。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a feature on 后接专题内容。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to include someone or something as an important part",
+      "zh_definition": "把某人或某物作为重要部分呈现",
+      "usages": [
+        {
+          "usage_label": "以……为特色",
+          "collocations": [
+            {
+              "phrase": "feature local artists",
+              "translation": "重点展示本地艺术家"
+            },
+            {
+              "phrase": "feature live music",
+              "translation": "以现场音乐为特色"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The festival features local artists.",
+              "zh": "节日活动重点展示本地艺术家。"
+            },
+            {
+              "en": "The restaurant features live music.",
+              "zh": "这家餐厅以现场音乐为特色。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "include：只表示包含；feature 强调突出展示。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "feature 作动词直接接被重点呈现的内容。"
+      ]
+    }
+  ]
+}

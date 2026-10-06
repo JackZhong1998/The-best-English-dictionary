@@ -1,0 +1,174 @@
+{
+  "word": "form",
+  "phonetic": "/fɔːrm/",
+  "syllables": [
+    "form"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "形式",
+    "表格",
+    "形成"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the shape or type in which something appears",
+      "zh_definition": "事物呈现的形状或类型",
+      "usages": [
+        {
+          "usage_label": "形式",
+          "collocations": [
+            {
+              "phrase": "a form of art",
+              "translation": "一种艺术形式"
+            },
+            {
+              "phrase": "in written form",
+              "translation": "以书面形式"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Dance is a form of art.",
+              "zh": "舞蹈是一种艺术形式。"
+            },
+            {
+              "en": "Please send the request in written form.",
+              "zh": "请以书面形式提出请求。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "type：指类型；form 还可强调呈现方式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a form of 后接所属的类别。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a printed or online document with spaces for information",
+      "zh_definition": "留有空格供填写的纸质或电子文档",
+      "usages": [
+        {
+          "usage_label": "表格",
+          "collocations": [
+            {
+              "phrase": "fill out a form",
+              "translation": "填写表格"
+            },
+            {
+              "phrase": "an application form",
+              "translation": "申请表"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please fill out this form.",
+              "zh": "请填写这张表格。"
+            },
+            {
+              "en": "The application form is online.",
+              "zh": "申请表在网上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "questionnaire：专指调查问卷；form 范围更广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "美式英语常说 fill out a form。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to make people or things into a new group or structure",
+      "zh_definition": "使人或事物组成新的群体或结构",
+      "usages": [
+        {
+          "usage_label": "组成",
+          "collocations": [
+            {
+              "phrase": "form a group",
+              "translation": "组成小组"
+            },
+            {
+              "phrase": "form a team",
+              "translation": "组建团队"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The students formed a small group.",
+              "zh": "学生们组成了一个小组。"
+            },
+            {
+              "en": "We formed a team for the project.",
+              "zh": "我们为这个项目组建了一个团队。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "create：强调创造；form 强调组织成某种结构。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "form a group 是组成小组，不是填写表格。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to come into existence or take shape",
+      "zh_definition": "逐渐出现或成形",
+      "usages": [
+        {
+          "usage_label": "形成",
+          "collocations": [
+            {
+              "phrase": "clouds form",
+              "translation": "云形成"
+            },
+            {
+              "phrase": "ice forms",
+              "translation": "结冰"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Dark clouds formed over the hills.",
+              "zh": "山上空形成了乌云。"
+            },
+            {
+              "en": "Ice formed on the lake overnight.",
+              "zh": "一夜之间湖面结了冰。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "develop：也指逐渐形成；form 更强调开始有了形态。"
+      ],
+      "antonyms": [
+        "disappear：消失。"
+      ],
+      "confusables": [
+        "form 可不接宾语，表示事物自己形成。"
+      ]
+    }
+  ]
+}

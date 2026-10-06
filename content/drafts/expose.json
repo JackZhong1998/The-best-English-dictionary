@@ -1,0 +1,138 @@
+{
+  "word": "expose",
+  "phonetic": "/ɪkˈspoʊz/",
+  "syllables": [
+    "ex",
+    "pose"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "暴露",
+    "揭露",
+    "使接触"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to leave something without protection from light, weather, or danger",
+      "zh_definition": "使某物没有遮挡地面对光线、天气或危险",
+      "usages": [
+        {
+          "usage_label": "暴露",
+          "collocations": [
+            {
+              "phrase": "expose skin to the sun",
+              "translation": "让皮肤暴露在阳光下"
+            },
+            {
+              "phrase": "be exposed to rain",
+              "translation": "淋雨"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Do not expose your skin to strong sun.",
+              "zh": "不要让皮肤暴露在强烈阳光下。"
+            },
+            {
+              "en": "The wires were exposed after the cover broke.",
+              "zh": "外壳破裂后，电线露了出来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "uncover：指揭开遮盖；expose 还强调面临外界影响。"
+      ],
+      "antonyms": [
+        "cover：盖住。"
+      ],
+      "confusables": [
+        "expose A to B 表示让 A 接触 B。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to reveal a hidden truth or wrongdoing",
+      "zh_definition": "揭开被隐藏的真相或不当行为",
+      "usages": [
+        {
+          "usage_label": "揭露",
+          "collocations": [
+            {
+              "phrase": "expose a lie",
+              "translation": "揭穿谎言"
+            },
+            {
+              "phrase": "expose corruption",
+              "translation": "揭露腐败"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The report exposed a lie about the costs.",
+              "zh": "报告揭穿了关于费用的谎言。"
+            },
+            {
+              "en": "The newspaper exposed the fraud.",
+              "zh": "报纸揭露了这起欺诈。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "reveal：泛指揭示；expose 常强调揭出坏事。"
+      ],
+      "antonyms": [
+        "conceal：隐瞒。"
+      ],
+      "confusables": [
+        "expose a lie 指揭穿，不是让谎言晒太阳。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to give someone experience of something new",
+      "zh_definition": "让某人接触新的事物或经历",
+      "usages": [
+        {
+          "usage_label": "使接触",
+          "collocations": [
+            {
+              "phrase": "expose children to music",
+              "translation": "让儿童接触音乐"
+            },
+            {
+              "phrase": "be exposed to new ideas",
+              "translation": "接触新观点"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The class exposed students to new ideas.",
+              "zh": "这门课让学生接触了新观点。"
+            },
+            {
+              "en": "Travel exposed her to different cultures.",
+              "zh": "旅行让她接触了不同文化。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "introduce：也指使人初次接触；expose 强调接触过程。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义常用 expose someone to something。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "word": "empty",
+  "phonetic": "/ˈempti/",
+  "syllables": [
+    "emp",
+    "ty"
+  ],
+  "pos": [
+    "adj.",
+    "v."
+  ],
+  "core_meanings": [
+    "空的",
+    "倒空"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "containing nothing",
+      "zh_definition": "里面没有东西的",
+      "usages": [
+        {
+          "usage_label": "空的",
+          "collocations": [
+            {
+              "phrase": "an empty box",
+              "translation": "空盒子"
+            },
+            {
+              "phrase": "an empty room",
+              "translation": "空房间"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The bottle is empty.",
+              "zh": "瓶子是空的。"
+            },
+            {
+              "en": "We entered an empty room.",
+              "zh": "我们走进一间空房。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "vacant：常指房间或座位无人占用；empty 指没有内容。"
+      ],
+      "antonyms": [
+        "full：满的。"
+      ],
+      "confusables": [
+        "empty room 可以指无人，也可以指没有家具。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to remove everything from a container",
+      "zh_definition": "把容器里的东西全部取出",
+      "usages": [
+        {
+          "usage_label": "倒空",
+          "collocations": [
+            {
+              "phrase": "empty a bag",
+              "translation": "倒空袋子"
+            },
+            {
+              "phrase": "empty the trash can",
+              "translation": "清空垃圾桶"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She emptied the bag onto the table.",
+              "zh": "她把袋里的东西全倒在桌上。"
+            },
+            {
+              "en": "Please empty the trash can.",
+              "zh": "请把垃圾桶清空。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "clear out：也指清空；empty 更直接。"
+      ],
+      "antonyms": [
+        "fill：装满。"
+      ],
+      "confusables": [
+        "empty something into somewhere 可表示把内容物倒入某处。"
+      ]
+    }
+  ]
+}

@@ -126,6 +126,8 @@ def validate_candidate(entry, word):
     for field in ("phonetic", "etymology", "semantic_shift"):
         if not isinstance(entry.get(field), str):
             problems.append(f"{field} must be a string")
+    if isinstance(entry.get("phonetic"), str) and not re.fullmatch(r"/.+/", entry["phonetic"]):
+        problems.append("phonetic must be between slashes")
     if not isinstance(entry.get("syllables"), list) or not all(isinstance(part, str) for part in entry["syllables"]) or "".join(entry["syllables"]) != word:
         problems.append("syllables must reconstruct headword")
     if not isinstance(entry.get("pos"), list) or not entry["pos"]:

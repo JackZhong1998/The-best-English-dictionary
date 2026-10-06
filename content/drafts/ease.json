@@ -1,0 +1,99 @@
+{
+  "word": "ease",
+  "phonetic": "/iːz/",
+  "syllables": [
+    "ease"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "轻松",
+    "缓解"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a state of being comfortable and free from worry",
+      "zh_definition": "舒适而不紧张的状态",
+      "usages": [
+        {
+          "usage_label": "轻松",
+          "collocations": [
+            {
+              "phrase": "feel at ease",
+              "translation": "感到自在"
+            },
+            {
+              "phrase": "put someone at ease",
+              "translation": "使某人放松"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She felt at ease with her new classmates.",
+              "zh": "她和新同学在一起感到自在。"
+            },
+            {
+              "en": "His smile put me at ease.",
+              "zh": "他的微笑让我放松下来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "comfort：也指舒适；ease 更强调没有紧张感。"
+      ],
+      "antonyms": [
+        "unease：不安。"
+      ],
+      "confusables": [
+        "at ease 是固定搭配，不是表示动作容易。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make pain or a problem less severe",
+      "zh_definition": "减轻疼痛或问题的严重程度",
+      "usages": [
+        {
+          "usage_label": "缓解",
+          "collocations": [
+            {
+              "phrase": "ease the pain",
+              "translation": "缓解疼痛"
+            },
+            {
+              "phrase": "ease traffic",
+              "translation": "缓解交通拥堵"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The medicine eased her pain.",
+              "zh": "药物减轻了她的疼痛。"
+            },
+            {
+              "en": "The new road may ease traffic.",
+              "zh": "新路可能缓解交通拥堵。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "relieve：也指缓解；ease 强调程度逐渐减轻。"
+      ],
+      "antonyms": [
+        "worsen：使恶化。"
+      ],
+      "confusables": [
+        "ease a problem 是缓解，不一定彻底解决。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "word": "exchange",
+  "phonetic": "/ɪksˈtʃeɪndʒ/",
+  "syllables": [
+    "ex",
+    "change"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "交换",
+    "交流",
+    "交易所"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to give something and receive something else in return",
+      "zh_definition": "给出某物并换回另一物",
+      "usages": [
+        {
+          "usage_label": "交换",
+          "collocations": [
+            {
+              "phrase": "exchange gifts",
+              "translation": "交换礼物"
+            },
+            {
+              "phrase": "exchange money",
+              "translation": "兑换货币"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We exchanged gifts at the party.",
+              "zh": "我们在聚会上交换了礼物。"
+            },
+            {
+              "en": "She exchanged dollars for euros.",
+              "zh": "她把美元兑换成欧元。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "swap：也指交换，较口语；exchange 稍正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "exchange A for B 表示用 A 换 B。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an act of giving and receiving between people",
+      "zh_definition": "人与人之间互相给予和接收的行为",
+      "usages": [
+        {
+          "usage_label": "交流或交换",
+          "collocations": [
+            {
+              "phrase": "an exchange of ideas",
+              "translation": "思想交流"
+            },
+            {
+              "phrase": "an exchange of letters",
+              "translation": "书信往来"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The meeting encouraged an exchange of ideas.",
+              "zh": "会议促进了思想交流。"
+            },
+            {
+              "en": "Their exchange of letters lasted years.",
+              "zh": "他们的书信往来持续了多年。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "sharing：强调分享；exchange 强调双方都有给予和获得。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "an exchange of 后接交流的内容。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a place or organization where money, shares, or goods are exchanged",
+      "zh_definition": "办理货币兑换或证券、商品交易的场所或机构",
+      "usages": [
+        {
+          "usage_label": "交易所",
+          "collocations": [
+            {
+              "phrase": "a stock exchange",
+              "translation": "证券交易所"
+            },
+            {
+              "phrase": "a currency exchange",
+              "translation": "货币兑换处"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The company is listed on the stock exchange.",
+              "zh": "这家公司在证券交易所上市。"
+            },
+            {
+              "en": "There is a currency exchange at the airport.",
+              "zh": "机场有一个货币兑换处。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "market：泛指市场；exchange 可指专门交易机构或场所。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "stock exchange 是证券交易所，不是交换学生的活动。"
+      ]
+    }
+  ]
+}

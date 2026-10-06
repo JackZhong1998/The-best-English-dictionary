@@ -1,0 +1,178 @@
+{
+  "word": "equal",
+  "phonetic": "/ˈiːkwəl/",
+  "syllables": [
+    "e",
+    "qual"
+  ],
+  "pos": [
+    "adj.",
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "相等的",
+    "等于",
+    "同等的人"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "the same in amount, size, or value",
+      "zh_definition": "数量、大小或价值相同的",
+      "usages": [
+        {
+          "usage_label": "相等的",
+          "collocations": [
+            {
+              "phrase": "equal amounts",
+              "translation": "相等的数量"
+            },
+            {
+              "phrase": "equal in size",
+              "translation": "大小相同"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The two pieces are equal in size.",
+              "zh": "这两块大小相同。"
+            },
+            {
+              "en": "Each student received an equal amount.",
+              "zh": "每个学生收到的数量相同。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "same：泛指一样；equal 常强调数量或程度相同。"
+      ],
+      "antonyms": [
+        "unequal：不相等的。"
+      ],
+      "confusables": [
+        "equal in 后接比较的方面。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "having the same rights or status",
+      "zh_definition": "权利或地位相同的",
+      "usages": [
+        {
+          "usage_label": "平等的",
+          "collocations": [
+            {
+              "phrase": "equal rights",
+              "translation": "平等权利"
+            },
+            {
+              "phrase": "equal opportunities",
+              "translation": "平等机会"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Everyone deserves equal rights.",
+              "zh": "每个人都应享有平等权利。"
+            },
+            {
+              "en": "Both teams had an equal chance to win.",
+              "zh": "两支队伍获胜的机会相同。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "equivalent：多指价值或效果相当；equal 可指地位平等。"
+      ],
+      "antonyms": [
+        "unequal：不平等的。"
+      ],
+      "confusables": [
+        "equal rights 指权利平等，不是每人有同样数量的东西。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to be the same as a number or amount",
+      "zh_definition": "在数值上等于某数",
+      "usages": [
+        {
+          "usage_label": "等于",
+          "collocations": [
+            {
+              "phrase": "equal ten",
+              "translation": "等于十"
+            },
+            {
+              "phrase": "equal the total",
+              "translation": "等于总数"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Five plus five equals ten.",
+              "zh": "五加五等于十。"
+            },
+            {
+              "en": "Her score equaled mine.",
+              "zh": "她的分数和我的一样。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "be the same as：泛指相同；equal 作动词常用于数值。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "equal 作动词直接接所等于的数值。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a person of the same ability or status",
+      "zh_definition": "能力或地位相当的人",
+      "usages": [
+        {
+          "usage_label": "同等的人",
+          "collocations": [
+            {
+              "phrase": "treat someone as an equal",
+              "translation": "平等对待某人"
+            },
+            {
+              "phrase": "have no equal",
+              "translation": "无人能及"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She treated her students as equals.",
+              "zh": "她平等对待学生。"
+            },
+            {
+              "en": "In this field, he has no equal.",
+              "zh": "在这个领域，他无人能及。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "peer：指同辈或地位相当的人；equal 更强调能力或权利同等。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "an equal 指同等的人，不是等号。"
+      ]
+    }
+  ]
+}

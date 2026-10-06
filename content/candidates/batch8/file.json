@@ -1,0 +1,176 @@
+{
+  "word": "file",
+  "phonetic": "/faɪl/",
+  "syllables": [
+    "file"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "文件",
+    "归档",
+    "锉刀",
+    "正式提交"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a collection of information stored on paper or a computer",
+      "zh_definition": "保存在纸上或电脑中的一组资料",
+      "usages": [
+        {
+          "usage_label": "文件",
+          "collocations": [
+            {
+              "phrase": "open a file",
+              "translation": "打开文件"
+            },
+            {
+              "phrase": "save a file",
+              "translation": "保存文件"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I saved the file on my computer.",
+              "zh": "我把文件保存在电脑上。"
+            },
+            {
+              "en": "The office keeps a file for each student.",
+              "zh": "办公室为每个学生保留一份档案。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "document：指具体文档；file 可包括多份材料或电子资料。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "file 可指电子文件，也可指纸质档案。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to put documents in an organized place",
+      "zh_definition": "把文件按顺序归放",
+      "usages": [
+        {
+          "usage_label": "归档",
+          "collocations": [
+            {
+              "phrase": "file a report",
+              "translation": "把报告归档"
+            },
+            {
+              "phrase": "file documents",
+              "translation": "整理归档文件"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She filed the reports by date.",
+              "zh": "她按日期把报告归档。"
+            },
+            {
+              "en": "Please file these documents after lunch.",
+              "zh": "午饭后请把这些文件归档。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "archive：强调长期保存；file 更强调有序放置。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "file by date 表示按日期分类归档。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to officially submit a document or legal request",
+      "zh_definition": "正式提交文件或法律申请",
+      "usages": [
+        {
+          "usage_label": "正式提交",
+          "collocations": [
+            {
+              "phrase": "file a complaint",
+              "translation": "正式投诉"
+            },
+            {
+              "phrase": "file a tax return",
+              "translation": "提交报税表"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She filed a complaint with the school.",
+              "zh": "她向学校正式提出了投诉。"
+            },
+            {
+              "en": "I filed my tax return online.",
+              "zh": "我在网上提交了报税表。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "submit：泛指提交；file 强调进入正式记录或程序。"
+      ],
+      "antonyms": [
+        "withdraw：撤回。"
+      ],
+      "confusables": [
+        "file a complaint 是提出正式投诉，不是把投诉归档。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a metal tool used to smooth or shape a hard surface",
+      "zh_definition": "用来磨平或塑形硬物的金属工具",
+      "usages": [
+        {
+          "usage_label": "锉刀",
+          "collocations": [
+            {
+              "phrase": "a metal file",
+              "translation": "金属锉刀"
+            },
+            {
+              "phrase": "use a file",
+              "translation": "使用锉刀"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He used a file to smooth the edge.",
+              "zh": "他用锉刀把边缘磨平。"
+            },
+            {
+              "en": "The file lay beside the tools.",
+              "zh": "锉刀放在其他工具旁边。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：file 在此指用于磨平硬物的锉刀。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "file 在工具语境中不是文件。",
+        "rasp 是齿较粗的一类锉刀，不等于所有 file。"
+      ]
+    }
+  ]
+}

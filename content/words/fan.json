@@ -1,0 +1,134 @@
+{
+  "word": "fan",
+  "phonetic": "/fæn/",
+  "syllables": [
+    "fan"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "风扇",
+    "爱好者",
+    "扇风"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a device that moves air to cool people",
+      "zh_definition": "推动空气使人凉快的设备",
+      "usages": [
+        {
+          "usage_label": "风扇",
+          "collocations": [
+            {
+              "phrase": "turn on a fan",
+              "translation": "打开风扇"
+            },
+            {
+              "phrase": "an electric fan",
+              "translation": "电风扇"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The fan kept the room cool.",
+              "zh": "风扇让房间保持凉爽。"
+            },
+            {
+              "en": "Please turn on the fan.",
+              "zh": "请打开风扇。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：fan 在此指送风的设备。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "fan 是风扇；air conditioner 是空调。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a person who likes a sport, artist, or activity very much",
+      "zh_definition": "非常喜欢体育、艺人或活动的人",
+      "usages": [
+        {
+          "usage_label": "爱好者或粉丝",
+          "collocations": [
+            {
+              "phrase": "a football fan",
+              "translation": "足球迷"
+            },
+            {
+              "phrase": "a fan of music",
+              "translation": "音乐爱好者"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He is a big fan of this singer.",
+              "zh": "他很喜欢这位歌手。"
+            },
+            {
+              "en": "Fans cheered for the team.",
+              "zh": "球迷们为球队欢呼。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "supporter：也指支持者；fan 更强调喜爱。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a fan of 后接喜欢的人或事。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to move air toward someone or something by waving an object",
+      "zh_definition": "挥动物品把空气送向某人或某物",
+      "usages": [
+        {
+          "usage_label": "扇风",
+          "collocations": [
+            {
+              "phrase": "fan a fire",
+              "translation": "给火扇风"
+            },
+            {
+              "phrase": "fan yourself",
+              "translation": "给自己扇风"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She fanned herself with a book.",
+              "zh": "她用一本书给自己扇风。"
+            },
+            {
+              "en": "He fanned the fire to make it burn.",
+              "zh": "他给火扇风，让它烧起来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "wave：泛指挥动；fan 强调送风。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "fan a fire 可以让火烧得更旺。"
+      ]
+    }
+  ]
+}

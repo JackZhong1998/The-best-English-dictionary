@@ -1,0 +1,100 @@
+{
+  "word": "excuse",
+  "phonetic": "/ɪkˈskjuːs/ · /ɪkˈskjuːz/",
+  "syllables": [
+    "ex",
+    "cuse"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "借口",
+    "原谅"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a reason given to explain or defend a mistake or absence",
+      "zh_definition": "用来解释失误或缺席的理由",
+      "usages": [
+        {
+          "usage_label": "借口",
+          "collocations": [
+            {
+              "phrase": "make an excuse",
+              "translation": "找借口"
+            },
+            {
+              "phrase": "an excuse for being late",
+              "translation": "迟到的借口"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He made an excuse for being late.",
+              "zh": "他为迟到找了个借口。"
+            },
+            {
+              "en": "That is a poor excuse.",
+              "zh": "那是个站不住脚的借口。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "explanation：泛指解释；excuse 常用来为过错开脱。"
+      ],
+      "antonyms": [
+        "good reason：充分理由。"
+      ],
+      "confusables": [
+        "美音名词 /ɪkˈskjuːs/，结尾发 /s/；动词 /ɪkˈskjuːz/，结尾发 /z/。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to forgive someone for a mistake or interruption",
+      "zh_definition": "原谅某人的失误或打扰",
+      "usages": [
+        {
+          "usage_label": "原谅",
+          "collocations": [
+            {
+              "phrase": "excuse my mistake",
+              "translation": "原谅我的错误"
+            },
+            {
+              "phrase": "excuse me",
+              "translation": "不好意思"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please excuse my mistake.",
+              "zh": "请原谅我的错误。"
+            },
+            {
+              "en": "Excuse me, may I ask a question?",
+              "zh": "不好意思，我可以问个问题吗？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "forgive：也指原谅；excuse 常用于较小的打扰或失误。"
+      ],
+      "antonyms": [
+        "blame：责备。"
+      ],
+      "confusables": [
+        "美音动词 /ɪkˈskjuːz/，结尾发 /z/；名词 /ɪkˈskjuːs/，结尾发 /s/。"
+      ]
+    }
+  ]
+}

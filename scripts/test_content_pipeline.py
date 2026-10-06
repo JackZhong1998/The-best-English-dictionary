@@ -33,6 +33,9 @@ class PublishedRevisionTest(unittest.TestCase):
         fixture["etymology"] = ""
         fixture["semantic_shift"] = ""
         self.assertEqual(pipeline.validate_candidate(fixture, "case"), [])
+        fixture["phonetic"] = "n. /keɪs/"
+        self.assertIn("phonetic must be between slashes", pipeline.validate_candidate(fixture, "case"))
+        fixture["phonetic"] = "/keɪs/"
         fixture["senses"][0]["antonyms"] = ["end：结束。"]
         self.assertTrue(any("antonyms needs a useful explanation" in issue
                             for issue in pipeline.validate_candidate(fixture, "case")))

@@ -1,0 +1,251 @@
+{
+  "word": "figure",
+  "phonetic": "/ˈfɪɡjər/",
+  "syllables": [
+    "fig",
+    "ure"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "数字",
+    "人物",
+    "图形",
+    "认为",
+    "弄明白"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a number, especially one used in reports or calculations",
+      "zh_definition": "报告或计算中使用的数字",
+      "usages": [
+        {
+          "usage_label": "数字",
+          "collocations": [
+            {
+              "phrase": "sales figures",
+              "translation": "销售数据"
+            },
+            {
+              "phrase": "a large figure",
+              "translation": "很大的数额"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The latest figures show an increase.",
+              "zh": "最新数据显示有所增长。"
+            },
+            {
+              "en": "I checked the sales figures twice.",
+              "zh": "我把销售数据核对了两遍。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "number：泛指数字；figure 常指统计或报告中的数字。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "figures 作复数常指一组统计数据。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a person who is important or known in a particular area",
+      "zh_definition": "在某领域有影响或知名的人",
+      "usages": [
+        {
+          "usage_label": "人物",
+          "collocations": [
+            {
+              "phrase": "a public figure",
+              "translation": "公众人物"
+            },
+            {
+              "phrase": "a historical figure",
+              "translation": "历史人物"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She is a well-known public figure.",
+              "zh": "她是一位知名公众人物。"
+            },
+            {
+              "en": "The book is about a historical figure.",
+              "zh": "这本书讲述一位历史人物。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "person：泛指人；figure 强调其公众身份或历史地位。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "public figure 指公众人物，不是一个公开的数字。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a shape, especially one used in geometry",
+      "zh_definition": "一种形状，尤指几何图形",
+      "usages": [
+        {
+          "usage_label": "图形",
+          "collocations": [
+            {
+              "phrase": "a geometric figure",
+              "translation": "几何图形"
+            },
+            {
+              "phrase": "a four-sided figure",
+              "translation": "四边形"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Draw a simple geometric figure.",
+              "zh": "画一个简单的几何图形。"
+            },
+            {
+              "en": "A square is a four-sided figure.",
+              "zh": "正方形是一种四边形。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "shape：泛指形状；figure 在数学中常指特定图形。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "几何 figure 是形状；文中的 Figure 1 是编号插图。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a picture or diagram in a book or report",
+      "zh_definition": "书或报告中的插图或图表",
+      "usages": [
+        {
+          "usage_label": "插图",
+          "collocations": [
+            {
+              "phrase": "Figure 1",
+              "translation": "图一"
+            },
+            {
+              "phrase": "see the figure below",
+              "translation": "参见下图"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Figure 1 shows the result.",
+              "zh": "图一展示了结果。"
+            },
+            {
+              "en": "The figure below explains the process.",
+              "zh": "下图说明了这一过程。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "diagram：多指示意图；figure 可包括照片和图表。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "学术文本中的 Figure 1 是编号图，不是数字一。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to think or conclude that something is likely true",
+      "zh_definition": "认为某事很可能是真的",
+      "usages": [
+        {
+          "usage_label": "认为",
+          "collocations": [
+            {
+              "phrase": "figure that ...",
+              "translation": "认为……"
+            },
+            {
+              "phrase": "figure someone is busy",
+              "translation": "觉得某人很忙"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I figured that she was busy.",
+              "zh": "我想她大概很忙。"
+            },
+            {
+              "en": "He figures the train will be late.",
+              "zh": "他觉得火车会晚点。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "think：泛指认为；figure 较口语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "figure that 表示“认为”；figure out 表示“弄明白”。"
+      ]
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to understand or solve something after thinking",
+      "zh_definition": "经过思考弄明白或解决某事",
+      "usages": [
+        {
+          "usage_label": "弄明白",
+          "collocations": [
+            {
+              "phrase": "figure out the answer",
+              "translation": "想出答案"
+            },
+            {
+              "phrase": "figure out a problem",
+              "translation": "弄明白问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We figured out the answer together.",
+              "zh": "我们一起想出了答案。"
+            },
+            {
+              "en": "She figured out the problem at last.",
+              "zh": "她终于弄明白了这个问题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "work out：也指通过思考找到答案；figure out 更口语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "figure out 是固定短语，不是一个数字出来了。"
+      ]
+    }
+  ]
+}

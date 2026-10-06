@@ -1,0 +1,137 @@
+{
+  "word": "escape",
+  "phonetic": "/ɪˈskeɪp/",
+  "syllables": [
+    "es",
+    "cape"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "逃离",
+    "躲过",
+    "逃脱"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to get away from a dangerous place or situation",
+      "zh_definition": "从危险地点或处境中离开",
+      "usages": [
+        {
+          "usage_label": "逃离",
+          "collocations": [
+            {
+              "phrase": "escape from prison",
+              "translation": "越狱"
+            },
+            {
+              "phrase": "escape a fire",
+              "translation": "逃离火灾"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The family escaped from the burning house.",
+              "zh": "这家人逃出了着火的房子。"
+            },
+            {
+              "en": "Two prisoners escaped last night.",
+              "zh": "昨晚两名囚犯逃脱了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "flee：也指逃跑；escape 强调成功脱离。"
+      ],
+      "antonyms": [
+        "be captured：被抓住。"
+      ],
+      "confusables": [
+        "escape from 后接逃离的地方；escape a fire 可直接接危险。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to avoid something unpleasant or harmful",
+      "zh_definition": "躲过不快或有害的事",
+      "usages": [
+        {
+          "usage_label": "避开",
+          "collocations": [
+            {
+              "phrase": "escape injury",
+              "translation": "免于受伤"
+            },
+            {
+              "phrase": "escape punishment",
+              "translation": "逃过惩罚"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She escaped injury in the accident.",
+              "zh": "她在事故中没有受伤。"
+            },
+            {
+              "en": "He could not escape punishment.",
+              "zh": "他没能逃过惩罚。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "avoid：强调设法避开；escape 强调最终没有受到伤害。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "escape injury 指没有受伤，不一定是逃离现场。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "an act of getting away from danger or confinement",
+      "zh_definition": "摆脱危险或限制的一次行动",
+      "usages": [
+        {
+          "usage_label": "逃脱",
+          "collocations": [
+            {
+              "phrase": "a narrow escape",
+              "translation": "侥幸脱险"
+            },
+            {
+              "phrase": "a daring escape",
+              "translation": "大胆的逃脱行动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The prisoners made a daring escape.",
+              "zh": "囚犯们大胆地逃脱了。"
+            },
+            {
+              "en": "She had a narrow escape from the fire.",
+              "zh": "她险些被火困住，最终侥幸脱险。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "getaway：也指逃脱，较口语；escape 更中性。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a narrow escape 指险些遭遇不幸而最终脱险。"
+      ]
+    }
+  ]
+}

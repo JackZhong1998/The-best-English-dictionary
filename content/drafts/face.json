@@ -1,0 +1,136 @@
+{
+  "word": "face",
+  "phonetic": "/feɪs/",
+  "syllables": [
+    "face"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "脸",
+    "面向",
+    "面对"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the front part of a person’s head",
+      "zh_definition": "人的头部前面部分",
+      "usages": [
+        {
+          "usage_label": "脸",
+          "collocations": [
+            {
+              "phrase": "wash your face",
+              "translation": "洗脸"
+            },
+            {
+              "phrase": "a smiling face",
+              "translation": "笑脸"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She washed her face with cold water.",
+              "zh": "她用冷水洗了脸。"
+            },
+            {
+              "en": "I recognized his face at once.",
+              "zh": "我立刻认出了他的脸。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：face 是人的面部。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "face 不等于 head，后者包括整个头部。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to have the front directed toward a place",
+      "zh_definition": "正面朝向某处",
+      "usages": [
+        {
+          "usage_label": "面向",
+          "collocations": [
+            {
+              "phrase": "face the sea",
+              "translation": "面朝大海"
+            },
+            {
+              "phrase": "face south",
+              "translation": "朝南"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our classroom faces the garden.",
+              "zh": "我们的教室面向花园。"
+            },
+            {
+              "en": "The windows face south.",
+              "zh": "窗户朝南。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "look toward：可表示朝某方向看；face 指位置朝向。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "建筑物作主语时 face 表示朝向。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to deal with a difficult situation rather than avoid it",
+      "zh_definition": "不回避而处理困难处境",
+      "usages": [
+        {
+          "usage_label": "面对",
+          "collocations": [
+            {
+              "phrase": "face a problem",
+              "translation": "面对问题"
+            },
+            {
+              "phrase": "face a challenge",
+              "translation": "面对挑战"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We must face the problem together.",
+              "zh": "我们必须一起面对这个问题。"
+            },
+            {
+              "en": "She faced many challenges at work.",
+              "zh": "她在工作中面对许多挑战。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "confront：也指面对，语气更强烈。"
+      ],
+      "antonyms": [
+        "avoid：逃避。"
+      ],
+      "confusables": [
+        "face a problem 不是让脸朝着问题。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "word": "field",
+  "phonetic": "/fiːld/",
+  "syllables": [
+    "field"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "田野",
+    "领域",
+    "球场"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "an area of land used for growing crops or keeping animals",
+      "zh_definition": "用于种庄稼或养动物的一片土地",
+      "usages": [
+        {
+          "usage_label": "田地",
+          "collocations": [
+            {
+              "phrase": "a field of wheat",
+              "translation": "一片麦田"
+            },
+            {
+              "phrase": "work in the fields",
+              "translation": "在田里干活"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The farmer planted wheat in the field.",
+              "zh": "农民在田里种了小麦。"
+            },
+            {
+              "en": "Cows were eating in the field.",
+              "zh": "牛在田里吃草。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "farmland：泛指农田；a field 是其中一块地。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "field 在此是土地，不是学科。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an area of work or study",
+      "zh_definition": "工作或研究的某一范围",
+      "usages": [
+        {
+          "usage_label": "领域",
+          "collocations": [
+            {
+              "phrase": "a field of study",
+              "translation": "研究领域"
+            },
+            {
+              "phrase": "work in the medical field",
+              "translation": "在医学领域工作"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She works in the field of education.",
+              "zh": "她在教育领域工作。"
+            },
+            {
+              "en": "This is a new field of study.",
+              "zh": "这是一个新的研究领域。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "area：也指领域；field 常用于专业工作或学科。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "in the field of 后接领域名称。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "an open area used for sports",
+      "zh_definition": "用于体育活动的开阔场地",
+      "usages": [
+        {
+          "usage_label": "球场",
+          "collocations": [
+            {
+              "phrase": "a football field",
+              "translation": "足球场"
+            },
+            {
+              "phrase": "run onto the field",
+              "translation": "跑上球场"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The players ran onto the field.",
+              "zh": "球员们跑上了球场。"
+            },
+            {
+              "en": "The school has a new football field.",
+              "zh": "学校有一个新足球场。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pitch：英国英语中常指运动场；field 在美式英语里很常见。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "football field 在美式语境中也可能指美式橄榄球场。"
+      ]
+    }
+  ]
+}

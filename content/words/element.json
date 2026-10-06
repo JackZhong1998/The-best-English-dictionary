@@ -1,0 +1,96 @@
+{
+  "word": "element",
+  "phonetic": "/ˈeləmənt/",
+  "syllables": [
+    "el",
+    "e",
+    "ment"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "要素",
+    "元素"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "an important part of a whole",
+      "zh_definition": "整体中的一个重要部分",
+      "usages": [
+        {
+          "usage_label": "要素",
+          "collocations": [
+            {
+              "phrase": "a key element",
+              "translation": "关键要素"
+            },
+            {
+              "phrase": "an element of risk",
+              "translation": "风险因素"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Trust is a key element of friendship.",
+              "zh": "信任是友谊的关键要素。"
+            },
+            {
+              "en": "Every journey has an element of risk.",
+              "zh": "每段旅程都有一定风险。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "component：也指组成部分；element 常强调对整体重要。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "an element of 后接整体所含的某种因素。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a pure substance made of only one kind of atom",
+      "zh_definition": "只由一种原子构成的纯物质",
+      "usages": [
+        {
+          "usage_label": "化学元素",
+          "collocations": [
+            {
+              "phrase": "a chemical element",
+              "translation": "化学元素"
+            },
+            {
+              "phrase": "the elements of the periodic table",
+              "translation": "元素周期表中的元素"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Oxygen is a chemical element.",
+              "zh": "氧是一种化学元素。"
+            },
+            {
+              "en": "The table lists all known elements.",
+              "zh": "这张表列出了所有已知元素。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：element 在化学中指一种元素。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "化学 element 与“重要因素”同形，按语境区分。"
+      ]
+    }
+  ]
+}

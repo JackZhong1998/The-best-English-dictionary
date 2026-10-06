@@ -1,0 +1,260 @@
+{
+  "word": "even",
+  "phonetic": "/ˈiːvən/",
+  "syllables": [
+    "e",
+    "ven"
+  ],
+  "pos": [
+    "adj.",
+    "adv.",
+    "v."
+  ],
+  "core_meanings": [
+    "平坦的",
+    "均等的",
+    "偶数的",
+    "甚至",
+    "使平整"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "flat and smooth, without bumps",
+      "zh_definition": "平坦而没有明显凸起的",
+      "usages": [
+        {
+          "usage_label": "平坦的",
+          "collocations": [
+            {
+              "phrase": "an even surface",
+              "translation": "平整表面"
+            },
+            {
+              "phrase": "even ground",
+              "translation": "平地"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Make sure the floor is even.",
+              "zh": "要确保地面平整。"
+            },
+            {
+              "en": "We walked across even ground.",
+              "zh": "我们走过一片平地。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "level：也指平坦；even 强调表面没有高低不平。"
+      ],
+      "antonyms": [
+        "uneven：不平的。"
+      ],
+      "confusables": [
+        "even ground 指地面平，不是人数相等。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "divided into equal shares",
+      "zh_definition": "平均分成同样大小的份额",
+      "usages": [
+        {
+          "usage_label": "平均分配的",
+          "collocations": [
+            {
+              "phrase": "an even share",
+              "translation": "均等的一份"
+            },
+            {
+              "phrase": "an even split",
+              "translation": "平均分摊"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Each child got an even share.",
+              "zh": "每个孩子都分到了同样多的一份。"
+            },
+            {
+              "en": "They agreed to an even split of the costs.",
+              "zh": "他们同意平均分摊费用。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "equal：强调数量相同；even 也可强调分配均匀。"
+      ],
+      "antonyms": [
+        "unequal：不均等的。"
+      ],
+      "confusables": [
+        "an even split 指平均分配，不一定与球赛比分有关。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "equal in score or ability",
+      "zh_definition": "比分或实力相同的",
+      "usages": [
+        {
+          "usage_label": "势均力敌的",
+          "collocations": [
+            {
+              "phrase": "the score is even",
+              "translation": "比分持平"
+            },
+            {
+              "phrase": "an even match",
+              "translation": "势均力敌的比赛"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The score was even at halftime.",
+              "zh": "中场时比分持平。"
+            },
+            {
+              "en": "It was an even match until the end.",
+              "zh": "直到最后，比赛都势均力敌。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "tied：强调比分相同；even 也可指实力接近。"
+      ],
+      "antonyms": [
+        "uneven：实力不均的。"
+      ],
+      "confusables": [
+        "比赛中的 even 不表示偶数。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "adj.",
+      "en_definition": "divisible by two without a remainder",
+      "zh_definition": "能被二整除而没有余数的",
+      "usages": [
+        {
+          "usage_label": "偶数的",
+          "collocations": [
+            {
+              "phrase": "an even number",
+              "translation": "偶数"
+            },
+            {
+              "phrase": "even page numbers",
+              "translation": "偶数页码"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Eight is an even number.",
+              "zh": "八是偶数。"
+            },
+            {
+              "en": "The even page numbers are on the left.",
+              "zh": "偶数页码在左侧。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：even 在数学中表示可被二整除。"
+      ],
+      "antonyms": [
+        "odd：奇数的。"
+      ],
+      "confusables": [
+        "even number 是偶数，不是平均的数字。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "adv.",
+      "en_definition": "used to show that something is surprising or goes further than expected",
+      "zh_definition": "强调事情出乎意料或程度更进一步",
+      "usages": [
+        {
+          "usage_label": "甚至",
+          "collocations": [
+            {
+              "phrase": "even a child",
+              "translation": "连孩子都"
+            },
+            {
+              "phrase": "even better",
+              "translation": "甚至更好"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Even a child could understand it.",
+              "zh": "连孩子都能明白。"
+            },
+            {
+              "en": "The second book was even better.",
+              "zh": "第二本书甚至更好。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：even 在此是加强语气的副词。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "even 放在要强调的词语前。"
+      ]
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to make a surface or amount more level or equal",
+      "zh_definition": "使表面或数量更平整、更均匀",
+      "usages": [
+        {
+          "usage_label": "弄平或均分",
+          "collocations": [
+            {
+              "phrase": "even out the surface",
+              "translation": "把表面弄平"
+            },
+            {
+              "phrase": "even out the workload",
+              "translation": "均衡工作量"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They evened out the ground before building.",
+              "zh": "动工前他们把地面平整好了。"
+            },
+            {
+              "en": "We need to even out the workload.",
+              "zh": "我们需要均衡工作量。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "level：也指弄平表面；even out 还可用于工作量。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "even out 是常用短语，表示变得或使之均匀。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "word": "exercise",
+  "phonetic": "/ˈeksərsaɪz/",
+  "syllables": [
+    "ex",
+    "er",
+    "cise"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "运动",
+    "练习",
+    "行使"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "physical activity done to stay healthy",
+      "zh_definition": "为了保持健康而进行的身体活动",
+      "usages": [
+        {
+          "usage_label": "运动",
+          "collocations": [
+            {
+              "phrase": "get exercise",
+              "translation": "锻炼身体"
+            },
+            {
+              "phrase": "regular exercise",
+              "translation": "规律运动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Walking is good exercise.",
+              "zh": "步行是很好的锻炼。"
+            },
+            {
+              "en": "Regular exercise helps me sleep.",
+              "zh": "规律运动有助于我睡眠。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "workout：常指一次有计划的锻炼；exercise 范围更广。"
+      ],
+      "antonyms": [
+        "inactivity：不活动。"
+      ],
+      "confusables": [
+        "表示运动整体时 exercise 通常不可数。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a task done to practice a skill",
+      "zh_definition": "为练习技能而做的题目或活动",
+      "usages": [
+        {
+          "usage_label": "练习",
+          "collocations": [
+            {
+              "phrase": "a grammar exercise",
+              "translation": "语法练习"
+            },
+            {
+              "phrase": "do an exercise",
+              "translation": "做一道练习"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Complete the first grammar exercise.",
+              "zh": "完成第一道语法练习。"
+            },
+            {
+              "en": "The teacher gave us two exercises.",
+              "zh": "老师给我们布置了两道练习。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "practice task：也指训练任务；exercise 常指教材里的具体练习。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义 exercise 可数，与不可数的“运动”不同。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to do physical activity to stay healthy",
+      "zh_definition": "为保持健康而进行身体活动",
+      "usages": [
+        {
+          "usage_label": "锻炼",
+          "collocations": [
+            {
+              "phrase": "exercise daily",
+              "translation": "每天锻炼"
+            },
+            {
+              "phrase": "exercise outdoors",
+              "translation": "在户外锻炼"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She exercises before work.",
+              "zh": "她上班前锻炼。"
+            },
+            {
+              "en": "We exercise outdoors on weekends.",
+              "zh": "我们周末在户外锻炼。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "work out：常指较有计划的锻炼；exercise 范围更广。"
+      ],
+      "antonyms": [
+        "rest：休息。"
+      ],
+      "confusables": [
+        "exercise 作动词可不接宾语。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to use a right, power, or choice",
+      "zh_definition": "使用权利、权力或选择权",
+      "usages": [
+        {
+          "usage_label": "行使",
+          "collocations": [
+            {
+              "phrase": "exercise a right",
+              "translation": "行使权利"
+            },
+            {
+              "phrase": "exercise control",
+              "translation": "行使控制权"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Citizens can exercise their right to vote.",
+              "zh": "公民可以行使投票权。"
+            },
+            {
+              "en": "The manager exercised control over the budget.",
+              "zh": "经理对预算行使了控制权。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "use：泛指使用；exercise 在权利语境中较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "exercise a right 不表示体育锻炼。"
+      ]
+    }
+  ]
+}

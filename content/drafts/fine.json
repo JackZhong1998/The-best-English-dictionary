@@ -1,0 +1,177 @@
+{
+  "word": "fine",
+  "phonetic": "/faɪn/",
+  "syllables": [
+    "fine"
+  ],
+  "pos": [
+    "adj.",
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "好的",
+    "细的",
+    "罚款"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "good or satisfactory",
+      "zh_definition": "不错或令人满意的",
+      "usages": [
+        {
+          "usage_label": "好的",
+          "collocations": [
+            {
+              "phrase": "feel fine",
+              "translation": "感觉不错"
+            },
+            {
+              "phrase": "a fine day",
+              "translation": "好天气"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I feel fine today.",
+              "zh": "我今天感觉不错。"
+            },
+            {
+              "en": "It was a fine day for a walk.",
+              "zh": "那是个适合散步的好天气。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "good：泛指好；fine 常表示情况令人满意。"
+      ],
+      "antonyms": [
+        "poor：差的。"
+      ],
+      "confusables": [
+        "I am fine 可以表示我很好，不一定是非常兴奋。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "very thin or made of small parts",
+      "zh_definition": "很细或颗粒很小的",
+      "usages": [
+        {
+          "usage_label": "细的",
+          "collocations": [
+            {
+              "phrase": "fine sand",
+              "translation": "细沙"
+            },
+            {
+              "phrase": "fine hair",
+              "translation": "细软的头发"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The beach has fine sand.",
+              "zh": "这片海滩的沙子很细。"
+            },
+            {
+              "en": "She has fine hair.",
+              "zh": "她的头发很细软。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "thin：也指细；fine 常指质地或颗粒细。"
+      ],
+      "antonyms": [
+        "coarse：粗糙的。"
+      ],
+      "confusables": [
+        "fine sand 指颗粒细，不是“很好的沙”。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "money paid as punishment for breaking a rule",
+      "zh_definition": "因违反规定而交的钱",
+      "usages": [
+        {
+          "usage_label": "罚款",
+          "collocations": [
+            {
+              "phrase": "pay a fine",
+              "translation": "缴纳罚款"
+            },
+            {
+              "phrase": "a parking fine",
+              "translation": "停车罚款"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He had to pay a fine for parking there.",
+              "zh": "他因在那里停车而不得不交罚款。"
+            },
+            {
+              "en": "The library charged a small fine.",
+              "zh": "图书馆收取了一笔小额罚款。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "penalty：泛指处罚；fine 特指金钱处罚。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "fine 作名词可数，指一笔罚款。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to order someone to pay money as punishment",
+      "zh_definition": "命令某人交钱作为处罚",
+      "usages": [
+        {
+          "usage_label": "处以罚款",
+          "collocations": [
+            {
+              "phrase": "fine a driver",
+              "translation": "罚司机款"
+            },
+            {
+              "phrase": "be fined for speeding",
+              "translation": "因超速被罚款"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The officer fined the driver.",
+              "zh": "警察对那名司机处以罚款。"
+            },
+            {
+              "en": "She was fined for speeding.",
+              "zh": "她因超速被罚款。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "penalize：泛指处罚；fine 特指罚钱。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "fine someone for something 表示因某事罚某人的款。"
+      ]
+    }
+  ]
+}
