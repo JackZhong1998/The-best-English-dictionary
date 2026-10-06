@@ -1,0 +1,140 @@
+{
+  "word": "bend",
+  "phonetic": "/bend/",
+  "syllables": [
+    "bend"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "弯曲",
+    "弯腰",
+    "弯道"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to make something curved or become curved",
+      "zh_definition": "使某物弯曲或自行弯曲",
+      "usages": [
+        {
+          "usage_label": "弯曲",
+          "collocations": [
+            {
+              "phrase": "bend a wire",
+              "translation": "弯曲铁丝"
+            },
+            {
+              "phrase": "bend easily",
+              "translation": "容易弯曲"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He bent the wire into a circle.",
+              "zh": "他把铁丝弯成了一个圈。"
+            },
+            {
+              "en": "This plastic bends easily.",
+              "zh": "这种塑料很容易弯曲。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "curve：强调形成弧形；bend 可以是一次折弯。"
+      ],
+      "antonyms": [
+        "straighten：弄直。"
+      ],
+      "confusables": [
+        "bend into 后接弯成的形状。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to move your body or a part of it downward",
+      "zh_definition": "身体或身体部位向下弯",
+      "usages": [
+        {
+          "usage_label": "弯腰",
+          "collocations": [
+            {
+              "phrase": "bend down",
+              "translation": "弯下腰"
+            },
+            {
+              "phrase": "bend your knees",
+              "translation": "屈膝"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She bent down to pick up the book.",
+              "zh": "她弯腰捡起书。"
+            },
+            {
+              "en": "Bend your knees when you lift the box.",
+              "zh": "抬箱子时要屈膝。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "stoop：也指弯腰；bend 可用于身体不同部位。"
+      ],
+      "antonyms": [
+        "stand straight：站直。"
+      ],
+      "confusables": [
+        "bend down 指身体向下弯，不一定跪下。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a curved part of a road or river",
+      "zh_definition": "道路或河流弯曲的一段",
+      "usages": [
+        {
+          "usage_label": "弯道",
+          "collocations": [
+            {
+              "phrase": "a sharp bend",
+              "translation": "急弯"
+            },
+            {
+              "phrase": "around the bend",
+              "translation": "绕过弯道"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Slow down before the sharp bend.",
+              "zh": "到急弯前请减速。"
+            },
+            {
+              "en": "The river makes a wide bend here.",
+              "zh": "河流在这里拐了个大弯。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "curve：也指弯曲处；bend 常指道路或河流的一个弯。"
+      ],
+      "antonyms": [
+        "straight section：直道。"
+      ],
+      "confusables": [
+        "a bend in the road 表示路上的弯道。"
+      ]
+    }
+  ]
+}

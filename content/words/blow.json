@@ -1,0 +1,176 @@
+{
+  "word": "blow",
+  "phonetic": "/bloʊ/",
+  "syllables": [
+    "blow"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "吹",
+    "刮风",
+    "爆炸",
+    "打击"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to send air out of your mouth",
+      "zh_definition": "从嘴里呼出气流",
+      "usages": [
+        {
+          "usage_label": "吹",
+          "collocations": [
+            {
+              "phrase": "blow on soup",
+              "translation": "对着汤吹气"
+            },
+            {
+              "phrase": "blow out a candle",
+              "translation": "吹灭蜡烛"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Blow on the soup before you eat it.",
+              "zh": "吃汤前先吹一吹。"
+            },
+            {
+              "en": "She blew out the candle.",
+              "zh": "她吹灭了蜡烛。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "breathe out：指呼气；blow 常有意向某物送气。"
+      ],
+      "antonyms": [
+        "breathe in：吸气。"
+      ],
+      "confusables": [
+        "blow out a candle 表示吹灭蜡烛。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to move as wind does",
+      "zh_definition": "风吹动或流动",
+      "usages": [
+        {
+          "usage_label": "刮",
+          "collocations": [
+            {
+              "phrase": "the wind blows",
+              "translation": "刮风"
+            },
+            {
+              "phrase": "blow strongly",
+              "translation": "猛烈地刮"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The wind blew all night.",
+              "zh": "风刮了一整夜。"
+            },
+            {
+              "en": "A cold wind was blowing from the sea.",
+              "zh": "一阵冷风从海上吹来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：此义以 wind 为主语，表示风持续吹动。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "风作主语时 blow 不需要人来吹。",
+        "gust 指一阵突发的风，不等于持续刮风。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to explode or be destroyed by an explosion",
+      "zh_definition": "爆炸或被爆炸毁坏",
+      "usages": [
+        {
+          "usage_label": "爆炸",
+          "collocations": [
+            {
+              "phrase": "blow up",
+              "translation": "爆炸"
+            },
+            {
+              "phrase": "blow up a building",
+              "translation": "炸毁建筑"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The old factory blew up at night.",
+              "zh": "那座旧工厂夜里爆炸了。"
+            },
+            {
+              "en": "They blew up the empty building.",
+              "zh": "他们炸毁了那座空楼。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "explode：直接表示爆炸；blow up 还可接被炸毁的东西。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "blow up 也可指把气球吹大，须看语境。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "an event that causes harm or disappointment",
+      "zh_definition": "造成伤害或失望的事件",
+      "usages": [
+        {
+          "usage_label": "打击",
+          "collocations": [
+            {
+              "phrase": "a heavy blow",
+              "translation": "沉重打击"
+            },
+            {
+              "phrase": "a blow to confidence",
+              "translation": "对信心的打击"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Losing the game was a heavy blow.",
+              "zh": "输掉比赛是沉重的打击。"
+            },
+            {
+              "en": "The news was a blow to his confidence.",
+              "zh": "这个消息打击了他的信心。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "setback：指挫折；blow 强调打击的感受。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a blow to 后接受打击的人或事物。"
+      ]
+    }
+  ]
+}

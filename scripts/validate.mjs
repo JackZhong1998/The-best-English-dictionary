@@ -71,6 +71,11 @@ for (const word of words) {
   string(entry.etymology, `${word}.etymology`, true)
   string(entry.semantic_shift, `${word}.semantic_shift`, true)
   const senses = array(entry.senses, `${word}.senses`, 1)
+  if (Array.isArray(entry.pos) && senses.length) {
+    const declared = [...new Set(entry.pos)].sort().join(',')
+    const covered = [...new Set(senses.map((sense) => sense?.part_of_speech).filter(Boolean))].sort().join(',')
+    if (declared !== covered) errors.push(`${word}: parts of speech do not match the senses`)
+  }
   if (legacyWords.has(word) && !senses.some((sense) => Array.isArray(sense.antonyms) && sense.antonyms.length)) errors.push(`${word}: no antonym comparison in any sense`)
   for (const [senseIndex, sense] of senses.entries()) {
     const where = `${word}.senses[${senseIndex}]`

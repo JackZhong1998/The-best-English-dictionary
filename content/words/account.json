@@ -1,0 +1,177 @@
+{
+  "word": "account",
+  "phonetic": "/əˈkaʊnt/",
+  "syllables": [
+    "ac",
+    "count"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "账户",
+    "记述",
+    "解释",
+    "占比"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "an arrangement with a bank or online service for keeping money or information",
+      "zh_definition": "用于存钱或使用线上服务的账户",
+      "usages": [
+        {
+          "usage_label": "账户",
+          "collocations": [
+            {
+              "phrase": "open a bank account",
+              "translation": "开银行账户"
+            },
+            {
+              "phrase": "create an account",
+              "translation": "注册账户"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She opened a bank account yesterday.",
+              "zh": "她昨天开了一个银行账户。"
+            },
+            {
+              "en": "You need an account to use the app.",
+              "zh": "使用这个应用需要注册账户。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：account 指银行或网络服务中的具体账户。"
+      ],
+      "antonyms": [
+        "close an account：关闭账户。"
+      ],
+      "confusables": [
+        "bank account 存钱；online account 用来登录服务。",
+        "profile 是账户中的个人资料，不等于 account。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a written or spoken description of what happened",
+      "zh_definition": "对发生的事情所作的口头或书面描述",
+      "usages": [
+        {
+          "usage_label": "记述",
+          "collocations": [
+            {
+              "phrase": "a detailed account",
+              "translation": "详细记述"
+            },
+            {
+              "phrase": "an account of the event",
+              "translation": "对事件的记述"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He gave a detailed account of the accident.",
+              "zh": "他详细讲述了这场事故。"
+            },
+            {
+              "en": "I read an account of her journey.",
+              "zh": "我读了一篇关于她旅程的记述。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "report：常指正式报告；account 可是个人讲述。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "an account of 后接所记述的事情。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to explain the reason for something",
+      "zh_definition": "说明某事发生的原因",
+      "usages": [
+        {
+          "usage_label": "解释",
+          "collocations": [
+            {
+              "phrase": "account for the delay",
+              "translation": "解释延误原因"
+            },
+            {
+              "phrase": "account for the change",
+              "translation": "解释变化原因"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Bad weather accounts for the delay.",
+              "zh": "恶劣天气是延误的原因。"
+            },
+            {
+              "en": "How do you account for this change?",
+              "zh": "你如何解释这个变化？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "explain：直接表示解释；account for 常强调原因。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "account for 后接需要解释的事情。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to make up a particular part of a total",
+      "zh_definition": "占整体中的某一部分",
+      "usages": [
+        {
+          "usage_label": "占比",
+          "collocations": [
+            {
+              "phrase": "account for half",
+              "translation": "占一半"
+            },
+            {
+              "phrase": "account for most sales",
+              "translation": "占大部分销量"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Online orders account for half our sales.",
+              "zh": "线上订单占我们销量的一半。"
+            },
+            {
+              "en": "Women account for most of the team.",
+              "zh": "女性占团队的大多数。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "make up：也表示构成某个比例，更口语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "account for 在这里表示占比，不是解释原因。"
+      ]
+    }
+  ]
+}

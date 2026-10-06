@@ -1,0 +1,218 @@
+{
+  "word": "bill",
+  "phonetic": "/bɪl/",
+  "syllables": [
+    "bill"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "账单",
+    "钞票",
+    "法案",
+    "鸟嘴",
+    "开账单"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a written statement of money you owe",
+      "zh_definition": "列明应付款项的单据",
+      "usages": [
+        {
+          "usage_label": "账单",
+          "collocations": [
+            {
+              "phrase": "pay the bill",
+              "translation": "付账"
+            },
+            {
+              "phrase": "an electricity bill",
+              "translation": "电费账单"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We paid the bill after dinner.",
+              "zh": "我们饭后付了账。"
+            },
+            {
+              "en": "The electricity bill arrived today.",
+              "zh": "电费账单今天寄到了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "invoice：商业交易中的付款单据；bill 也可指餐馆账单。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "pay the bill 指付账，不是支付法案。",
+        "receipt 是付款后拿到的收据；bill 是待支付的账单。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a piece of paper money, especially in American English",
+      "zh_definition": "纸币，尤见于美式英语",
+      "usages": [
+        {
+          "usage_label": "钞票",
+          "collocations": [
+            {
+              "phrase": "a ten-dollar bill",
+              "translation": "一张十美元钞票"
+            },
+            {
+              "phrase": "a hundred-dollar bill",
+              "translation": "一张百元钞票"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She gave me a ten-dollar bill.",
+              "zh": "她给了我一张十美元钞票。"
+            },
+            {
+              "en": "I only have a hundred-dollar bill.",
+              "zh": "我只有一张百元钞票。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "banknote：较正式的纸币说法。"
+      ],
+      "antonyms": [
+        "coin：硬币。"
+      ],
+      "confusables": [
+        "a bill 在美国英语中可指纸币；英国英语多说 note。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a proposed law being discussed by lawmakers",
+      "zh_definition": "立法机构正在讨论的法律草案",
+      "usages": [
+        {
+          "usage_label": "法案",
+          "collocations": [
+            {
+              "phrase": "pass a bill",
+              "translation": "通过法案"
+            },
+            {
+              "phrase": "introduce a bill",
+              "translation": "提出法案"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Lawmakers discussed the new bill.",
+              "zh": "立法者讨论了新法案。"
+            },
+            {
+              "en": "The committee introduced a bill on housing.",
+              "zh": "委员会提出了一项住房法案。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "proposed law：拟议中的法律，与 bill 同指尚未通过的法案。"
+      ],
+      "antonyms": [
+        "reject a bill：否决法案。"
+      ],
+      "confusables": [
+        "bill 作为法案时，不是要付款的账单。",
+        "act 通常指已经通过的法律；bill 尚在立法过程中。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "the hard projecting mouth of a bird",
+      "zh_definition": "鸟向前突出的坚硬嘴部",
+      "usages": [
+        {
+          "usage_label": "鸟嘴",
+          "collocations": [
+            {
+              "phrase": "a duck's bill",
+              "translation": "鸭嘴"
+            },
+            {
+              "phrase": "a long bill",
+              "translation": "长鸟嘴"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The duck has a wide bill.",
+              "zh": "这只鸭子的嘴很宽。"
+            },
+            {
+              "en": "The bird used its bill to pick up food.",
+              "zh": "那只鸟用嘴叼起食物。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "beak：也指鸟喙；bill 常用于鸭等嘴较扁的鸟。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这里的 bill 与账单、法案按语境区分。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to send someone a request for payment",
+      "zh_definition": "向某人开账单要求付款",
+      "usages": [
+        {
+          "usage_label": "开账单或收费",
+          "collocations": [
+            {
+              "phrase": "bill a customer",
+              "translation": "给顾客开账单"
+            },
+            {
+              "phrase": "bill someone for a service",
+              "translation": "向某人收取服务费"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The hotel billed us for two nights.",
+              "zh": "酒店向我们收取了两晚的住宿费。"
+            },
+            {
+              "en": "The company billed the customer for the repair.",
+              "zh": "公司向顾客收取了维修费。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "charge：也表示收费；bill 强调列出并要求支付款项。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bill someone for something 中的 for 引出收费项目。"
+      ]
+    }
+  ]
+}

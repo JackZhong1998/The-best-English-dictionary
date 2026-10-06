@@ -1,6 +1,6 @@
 # 词义之间
 
-面向中文学习者的英汉词典。网站先收录词头和原创基础释义，再由本地 Codex 制作并复核完整词条；尚未精修的词仍可查询。100 词试批均已发布完整词条，其中原有 30 词和新增 70 词共附 869 个预生成音频文件。下一批 25 个四／六级大纲候选词正在分批制作。`content/catalog.json` 保存每词的状态与复核记录；首批的“CET4-level candidate”是独立编辑选择，不声称来自官方四级词表。
+面向中文学习者的英汉词典。网站先收录词头和原创基础释义，再由本地 Codex 制作并复核完整词条；尚未精修的词仍可查询。现已发布 125 个完整词条，包括 100 词试批和第五批 25 个四／六级大纲候选词。前 100 词附有 869 个预生成音频文件，新扩词暂不预生成音频。`content/catalog.json` 保存每词的状态与复核记录；首批的“CET4-level candidate”是独立编辑选择，不声称来自官方四级词表。
 
 ## 本地运行和校验
 
@@ -20,14 +20,14 @@ Vite 开发服务器使用导出的静态试批数据，入口为 `http://127.0.
 ## 内容流水线
 
 - `content/catalog.json` 是可恢复进度清单，保存来源、考试类别、`basic`/`draft`/`reviewed`/`published` 状态、版本和复核记录。`draft` 和 `reviewed` 在线上显示为基础释义；只有 `published` 才显示完整词条。
-- `content/pilot_cet4.tsv` 是独立整理的 100 词试批。新增四／六级词头以 [MIT 许可的 2016 大纲转录稿](content/sources/README.md)为选词清单，不复制第三方释义或例句。`scripts/build_cet_backlog.py` 将原稿拆为 7,600 个明确拼写和 214 个待核对的变体记法；`scripts/cet_progress.py` 报告已发布覆盖。转录稿没有可靠的逐词等级标签，核定前只标“四／六级大纲候选”。
+- `content/pilot_cet4.tsv` 是独立整理的 100 词试批。新增四／六级词头以 [MIT 许可的 2016 大纲转录稿](content/sources/README.md)为选词清单，不复制第三方释义或例句。`scripts/build_cet_backlog.py` 将原稿拆为 7,600 个明确拼写、214 个待核对的变体记法及 39 个需核对大小写的拼写；`scripts/cet_progress.py` 报告已发布覆盖。转录稿没有可靠的逐词等级标签，核定前只标“四／六级大纲候选”。
 - `scripts/content_pipeline.py` 提供 `status`、`stage`、`review`、`publish` 等命令。候选 JSON 先进入 `content/drafts/`，独立复核通过后才进入 `content/words/`。当前试批首批逐词复核；后续每批 25 词，抽检至少 10%，另查多音、多词源、短语动词等高风险词。出现系统性错误时复核整批。
 - 已发布词条可通过同样的 `stage → review → publish` 路径修订，审核期间旧版仍可读。`review --issues-found N --corrections N` 为后续批次记录结构化质量数据；`scripts/batch_report.mjs` 汇总每批词数、复核记录及音频完整性，历史未记录的错误数显示为未知，不推测。
 - 原有 30 词的生成源在 `scripts/build_content.py`，音频生成脚本在 `scripts/generate_audio.py`。`content/audio_manifest.json` 记录文本、音色和参数的哈希；修改例句后脚本会重做相应 MP3，构建校验也会拒绝过期音频。词源和词义迁移无可靠说明时可以留空。
 
 ## Vercel 部署
 
-`vercel.json` 保证 `/word/:word` 直达链接返回 Vite 页面。网页从 `/api/words` 分页查询词头，从 `/api/entries/:word` 获取单个词条；当数据库不可用时，100 词试批仍可通过静态导出阅读。正式扩大到数万词时，数据库是搜索的主要来源，不能把完整 JSON 打进浏览器包。
+`vercel.json` 保证 `/word/:word` 直达链接返回 Vite 页面。网页从 `/api/words` 分页查询词头，从 `/api/entries/:word` 获取单个词条；当数据库不可用时，已发布的 125 词仍可通过静态导出阅读。正式扩大到数万词时，数据库是搜索的主要来源，不能把完整 JSON 打进浏览器包。
 
 运行数据库初始化脚本 `db/schema.sql`、`db/audio.sql`，在 Vercel 项目设置 `DATABASE_URL`，然后运行 `node scripts/import_entries.mjs`。每次内容发布后可用 `node scripts/import_entries.mjs --batch N` 仅导入对应 25 词批次；脚本按词头幂等更新，中断后可重跑。Python Function 的依赖列在 `requirements.txt`。按需发音还需要以下环境变量：
 

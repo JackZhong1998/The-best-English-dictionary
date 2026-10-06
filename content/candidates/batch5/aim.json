@@ -1,0 +1,134 @@
+{
+  "word": "aim",
+  "phonetic": "/eɪm/",
+  "syllables": [
+    "aim"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "目标",
+    "旨在",
+    "瞄准"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "something that you want to achieve",
+      "zh_definition": "希望实现的目标",
+      "usages": [
+        {
+          "usage_label": "目标",
+          "collocations": [
+            {
+              "phrase": "a clear aim",
+              "translation": "明确的目标"
+            },
+            {
+              "phrase": "the main aim",
+              "translation": "主要目的"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our main aim is to help children read.",
+              "zh": "我们的主要目标是帮助孩子阅读。"
+            },
+            {
+              "en": "She has a clear aim for this year.",
+              "zh": "她今年有一个明确的目标。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "goal：也指目标；aim 更强调做事的目的。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the aim of 后接活动，说明活动目的。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to intend to achieve something",
+      "zh_definition": "打算实现某个目标",
+      "usages": [
+        {
+          "usage_label": "旨在",
+          "collocations": [
+            {
+              "phrase": "aim to improve",
+              "translation": "旨在改进"
+            },
+            {
+              "phrase": "aim for a high score",
+              "translation": "争取高分"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The project aims to reduce waste.",
+              "zh": "这个项目旨在减少浪费。"
+            },
+            {
+              "en": "He is aiming for a higher score.",
+              "zh": "他正争取更高的分数。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "intend：强调打算；aim 强调目标方向。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "aim to 后接动词，aim for 后接目标名词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to point something at a target",
+      "zh_definition": "把某物对准目标",
+      "usages": [
+        {
+          "usage_label": "瞄准",
+          "collocations": [
+            {
+              "phrase": "aim at a target",
+              "translation": "瞄准靶子"
+            },
+            {
+              "phrase": "aim a camera",
+              "translation": "把相机对准目标"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She aimed at the center of the target.",
+              "zh": "她瞄准了靶心。"
+            },
+            {
+              "en": "He aimed the camera at the bird.",
+              "zh": "他把相机对准那只鸟。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "point：泛指指向；aim 暗含目标。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "aim something at a target 表示把某物对准目标。"
+      ]
+    }
+  ]
+}

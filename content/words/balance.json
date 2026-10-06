@@ -1,0 +1,217 @@
+{
+  "word": "balance",
+  "phonetic": "/ˈbæləns/",
+  "syllables": [
+    "bal",
+    "ance"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "平衡",
+    "余额",
+    "权衡"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a state in which weight or different parts are even",
+      "zh_definition": "重量或各部分保持均衡的状态",
+      "usages": [
+        {
+          "usage_label": "平衡",
+          "collocations": [
+            {
+              "phrase": "keep your balance",
+              "translation": "保持平衡"
+            },
+            {
+              "phrase": "lose your balance",
+              "translation": "失去平衡"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She lost her balance on the ice.",
+              "zh": "她在冰上失去了平衡。"
+            },
+            {
+              "en": "The child learned to keep his balance.",
+              "zh": "那孩子学会了保持平衡。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "stability：强调稳定不动；balance 强调两边或身体保持均衡。"
+      ],
+      "antonyms": [
+        "imbalance：失衡。"
+      ],
+      "confusables": [
+        "lose your balance 常指身体站不稳。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to keep your body steady without falling",
+      "zh_definition": "让身体保持稳定而不跌倒",
+      "usages": [
+        {
+          "usage_label": "身体保持平衡",
+          "collocations": [
+            {
+              "phrase": "balance on one foot",
+              "translation": "单脚保持平衡"
+            },
+            {
+              "phrase": "balance on a beam",
+              "translation": "在横梁上保持平衡"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He balanced on one foot.",
+              "zh": "他单脚站稳。"
+            },
+            {
+              "en": "The child balanced on the narrow beam.",
+              "zh": "那孩子在狭窄的横梁上保持平衡。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "steady yourself：使自己站稳；balance 强调控制重心。"
+      ],
+      "antonyms": [
+        "fall：跌倒。"
+      ],
+      "confusables": [
+        "balance on 后接支撑身体的东西。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to keep something steady by arranging its weight evenly",
+      "zh_definition": "通过均匀分配重量使某物稳定",
+      "usages": [
+        {
+          "usage_label": "使某物保持平衡",
+          "collocations": [
+            {
+              "phrase": "balance a tray",
+              "translation": "稳稳端住托盘"
+            },
+            {
+              "phrase": "balance a book on your head",
+              "translation": "把书稳稳顶在头上"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She balanced the tray on one hand.",
+              "zh": "她用一只手稳稳托住托盘。"
+            },
+            {
+              "en": "He balanced a book on his head.",
+              "zh": "他把一本书稳稳顶在头上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "steady：使某物稳定；balance 更强调控制重量分布。"
+      ],
+      "antonyms": [
+        "tip over：倾倒。"
+      ],
+      "confusables": [
+        "balance something on 后接支撑该物的部位。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "the amount of money left in an account",
+      "zh_definition": "账户里剩下的金额",
+      "usages": [
+        {
+          "usage_label": "余额",
+          "collocations": [
+            {
+              "phrase": "check your balance",
+              "translation": "查询余额"
+            },
+            {
+              "phrase": "a low balance",
+              "translation": "余额较低"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I checked my balance online.",
+              "zh": "我在网上查了余额。"
+            },
+            {
+              "en": "The account has a low balance.",
+              "zh": "这个账户的余额很少。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "remaining amount：泛指剩余量；balance 在银行语境中指余额。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bank balance 是银行账户余额，不是身体平衡。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to give proper attention to two different needs",
+      "zh_definition": "兼顾两种不同需求",
+      "usages": [
+        {
+          "usage_label": "权衡兼顾",
+          "collocations": [
+            {
+              "phrase": "balance work and life",
+              "translation": "兼顾工作与生活"
+            },
+            {
+              "phrase": "balance cost and quality",
+              "translation": "权衡成本与质量"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She balances work and family life.",
+              "zh": "她兼顾工作和家庭生活。"
+            },
+            {
+              "en": "We must balance cost and quality.",
+              "zh": "我们必须权衡成本与质量。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "weigh：强调比较利弊；balance 强调让两方都得到照顾。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "balance A and B 表示兼顾两方面。"
+      ]
+    }
+  ]
+}

@@ -136,6 +136,11 @@ def validate_candidate(entry, word):
     if not isinstance(senses, list) or not senses:
         problems.append("missing senses")
         return problems
+    if isinstance(entry.get("pos"), list):
+        declared = set(entry["pos"])
+        covered = {sense.get("part_of_speech") for sense in senses if isinstance(sense, dict)}
+        if declared != covered:
+            problems.append("parts of speech do not match the senses")
     for index, sense in enumerate(senses, 1):
         if not isinstance(sense, dict) or set(sense) != SENSE_KEYS or sense.get("id") != index:
             problems.append(f"sense {index}: schema/id mismatch")
@@ -190,6 +195,8 @@ def extend(args):
     rows = basic_rows(Path(args.file), BATCH_SIZE)
     source_evidence = {}
     if args.source_id == "cet2016_mit_transcription":
+        if args.category != "CET4_CET6":
+            raise SystemExit("Combined CET transcription cannot support a single-level CET4 or CET6 label")
         source_index = ROOT / "content/wordlists/cet2016_simple.tsv"
         with source_index.open(encoding="utf-8", newline="") as handle:
             source_evidence = {line["word"]: [int(row) for row in line["source_rows"].split(",")]

@@ -2292,297 +2292,474 @@
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "账户；解释；描述",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         37
       ],
-      "author": null,
-      "risk_flags": [],
-      "review_records": []
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "phrasal_verb"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。未发现需修正问题。",
+          "sha256": "7de140b503f6bcfa4f993faae956e263d8021c14cb284f8fd7f3759f4ac25bc1",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "act",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "行动；行为；扮演",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         52
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "fe21dc7180b88b5d477d94902984a740eac98e277fd99ef971bb07519353a283",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "add",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "增加；补充；相加",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         60
       ],
-      "author": null,
-      "risk_flags": [],
-      "review_records": []
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "phrasal_verb"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。未发现需修正问题。",
+          "sha256": "8bfb371121a17eb6de54777cee605b131ad82498fdb3c9304b52e5d23159328a",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "admit",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "承认；允许进入",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         70
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。未发现需修正问题。",
+          "sha256": "f7649b021e9e0b08ac50bcc8c3066541a2d902ac7d6dd24cd802d04a22bcd6b2",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "advance",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "前进；进展；预付",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         75
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "66c8b89c4baceb830b838b5a8e8b4a693b28c0a47c604390f01b937d8f1d1ed1",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "aid",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "帮助；援助",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         116
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "ebcb94960ae3f471bc3ea18ce70f4beb415b240e707745603e1bba99489e9fe4",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "aim",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "目标；瞄准；旨在",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         120
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。未发现需修正问题。",
+          "sha256": "6aa9e1f4c750f5dca32d64059df300ad9d6f5bf097ed00fbb0113c727d0169ff",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "air",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "空气；播出；晾晒",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         121
       ],
-      "author": null,
-      "risk_flags": [],
-      "review_records": []
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "phrasal_verb"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "e68cd5ed109fe8924745f2d3726a5cb7b8b5f4be9470daed93f833990c39f6d9",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "alarm",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "警报；惊恐；使惊慌",
-      "content_version": 0,
+      "content_version": 2,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         130
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "3ccac676d86e0c3fc56265bce2adb4a54059ffd8d441f8ab1d91d1a49bb47088",
+          "issue_count": 1,
+          "correction_count": 1
+        },
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "替换与 set 重复的例句；已核对新例句自然且中文准确。",
+          "sha256": "e798cbdd167c7deef69e04323a0adf41b07e4d1b568f983b13d74a7ee557984c",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "answer",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "回答；答案；应答",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         211
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。未发现需修正问题。",
+          "sha256": "c05c0cd4e99996141d558d7a7d3d6b7404ecb8529991ec0fe0351f1a2ac1cbcf",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "appeal",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "吸引；呼吁；上诉",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         234
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "b857311180ca62ca10590cba181611ee8dbe232d9de67a0aab13540f3757ca3a",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "arm",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "手臂；武装",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         270
       ],
-      "author": null,
-      "risk_flags": [],
-      "review_records": []
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "multiple_etymologies"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "34cbd6d65aa128c46e4e6913a5be5def6d8d6ac328421321796d163d2b1e6bcd",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "attack",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "攻击；发作；抨击",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         328
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "9e58d6b938f4b389cfe118bfd983e41bfa90ae1b74bbdb97c316c58561445a78",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "average",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "平均；普通的",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         360
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "4c4ddc0cac5a932073258b0f4b0d8a6c67ff3d6e15f40e8ddd0da71d89f0d1df",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "award",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "奖项；授予",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         366
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。未发现需修正问题。",
+          "sha256": "139aa48a1f23d56a78cc71cd2d08d6d5c42692a5def6b181702125330e9c50d9",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "balance",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "平衡；余额；权衡",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         395
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "fc48fd6ecf3fb8146b4da8d2984519da897e5bfa4c868be97649ccdcdf44efb6",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "bank",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "银行；河岸",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
@@ -2590,153 +2767,253 @@
         408,
         409
       ],
-      "author": null,
-      "risk_flags": [],
-      "review_records": []
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "multiple_etymologies",
+        "phrasal_verb"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "1b20db06bc2073bd38078747a433e8886a9455e1b5dc975357e97da24cba6694",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "bar",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "酒吧；障碍；条状物",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         414
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。未发现需修正问题。",
+          "sha256": "f338740bc9712f000a9bd0fabe158bfc25944e212e48fa3ad08f6ac0f8a7a12c",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "base",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "基础；以……为基础",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         427
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "e612ec24dc35defdb020e66a4a8eac5dc940ee2f69aff601811f96e4f96a742d",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "bear",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "熊；承受；生育",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         452
       ],
-      "author": null,
-      "risk_flags": [],
-      "review_records": []
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "multiple_etymologies",
+        "phrasal_verb"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "640449ec605bf18782c6b03b6959c63a8638681f5bf56bab61f3cdfc9c51ee90",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "beat",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "打；击败；节拍",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         456
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。未发现需修正问题。",
+          "sha256": "15f16738a4de1b9a09f6a3756c2c38a148b74223f9ad27b6d4ec0aafe5785bfa",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "bend",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "弯曲；拐弯",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         483
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "26923f17e0e1d052a9e9927fabaf19bb58ebb88a7beeff3faddc955396477fcd",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "bill",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "账单；法案；钞票",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         510
       ],
-      "author": null,
-      "risk_flags": [],
-      "review_records": []
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "multiple_etymologies"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "eac21d6cf657baa7a04cf5a3fd8375d1be50391fccc4bdb7ed00716444c7f20b",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "block",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "街区；块；阻挡",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         546
       ],
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。初审问题已在定稿前修正。",
+          "sha256": "3a151f41e635760cf83f590bdd724ce9b50a998116b8b9cdf4499cf67ec70ce1",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "blow",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "吹；打击；爆炸",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 5,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-5.tsv",
       "source_rows": [
         553
       ],
-      "author": null,
-      "risk_flags": [],
-      "review_records": []
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "phrasal_verb"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "全批逐词独立复核；核对义项、词性、例句、搭配与近义词辨析。未发现需修正问题。",
+          "sha256": "c6b9db2e02d3c1676b99d52d95a4b7dd0214acad004aeabeb19f2f9849a1bbe1",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     }
   ]
 }

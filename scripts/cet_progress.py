@@ -18,6 +18,7 @@ def main():
     print(f"Pending simple spellings: {len(pending)}")
     print(f"Published pilot words outside simple transcription: {', '.join(sorted(published - source_words)) or 'none'}")
     print("Unresolved compact variants:", sum(1 for _ in (ROOT / "content/wordlists/cet2016_unresolved.tsv").open(encoding="utf-8")) - 1)
+    print("Case-sensitive spellings for review:", sum(1 for _ in (ROOT / "content/wordlists/cet2016_case_review.tsv").open(encoding="utf-8")) - 1)
 
 
 if __name__ == "__main__":

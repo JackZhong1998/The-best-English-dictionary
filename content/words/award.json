@@ -1,0 +1,96 @@
+{
+  "word": "award",
+  "phonetic": "/əˈwɔːrd/",
+  "syllables": [
+    "a",
+    "ward"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "奖项",
+    "授予"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a prize given for an achievement",
+      "zh_definition": "为成就而颁发的奖项",
+      "usages": [
+        {
+          "usage_label": "奖项",
+          "collocations": [
+            {
+              "phrase": "win an award",
+              "translation": "获奖"
+            },
+            {
+              "phrase": "an award for writing",
+              "translation": "写作奖"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She won an award for her story.",
+              "zh": "她的故事获得了一个奖项。"
+            },
+            {
+              "en": "The school gives an award each year.",
+              "zh": "学校每年颁发一个奖项。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "prize：泛指竞赛奖品；award 常是正式颁发的荣誉。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "award for 后接获奖的原因或领域。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to officially give someone a prize or something they deserve",
+      "zh_definition": "正式把奖品或应得之物授予某人",
+      "usages": [
+        {
+          "usage_label": "授予",
+          "collocations": [
+            {
+              "phrase": "award a prize",
+              "translation": "颁奖"
+            },
+            {
+              "phrase": "award a scholarship",
+              "translation": "授予奖学金"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The judges awarded her first prize.",
+              "zh": "评委给她颁发了一等奖。"
+            },
+            {
+              "en": "The university awarded him a scholarship.",
+              "zh": "大学授予了他奖学金。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "give：泛指给予；award 强调正式决定并授予。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "award someone something 表示授予某人某物。"
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-"""Inventory the licensed CET-4/CET-6 transcription without copying definitions.
+"""Inventory an MIT-labeled third-party CET transcription without definitions.
 
 Simple standalone spellings become a resumable backlog. Compact variant
 notations stay in a separate review file rather than being silently guessed.
@@ -48,6 +48,13 @@ def main():
         writer = csv.writer(out, delimiter="\t")
         writer.writerow(("source_row", "token", "source_line"))
         writer.writerows(unresolved)
+    case_review = [(word, ",".join(map(str, sorted(evidence["rows"]))), ",".join(sorted(evidence["forms"])))
+                   for word, evidence in sorted(words.items())
+                   if any(any(letter.isupper() for letter in form) for form in evidence["forms"])]
+    with (OUTPUT / "cet2016_case_review.tsv").open("w", encoding="utf-8", newline="") as out:
+        writer = csv.writer(out, delimiter="\t")
+        writer.writerow(("lowercase_key", "source_rows", "source_forms"))
+        writer.writerows(case_review)
     summary = {
         "source": "content/sources/cet2016-word-list.txt",
         "source_sha256": hashlib.sha256(source_bytes).hexdigest(),
@@ -55,7 +62,8 @@ def main():
         "simple_unique_spellings": len(words),
         "unresolved_variant_tokens": len(unresolved),
         "unresolved_source_rows": len({row for row, _, _ in unresolved}),
-        "note": "Combined CET-4/CET-6 transcription; grade labels are not yet verified. Complex variants remain queued for editorial normalization.",
+        "case_sensitive_spellings_for_review": len(case_review),
+        "note": "Combined third-party transcription; original syllabus reuse rights and per-word grade labels are unverified. Complex and case-sensitive forms remain queued for editorial normalization.",
     }
     (OUTPUT / "cet2016_inventory.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(summary, ensure_ascii=False))

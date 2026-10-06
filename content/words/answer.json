@@ -1,0 +1,139 @@
+{
+  "word": "answer",
+  "phonetic": "/ˈænsər/",
+  "syllables": [
+    "an",
+    "swer"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "回答",
+    "答案",
+    "接听"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to reply to a question",
+      "zh_definition": "对问题作出回应",
+      "usages": [
+        {
+          "usage_label": "回答",
+          "collocations": [
+            {
+              "phrase": "answer a question",
+              "translation": "回答问题"
+            },
+            {
+              "phrase": "answer honestly",
+              "translation": "诚实回答"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please answer the question clearly.",
+              "zh": "请清楚地回答这个问题。"
+            },
+            {
+              "en": "She answered honestly.",
+              "zh": "她如实回答了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "reply：可单独表示回应；answer 常直接接问题。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "answer a question 不需在 question 前加 to。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a response to a question or problem",
+      "zh_definition": "对问题给出的回应或解法",
+      "usages": [
+        {
+          "usage_label": "答案",
+          "collocations": [
+            {
+              "phrase": "the right answer",
+              "translation": "正确答案"
+            },
+            {
+              "phrase": "find an answer",
+              "translation": "找到答案"
+            }
+          ],
+          "examples": [
+            {
+              "en": "What is the answer to question three?",
+              "zh": "第三题的答案是什么？"
+            },
+            {
+              "en": "We still need an answer to this problem.",
+              "zh": "这个问题我们仍需要一个答案。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "solution：强调问题的解决办法；answer 也可指普通问答。"
+      ],
+      "antonyms": [
+        "question：问题。"
+      ],
+      "confusables": [
+        "the answer to 后接问题，而不是 answer of。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to pick up a ringing telephone",
+      "zh_definition": "接起正在响的电话",
+      "usages": [
+        {
+          "usage_label": "接电话",
+          "collocations": [
+            {
+              "phrase": "answer the phone",
+              "translation": "接电话"
+            },
+            {
+              "phrase": "answer a call",
+              "translation": "接听来电"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can you answer the phone?",
+              "zh": "你能接一下电话吗？"
+            },
+            {
+              "en": "He did not answer my call.",
+              "zh": "他没有接我的电话。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pick up：口语中也可表示接电话。"
+      ],
+      "antonyms": [
+        "ignore a call：不接电话。"
+      ],
+      "confusables": [
+        "answer the phone 指接听，不只是给问题写答案。"
+      ]
+    }
+  ]
+}

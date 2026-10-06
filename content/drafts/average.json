@@ -1,0 +1,178 @@
+{
+  "word": "average",
+  "phonetic": "/ˈævərɪdʒ/",
+  "syllables": [
+    "av",
+    "er",
+    "age"
+  ],
+  "pos": [
+    "n.",
+    "adj.",
+    "v."
+  ],
+  "core_meanings": [
+    "平均数",
+    "平均的",
+    "普通的"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a number found by dividing a total by the number of items",
+      "zh_definition": "把总数除以项目数得到的数字",
+      "usages": [
+        {
+          "usage_label": "平均数",
+          "collocations": [
+            {
+              "phrase": "calculate the average",
+              "translation": "计算平均数"
+            },
+            {
+              "phrase": "an average of ten",
+              "translation": "平均为十"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The average of four and six is five.",
+              "zh": "四和六的平均数是五。"
+            },
+            {
+              "en": "We calculated the average score.",
+              "zh": "我们算出了平均分。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "mean：数学中常指算术平均数；average 日常使用更广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the average of 后接参与计算的数值。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "calculated by dividing a total by the number of items",
+      "zh_definition": "用总量除以项目数算出的",
+      "usages": [
+        {
+          "usage_label": "平均的",
+          "collocations": [
+            {
+              "phrase": "average income",
+              "translation": "平均收入"
+            },
+            {
+              "phrase": "average temperature",
+              "translation": "平均气温"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The average temperature is twenty degrees.",
+              "zh": "平均气温是二十度。"
+            },
+            {
+              "en": "The average age of the group is thirty.",
+              "zh": "这组人的平均年龄是三十岁。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "mean：数学中常指算术平均；average 作形容词可修饰统计出的数值。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "average income 是统计平均收入；average person 则指普通人。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "ordinary and neither very good nor very bad",
+      "zh_definition": "普通的，既不特别好也不特别差",
+      "usages": [
+        {
+          "usage_label": "普通的",
+          "collocations": [
+            {
+              "phrase": "an average day",
+              "translation": "平常的一天"
+            },
+            {
+              "phrase": "average quality",
+              "translation": "一般的质量"
+            }
+          ],
+          "examples": [
+            {
+              "en": "It was an average day at school.",
+              "zh": "那是普通的一个上学日。"
+            },
+            {
+              "en": "The food was average.",
+              "zh": "饭菜很一般。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "ordinary：表示平常；average 有时还暗示质量只是一般。"
+      ],
+      "antonyms": [
+        "excellent：出色的。"
+      ],
+      "confusables": [
+        "这里的 average 不一定来自数学计算。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to have a particular amount as an average",
+      "zh_definition": "平均达到某个数量",
+      "usages": [
+        {
+          "usage_label": "平均为",
+          "collocations": [
+            {
+              "phrase": "average ten hours",
+              "translation": "平均十小时"
+            },
+            {
+              "phrase": "average a score of eighty",
+              "translation": "平均得八十分"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The train averages sixty miles an hour.",
+              "zh": "这列火车平均时速六十英里。"
+            },
+            {
+              "en": "The class averaged eighty on the test.",
+              "zh": "全班这次考试平均得八十分。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "have a mean of：表示平均为某个数值；average 作动词更简洁。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "average 作动词后可直接接数字。",
+        "amount to 可表示总计达到某数，不表示统计平均。"
+      ]
+    }
+  ]
+}

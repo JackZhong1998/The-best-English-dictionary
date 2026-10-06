@@ -1,0 +1,179 @@
+{
+  "word": "air",
+  "phonetic": "/er/",
+  "syllables": [
+    "air"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "空气",
+    "空中",
+    "播出",
+    "通风或晾晒"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the mixture of gases that people breathe",
+      "zh_definition": "人呼吸的气体混合物",
+      "usages": [
+        {
+          "usage_label": "空气",
+          "collocations": [
+            {
+              "phrase": "fresh air",
+              "translation": "新鲜空气"
+            },
+            {
+              "phrase": "clean air",
+              "translation": "清洁空气"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Open the window to let in fresh air.",
+              "zh": "打开窗户，让新鲜空气进来。"
+            },
+            {
+              "en": "We need clean air to stay healthy.",
+              "zh": "我们需要清洁空气来保持健康。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：air 在此指可供呼吸的气体混合物。"
+      ],
+      "antonyms": [
+        "polluted air：被污染的空气。"
+      ],
+      "confusables": [
+        "air 表示空气时通常不可数。",
+        "oxygen 是空气的一种成分，不等于 air。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the space above the ground",
+      "zh_definition": "地面以上的空间",
+      "usages": [
+        {
+          "usage_label": "空中",
+          "collocations": [
+            {
+              "phrase": "in the air",
+              "translation": "在空中"
+            },
+            {
+              "phrase": "through the air",
+              "translation": "穿过空中"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The kite rose high in the air.",
+              "zh": "风筝升到了高空。"
+            },
+            {
+              "en": "A bird flew through the air.",
+              "zh": "一只鸟从空中飞过。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：air 在此指地面以上的空间。"
+      ],
+      "antonyms": [
+        "on the ground：在地上。"
+      ],
+      "confusables": [
+        "in the air 可指真的在空中，也可比喻气氛。",
+        "sky 通常指看到的天空；air 是其中的空间或空气。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to broadcast a program on radio or television",
+      "zh_definition": "通过广播或电视播出节目",
+      "usages": [
+        {
+          "usage_label": "播出",
+          "collocations": [
+            {
+              "phrase": "air a program",
+              "translation": "播出节目"
+            },
+            {
+              "phrase": "air tonight",
+              "translation": "今晚播出"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The station will air the show tonight.",
+              "zh": "电视台今晚会播出这个节目。"
+            },
+            {
+              "en": "The interview aired last week.",
+              "zh": "那次访谈上周播出了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "broadcast：也指播出；air 在媒体报道中很常见。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "节目作主语时可说 The show aired。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to let fresh air move through a place or around something",
+      "zh_definition": "让新鲜空气流经房间或物品",
+      "usages": [
+        {
+          "usage_label": "通风或晾晒",
+          "collocations": [
+            {
+              "phrase": "air out a room",
+              "translation": "给房间通风"
+            },
+            {
+              "phrase": "air out blankets",
+              "translation": "把毯子拿去晾晒"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Open the windows to air out the room.",
+              "zh": "打开窗户，给房间通通风。"
+            },
+            {
+              "en": "She aired out the blankets in the sun.",
+              "zh": "她把毯子拿到太阳下晾晒。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "ventilate：也指通风，语气较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "美式英语常用 air out 表示通风或晾晒。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "word": "beat",
+  "phonetic": "/biːt/",
+  "syllables": [
+    "beat"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "击打",
+    "打败",
+    "跳动",
+    "节拍"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to hit something repeatedly",
+      "zh_definition": "连续击打某物",
+      "usages": [
+        {
+          "usage_label": "敲打",
+          "collocations": [
+            {
+              "phrase": "beat a drum",
+              "translation": "敲鼓"
+            },
+            {
+              "phrase": "beat the carpet",
+              "translation": "拍打地毯"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He beat the drum loudly.",
+              "zh": "他大声敲鼓。"
+            },
+            {
+              "en": "She beat the dust out of the carpet.",
+              "zh": "她拍掉了地毯上的灰尘。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "hit：可以只打一下；beat 通常表示反复击打。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "beat a drum 是敲鼓，不是打败鼓。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to defeat someone in a game or competition",
+      "zh_definition": "在比赛中战胜某人",
+      "usages": [
+        {
+          "usage_label": "打败",
+          "collocations": [
+            {
+              "phrase": "beat a team",
+              "translation": "打败一支队伍"
+            },
+            {
+              "phrase": "beat someone in a race",
+              "translation": "在赛跑中胜过某人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our team beat theirs by two points.",
+              "zh": "我们队以两分优势打败了他们队。"
+            },
+            {
+              "en": "She beat me in the final race.",
+              "zh": "她在最后一场赛跑中赢了我。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "win：通常接比赛或奖品；beat 直接接被打败的人或队伍。"
+      ],
+      "antonyms": [
+        "lose to：输给。"
+      ],
+      "confusables": [
+        "beat an opponent；win a match。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to move with a regular rhythm, as a heart does",
+      "zh_definition": "像心脏一样有规律地跳动",
+      "usages": [
+        {
+          "usage_label": "跳动",
+          "collocations": [
+            {
+              "phrase": "the heart beats",
+              "translation": "心脏跳动"
+            },
+            {
+              "phrase": "beat faster",
+              "translation": "跳得更快"
+            }
+          ],
+          "examples": [
+            {
+              "en": "His heart beat faster as he ran.",
+              "zh": "他跑步时心跳加快了。"
+            },
+            {
+              "en": "My heart was beating hard.",
+              "zh": "我的心跳得很快。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pulse：可指脉搏跳动；beat 是心脏跳动的普通说法。"
+      ],
+      "antonyms": [
+        "stop beating：停止跳动。"
+      ],
+      "confusables": [
+        "心脏作主语时 beat 不表示打人。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a regular sound or movement in music",
+      "zh_definition": "音乐中有规律的声音或动作",
+      "usages": [
+        {
+          "usage_label": "节拍",
+          "collocations": [
+            {
+              "phrase": "keep the beat",
+              "translation": "跟上节拍"
+            },
+            {
+              "phrase": "a strong beat",
+              "translation": "鲜明的节拍"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Try to keep the beat with your hands.",
+              "zh": "试着用手打出节拍。"
+            },
+            {
+              "en": "The song has a strong beat.",
+              "zh": "这首歌的节拍很鲜明。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pulse：在音乐语境中也指规律重复的拍点；beat 更常用。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the beat of a song 指歌的节拍。",
+        "rhythm 是整体节奏；beat 是其中反复出现的拍点。"
+      ]
+    }
+  ]
+}

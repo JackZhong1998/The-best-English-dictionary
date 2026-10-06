@@ -1,0 +1,221 @@
+{
+  "word": "advance",
+  "phonetic": "/ədˈvæns/",
+  "syllables": [
+    "ad",
+    "vance"
+  ],
+  "pos": [
+    "v.",
+    "n.",
+    "adj."
+  ],
+  "core_meanings": [
+    "前进",
+    "进展",
+    "提前的",
+    "预付款"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move forward",
+      "zh_definition": "向前移动",
+      "usages": [
+        {
+          "usage_label": "前进",
+          "collocations": [
+            {
+              "phrase": "advance slowly",
+              "translation": "缓慢前进"
+            },
+            {
+              "phrase": "advance toward the city",
+              "translation": "向城市推进"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The soldiers advanced slowly.",
+              "zh": "士兵们缓慢前进。"
+            },
+            {
+              "en": "The crowd advanced toward the gate.",
+              "zh": "人群向大门走去。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "move forward：更日常；advance 稍正式。"
+      ],
+      "antonyms": [
+        "retreat：后退。"
+      ],
+      "confusables": [
+        "advance toward 后接前进的目标。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to help an idea or plan develop",
+      "zh_definition": "推动想法或计划向前发展",
+      "usages": [
+        {
+          "usage_label": "推动",
+          "collocations": [
+            {
+              "phrase": "advance a plan",
+              "translation": "推进计划"
+            },
+            {
+              "phrase": "advance research",
+              "translation": "推动研究"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The new funding advanced the project.",
+              "zh": "新资金推动了项目进展。"
+            },
+            {
+              "en": "Her work advanced our understanding.",
+              "zh": "她的工作增进了我们的理解。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "promote：也指促进；advance 强调向下一阶段推进。"
+      ],
+      "antonyms": [
+        "hinder：阻碍。"
+      ],
+      "confusables": [
+        "advance research 表示推动研究，不是让研究走路。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "progress or an improvement",
+      "zh_definition": "取得的进展或改进",
+      "usages": [
+        {
+          "usage_label": "进展",
+          "collocations": [
+            {
+              "phrase": "an advance in medicine",
+              "translation": "医学进展"
+            },
+            {
+              "phrase": "a major advance",
+              "translation": "重大进展"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This was a major advance in treatment.",
+              "zh": "这是治疗方面的一项重大进展。"
+            },
+            {
+              "en": "We have seen advances in technology.",
+              "zh": "我们见证了技术进步。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "progress：泛指进步；an advance 常指一项具体突破。"
+      ],
+      "antonyms": [
+        "setback：挫折。"
+      ],
+      "confusables": [
+        "an advance in 后接取得进展的领域。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "adj.",
+      "en_definition": "done or given before the usual time",
+      "zh_definition": "比通常时间更早进行或提供的",
+      "usages": [
+        {
+          "usage_label": "提前的",
+          "collocations": [
+            {
+              "phrase": "advance notice",
+              "translation": "提前通知"
+            },
+            {
+              "phrase": "advance payment",
+              "translation": "预付款"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We need advance notice of any changes.",
+              "zh": "如有变更，我们需要提前获知。"
+            },
+            {
+              "en": "The hotel asks for advance payment.",
+              "zh": "这家酒店要求预先付款。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "early：泛指早；advance 常作定语修饰通知或付款。"
+      ],
+      "antonyms": [
+        "late：迟的。"
+      ],
+      "confusables": [
+        "advance notice 是提前通知，不是先进的通知。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "money given before the usual payment date",
+      "zh_definition": "在通常付款日期之前给的钱",
+      "usages": [
+        {
+          "usage_label": "预付款",
+          "collocations": [
+            {
+              "phrase": "an advance on salary",
+              "translation": "预支的工资"
+            },
+            {
+              "phrase": "pay an advance",
+              "translation": "支付预付款"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She asked for an advance on her salary.",
+              "zh": "她申请预支工资。"
+            },
+            {
+              "en": "The publisher paid him an advance.",
+              "zh": "出版社预付给他一笔钱。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "prepayment：泛指提前付款；an advance 常指预先给收款人的一笔钱。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "an advance on salary 是预支工资，不是工资上涨。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "word": "bar",
+  "phonetic": "/bɑːr/",
+  "syllables": [
+    "bar"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "条状物",
+    "酒吧",
+    "障碍",
+    "禁止"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a long narrow piece of solid material",
+      "zh_definition": "狭长的固体物品",
+      "usages": [
+        {
+          "usage_label": "条状物",
+          "collocations": [
+            {
+              "phrase": "a bar of chocolate",
+              "translation": "一条巧克力"
+            },
+            {
+              "phrase": "a metal bar",
+              "translation": "金属条"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She bought a bar of chocolate.",
+              "zh": "她买了一条巧克力。"
+            },
+            {
+              "en": "A metal bar held the gate shut.",
+              "zh": "一根金属条把门挡住了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：bar 在此指一根或一条较结实的材料。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a bar of chocolate 中的 bar 是成条的形状。",
+        "rod 通常是较细的杆，不等于所有 bar。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a place where alcoholic drinks are served",
+      "zh_definition": "出售酒精饮料的场所",
+      "usages": [
+        {
+          "usage_label": "酒吧",
+          "collocations": [
+            {
+              "phrase": "go to a bar",
+              "translation": "去酒吧"
+            },
+            {
+              "phrase": "a hotel bar",
+              "translation": "酒店酒吧"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We met at a small bar.",
+              "zh": "我们在一家小酒吧见面。"
+            },
+            {
+              "en": "The hotel bar closes at midnight.",
+              "zh": "酒店酒吧在午夜关门。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pub：多见于英国英语；bar 用法更广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bar 也可指柜台；这里特指喝酒的场所。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "something that stops people from making progress",
+      "zh_definition": "阻碍人取得进展的事物",
+      "usages": [
+        {
+          "usage_label": "障碍",
+          "collocations": [
+            {
+              "phrase": "a bar to success",
+              "translation": "成功的障碍"
+            },
+            {
+              "phrase": "a legal bar",
+              "translation": "法律障碍"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Cost is a bar to further study.",
+              "zh": "费用是继续求学的障碍。"
+            },
+            {
+              "en": "There is no legal bar to the plan.",
+              "zh": "这项计划没有法律障碍。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "barrier：也指障碍；bar 在此较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a bar to 后接受阻的目标。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to officially prevent someone from doing or entering something",
+      "zh_definition": "正式禁止某人做某事或进入某地",
+      "usages": [
+        {
+          "usage_label": "禁止",
+          "collocations": [
+            {
+              "phrase": "bar entry",
+              "translation": "禁止进入"
+            },
+            {
+              "phrase": "bar someone from a place",
+              "translation": "禁止某人进入某地"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The rule bars entry after ten.",
+              "zh": "规定禁止十点后入内。"
+            },
+            {
+              "en": "He was barred from the club.",
+              "zh": "他被禁止进入俱乐部。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "ban：也表示禁止；bar 常搭配 from。"
+      ],
+      "antonyms": [
+        "allow：允许。"
+      ],
+      "confusables": [
+        "bar someone from doing something 是禁止某人做某事。"
+      ]
+    }
+  ]
+}

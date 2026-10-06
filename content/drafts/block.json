@@ -1,0 +1,178 @@
+{
+  "word": "block",
+  "phonetic": "/blɑːk/",
+  "syllables": [
+    "block"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "块",
+    "街区",
+    "阻挡"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a solid piece of material with flat sides",
+      "zh_definition": "侧面较平的一整块材料",
+      "usages": [
+        {
+          "usage_label": "块",
+          "collocations": [
+            {
+              "phrase": "a block of wood",
+              "translation": "一块木头"
+            },
+            {
+              "phrase": "a block of ice",
+              "translation": "一块冰"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He carried a block of wood into the room.",
+              "zh": "他把一块木头搬进房间。"
+            },
+            {
+              "en": "The children built a tower with blocks.",
+              "zh": "孩子们用积木搭了一座塔。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "piece：泛指一块；block 通常较厚且形状规则。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "building blocks 指积木。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the area of a street between two crossings",
+      "zh_definition": "两处路口之间的一段街道或街区",
+      "usages": [
+        {
+          "usage_label": "街区",
+          "collocations": [
+            {
+              "phrase": "walk two blocks",
+              "translation": "走两个街区"
+            },
+            {
+              "phrase": "the next block",
+              "translation": "下一个街区"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The store is two blocks away.",
+              "zh": "商店在两个街区外。"
+            },
+            {
+              "en": "The library is on the next block.",
+              "zh": "图书馆在下一个街区。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：block 在美式城市语境中指路口之间的一段街区。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "two blocks away 常用于美国城市中的距离描述。",
+        "neighborhood 是更大的邻里地区，不等于一个 block。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to stop movement or prevent access",
+      "zh_definition": "阻止通行或进入",
+      "usages": [
+        {
+          "usage_label": "阻挡",
+          "collocations": [
+            {
+              "phrase": "block the road",
+              "translation": "堵住道路"
+            },
+            {
+              "phrase": "block the entrance",
+              "translation": "挡住入口"
+            }
+          ],
+          "examples": [
+            {
+              "en": "A fallen tree blocked the road.",
+              "zh": "一棵倒下的树堵住了路。"
+            },
+            {
+              "en": "Do not block the entrance.",
+              "zh": "不要挡住入口。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "obstruct：也指阻挡，较正式；block 更常用。"
+      ],
+      "antonyms": [
+        "clear：清除障碍。"
+      ],
+      "confusables": [
+        "block access to 后接被阻断的地方或服务。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to prevent someone from contacting you online",
+      "zh_definition": "在网络服务中阻止某人联系自己",
+      "usages": [
+        {
+          "usage_label": "拉黑",
+          "collocations": [
+            {
+              "phrase": "block a user",
+              "translation": "屏蔽用户"
+            },
+            {
+              "phrase": "block someone online",
+              "translation": "在网上拉黑某人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She blocked the account after the messages.",
+              "zh": "收到那些消息后，她屏蔽了那个账号。"
+            },
+            {
+              "en": "You can block users who send spam.",
+              "zh": "你可以屏蔽发送垃圾信息的用户。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：block 在平台上表示阻止某个用户联系自己。"
+      ],
+      "antonyms": [
+        "unblock：取消屏蔽。"
+      ],
+      "confusables": [
+        "block a user 指在平台上屏蔽，不是挡住道路。",
+        "mute 通常只是隐藏消息；block 会阻止联系。"
+      ]
+    }
+  ]
+}

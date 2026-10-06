@@ -1,0 +1,256 @@
+{
+  "word": "bear",
+  "phonetic": "/ber/",
+  "syllables": [
+    "bear"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "熊",
+    "承受",
+    "承担",
+    "结出",
+    "生育",
+    "牢记"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a large wild animal with thick fur",
+      "zh_definition": "体型大、毛皮厚的野生动物",
+      "usages": [
+        {
+          "usage_label": "熊",
+          "collocations": [
+            {
+              "phrase": "a brown bear",
+              "translation": "棕熊"
+            },
+            {
+              "phrase": "a polar bear",
+              "translation": "北极熊"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We saw a bear from a safe distance.",
+              "zh": "我们在安全距离外看到一只熊。"
+            },
+            {
+              "en": "Polar bears live in the Arctic.",
+              "zh": "北极熊生活在北极地区。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：bear 是熊的统称。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bear 作名词指动物；作动词有其他义项，须按句子区分。",
+        "panda 是熊科的一种，不等于所有 bear。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to accept or deal with pain or difficulty",
+      "zh_definition": "忍受痛苦或困难",
+      "usages": [
+        {
+          "usage_label": "承受",
+          "collocations": [
+            {
+              "phrase": "bear the pain",
+              "translation": "忍受疼痛"
+            },
+            {
+              "phrase": "cannot bear the noise",
+              "translation": "受不了噪声"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She could not bear the pain.",
+              "zh": "她无法忍受疼痛。"
+            },
+            {
+              "en": "I can't bear this noise any longer.",
+              "zh": "我再也受不了这噪声了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "endure：也指忍受，较正式；bear 日常也常用。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "can't bear 后可接名词或 doing。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to take responsibility or the cost of something",
+      "zh_definition": "承担责任或费用",
+      "usages": [
+        {
+          "usage_label": "承担",
+          "collocations": [
+            {
+              "phrase": "bear responsibility",
+              "translation": "承担责任"
+            },
+            {
+              "phrase": "bear the cost",
+              "translation": "承担费用"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Parents bear responsibility for their children.",
+              "zh": "父母对孩子负有责任。"
+            },
+            {
+              "en": "The company will bear the cost.",
+              "zh": "这家公司将承担费用。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "shoulder：也指承担重担；bear 可接责任或费用。"
+      ],
+      "antonyms": [
+        "avoid responsibility：逃避责任。"
+      ],
+      "confusables": [
+        "bear responsibility for 后接应负责的事情。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to give birth to a child",
+      "zh_definition": "生下孩子",
+      "usages": [
+        {
+          "usage_label": "生育",
+          "collocations": [
+            {
+              "phrase": "bear a child",
+              "translation": "生育孩子"
+            },
+            {
+              "phrase": "bear a son",
+              "translation": "生下儿子"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She bore three children.",
+              "zh": "她生了三个孩子。"
+            },
+            {
+              "en": "The queen bore a son.",
+              "zh": "王后生下了一个儿子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "give birth to：更常见的现代说法；bear a child 偏正式或文学。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bear 的过去式是 bore，过去分词是 borne；此义不指熊。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to produce fruit or flowers",
+      "zh_definition": "植物长出果实或花朵",
+      "usages": [
+        {
+          "usage_label": "结出",
+          "collocations": [
+            {
+              "phrase": "bear fruit",
+              "translation": "结果"
+            },
+            {
+              "phrase": "bear flowers",
+              "translation": "开花"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The apple tree bears fruit each year.",
+              "zh": "这棵苹果树每年都结果。"
+            },
+            {
+              "en": "These plants bear white flowers.",
+              "zh": "这些植物开白色的花。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "produce：泛指生产；bear 在这里用于植物结果或开花。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bear fruit 可直指结果，也可比喻努力见效。"
+      ]
+    },
+    {
+      "id": 6,
+      "part_of_speech": "v.",
+      "en_definition": "to remember and consider something",
+      "zh_definition": "牢记并在思考时考虑某事",
+      "usages": [
+        {
+          "usage_label": "牢记",
+          "collocations": [
+            {
+              "phrase": "bear in mind",
+              "translation": "牢记"
+            },
+            {
+              "phrase": "bear in mind that ...",
+              "translation": "记住……这一点"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please bear in mind that time is limited.",
+              "zh": "请记住时间有限。"
+            },
+            {
+              "en": "Bear this rule in mind during the test.",
+              "zh": "考试时请牢记这条规则。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "remember：指记得；bear in mind 还强调把这点纳入考虑。"
+      ],
+      "antonyms": [
+        "forget：忘记。"
+      ],
+      "confusables": [
+        "bear in mind 是固定短语，不是把事情用手臂托住。"
+      ]
+    }
+  ]
+}

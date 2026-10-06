@@ -1,0 +1,177 @@
+{
+  "word": "base",
+  "phonetic": "/beɪs/",
+  "syllables": [
+    "base"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "底部",
+    "基地",
+    "依据",
+    "基础"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the bottom part that supports something",
+      "zh_definition": "支撑某物的底部",
+      "usages": [
+        {
+          "usage_label": "底座",
+          "collocations": [
+            {
+              "phrase": "the base of a lamp",
+              "translation": "台灯底座"
+            },
+            {
+              "phrase": "a strong base",
+              "translation": "结实的底座"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The lamp has a heavy base.",
+              "zh": "这盏台灯有个沉重的底座。"
+            },
+            {
+              "en": "The statue stands on a stone base.",
+              "zh": "这座雕像立在石头底座上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：base 在此是承担支撑作用的底座。"
+      ],
+      "antonyms": [
+        "top：物体上部，与承担支撑作用的 base 相对。"
+      ],
+      "confusables": [
+        "the base of 后接被支撑的物品。",
+        "bottom 只是底部，不一定承担支撑作用。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a place used as the center of an activity",
+      "zh_definition": "作为活动中心的地点",
+      "usages": [
+        {
+          "usage_label": "基地",
+          "collocations": [
+            {
+              "phrase": "a military base",
+              "translation": "军事基地"
+            },
+            {
+              "phrase": "a research base",
+              "translation": "研究基地"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They built a research base in the mountains.",
+              "zh": "他们在山里建了一座研究基地。"
+            },
+            {
+              "en": "The team returned to its base.",
+              "zh": "团队回到了基地。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：base 在此指活动开展的中心地点。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "base 在此指开展活动的地点，不是物体底座。",
+        "headquarters 通常是组织总部；base 可以是临时活动地点。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "an underlying support for further learning, work, or growth",
+      "zh_definition": "支撑进一步学习、工作或发展的根基",
+      "usages": [
+        {
+          "usage_label": "基础",
+          "collocations": [
+            {
+              "phrase": "a solid base in math",
+              "translation": "扎实的数学基础"
+            },
+            {
+              "phrase": "a base for future research",
+              "translation": "未来研究的基础"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She has a solid base in math.",
+              "zh": "她有扎实的数学基础。"
+            },
+            {
+              "en": "This study provides a base for future research.",
+              "zh": "这项研究为今后的研究奠定了基础。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "foundation：也指基础；base 在此强调进一步发展的起点。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这里的 base 是抽象基础，不是台灯底座。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to use something as the starting point for an idea or decision",
+      "zh_definition": "以某事为想法或决定的依据",
+      "usages": [
+        {
+          "usage_label": "以……为依据",
+          "collocations": [
+            {
+              "phrase": "base a plan on facts",
+              "translation": "以事实为依据制订计划"
+            },
+            {
+              "phrase": "be based on a book",
+              "translation": "根据一本书改编"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We based our decision on the facts.",
+              "zh": "我们根据事实作出决定。"
+            },
+            {
+              "en": "The film is based on a true story.",
+              "zh": "这部电影根据真实故事改编。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "found：也指以……为基础；base on 更常见。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "base A on B 表示以 B 为依据形成 A。"
+      ]
+    }
+  ]
+}

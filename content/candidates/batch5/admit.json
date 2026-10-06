@@ -1,0 +1,140 @@
+{
+  "word": "admit",
+  "phonetic": "/ədˈmɪt/",
+  "syllables": [
+    "ad",
+    "mit"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "承认",
+    "准许进入",
+    "收治"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to agree that something is true, especially reluctantly",
+      "zh_definition": "承认某事属实，尤其是不情愿时",
+      "usages": [
+        {
+          "usage_label": "承认",
+          "collocations": [
+            {
+              "phrase": "admit a mistake",
+              "translation": "承认错误"
+            },
+            {
+              "phrase": "admit the truth",
+              "translation": "承认事实"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He admitted his mistake.",
+              "zh": "他承认了自己的错误。"
+            },
+            {
+              "en": "She admitted that she was afraid.",
+              "zh": "她承认自己害怕。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "confess：常指承认过错；admit 可用于一般事实。"
+      ],
+      "antonyms": [
+        "deny：否认。"
+      ],
+      "confusables": [
+        "admit that 后接完整句子。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to allow someone to enter a place or join an organization",
+      "zh_definition": "允许某人进入场所或加入机构",
+      "usages": [
+        {
+          "usage_label": "准许进入",
+          "collocations": [
+            {
+              "phrase": "admit visitors",
+              "translation": "准许访客进入"
+            },
+            {
+              "phrase": "admit students",
+              "translation": "录取学生"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The museum admits children for free.",
+              "zh": "这家博物馆允许儿童免费入内。"
+            },
+            {
+              "en": "The school admitted fifty new students.",
+              "zh": "学校录取了五十名新生。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "allow in：表示允许进入；admit 较正式。"
+      ],
+      "antonyms": [
+        "refuse entry：拒绝进入。"
+      ],
+      "confusables": [
+        "admit students 在学校语境中表示录取。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to accept a patient into a hospital",
+      "zh_definition": "接收病人住院治疗",
+      "usages": [
+        {
+          "usage_label": "收治",
+          "collocations": [
+            {
+              "phrase": "admit a patient",
+              "translation": "收治病人"
+            },
+            {
+              "phrase": "be admitted to the hospital",
+              "translation": "被收入院"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The hospital admitted him last night.",
+              "zh": "医院昨晚收治了他。"
+            },
+            {
+              "en": "She was admitted to the hospital on Monday.",
+              "zh": "她周一住院了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "hospitalize：指让病人住院；admit 强调办理接收入院。"
+      ],
+      "antonyms": [
+        "discharge：准许病人出院。"
+      ],
+      "confusables": [
+        "美式英语通常说 be admitted to the hospital。"
+      ]
+    }
+  ]
+}

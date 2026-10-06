@@ -1,0 +1,178 @@
+{
+  "word": "arm",
+  "phonetic": "/ɑːrm/",
+  "syllables": [
+    "arm"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "手臂",
+    "扶手",
+    "武器",
+    "武装"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the part of the body from shoulder to hand",
+      "zh_definition": "从肩到手的身体部分",
+      "usages": [
+        {
+          "usage_label": "手臂",
+          "collocations": [
+            {
+              "phrase": "raise your arm",
+              "translation": "抬起手臂"
+            },
+            {
+              "phrase": "a broken arm",
+              "translation": "骨折的手臂"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Raise your arm if you know.",
+              "zh": "如果你知道，就举起手臂。"
+            },
+            {
+              "en": "He hurt his arm playing basketball.",
+              "zh": "他打篮球时伤了手臂。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：arm 是从肩到手的身体部位。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "in my arms 可表示抱在怀里。",
+        "hand 是手，不是整条手臂。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a side support for a chair",
+      "zh_definition": "椅子两侧供手臂倚靠的部分",
+      "usages": [
+        {
+          "usage_label": "扶手",
+          "collocations": [
+            {
+              "phrase": "the arm of a chair",
+              "translation": "椅子扶手"
+            },
+            {
+              "phrase": "rest on the arm",
+              "translation": "靠在扶手上"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She rested her hand on the arm of the chair.",
+              "zh": "她把手放在椅子扶手上。"
+            },
+            {
+              "en": "This chair has wide arms.",
+              "zh": "这把椅子的扶手很宽。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "armrest：与椅子的 arm 都可指扶手；armrest 更强调供手臂倚靠的部分。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "chair arms 指扶手，不是人体手臂。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "weapons, especially when discussed as a group",
+      "zh_definition": "作为一类统称的武器",
+      "usages": [
+        {
+          "usage_label": "武器",
+          "collocations": [
+            {
+              "phrase": "carry arms",
+              "translation": "携带武器"
+            },
+            {
+              "phrase": "arms control",
+              "translation": "军备控制"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The group agreed to lay down its arms.",
+              "zh": "这个团体同意放下武器。"
+            },
+            {
+              "en": "The countries discussed arms control.",
+              "zh": "这些国家讨论了军备控制。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "weapons：泛指武器；arms 多用于军事或法律语境。"
+      ],
+      "antonyms": [
+        "disarmament：裁军。"
+      ],
+      "confusables": [
+        "表示武器时通常用复数 arms，不要与身体的 arm 混淆。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to provide someone with weapons",
+      "zh_definition": "给某人提供武器",
+      "usages": [
+        {
+          "usage_label": "武装",
+          "collocations": [
+            {
+              "phrase": "arm the police",
+              "translation": "给警察配备武器"
+            },
+            {
+              "phrase": "be armed with",
+              "translation": "配备有……武器"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The guards were armed with rifles.",
+              "zh": "警卫配备了步枪。"
+            },
+            {
+              "en": "The government armed the soldiers.",
+              "zh": "政府给士兵配备了武器。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "equip：泛指配备装备；arm 特指配备武器。"
+      ],
+      "antonyms": [
+        "disarm：解除武装。"
+      ],
+      "confusables": [
+        "be armed with 后接武器名称。"
+      ]
+    }
+  ]
+}

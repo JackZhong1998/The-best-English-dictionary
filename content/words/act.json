@@ -1,0 +1,176 @@
+{
+  "word": "act",
+  "phonetic": "/ækt/",
+  "syllables": [
+    "act"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "行动",
+    "表演",
+    "行为",
+    "法律"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to do something in response to a situation",
+      "zh_definition": "面对情况采取行动",
+      "usages": [
+        {
+          "usage_label": "行动",
+          "collocations": [
+            {
+              "phrase": "act quickly",
+              "translation": "迅速行动"
+            },
+            {
+              "phrase": "act on advice",
+              "translation": "根据建议行动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We must act quickly to help them.",
+              "zh": "我们必须迅速行动帮助他们。"
+            },
+            {
+              "en": "She acted on her doctor's advice.",
+              "zh": "她按医生的建议采取了行动。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "respond：强调作出回应；act 强调真正采取行动。"
+      ],
+      "antonyms": [
+        "do nothing：不采取行动。"
+      ],
+      "confusables": [
+        "act on advice 是照建议行动，不是表演建议。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to perform as a character in a play or film",
+      "zh_definition": "在戏剧或电影中扮演角色",
+      "usages": [
+        {
+          "usage_label": "表演",
+          "collocations": [
+            {
+              "phrase": "act in a film",
+              "translation": "参演电影"
+            },
+            {
+              "phrase": "act on stage",
+              "translation": "在舞台上表演"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He acted in a school play.",
+              "zh": "他参演了学校的话剧。"
+            },
+            {
+              "en": "She has acted on stage for years.",
+              "zh": "她在舞台上表演多年了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "perform：泛指演出；act 特指扮演角色。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "act in a film 指参演，不是对电影采取行动。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a particular thing that someone does",
+      "zh_definition": "某人做出的一次具体行为",
+      "usages": [
+        {
+          "usage_label": "行为",
+          "collocations": [
+            {
+              "phrase": "an act of kindness",
+              "translation": "一次善举"
+            },
+            {
+              "phrase": "a brave act",
+              "translation": "勇敢的举动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Helping her was an act of kindness.",
+              "zh": "帮助她是一次善举。"
+            },
+            {
+              "en": "The rescue was a brave act.",
+              "zh": "这次救援是勇敢的举动。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "action：泛指行动；act 常指可单独评价的一件行为。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "an act of 后接行为的性质。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a law passed by a government",
+      "zh_definition": "立法机构通过的一项法律",
+      "usages": [
+        {
+          "usage_label": "法律",
+          "collocations": [
+            {
+              "phrase": "pass an act",
+              "translation": "通过一项法律"
+            },
+            {
+              "phrase": "a new act",
+              "translation": "一项新法律"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Parliament passed a new act.",
+              "zh": "议会通过了一项新法律。"
+            },
+            {
+              "en": "The act protects workers.",
+              "zh": "这项法律保护劳动者。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "law：泛指法律；act 常指立法机构正式通过的具体法律。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bill 是尚未通过的法案；act 是已经通过的法律。",
+        "repeal an act 指废除已经通过的法律，不是“废除法案”。"
+      ]
+    }
+  ]
+}

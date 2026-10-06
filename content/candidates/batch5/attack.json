@@ -1,0 +1,179 @@
+{
+  "word": "attack",
+  "phonetic": "/əˈtæk/",
+  "syllables": [
+    "at",
+    "tack"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "攻击",
+    "抨击",
+    "发作"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to use violence against someone or something",
+      "zh_definition": "对人或事物使用暴力",
+      "usages": [
+        {
+          "usage_label": "攻击",
+          "collocations": [
+            {
+              "phrase": "attack a city",
+              "translation": "进攻城市"
+            },
+            {
+              "phrase": "attack an animal",
+              "translation": "攻击动物"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The dog attacked the stranger.",
+              "zh": "那只狗袭击了陌生人。"
+            },
+            {
+              "en": "The army attacked the city at dawn.",
+              "zh": "军队在黎明进攻了这座城市。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "strike：指打击一次；attack 可指持续攻击。"
+      ],
+      "antonyms": [
+        "defend：防卫。"
+      ],
+      "confusables": [
+        "attack 后直接接受攻击者，不需加 on；名词常说 an attack on someone。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a violent attempt to hurt someone or something",
+      "zh_definition": "一次意图伤害的暴力行为",
+      "usages": [
+        {
+          "usage_label": "袭击",
+          "collocations": [
+            {
+              "phrase": "an attack on a village",
+              "translation": "对村庄的袭击"
+            },
+            {
+              "phrase": "under attack",
+              "translation": "遭到攻击"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The village came under attack.",
+              "zh": "村庄遭到了袭击。"
+            },
+            {
+              "en": "The attack injured two people.",
+              "zh": "这次袭击造成两人受伤。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "assault：常指针对人的暴力袭击；attack 范围更广。"
+      ],
+      "antonyms": [
+        "defense：防御。"
+      ],
+      "confusables": [
+        "an attack on 后接受攻击的对象。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to strongly criticize a person or idea",
+      "zh_definition": "严厉批评某人或某种观点",
+      "usages": [
+        {
+          "usage_label": "抨击",
+          "collocations": [
+            {
+              "phrase": "attack a proposal",
+              "translation": "抨击提案"
+            },
+            {
+              "phrase": "attack a policy",
+              "translation": "抨击政策"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The speaker attacked the new policy.",
+              "zh": "发言人严厉批评了新政策。"
+            },
+            {
+              "en": "She attacked the idea as unfair.",
+              "zh": "她抨击这个想法不公平。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "criticize：泛指批评；attack 语气更强烈。"
+      ],
+      "antonyms": [
+        "praise：赞扬。"
+      ],
+      "confusables": [
+        "这里的 attack 是言语批评，不是身体袭击。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a sudden episode of an illness or strong feeling",
+      "zh_definition": "疾病或强烈感受的突然发作",
+      "usages": [
+        {
+          "usage_label": "发作",
+          "collocations": [
+            {
+              "phrase": "a heart attack",
+              "translation": "心脏病发作"
+            },
+            {
+              "phrase": "an asthma attack",
+              "translation": "哮喘发作"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He had a heart attack last year.",
+              "zh": "他去年心脏病发作过。"
+            },
+            {
+              "en": "She carries medicine for asthma attacks.",
+              "zh": "她随身带着应对哮喘发作的药。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "episode：也指一次发作；attack 强调突然且严重。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "heart attack 是固定表达，不是心脏受到外部攻击。"
+      ]
+    }
+  ]
+}

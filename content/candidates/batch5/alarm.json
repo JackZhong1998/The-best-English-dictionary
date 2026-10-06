@@ -1,0 +1,179 @@
+{
+  "word": "alarm",
+  "phonetic": "/əˈlɑːrm/",
+  "syllables": [
+    "a",
+    "larm"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "警报",
+    "闹钟",
+    "惊恐",
+    "惊恐或担忧"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a warning sound or device that signals danger",
+      "zh_definition": "提示危险的声音或装置",
+      "usages": [
+        {
+          "usage_label": "警报",
+          "collocations": [
+            {
+              "phrase": "sound the alarm",
+              "translation": "拉响警报"
+            },
+            {
+              "phrase": "a fire alarm",
+              "translation": "火灾警报器"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The fire alarm went off at noon.",
+              "zh": "中午火灾警报响了。"
+            },
+            {
+              "en": "Someone sounded the alarm.",
+              "zh": "有人拉响了警报。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "alert：也指警报或警示；alarm 常指响起的装置或声音。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "an alarm goes off 表示警报响起。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a device that wakes someone at a set time",
+      "zh_definition": "在设定时间叫醒人的装置",
+      "usages": [
+        {
+          "usage_label": "闹钟",
+          "collocations": [
+            {
+              "phrase": "set an alarm",
+              "translation": "设闹钟"
+            },
+            {
+              "phrase": "turn off the alarm",
+              "translation": "关掉闹钟"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My alarm rang at six.",
+              "zh": "我的闹钟六点响了。"
+            },
+            {
+              "en": "The alarm woke me up early.",
+              "zh": "闹钟很早就把我叫醒了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "alarm clock：专指叫醒人的闹钟；alarm 也可指警报。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "set an alarm for seven 表示设在七点响。",
+        "clock 只需显示时间，不一定能在设定时间叫醒人。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a sudden feeling of worry or fear",
+      "zh_definition": "突然产生的担忧或害怕",
+      "usages": [
+        {
+          "usage_label": "惊恐或担忧",
+          "collocations": [
+            {
+              "phrase": "cause alarm",
+              "translation": "引起恐慌"
+            },
+            {
+              "phrase": "look with alarm",
+              "translation": "惊恐地看"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The news caused alarm among parents.",
+              "zh": "这个消息让家长们感到担忧。"
+            },
+            {
+              "en": "She looked at the smoke with alarm.",
+              "zh": "她惊恐地看着烟雾。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "fear：泛指害怕；alarm 常是对突然危险的反应。"
+      ],
+      "antonyms": [
+        "calm：平静。"
+      ],
+      "confusables": [
+        "alarm 作名词还可指心理上的惊恐，不一定有警报声。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to make someone suddenly worried or frightened",
+      "zh_definition": "使某人突然担忧或害怕",
+      "usages": [
+        {
+          "usage_label": "使惊恐",
+          "collocations": [
+            {
+              "phrase": "alarm the family",
+              "translation": "使家人惊慌"
+            },
+            {
+              "phrase": "be alarmed by",
+              "translation": "因……而惊慌"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The loud noise alarmed the children.",
+              "zh": "巨响吓到了孩子们。"
+            },
+            {
+              "en": "We were alarmed by the smoke.",
+              "zh": "看到烟雾，我们很惊慌。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "frighten：强调害怕；alarm 也包含对危险的担忧。"
+      ],
+      "antonyms": [
+        "reassure：使人安心。"
+      ],
+      "confusables": [
+        "be alarmed by 表示因某事而担心或惊恐。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "word": "appeal",
+  "phonetic": "/əˈpiːl/",
+  "syllables": [
+    "ap",
+    "peal"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "吸引力",
+    "呼吁",
+    "上诉",
+    "呼吁"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a quality that attracts people",
+      "zh_definition": "吸引人的特质",
+      "usages": [
+        {
+          "usage_label": "吸引力",
+          "collocations": [
+            {
+              "phrase": "have wide appeal",
+              "translation": "广受欢迎"
+            },
+            {
+              "phrase": "the appeal of a place",
+              "translation": "一个地方的吸引力"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The town has great appeal for tourists.",
+              "zh": "这座小镇对游客很有吸引力。"
+            },
+            {
+              "en": "I understand the appeal of living here.",
+              "zh": "我明白住在这里有什么吸引力。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "attraction：也指吸引力；appeal 常指让人愿意选择某物的特点。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "have appeal for someone 表示对某人有吸引力。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to attract or interest someone",
+      "zh_definition": "引起某人的兴趣",
+      "usages": [
+        {
+          "usage_label": "吸引",
+          "collocations": [
+            {
+              "phrase": "appeal to children",
+              "translation": "吸引儿童"
+            },
+            {
+              "phrase": "appeal to many people",
+              "translation": "吸引许多人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The idea appeals to me.",
+              "zh": "这个主意很吸引我。"
+            },
+            {
+              "en": "This game appeals to young children.",
+              "zh": "这个游戏很吸引年幼的孩子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "attract：强调吸引；appeal to 常表示符合兴趣或喜好。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "appeal to 后接被吸引的人。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a serious public request for help",
+      "zh_definition": "向公众发出的郑重求助",
+      "usages": [
+        {
+          "usage_label": "呼吁",
+          "collocations": [
+            {
+              "phrase": "make an appeal",
+              "translation": "发出呼吁"
+            },
+            {
+              "phrase": "an appeal for help",
+              "translation": "求助呼吁"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The group made an appeal for food.",
+              "zh": "这个团体呼吁捐赠食物。"
+            },
+            {
+              "en": "Her appeal for help reached many people.",
+              "zh": "她的求助呼吁传到了许多人那里。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "request：一般请求；appeal 常较紧急或公开。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "an appeal for 后接所请求的东西。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to make a serious public request for help or support",
+      "zh_definition": "公开而郑重地请求帮助或支持",
+      "usages": [
+        {
+          "usage_label": "呼吁",
+          "collocations": [
+            {
+              "phrase": "appeal for help",
+              "translation": "呼吁援助"
+            },
+            {
+              "phrase": "appeal to the public",
+              "translation": "向公众呼吁"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The charity appealed for help after the storm.",
+              "zh": "风暴过后，这家慈善机构呼吁援助。"
+            },
+            {
+              "en": "The police appealed to the public for information.",
+              "zh": "警方呼吁公众提供信息。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "ask：泛指请求；appeal 常是公开、郑重的呼吁。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "appeal to someone for something 表示向某人请求某物。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to ask a higher court to change a decision",
+      "zh_definition": "请求上级法院改变裁决",
+      "usages": [
+        {
+          "usage_label": "上诉",
+          "collocations": [
+            {
+              "phrase": "appeal a decision",
+              "translation": "对裁决提出上诉"
+            },
+            {
+              "phrase": "appeal to a higher court",
+              "translation": "向上级法院上诉"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The lawyer appealed the decision.",
+              "zh": "律师对这项裁决提出了上诉。"
+            },
+            {
+              "en": "She appealed to a higher court.",
+              "zh": "她向上级法院提出了上诉。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "challenge：泛指质疑；appeal 在法律中指正式上诉。"
+      ],
+      "antonyms": [
+        "accept the ruling：接受裁决。"
+      ],
+      "confusables": [
+        "法律义的 appeal 与吸引力无关，需按语境判断。"
+      ]
+    }
+  ]
+}

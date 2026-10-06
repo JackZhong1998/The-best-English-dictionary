@@ -1,0 +1,197 @@
+{
+  "word": "bank",
+  "phonetic": "/bæŋk/",
+  "syllables": [
+    "bank"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "银行",
+    "河岸",
+    "存款或办理银行业务",
+    "指望"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "an organization that keeps and lends money",
+      "zh_definition": "保管和借贷资金的机构",
+      "usages": [
+        {
+          "usage_label": "银行",
+          "collocations": [
+            {
+              "phrase": "go to the bank",
+              "translation": "去银行"
+            },
+            {
+              "phrase": "a bank account",
+              "translation": "银行账户"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She works at a bank.",
+              "zh": "她在一家银行工作。"
+            },
+            {
+              "en": "I opened a bank account today.",
+              "zh": "我今天开了银行账户。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义的常用词：bank 特指经营存款和贷款的银行。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bank account 是银行账户，不是河岸账户。",
+        "credit union 也提供金融服务，但与 bank 是不同类型的机构。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the land along the side of a river",
+      "zh_definition": "河流两侧的陆地",
+      "usages": [
+        {
+          "usage_label": "河岸",
+          "collocations": [
+            {
+              "phrase": "a river bank",
+              "translation": "河岸"
+            },
+            {
+              "phrase": "on the bank",
+              "translation": "在岸边"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We sat on the bank of the river.",
+              "zh": "我们坐在河岸上。"
+            },
+            {
+              "en": "Trees grow along the river bank.",
+              "zh": "河岸边长着树。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "shore：多指海、湖岸边；bank 常指河岸。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "river bank 与存钱的 bank 是同形词，按语境判断。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to put money in a bank or use its services",
+      "zh_definition": "把钱存入银行或使用银行服务",
+      "usages": [
+        {
+          "usage_label": "把钱存入银行",
+          "collocations": [
+            {
+              "phrase": "bank your earnings",
+              "translation": "把收入存入银行"
+            },
+            {
+              "phrase": "bank the money",
+              "translation": "把钱存入银行"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She banked the money from her summer job.",
+              "zh": "她把暑期工作赚的钱存进了银行。"
+            },
+            {
+              "en": "He banks part of his earnings each month.",
+              "zh": "他每个月把部分收入存进银行。"
+            }
+          ]
+        },
+        {
+          "usage_label": "在银行办理业务",
+          "collocations": [
+            {
+              "phrase": "bank with a credit union",
+              "translation": "在信用合作社办理银行业务"
+            },
+            {
+              "phrase": "bank online",
+              "translation": "在线办理银行业务"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My parents bank with a local credit union.",
+              "zh": "我父母在本地一家信用合作社办理银行业务。"
+            },
+            {
+              "en": "I usually bank online.",
+              "zh": "我通常在网上办理银行业务。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "use a bank：泛指使用银行服务；bank 作动词更简洁。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "美式英语存入支票常说 deposit a check；bank money 可表示把钱存入银行。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to depend on someone or something happening",
+      "zh_definition": "指望某人或某事会如期发生",
+      "usages": [
+        {
+          "usage_label": "依赖或指望",
+          "collocations": [
+            {
+              "phrase": "bank on good weather",
+              "translation": "指望天气好"
+            },
+            {
+              "phrase": "bank on someone to help",
+              "translation": "指望某人帮忙"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We are banking on good weather tomorrow.",
+              "zh": "我们指望明天天气好。"
+            },
+            {
+              "en": "You can bank on me to help.",
+              "zh": "你可以指望我帮忙。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "count on：也表示指望，更常见于日常口语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "bank on 是“指望”，与银行存钱无关。"
+      ]
+    }
+  ]
+}

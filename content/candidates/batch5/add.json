@@ -1,0 +1,139 @@
+{
+  "word": "add",
+  "phonetic": "/æd/",
+  "syllables": [
+    "add"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "增加",
+    "相加",
+    "补充说"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to put something with something else",
+      "zh_definition": "把某物放进或加到另一物中",
+      "usages": [
+        {
+          "usage_label": "添加",
+          "collocations": [
+            {
+              "phrase": "add sugar",
+              "translation": "加糖"
+            },
+            {
+              "phrase": "add a name to the list",
+              "translation": "把名字加进名单"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Add some salt to the soup.",
+              "zh": "在汤里加点盐。"
+            },
+            {
+              "en": "Please add my name to the list.",
+              "zh": "请把我的名字加进名单。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "put in：也可表示放进去；add 强调在原有基础上增添。"
+      ],
+      "antonyms": [
+        "remove：移除。"
+      ],
+      "confusables": [
+        "add something to something 中的 to 引出加入的地方。",
+        "include 表示已有整体包含某项；add 强调现在加入。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to calculate the total of numbers",
+      "zh_definition": "计算几个数字的总和",
+      "usages": [
+        {
+          "usage_label": "相加",
+          "collocations": [
+            {
+              "phrase": "add two numbers",
+              "translation": "把两个数相加"
+            },
+            {
+              "phrase": "add up the costs",
+              "translation": "把费用加起来"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Add five and three to get eight.",
+              "zh": "五加三等于八。"
+            },
+            {
+              "en": "We added up all the costs.",
+              "zh": "我们把所有费用加了起来。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "sum：也表示求总和，较正式。"
+      ],
+      "antonyms": [
+        "subtract：减去。"
+      ],
+      "confusables": [
+        "add up 可表示把多项金额加起来。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to say something more after speaking",
+      "zh_definition": "说完后再补充一句",
+      "usages": [
+        {
+          "usage_label": "补充说",
+          "collocations": [
+            {
+              "phrase": "add a comment",
+              "translation": "补充一句评论"
+            },
+            {
+              "phrase": "add that ...",
+              "translation": "补充说……"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I forgot to add that the meeting is online.",
+              "zh": "我忘了补充说会议在线上举行。"
+            },
+            {
+              "en": "She added a short comment at the end.",
+              "zh": "她最后补充了一句简短的评论。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "supplement：也指补充，较正式；add 更常指再说一句。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "add that 后可接完整句子。",
+        "mention 只是提及，不一定表示补充。"
+      ]
+    }
+  ]
+}

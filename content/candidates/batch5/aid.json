@@ -1,0 +1,97 @@
+{
+  "word": "aid",
+  "phonetic": "/eɪd/",
+  "syllables": [
+    "aid"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "援助",
+    "帮助"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "help given to someone who needs it",
+      "zh_definition": "向有需要的人提供的帮助",
+      "usages": [
+        {
+          "usage_label": "援助",
+          "collocations": [
+            {
+              "phrase": "provide aid",
+              "translation": "提供援助"
+            },
+            {
+              "phrase": "emergency aid",
+              "translation": "紧急援助"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The town sent aid after the flood.",
+              "zh": "洪水过后，这座城镇提供了援助。"
+            },
+            {
+              "en": "The charity provides aid to families.",
+              "zh": "这家慈善机构为家庭提供援助。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "help：日常用词；aid 多见于正式援助或救济。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "aid 在此常不可数，指援助整体。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to help someone do something",
+      "zh_definition": "帮助某人做某事",
+      "usages": [
+        {
+          "usage_label": "帮助",
+          "collocations": [
+            {
+              "phrase": "aid a student",
+              "translation": "帮助学生"
+            },
+            {
+              "phrase": "aid recovery",
+              "translation": "帮助康复"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The nurse aided his recovery.",
+              "zh": "护士帮助他康复。"
+            },
+            {
+              "en": "These notes will aid your study.",
+              "zh": "这些笔记会帮助你学习。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "help：更常用；aid 作动词较正式。"
+      ],
+      "antonyms": [
+        "hinder：妨碍。"
+      ],
+      "confusables": [
+        "aid recovery 中的 aid 是动词，不是名词。"
+      ]
+    }
+  ]
+}
