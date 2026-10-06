@@ -1,0 +1,134 @@
+{
+  "word": "process",
+  "phonetic": "/ˈprɑːses/",
+  "syllables": [
+    "proc",
+    "ess"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "过程",
+    "处理"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a series of actions taken to achieve a result",
+      "zh_definition": "为取得结果而连续进行的一系列步骤",
+      "usages": [
+        {
+          "usage_label": "过程",
+          "collocations": [
+            {
+              "phrase": "the learning process",
+              "translation": "学习过程"
+            },
+            {
+              "phrase": "a long process",
+              "translation": "漫长的过程"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Learning a language is a long process.",
+              "zh": "学一门语言是个漫长的过程。"
+            },
+            {
+              "en": "The process begins with an interview.",
+              "zh": "这个流程从面试开始。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "procedure：强调规定的步骤；process 可指自然发展过程。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "process 通常指一系列步骤，不只是单个动作。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to deal with information or a request in an organized way",
+      "zh_definition": "按一定程序处理信息或申请",
+      "usages": [
+        {
+          "usage_label": "处理",
+          "collocations": [
+            {
+              "phrase": "process an application",
+              "translation": "处理申请"
+            },
+            {
+              "phrase": "process data",
+              "translation": "处理数据"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The office processed my application quickly.",
+              "zh": "办公室很快处理了我的申请。"
+            },
+            {
+              "en": "This program processes large amounts of data.",
+              "zh": "这个程序处理大量数据。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "handle：泛指处理；process 强调按步骤处理。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "process a request 不表示批准申请，只表示办理。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to treat food or materials so they can be used or sold",
+      "zh_definition": "加工食品或材料以供使用或销售",
+      "usages": [
+        {
+          "usage_label": "加工",
+          "collocations": [
+            {
+              "phrase": "process food",
+              "translation": "加工食品"
+            },
+            {
+              "phrase": "process raw materials",
+              "translation": "加工原材料"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The factory processes local milk.",
+              "zh": "这家工厂加工本地牛奶。"
+            },
+            {
+              "en": "Workers process the wood before sale.",
+              "zh": "工人们在出售前加工木材。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "prepare：泛指准备；process 强调经过加工步骤。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "processed food 指加工食品，与处理申请的 process 不同。"
+      ]
+    }
+  ]
+}

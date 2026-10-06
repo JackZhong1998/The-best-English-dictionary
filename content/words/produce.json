@@ -1,0 +1,135 @@
+{
+  "word": "produce",
+  "phonetic": "/prəˈduːs/ · /ˈproʊduːs/",
+  "syllables": [
+    "pro",
+    "duce"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "生产",
+    "产生",
+    "农产品"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to make or grow something for sale or use",
+      "zh_definition": "制造或种植供销售、使用的物品",
+      "usages": [
+        {
+          "usage_label": "生产",
+          "collocations": [
+            {
+              "phrase": "produce cars",
+              "translation": "生产汽车"
+            },
+            {
+              "phrase": "produce vegetables",
+              "translation": "种植蔬菜"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The factory produces bicycles.",
+              "zh": "这家工厂生产自行车。"
+            },
+            {
+              "en": "Local farms produce fresh vegetables.",
+              "zh": "当地农场种植新鲜蔬菜。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "make：泛指制作；produce 常用于规模化生产。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "动词 produce 读 /prəˈduːs/，重音在第二音节。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to cause a result or feeling",
+      "zh_definition": "引发某种结果或感受",
+      "usages": [
+        {
+          "usage_label": "产生",
+          "collocations": [
+            {
+              "phrase": "produce a result",
+              "translation": "产生结果"
+            },
+            {
+              "phrase": "produce heat",
+              "translation": "产生热量"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The new method produced better results.",
+              "zh": "新方法取得了更好的效果。"
+            },
+            {
+              "en": "This machine produces a lot of heat.",
+              "zh": "这台机器会产生大量热量。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "generate：也指产生；produce 用途更广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "produce 在此不一定表示制造实物。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "fruit and vegetables grown for sale",
+      "zh_definition": "供出售的水果和蔬菜",
+      "usages": [
+        {
+          "usage_label": "农产品",
+          "collocations": [
+            {
+              "phrase": "fresh produce",
+              "translation": "新鲜农产品"
+            },
+            {
+              "phrase": "local produce",
+              "translation": "本地农产品"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The market sells fresh produce.",
+              "zh": "市场出售新鲜农产品。"
+            },
+            {
+              "en": "We buy local produce when possible.",
+              "zh": "条件允许时我们购买本地农产品。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "food：泛指食物；produce 特指果蔬等农产品。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 produce 读 /ˈproʊduːs/，重音在第一音节，通常不可数。"
+      ]
+    }
+  ]
+}

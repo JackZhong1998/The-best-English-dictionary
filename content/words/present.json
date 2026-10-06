@@ -1,0 +1,213 @@
+{
+  "word": "present",
+  "phonetic": "/ˈprezənt/ · /prɪˈzent/",
+  "syllables": [
+    "pres",
+    "ent"
+  ],
+  "pos": [
+    "adj.",
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "当前的",
+    "在场的",
+    "礼物",
+    "呈现"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "existing or happening now",
+      "zh_definition": "现在存在或正在发生的",
+      "usages": [
+        {
+          "usage_label": "当前的",
+          "collocations": [
+            {
+              "phrase": "the present situation",
+              "translation": "当前形势"
+            },
+            {
+              "phrase": "at present",
+              "translation": "目前"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The present situation is improving.",
+              "zh": "目前的形势正在好转。"
+            },
+            {
+              "en": "At present, we have no answer.",
+              "zh": "目前我们还没有答案。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "current：也指当前的；present 更强调与过去和未来相对。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "形容词 present 读 /ˈprezənt/，首音节重读。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "being in a particular place or at an event",
+      "zh_definition": "在某处或活动现场的",
+      "usages": [
+        {
+          "usage_label": "在场的",
+          "collocations": [
+            {
+              "phrase": "everyone present",
+              "translation": "在场的每个人"
+            },
+            {
+              "phrase": "be present at a meeting",
+              "translation": "出席会议"
+            }
+          ],
+          "examples": [
+            {
+              "en": "All members were present at the meeting.",
+              "zh": "所有成员都出席了会议。"
+            },
+            {
+              "en": "Everyone present heard the announcement.",
+              "zh": "在场的人都听到了通知。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "attending：指参加；present 强调在现场。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "be present at 后接活动；与“当前的”同音。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a gift given to someone",
+      "zh_definition": "送给某人的礼物",
+      "usages": [
+        {
+          "usage_label": "礼物",
+          "collocations": [
+            {
+              "phrase": "a birthday present",
+              "translation": "生日礼物"
+            },
+            {
+              "phrase": "open a present",
+              "translation": "拆开礼物"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She gave me a birthday present.",
+              "zh": "她送了我一份生日礼物。"
+            },
+            {
+              "en": "The child opened his present slowly.",
+              "zh": "孩子慢慢拆开礼物。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "gift：与 present 在礼物义很接近；gift 语体稍广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 present 读 /ˈprezənt/；动词重音不同。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to show or give information to an audience",
+      "zh_definition": "向听众展示或说明信息",
+      "usages": [
+        {
+          "usage_label": "呈现",
+          "collocations": [
+            {
+              "phrase": "present the results",
+              "translation": "展示结果"
+            },
+            {
+              "phrase": "present a report",
+              "translation": "作报告"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She presented the results to the class.",
+              "zh": "她向全班展示了结果。"
+            },
+            {
+              "en": "He presented a short report yesterday.",
+              "zh": "昨天他作了一份简短报告。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "show：更一般的展示；present 常用于正式场合。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "动词 present 读 /prɪˈzent/，末音节重读。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "v.",
+      "en_definition": "to give something formally to someone",
+      "zh_definition": "正式地把某物交给某人",
+      "usages": [
+        {
+          "usage_label": "颁发",
+          "collocations": [
+            {
+              "phrase": "present an award",
+              "translation": "颁奖"
+            },
+            {
+              "phrase": "present someone with a medal",
+              "translation": "给某人颁发奖牌"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The principal presented her with a medal.",
+              "zh": "校长给她颁发了一枚奖牌。"
+            },
+            {
+              "en": "They presented the award at the ceremony.",
+              "zh": "他们在典礼上颁发了奖项。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "award：作动词可指授予奖项；present 强调正式交付。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "present someone with something 是常用句型。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "word": "pull",
+  "phonetic": "/pʊl/",
+  "syllables": [
+    "pull"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "拉",
+    "吸引力",
+    "拉力"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move something toward you or in a chosen direction",
+      "zh_definition": "把某物朝自己或指定方向拉动",
+      "usages": [
+        {
+          "usage_label": "拉",
+          "collocations": [
+            {
+              "phrase": "pull a door open",
+              "translation": "拉开门"
+            },
+            {
+              "phrase": "pull a chair closer",
+              "translation": "把椅子拉近"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Pull the door to open it.",
+              "zh": "把门拉开。"
+            },
+            {
+              "en": "She pulled the chair closer to the desk.",
+              "zh": "她把椅子拉近书桌。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "draw：也可指拉动；pull 最日常。"
+      ],
+      "antonyms": [
+        "push：推，与拉的方向相反。"
+      ],
+      "confusables": [
+        "pull 与 push 动作方向相反。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to remove something by pulling",
+      "zh_definition": "通过拉扯取出某物",
+      "usages": [
+        {
+          "usage_label": "拔出",
+          "collocations": [
+            {
+              "phrase": "pull out a tooth",
+              "translation": "拔牙"
+            },
+            {
+              "phrase": "pull a weed",
+              "translation": "拔草"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The dentist pulled out the bad tooth.",
+              "zh": "牙医拔掉了那颗坏牙。"
+            },
+            {
+              "en": "She pulled weeds from the garden.",
+              "zh": "她从花园里拔草。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "remove：泛指移除；pull out 强调向外拉的动作。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "pull out 可指拔出，不一定指车辆驶出。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a force that draws something toward a point",
+      "zh_definition": "使某物朝某方向移动的拉力",
+      "usages": [
+        {
+          "usage_label": "拉力",
+          "collocations": [
+            {
+              "phrase": "feel a strong pull",
+              "translation": "感到很大的拉力"
+            },
+            {
+              "phrase": "the pull of gravity",
+              "translation": "重力的牵引"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I felt a strong pull on the rope.",
+              "zh": "我感到绳子上有很大的拉力。"
+            },
+            {
+              "en": "The pull of gravity keeps us on Earth.",
+              "zh": "重力的牵引让我们留在地球上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "force：泛指力；pull 特指朝某方向牵引的力。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a pull 可数，指一次拉扯或拉力。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "the ability to attract people or influence decisions",
+      "zh_definition": "吸引人或影响决定的力量",
+      "usages": [
+        {
+          "usage_label": "吸引力",
+          "collocations": [
+            {
+              "phrase": "the pull of the city",
+              "translation": "城市的吸引力"
+            },
+            {
+              "phrase": "have a strong pull",
+              "translation": "有很强的吸引力"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The city still has a strong pull for young people.",
+              "zh": "这座城市对年轻人仍有很强的吸引力。"
+            },
+            {
+              "en": "Family ties have a powerful pull on her.",
+              "zh": "家庭纽带对她有很强的牵引力。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "attraction：指吸引力；pull 更形象，暗含牵引。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义是比喻用法，不是实际的拉绳力。"
+      ]
+    }
+  ]
+}

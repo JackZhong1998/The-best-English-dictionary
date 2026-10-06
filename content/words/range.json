@@ -1,0 +1,172 @@
+{
+  "word": "range",
+  "phonetic": "/reɪndʒ/",
+  "syllables": [
+    "range"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "范围",
+    "系列",
+    "变化区间"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the limits between which numbers or amounts vary",
+      "zh_definition": "数值变化的上下限",
+      "usages": [
+        {
+          "usage_label": "范围",
+          "collocations": [
+            {
+              "phrase": "an age range",
+              "translation": "年龄范围"
+            },
+            {
+              "phrase": "a wide price range",
+              "translation": "很大的价格跨度"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The age range is six to ten.",
+              "zh": "年龄范围是六到十岁。"
+            },
+            {
+              "en": "The price range is twenty to fifty dollars.",
+              "zh": "价格范围是二十到五十美元。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "span：也指跨度；range 常强调上下界。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "range from A to B 表示从 A 到 B。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a variety of different things in one group",
+      "zh_definition": "同一类事物中的多种选择",
+      "usages": [
+        {
+          "usage_label": "系列",
+          "collocations": [
+            {
+              "phrase": "a range of products",
+              "translation": "一系列产品"
+            },
+            {
+              "phrase": "a full range of services",
+              "translation": "全套服务"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They sell a range of local products.",
+              "zh": "他们销售一系列本地产品。"
+            },
+            {
+              "en": "The clinic offers a full range of services.",
+              "zh": "诊所提供全方位服务。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "selection：指可选的一组东西；range 强调种类广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a range of 后接复数名词。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to vary between two amounts or limits",
+      "zh_definition": "在两个数值或界限之间变化",
+      "usages": [
+        {
+          "usage_label": "介于",
+          "collocations": [
+            {
+              "phrase": "range from ten to twenty",
+              "translation": "从十到二十不等"
+            },
+            {
+              "phrase": "range in price",
+              "translation": "价格各异"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Prices range from ten to twenty dollars.",
+              "zh": "价格从十美元到二十美元不等。"
+            },
+            {
+              "en": "The rooms range in size from small to large.",
+              "zh": "房间大小不一。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "vary：泛指变化；range 常明确上下限。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "range from A to B 是常见句型。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "the distance within which something can operate or be reached",
+      "zh_definition": "设备可工作或某物可到达的距离",
+      "usages": [
+        {
+          "usage_label": "射程或覆盖距离",
+          "collocations": [
+            {
+              "phrase": "within range",
+              "translation": "在范围内"
+            },
+            {
+              "phrase": "out of range",
+              "translation": "超出范围"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The phone is out of range here.",
+              "zh": "手机在这里没有信号。"
+            },
+            {
+              "en": "The target was within range.",
+              "zh": "目标在射程内。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "reach：也指可及范围；range 更常用于技术或武器。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "within range 的具体含义由设备或活动决定。"
+      ]
+    }
+  ]
+}

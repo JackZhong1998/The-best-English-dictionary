@@ -1,0 +1,95 @@
+{
+  "word": "park",
+  "phonetic": "/pɑːrk/",
+  "syllables": [
+    "park"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "公园",
+    "停车"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a public area with grass and trees for recreation",
+      "zh_definition": "供人休闲的公共绿地",
+      "usages": [
+        {
+          "usage_label": "公园",
+          "collocations": [
+            {
+              "phrase": "walk in the park",
+              "translation": "在公园散步"
+            },
+            {
+              "phrase": "a city park",
+              "translation": "城市公园"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We walked in the park after lunch.",
+              "zh": "午饭后我们在公园散步。"
+            },
+            {
+              "en": "The city opened a new park.",
+              "zh": "这座城市新建了一座公园。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "garden：常指花园；park 通常是较大的公共绿地。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "park 作名词还可见于 national park，指国家公园。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to leave a vehicle in a place for some time",
+      "zh_definition": "把车辆停放在某处",
+      "usages": [
+        {
+          "usage_label": "停车",
+          "collocations": [
+            {
+              "phrase": "park the car",
+              "translation": "停车"
+            },
+            {
+              "phrase": "park outside the school",
+              "translation": "停在学校外面"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I parked the car near the library.",
+              "zh": "我把车停在图书馆附近。"
+            },
+            {
+              "en": "You cannot park outside the gate.",
+              "zh": "你不能在大门外停车。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "stop：泛指停下；park 强调停放车辆。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "park 可及物，也可不及物；park a car 与 park here。"
+      ]
+    }
+  ]
+}

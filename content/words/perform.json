@@ -1,0 +1,134 @@
+{
+  "word": "perform",
+  "phonetic": "/pərˈfɔːrm/",
+  "syllables": [
+    "per",
+    "form"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "表演",
+    "执行",
+    "表现"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to entertain an audience by singing, acting, or playing music",
+      "zh_definition": "通过歌唱、演戏或演奏为观众表演",
+      "usages": [
+        {
+          "usage_label": "表演",
+          "collocations": [
+            {
+              "phrase": "perform on stage",
+              "translation": "上台表演"
+            },
+            {
+              "phrase": "perform a song",
+              "translation": "演唱一首歌"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The band performed on stage last night.",
+              "zh": "乐队昨晚登台演出。"
+            },
+            {
+              "en": "She performed a song for the audience.",
+              "zh": "她为观众唱了一首歌。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "act：侧重扮演角色；perform 可指多种演出。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "perform 可不及物，也可带表演项目作宾语。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to carry out a task, action, or duty",
+      "zh_definition": "完成任务、动作或职责",
+      "usages": [
+        {
+          "usage_label": "执行",
+          "collocations": [
+            {
+              "phrase": "perform a task",
+              "translation": "执行任务"
+            },
+            {
+              "phrase": "perform a test",
+              "translation": "进行测试"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The robot performs simple tasks.",
+              "zh": "机器人执行简单任务。"
+            },
+            {
+              "en": "The doctor performed a test.",
+              "zh": "医生做了一项检查。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "carry out：也指执行；perform 较常用于任务或程序。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "perform a test 是实施检查，不是表演测试。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to do well or badly in a particular situation",
+      "zh_definition": "在特定情境中表现好坏",
+      "usages": [
+        {
+          "usage_label": "表现",
+          "collocations": [
+            {
+              "phrase": "perform well in an exam",
+              "translation": "考试表现好"
+            },
+            {
+              "phrase": "perform badly under pressure",
+              "translation": "压力下表现差"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The team performed well in the final.",
+              "zh": "球队在决赛中表现出色。"
+            },
+            {
+              "en": "This phone performs badly in cold weather.",
+              "zh": "这部手机在寒冷天气下运行不佳。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "do：泛指表现；perform 适用于人、团队或设备。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义不一定指舞台表演。"
+      ]
+    }
+  ]
+}

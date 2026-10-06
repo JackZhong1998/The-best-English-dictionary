@@ -1,0 +1,134 @@
+{
+  "word": "pack",
+  "phonetic": "/pæk/",
+  "syllables": [
+    "pack"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "打包",
+    "装满",
+    "一包"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to put things into a bag or case for a trip",
+      "zh_definition": "旅行前把东西装进包或箱子",
+      "usages": [
+        {
+          "usage_label": "打包",
+          "collocations": [
+            {
+              "phrase": "pack a suitcase",
+              "translation": "收拾行李箱"
+            },
+            {
+              "phrase": "pack for a trip",
+              "translation": "为旅行收拾行李"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I packed my suitcase last night.",
+              "zh": "昨晚我收拾好了行李箱。"
+            },
+            {
+              "en": "She packed for the trip after dinner.",
+              "zh": "晚饭后她为旅行打包。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "stow：也指把东西收放好；pack 更侧重将旅行用品装进行李。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "prepare 泛指准备，不等于打包；pack for a trip 可不带宾语，pack a bag 则带宾语。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to fill a space with a lot of people or things",
+      "zh_definition": "让大量人或物挤满空间",
+      "usages": [
+        {
+          "usage_label": "挤满",
+          "collocations": [
+            {
+              "phrase": "pack the room",
+              "translation": "挤满房间"
+            },
+            {
+              "phrase": "be packed with people",
+              "translation": "挤满人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Fans packed the small hall.",
+              "zh": "歌迷挤满了小礼堂。"
+            },
+            {
+              "en": "The train was packed with passengers.",
+              "zh": "火车上挤满了乘客。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "fill：泛指填满；pack 强调密集、拥挤。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "be packed with 表示挤满，不是正在收拾行李。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a group of similar things wrapped or sold together",
+      "zh_definition": "包在一起出售的一组同类东西",
+      "usages": [
+        {
+          "usage_label": "一包",
+          "collocations": [
+            {
+              "phrase": "a pack of cards",
+              "translation": "一副纸牌"
+            },
+            {
+              "phrase": "a pack of gum",
+              "translation": "一包口香糖"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She bought a pack of gum.",
+              "zh": "她买了一包口香糖。"
+            },
+            {
+              "en": "There is a pack of cards in the drawer.",
+              "zh": "抽屉里有一副纸牌。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "package：泛指包裹或包装；pack 常用于成组的小物品。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "美式 a pack of cards 指一副扑克牌。"
+      ]
+    }
+  ]
+}

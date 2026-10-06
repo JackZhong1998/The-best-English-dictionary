@@ -1,0 +1,173 @@
+{
+  "word": "place",
+  "phonetic": "/pleɪs/",
+  "syllables": [
+    "place"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "地方",
+    "位置",
+    "名次",
+    "放置"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a particular area or location",
+      "zh_definition": "某个具体地点",
+      "usages": [
+        {
+          "usage_label": "地方",
+          "collocations": [
+            {
+              "phrase": "a quiet place",
+              "translation": "安静的地方"
+            },
+            {
+              "phrase": "a place to stay",
+              "translation": "住的地方"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This is a quiet place to study.",
+              "zh": "这里是个安静的学习地点。"
+            },
+            {
+              "en": "We need a place to stay tonight.",
+              "zh": "我们今晚需要个住处。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "location：强调具体位置；place 更日常。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "place 可指地点，也可指抽象的场合。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the position where someone or something belongs",
+      "zh_definition": "某人或某物应在的位置",
+      "usages": [
+        {
+          "usage_label": "位置",
+          "collocations": [
+            {
+              "phrase": "take your place",
+              "translation": "就位"
+            },
+            {
+              "phrase": "put something in its place",
+              "translation": "把某物放回原位"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please take your place in line.",
+              "zh": "请到队伍里自己的位置站好。"
+            },
+            {
+              "en": "I put the book back in its place.",
+              "zh": "我把书放回了原位。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "position：也指位置；place 在日常说法中更常见。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "in place 可表示在适当位置。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a rank in a competition",
+      "zh_definition": "比赛中的排名",
+      "usages": [
+        {
+          "usage_label": "名次",
+          "collocations": [
+            {
+              "phrase": "first place",
+              "translation": "第一名"
+            },
+            {
+              "phrase": "win second place",
+              "translation": "获得第二名"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She won first place in the race.",
+              "zh": "她在比赛中得了第一名。"
+            },
+            {
+              "en": "Our team finished in third place.",
+              "zh": "我们队获得第三名。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "rank：指等级或名次；place 常用于比赛结果。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "first place 不表示第一个地点。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to put someone or something in a particular position",
+      "zh_definition": "把人或物放在特定位置",
+      "usages": [
+        {
+          "usage_label": "放置",
+          "collocations": [
+            {
+              "phrase": "place a cup on the table",
+              "translation": "把杯子放在桌上"
+            },
+            {
+              "phrase": "place a sign by the door",
+              "translation": "把标志放在门边"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Place the cup on the table.",
+              "zh": "把杯子放在桌上。"
+            },
+            {
+              "en": "She placed a sign by the door.",
+              "zh": "她把告示放在门边。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "put：更日常的放置；place 略显正式或有意安排。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "place an order 意为下订单，是另一固定搭配。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "permit",
+  "phonetic": "/pɚˈmɪt/ · /ˈpɝːmɪt/",
+  "syllables": [
+    "per",
+    "mit"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "允许",
+    "许可证"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to allow something to happen or someone to do something",
+      "zh_definition": "允许某事发生或某人做某事",
+      "usages": [
+        {
+          "usage_label": "允许",
+          "collocations": [
+            {
+              "phrase": "permit visitors",
+              "translation": "允许访客进入"
+            },
+            {
+              "phrase": "permit smoking",
+              "translation": "允许吸烟"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The museum does not permit food inside.",
+              "zh": "博物馆不允许把食物带进去。"
+            },
+            {
+              "en": "This ticket permits one free entry.",
+              "zh": "这张票可免费入场一次。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "allow：意思接近；permit 语气较正式。"
+      ],
+      "antonyms": [
+        "forbid：禁止。"
+      ],
+      "confusables": [
+        "动词通常读 /pɚˈmɪt/，重音在第二音节。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "an official document giving permission to do something",
+      "zh_definition": "准许做某事的官方文件",
+      "usages": [
+        {
+          "usage_label": "许可证",
+          "collocations": [
+            {
+              "phrase": "a parking permit",
+              "translation": "停车许可证"
+            },
+            {
+              "phrase": "apply for a permit",
+              "translation": "申请许可证"
+            }
+          ],
+          "examples": [
+            {
+              "en": "You need a permit to park here.",
+              "zh": "在这里停车需要许可证。"
+            },
+            {
+              "en": "She applied for a work permit.",
+              "zh": "她申请了工作许可证。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "license：也指许可文件；permit 常用于特定活动或期限。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词通常读 /ˈpɝːmɪt/，重音在第一音节。"
+      ]
+    }
+  ]
+}

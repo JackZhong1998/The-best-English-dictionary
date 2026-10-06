@@ -1,0 +1,97 @@
+{
+  "word": "progress",
+  "phonetic": "/ˈprɑːɡres/ · /prəˈɡres/",
+  "syllables": [
+    "prog",
+    "ress"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "进步",
+    "进展",
+    "前进"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "improvement or movement toward a goal",
+      "zh_definition": "向目标靠近或能力提高的进展",
+      "usages": [
+        {
+          "usage_label": "进步",
+          "collocations": [
+            {
+              "phrase": "make progress",
+              "translation": "取得进展"
+            },
+            {
+              "phrase": "steady progress",
+              "translation": "稳步进步"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She has made progress in English.",
+              "zh": "她的英语取得了进步。"
+            },
+            {
+              "en": "The team reported steady progress.",
+              "zh": "团队报告了稳步进展。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "improvement：强调改善；progress 强调向目标推进。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "progress 通常不可数，不说 a progress。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to develop or move forward gradually",
+      "zh_definition": "逐步发展或向前推进",
+      "usages": [
+        {
+          "usage_label": "进展",
+          "collocations": [
+            {
+              "phrase": "progress slowly",
+              "translation": "进展缓慢"
+            },
+            {
+              "phrase": "progress from basic to advanced",
+              "translation": "从基础进阶到高级"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The project is progressing slowly.",
+              "zh": "项目进展缓慢。"
+            },
+            {
+              "en": "The talks progressed quickly this week.",
+              "zh": "本周会谈进展很快。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "advance：也指推进；progress 强调逐渐发展。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "动词可读 /prəˈɡres/，名词通常读 /ˈprɑːɡres/。"
+      ]
+    }
+  ]
+}

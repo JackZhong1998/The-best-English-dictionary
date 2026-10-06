@@ -1,0 +1,173 @@
+{
+  "word": "record",
+  "phonetic": "/ˈrekɚd/ · /rɪˈkɔːrd/",
+  "syllables": [
+    "rec",
+    "ord"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "记录",
+    "纪录",
+    "录制"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "written information kept about events or people",
+      "zh_definition": "保存下来的事件或个人信息",
+      "usages": [
+        {
+          "usage_label": "记录",
+          "collocations": [
+            {
+              "phrase": "medical records",
+              "translation": "病历"
+            },
+            {
+              "phrase": "keep a record",
+              "translation": "保存记录"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The clinic keeps digital records.",
+              "zh": "诊所保存电子病历。"
+            },
+            {
+              "en": "Please keep a record of your expenses.",
+              "zh": "请记下你的开支。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "document：指具体文件；record 指留下的信息或档案。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 record 读 /ˈrekɚd/，首音节重读。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the best result ever achieved in a sport or activity",
+      "zh_definition": "运动或活动中达到的最好成绩",
+      "usages": [
+        {
+          "usage_label": "纪录",
+          "collocations": [
+            {
+              "phrase": "break a record",
+              "translation": "打破纪录"
+            },
+            {
+              "phrase": "set a new record",
+              "translation": "创造新纪录"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She broke the school record.",
+              "zh": "她打破了校纪录。"
+            },
+            {
+              "en": "The runner set a new record today.",
+              "zh": "这位跑者今天创造了新纪录。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "best result：说明性表达；record 特指有记录的最佳成绩。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "break a record 不等于弄坏记录文件。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to write down or store information for later use",
+      "zh_definition": "写下或存储信息供以后使用",
+      "usages": [
+        {
+          "usage_label": "记录",
+          "collocations": [
+            {
+              "phrase": "record the results",
+              "translation": "记录结果"
+            },
+            {
+              "phrase": "record a name",
+              "translation": "记下姓名"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The nurse recorded my temperature.",
+              "zh": "护士记下了我的体温。"
+            },
+            {
+              "en": "We recorded the results in a notebook.",
+              "zh": "我们把结果记在笔记本里。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "note：指简短记下；record 强调留存以供查阅。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "动词 record 读 /rɪˈkɔːrd/，末音节重读。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to capture sound or pictures for later playback",
+      "zh_definition": "录下声音或影像供以后播放",
+      "usages": [
+        {
+          "usage_label": "录制",
+          "collocations": [
+            {
+              "phrase": "record a song",
+              "translation": "录一首歌"
+            },
+            {
+              "phrase": "record a video",
+              "translation": "录一段视频"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They recorded a song in the studio.",
+              "zh": "他们在录音室录了一首歌。"
+            },
+            {
+              "en": "I recorded a short video of the match.",
+              "zh": "我录了一段比赛短视频。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "film：侧重拍摄影像；record 还可录音。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "record a video 与记录书面信息属于不同用法。"
+      ]
+    }
+  ]
+}

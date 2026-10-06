@@ -1,0 +1,175 @@
+{
+  "word": "push",
+  "phonetic": "/pʊʃ/",
+  "syllables": [
+    "push"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "推",
+    "催促",
+    "推动",
+    "努力"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move something away by using force",
+      "zh_definition": "用力使某物远离自己",
+      "usages": [
+        {
+          "usage_label": "推",
+          "collocations": [
+            {
+              "phrase": "push the door",
+              "translation": "推门"
+            },
+            {
+              "phrase": "push a cart",
+              "translation": "推车"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Push the door to enter.",
+              "zh": "推门进去。"
+            },
+            {
+              "en": "He pushed the cart down the aisle.",
+              "zh": "他推着车走过通道。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "shove：也指推，通常更猛、更粗鲁。"
+      ],
+      "antonyms": [
+        "pull：拉，与推的方向相反。"
+      ],
+      "confusables": [
+        "push 和 pull 方向相反。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to urge someone to work or act harder",
+      "zh_definition": "催促某人更努力地做事",
+      "usages": [
+        {
+          "usage_label": "督促",
+          "collocations": [
+            {
+              "phrase": "push students to improve",
+              "translation": "督促学生进步"
+            },
+            {
+              "phrase": "push yourself",
+              "translation": "督促自己"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The coach pushed us to practice harder.",
+              "zh": "教练督促我们更加努力地练习。"
+            },
+            {
+              "en": "Do not push yourself too hard today.",
+              "zh": "今天别把自己逼得太紧。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "urge：也指敦促；push 往往含施加压力。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "push someone to do something 可带积极或消极语气。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to make an idea or plan move forward",
+      "zh_definition": "推动想法或计划取得进展",
+      "usages": [
+        {
+          "usage_label": "推动",
+          "collocations": [
+            {
+              "phrase": "push for change",
+              "translation": "争取改变"
+            },
+            {
+              "phrase": "push a plan forward",
+              "translation": "推进计划"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They pushed for changes at the school.",
+              "zh": "他们努力推动学校变革。"
+            },
+            {
+              "en": "The manager pushed the plan forward.",
+              "zh": "经理推动了这项计划。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "promote：也指促进；push 强调主动用力推进。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "push for 后接希望实现的目标。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a strong effort to achieve something",
+      "zh_definition": "为实现目标付出的集中努力",
+      "usages": [
+        {
+          "usage_label": "努力",
+          "collocations": [
+            {
+              "phrase": "a final push",
+              "translation": "最后一搏"
+            },
+            {
+              "phrase": "a push to finish",
+              "translation": "完成任务的努力"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We need one final push to finish.",
+              "zh": "我们还得最后加把劲才能完成。"
+            },
+            {
+              "en": "The team made a push for the title.",
+              "zh": "球队为争夺冠军发起冲刺。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "effort：泛指努力；push 常指短期集中发力。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 push 可指一次推动，也可指争取目标的努力。"
+      ]
+    }
+  ]
+}

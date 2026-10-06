@@ -1,0 +1,175 @@
+{
+  "word": "position",
+  "phonetic": "/pəˈzɪʃən/",
+  "syllables": [
+    "po",
+    "si",
+    "tion"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "位置",
+    "职位",
+    "立场",
+    "安置"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the place where someone or something is",
+      "zh_definition": "某人或某物所在的位置",
+      "usages": [
+        {
+          "usage_label": "位置",
+          "collocations": [
+            {
+              "phrase": "change position",
+              "translation": "改变位置"
+            },
+            {
+              "phrase": "the exact position",
+              "translation": "准确位置"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The map shows our position.",
+              "zh": "地图标出了我们的位置。"
+            },
+            {
+              "en": "Please change your position slightly.",
+              "zh": "请稍微调整一下位置。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "location：指所在地；position 还可指相对摆放方式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "position 可指身体姿势或地图位置。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a job or role in an organization",
+      "zh_definition": "机构中的工作职位",
+      "usages": [
+        {
+          "usage_label": "职位",
+          "collocations": [
+            {
+              "phrase": "apply for a position",
+              "translation": "申请职位"
+            },
+            {
+              "phrase": "a senior position",
+              "translation": "高级职位"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She applied for a position at the school.",
+              "zh": "她申请了学校的一个职位。"
+            },
+            {
+              "en": "He holds a senior position in the company.",
+              "zh": "他在公司担任高级职务。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "job：泛指工作；position 常指正式职位。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "hold a position 表示担任职务。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "an opinion or stance on an issue",
+      "zh_definition": "对议题持有的看法或立场",
+      "usages": [
+        {
+          "usage_label": "立场",
+          "collocations": [
+            {
+              "phrase": "state your position",
+              "translation": "表明立场"
+            },
+            {
+              "phrase": "change your position",
+              "translation": "改变立场"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The mayor stated her position clearly.",
+              "zh": "市长明确表明了立场。"
+            },
+            {
+              "en": "I understand your position on this issue.",
+              "zh": "我理解你在这个问题上的立场。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "view：泛指看法；position 常指公开或坚定的立场。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "position on an issue 指对议题的立场，不是地理位置。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to put something in a chosen place",
+      "zh_definition": "把某物安放在选定位置",
+      "usages": [
+        {
+          "usage_label": "安置",
+          "collocations": [
+            {
+              "phrase": "position a chair by the window",
+              "translation": "把椅子放在窗边"
+            },
+            {
+              "phrase": "position the camera",
+              "translation": "摆好相机"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Position the camera above the table.",
+              "zh": "把相机放在桌子上方。"
+            },
+            {
+              "en": "We positioned the chairs near the window.",
+              "zh": "我们把椅子摆在窗边。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "place：也指放置；position 更强调位置经过考虑。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "position yourself 可指调整自己的站位。"
+      ]
+    }
+  ]
+}

@@ -7302,6 +7302,728 @@
           "correction_count": 1
         }
       ]
+    },
+    {
+      "word": "pack",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "打包；挤满；一包",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3425
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。已修正例句、相关词分类或美音音标。",
+          "sha256": "a6ce097b15a0473d143ba808e1fd51ea4791793118b2a09ce8115a32f64ff4b4",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "park",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "公园；停车",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3462,
+        3463
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [
+        "multiple_etymologies"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "d1e5d0aa82873836a3d810866abb37e6c5e96bfbf854960b3db8093384454fbe",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "part",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "部分；角色；分开",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3467
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "c9fed71745b797307ad57365c33ba98f0ada29ffab39f443ab4187f30d6d7e4d",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "past",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "过去的；过去；经过",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3484
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "e2822d9164c08af55e9289f93fa0670889850357087598044033094901e8dbf7",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "pay",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "付款；报酬",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3504
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。已修正例句、相关词分类或美音音标。",
+          "sha256": "e1883260b70a9e2e13c324e2ecccea82109a07b98fc147b7462012c4344b32d5",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "perform",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "表演；执行；表现",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3540
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "f8cb00219f61236d824b19d1c89fc32df51d91d44dd6e142318d830a151488fb",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "period",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "一段时间；课时；句号",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3544
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "5452cb16a1a68ee379bac6bd3e294839456ec7249d89a98a34b55522b885f1c9",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "permit",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "允许；许可证",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3548
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [
+        "multiple_pronunciations"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。已修正例句、相关词分类或美音音标。",
+          "sha256": "651b4b00339d77f7f3077f699ff7fc3e85c78e7da8767e879db68ba965b60795",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "pick",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "挑选；采摘；拨弄",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3578
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [
+        "phrasal_verb"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。已修正例句、相关词分类或美音音标。",
+          "sha256": "cb510795b011d0c2abecb9bb51f1501c04b92d4152f691bd3988044098094ee8",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "place",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "地方；位置；名次；放置",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3605
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "9c52ef6b28f55c960eee37993ef956f5aaaa726796ab9a8b5c0c5bc53becd5d3",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "plant",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "植物；种植；工厂",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3612
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "0db8f6c12b4f73cfc9cc3c4d23ac889de94405c0b56c14ea78157178807ed152",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "position",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "位置；职位；立场",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3668
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "7cc2150e9ca0ed27f81bdbc449aa3a0cc757535ea3849bf956437293932c7291",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "present",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "当前的；礼物；呈现",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3716,
+        3717,
+        3718
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [
+        "multiple_pronunciations"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "bb95a7318ce6c4610c5c43509cafbebdd5b190e1d46ded579184fa97a0b54b9c",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "press",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "按压；催促；新闻界",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3722,
+        3723
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [
+        "multiple_etymologies"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "0d4b2684f71ad946b2578397a1cdb112760066d15fb4aaa840ba0e090410d776",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "process",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "过程；处理；加工",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3754
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "f3c4a925c108f2dd0d5913f6c59a0e8f3472b2b83088d82e03c6258827236d44",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "produce",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "生产；产生；农产品",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3757
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [
+        "multiple_pronunciations"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "8f08adb95ecfc2fad2d43924e8f43b0b9625320a64322f1542e551244f654e54",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "progress",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "进步；进展",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3766
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [
+        "multiple_pronunciations"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "8f955d9d8db0f79af1e1a6900e758b2030e17540c027a6c3e92f5a2290c5034a",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "promise",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "承诺；前途",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3772
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "8182dec8de1cb7ae9fe8208ddde4b7b5f37e3525230c67d21c5e090f9f508238",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "pull",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "拉；吸引力",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3810
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "2a062ac1985bb5faf08770388907bb50f75044a7b38356f92173ab6220d62572",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "push",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "推；督促；努力",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3824
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "175bc02efdb80f40adad5cb7036ef3409e05c85733e7fce7ca6caffc4ce6a56c",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "range",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "范围；系列；覆盖距离",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3870
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "80563b22fd11178e747213064183b0e1975f3b4fb3ad7552e69bec5b84eb019c",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "rate",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "比率；速度；费用；评价",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3878
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。已修正例句、相关词分类或美音音标。",
+          "sha256": "9565f260784432228a0ecf6913787b47a872e53c499190955b1b1359a198e788",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "record",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "记录；纪录；录制",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3914
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [
+        "multiple_pronunciations"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。已修正例句、相关词分类或美音音标。",
+          "sha256": "97fed4fdb4e5b95ef3483a7725068de08307d17175160c35f862f8d2d2e069c8",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
+    },
+    {
+      "word": "reflect",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "反射；反映；反思",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        3929
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "7b52372b976bfc3c9d80b4ec2dca87dcd379f72204a8c923431384f602987752",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "published",
+      "basic_zh": "返回；归还；恢复",
+      "content_version": 1,
+      "batch": 12,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-12.tsv",
+      "source_rows": [
+        4039
+      ],
+      "author": "content_pipeline",
+      "risk_flags": [
+        "multiple_etymologies"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex_review",
+          "decision": "accept",
+          "notes": "逐词核对义项、双语例句、搭配和近义/易混辨析；多音词对照剑桥美音。",
+          "sha256": "22f727f10d8d4fb0abb2bdf3e1aae97097027a10fa5fc1713738d31bf2147ad2",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     }
   ]
 }

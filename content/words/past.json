@@ -1,0 +1,135 @@
+{
+  "word": "past",
+  "phonetic": "/pæst/",
+  "syllables": [
+    "past"
+  ],
+  "pos": [
+    "adj.",
+    "n.",
+    "prep."
+  ],
+  "core_meanings": [
+    "过去的",
+    "过去",
+    "经过"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "belonging to a time before now",
+      "zh_definition": "属于现在以前的时间",
+      "usages": [
+        {
+          "usage_label": "过去的",
+          "collocations": [
+            {
+              "phrase": "past events",
+              "translation": "往事"
+            },
+            {
+              "phrase": "in past years",
+              "translation": "在过去几年里"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Past events shaped her views.",
+              "zh": "往事影响了她的看法。"
+            },
+            {
+              "en": "In past years, winters were colder here.",
+              "zh": "过去这里的冬天更冷。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "previous：指前一个；past 泛指过去的。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "past 置于名词前；last year 指刚过去的一年。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the time before the present",
+      "zh_definition": "现在以前的时间",
+      "usages": [
+        {
+          "usage_label": "过去",
+          "collocations": [
+            {
+              "phrase": "in the past",
+              "translation": "过去"
+            },
+            {
+              "phrase": "learn from the past",
+              "translation": "从过去吸取教训"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We cannot change the past.",
+              "zh": "我们无法改变过去。"
+            },
+            {
+              "en": "She learned from the past.",
+              "zh": "她从过去吸取了教训。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "history：常指有记录的历史；past 可指个人经历。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "in the past 表示过去，不等于 passed 动词过去式。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "prep.",
+      "en_definition": "beyond or by a person or place",
+      "zh_definition": "经过某人或某地",
+      "usages": [
+        {
+          "usage_label": "经过",
+          "collocations": [
+            {
+              "phrase": "walk past the shop",
+              "translation": "走过商店"
+            },
+            {
+              "phrase": "drive past the school",
+              "translation": "开车经过学校"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We walked past the old shop.",
+              "zh": "我们走过了那家老店。"
+            },
+            {
+              "en": "The bus drove past my stop.",
+              "zh": "公交车开过了我要下车的站。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "by：也可表示经过；past 更突出越过某个位置。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "past 是介词；passed 是 pass 的过去式。"
+      ]
+    }
+  ]
+}

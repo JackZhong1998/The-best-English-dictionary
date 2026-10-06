@@ -1,0 +1,135 @@
+{
+  "word": "period",
+  "phonetic": "/ˈpɪriəd/",
+  "syllables": [
+    "pe",
+    "ri",
+    "od"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "一段时间",
+    "课时",
+    "句号"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a length of time with a beginning and an end",
+      "zh_definition": "有起止的一段时间",
+      "usages": [
+        {
+          "usage_label": "时期",
+          "collocations": [
+            {
+              "phrase": "a short period",
+              "translation": "短时间"
+            },
+            {
+              "phrase": "a period of change",
+              "translation": "变化时期"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He stayed there for a short period.",
+              "zh": "他在那里待了短暂一段时间。"
+            },
+            {
+              "en": "The town went through a period of change.",
+              "zh": "这座城镇经历了一段变革期。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "phase：强调发展阶段；period 强调一段时间。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "period of 后可接描述该时期特点的名词。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "one scheduled part of a school day",
+      "zh_definition": "学校一天课程中的一节课",
+      "usages": [
+        {
+          "usage_label": "课时",
+          "collocations": [
+            {
+              "phrase": "first period",
+              "translation": "第一节课"
+            },
+            {
+              "phrase": "a class period",
+              "translation": "一节课"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We have math first period today.",
+              "zh": "今天第一节课是数学。"
+            },
+            {
+              "en": "Each class period lasts forty minutes.",
+              "zh": "每节课持续四十分钟。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义词：period 在美式学校课表中特指一个上课时段。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "美式学校常用 period 指课时。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "the punctuation mark at the end of a sentence",
+      "zh_definition": "句末的标点符号",
+      "usages": [
+        {
+          "usage_label": "句号",
+          "collocations": [
+            {
+              "phrase": "put a period",
+              "translation": "加句号"
+            },
+            {
+              "phrase": "end with a period",
+              "translation": "以句号结尾"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Put a period at the end of the sentence.",
+              "zh": "在句末加上句号。"
+            },
+            {
+              "en": "This sentence ends with a period.",
+              "zh": "这个句子以句号结尾。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "full stop：英式英语指句号；美式通常说 period。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这里是标点义，不表示一段时间。"
+      ]
+    }
+  ]
+}

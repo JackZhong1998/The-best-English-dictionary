@@ -1,0 +1,212 @@
+{
+  "word": "return",
+  "phonetic": "/rɪˈtɝːn/",
+  "syllables": [
+    "re",
+    "turn"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "返回",
+    "归还",
+    "恢复",
+    "回报"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to go or come back to a place",
+      "zh_definition": "回到原来的地方",
+      "usages": [
+        {
+          "usage_label": "返回",
+          "collocations": [
+            {
+              "phrase": "return home",
+              "translation": "回家"
+            },
+            {
+              "phrase": "return to work",
+              "translation": "回去工作"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We returned home before dark.",
+              "zh": "天黑前我们回到家。"
+            },
+            {
+              "en": "She returned to work on Monday.",
+              "zh": "她周一重返工作岗位。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "come back：更口语的回来；return 略正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "return home 不加 to；return to work 要加 to。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to give something back to its owner or place",
+      "zh_definition": "把物品交回原主或原处",
+      "usages": [
+        {
+          "usage_label": "归还",
+          "collocations": [
+            {
+              "phrase": "return a book",
+              "translation": "还书"
+            },
+            {
+              "phrase": "return a borrowed bike",
+              "translation": "归还借来的自行车"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please return the book by Friday.",
+              "zh": "请在周五前还书。"
+            },
+            {
+              "en": "He returned my bike that evening.",
+              "zh": "他那天晚上把自行车还给了我。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "give back：更口语的归还；return 也可指回复电话。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "return a call 不是归还一个电话机。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to begin again after an absence or pause",
+      "zh_definition": "在中断或消失后重新出现",
+      "usages": [
+        {
+          "usage_label": "恢复",
+          "collocations": [
+            {
+              "phrase": "return to normal",
+              "translation": "恢复正常"
+            },
+            {
+              "phrase": "return after a break",
+              "translation": "休息后回来"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The town returned to normal after the storm.",
+              "zh": "暴风雨后城镇恢复了正常。"
+            },
+            {
+              "en": "Her confidence slowly returned.",
+              "zh": "她的信心慢慢恢复了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "resume：强调重新开始活动；return 可指状态恢复。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "return to normal 是固定搭配。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "the act of coming back or giving something back",
+      "zh_definition": "返回或归还的行为",
+      "usages": [
+        {
+          "usage_label": "返回或归还",
+          "collocations": [
+            {
+              "phrase": "the return journey",
+              "translation": "返程"
+            },
+            {
+              "phrase": "the return of a book",
+              "translation": "一本书的归还"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The return journey took three hours.",
+              "zh": "返程花了三个小时。"
+            },
+            {
+              "en": "The library asked for the return of the book.",
+              "zh": "图书馆要求归还那本书。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "comeback：多指重返某种活动或地位；return 用法更广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 return 可指返程或归还；投资收益需结合 financial 语境判断。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "money gained from an investment",
+      "zh_definition": "投资获得的收益",
+      "usages": [
+        {
+          "usage_label": "投资回报",
+          "collocations": [
+            {
+              "phrase": "a return on investment",
+              "translation": "投资回报"
+            },
+            {
+              "phrase": "a good return",
+              "translation": "不错的收益"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The investment brought a small return.",
+              "zh": "这笔投资带来了少量收益。"
+            },
+            {
+              "en": "They hope for a better return next year.",
+              "zh": "他们希望明年获得更高回报。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "profit：泛指利润；return 在此特指投资所得的收益。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "return 作投资回报时是名词；return home 是动词“回家”。"
+      ]
+    }
+  ]
+}

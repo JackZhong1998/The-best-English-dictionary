@@ -1,0 +1,134 @@
+{
+  "word": "promise",
+  "phonetic": "/ˈprɑːmɪs/",
+  "syllables": [
+    "prom",
+    "ise"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "承诺",
+    "希望"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to say that you will definitely do something",
+      "zh_definition": "明确表示自己一定会做某事",
+      "usages": [
+        {
+          "usage_label": "承诺",
+          "collocations": [
+            {
+              "phrase": "promise to help",
+              "translation": "答应帮忙"
+            },
+            {
+              "phrase": "promise someone a reply",
+              "translation": "答应给某人答复"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I promise to call you tonight.",
+              "zh": "我答应今晚给你打电话。"
+            },
+            {
+              "en": "She promised him a reply by Friday.",
+              "zh": "她答应周五前给他答复。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pledge：较正式的郑重承诺；promise 更日常。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "promise to do something，后接不定式。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a statement that you will do something",
+      "zh_definition": "将会做某事的承诺",
+      "usages": [
+        {
+          "usage_label": "诺言",
+          "collocations": [
+            {
+              "phrase": "keep a promise",
+              "translation": "遵守诺言"
+            },
+            {
+              "phrase": "break a promise",
+              "translation": "违背承诺"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He kept his promise to return the book.",
+              "zh": "他遵守了还书的承诺。"
+            },
+            {
+              "en": "Do not make a promise you cannot keep.",
+              "zh": "不要许下做不到的诺言。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pledge：也指誓言，通常更正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "make a promise 表示作出承诺；keep a promise 表示履行。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "signs that someone or something may succeed",
+      "zh_definition": "有望成功的迹象",
+      "usages": [
+        {
+          "usage_label": "前途",
+          "collocations": [
+            {
+              "phrase": "show promise",
+              "translation": "展现潜力"
+            },
+            {
+              "phrase": "a young player with promise",
+              "translation": "有潜力的年轻球员"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The young artist shows great promise.",
+              "zh": "这位年轻艺术家很有前途。"
+            },
+            {
+              "en": "The new treatment has shown promise.",
+              "zh": "这种新疗法已显现出希望。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "potential：指潜力；promise 强调可见的成功迹象。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义 promise 通常不可数，常见 show promise。"
+      ]
+    }
+  ]
+}

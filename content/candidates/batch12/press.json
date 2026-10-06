@@ -1,0 +1,134 @@
+{
+  "word": "press",
+  "phonetic": "/pres/",
+  "syllables": [
+    "press"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "按压",
+    "催促",
+    "报刊"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to push something firmly with a finger or hand",
+      "zh_definition": "用手指或手掌用力按",
+      "usages": [
+        {
+          "usage_label": "按压",
+          "collocations": [
+            {
+              "phrase": "press a button",
+              "translation": "按按钮"
+            },
+            {
+              "phrase": "press down firmly",
+              "translation": "用力向下按"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Press the red button to stop the machine.",
+              "zh": "按红色按钮停止机器。"
+            },
+            {
+              "en": "She pressed down on the lid.",
+              "zh": "她向下压住盖子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "push：泛指推动；press 强调持续施力按压。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "press a button 与 push a button 都可说；press 较常用于操作说明。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to urge someone strongly to do something",
+      "zh_definition": "强烈催促某人做某事",
+      "usages": [
+        {
+          "usage_label": "催促",
+          "collocations": [
+            {
+              "phrase": "press someone for an answer",
+              "translation": "催促某人答复"
+            },
+            {
+              "phrase": "press someone to act",
+              "translation": "催促某人行动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Reporters pressed her for an answer.",
+              "zh": "记者们催促她给出答复。"
+            },
+            {
+              "en": "They pressed the manager to act quickly.",
+              "zh": "他们催促经理迅速行动。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "urge：也指敦促；press 含反复施压之意。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "press someone for something 表示催要某物。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "newspapers, magazines, and news organizations as a group",
+      "zh_definition": "报纸、杂志及新闻机构的总称",
+      "usages": [
+        {
+          "usage_label": "新闻媒体",
+          "collocations": [
+            {
+              "phrase": "the local press",
+              "translation": "地方媒体"
+            },
+            {
+              "phrase": "freedom of the press",
+              "translation": "新闻自由"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The local press covered the event.",
+              "zh": "当地媒体报道了这场活动。"
+            },
+            {
+              "en": "She spoke to the press outside.",
+              "zh": "她在外面向媒体发了言。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "media：范围更广，可含电视和网络；press 常指新闻界。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the press 在此通常作集合名词，不是按压机器。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "word": "plant",
+  "phonetic": "/plænt/",
+  "syllables": [
+    "plant"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "植物",
+    "工厂",
+    "种植"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a living thing that grows in soil and has leaves",
+      "zh_definition": "生长在土壤中、有叶子的生物",
+      "usages": [
+        {
+          "usage_label": "植物",
+          "collocations": [
+            {
+              "phrase": "a green plant",
+              "translation": "绿色植物"
+            },
+            {
+              "phrase": "water the plants",
+              "translation": "给植物浇水"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This plant needs more light.",
+              "zh": "这种植物需要更多光照。"
+            },
+            {
+              "en": "Please water the plants.",
+              "zh": "请给植物浇水。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义词：plant 指一株或一类植物；vegetation 是植被总称。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "plant 可数，可说 one plant。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to put a seed or young plant in soil to grow",
+      "zh_definition": "把种子或幼苗放入土中生长",
+      "usages": [
+        {
+          "usage_label": "种植",
+          "collocations": [
+            {
+              "phrase": "plant a tree",
+              "translation": "种树"
+            },
+            {
+              "phrase": "plant seeds",
+              "translation": "播种"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We planted a tree in the yard.",
+              "zh": "我们在院子里种了一棵树。"
+            },
+            {
+              "en": "She planted seeds in small pots.",
+              "zh": "她把种子播进小花盆。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "grow：指培育和生长过程；plant 强调播种或栽下动作。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "plant a tree 是栽树；grow a tree 强调使其长成。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a factory where goods or power are produced",
+      "zh_definition": "生产商品或电力的工厂",
+      "usages": [
+        {
+          "usage_label": "工厂",
+          "collocations": [
+            {
+              "phrase": "a car plant",
+              "translation": "汽车制造厂"
+            },
+            {
+              "phrase": "a power plant",
+              "translation": "发电厂"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The car plant employs many people.",
+              "zh": "这家汽车厂雇了很多人。"
+            },
+            {
+              "en": "A new power plant opened nearby.",
+              "zh": "附近新建了一座发电厂。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "factory：泛指工厂；plant 多指大型生产设施。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "power plant 是发电厂，不是电力植物。"
+      ]
+    }
+  ]
+}

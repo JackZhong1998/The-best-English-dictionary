@@ -1,0 +1,173 @@
+{
+  "word": "pick",
+  "phonetic": "/pɪk/",
+  "syllables": [
+    "pick"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "挑选",
+    "采摘",
+    "拨弄",
+    "首选"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to choose someone or something from a group",
+      "zh_definition": "从一组人或物中挑选",
+      "usages": [
+        {
+          "usage_label": "挑选",
+          "collocations": [
+            {
+              "phrase": "pick a book",
+              "translation": "挑一本书"
+            },
+            {
+              "phrase": "pick a team",
+              "translation": "选一支队伍"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Pick a book to read tonight.",
+              "zh": "挑一本书今晚读。"
+            },
+            {
+              "en": "They picked her for the team.",
+              "zh": "他们选她入队。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "choose：也指选择；pick 更口语，强调从选项中选出。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "pick someone for something 表示选某人参加。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to take a flower, fruit, or leaf from a plant",
+      "zh_definition": "从植物上采下花、果实或叶子",
+      "usages": [
+        {
+          "usage_label": "采摘",
+          "collocations": [
+            {
+              "phrase": "pick apples",
+              "translation": "摘苹果"
+            },
+            {
+              "phrase": "pick flowers",
+              "translation": "摘花"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We picked apples in the orchard.",
+              "zh": "我们在果园摘了苹果。"
+            },
+            {
+              "en": "Do not pick the flowers here.",
+              "zh": "不要摘这里的花。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "harvest：指收获农作物；pick 强调用手采摘。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "pick up apples 指捡起苹果，不等于从树上摘苹果。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to pull at something with fingers or a small tool",
+      "zh_definition": "用手指或小工具反复拨弄",
+      "usages": [
+        {
+          "usage_label": "拨弄",
+          "collocations": [
+            {
+              "phrase": "pick at a loose thread",
+              "translation": "扯松脱的线头"
+            },
+            {
+              "phrase": "pick at a label",
+              "translation": "抠标签"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Stop picking at that loose thread.",
+              "zh": "别再扯那根松脱的线头了。"
+            },
+            {
+              "en": "She picked at the label on the bottle.",
+              "zh": "她不停地抠瓶子上的标签。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "fiddle with：也指不停摆弄；pick at 常有轻扯的动作。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "pick at food 另可表示没胃口、只吃一点；这里的例句都指用手指拨弄。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "the person or thing chosen as the best option",
+      "zh_definition": "被选为最佳的人或物",
+      "usages": [
+        {
+          "usage_label": "首选",
+          "collocations": [
+            {
+              "phrase": "my first pick",
+              "translation": "我的首选"
+            },
+            {
+              "phrase": "the top pick",
+              "translation": "最受青睐的选择"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This film is my top pick for movie night.",
+              "zh": "今晚看电影，我首选这部。"
+            },
+            {
+              "en": "She was the top pick for the role.",
+              "zh": "她是这个角色的首选人选。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "choice：也指选择；pick 更口语化。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 pick 可指所选的人或物。"
+      ]
+    }
+  ]
+}

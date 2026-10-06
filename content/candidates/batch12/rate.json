@@ -1,0 +1,173 @@
+{
+  "word": "rate",
+  "phonetic": "/reɪt/",
+  "syllables": [
+    "rate"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "比率",
+    "速度",
+    "费用",
+    "评价"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the number of times something happens within a period",
+      "zh_definition": "单位时间内事情发生的次数或比例",
+      "usages": [
+        {
+          "usage_label": "比率",
+          "collocations": [
+            {
+              "phrase": "an unemployment rate",
+              "translation": "失业率"
+            },
+            {
+              "phrase": "a high birth rate",
+              "translation": "高出生率"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The birth rate fell last year.",
+              "zh": "去年出生率下降了。"
+            },
+            {
+              "en": "The report shows a low unemployment rate.",
+              "zh": "报告显示失业率较低。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义词：rate 此义表示按一定单位计算的发生比率。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "percentage 是表示比率的一种数值形式，不总等于 rate；rate of 后接发生的事情。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the speed at which something happens",
+      "zh_definition": "事情发生或变化的速度",
+      "usages": [
+        {
+          "usage_label": "速度",
+          "collocations": [
+            {
+              "phrase": "at a steady rate",
+              "translation": "以稳定速度"
+            },
+            {
+              "phrase": "a fast rate of growth",
+              "translation": "快速增长"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The water level rose at a steady rate.",
+              "zh": "水位以稳定速度上升。"
+            },
+            {
+              "en": "The plants grew at a fast rate.",
+              "zh": "这些植物长得很快。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "speed：泛指速度；rate 常表示变化的快慢。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "at a rate of 后可接具体数值。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "the amount charged for a service",
+      "zh_definition": "服务所收取的费用标准",
+      "usages": [
+        {
+          "usage_label": "收费标准",
+          "collocations": [
+            {
+              "phrase": "a daily rate",
+              "translation": "日收费标准"
+            },
+            {
+              "phrase": "room rates",
+              "translation": "房价"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The hotel offers a lower daily rate.",
+              "zh": "这家酒店的每日房价较低。"
+            },
+            {
+              "en": "Room rates rise in summer.",
+              "zh": "房价在夏天上涨。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "fee：可指一次性费用；rate 常按时间或单位计算。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "hourly rate 指每小时收费或工资。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to judge the quality or value of something",
+      "zh_definition": "评价事物的质量或价值",
+      "usages": [
+        {
+          "usage_label": "评价",
+          "collocations": [
+            {
+              "phrase": "rate a film",
+              "translation": "给电影评分"
+            },
+            {
+              "phrase": "rate the service highly",
+              "translation": "高度评价服务"
+            }
+          ],
+          "examples": [
+            {
+              "en": "How would you rate this film?",
+              "zh": "你会给这部电影打几分？"
+            },
+            {
+              "en": "Customers rated the service highly.",
+              "zh": "顾客对这项服务评价很高。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "evaluate：较正式的评估；rate 常涉及打分或等级。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "rate someone highly 表示对某人评价很高。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "word": "reflect",
+  "phonetic": "/rɪˈflekt/",
+  "syllables": [
+    "re",
+    "flect"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "反射",
+    "反映",
+    "认真思考"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to send back light, heat, or an image from a surface",
+      "zh_definition": "从表面反射光、热或影像",
+      "usages": [
+        {
+          "usage_label": "反射",
+          "collocations": [
+            {
+              "phrase": "reflect sunlight",
+              "translation": "反射阳光"
+            },
+            {
+              "phrase": "reflect an image",
+              "translation": "映出影像"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The glass reflects the sunlight.",
+              "zh": "玻璃反射阳光。"
+            },
+            {
+              "en": "The lake reflected the mountains.",
+              "zh": "湖面映出了群山。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "bounce back：也可指光线弹回；reflect 更准确。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "镜子 reflect an image；不是自己产生图像。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to show a quality, feeling, or situation",
+      "zh_definition": "体现某种品质、感受或情况",
+      "usages": [
+        {
+          "usage_label": "反映",
+          "collocations": [
+            {
+              "phrase": "reflect public opinion",
+              "translation": "反映公众意见"
+            },
+            {
+              "phrase": "reflect a change",
+              "translation": "体现变化"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The survey reflects public opinion.",
+              "zh": "这项调查反映了公众意见。"
+            },
+            {
+              "en": "Her smile reflected her relief.",
+              "zh": "她的笑容流露出如释重负的心情。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "show：泛指表现；reflect 常强调外在事物映射内在情况。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义是比喻的“映照”，不涉及光线。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to think carefully about an event or experience",
+      "zh_definition": "认真回想或思考经历过的事",
+      "usages": [
+        {
+          "usage_label": "反思",
+          "collocations": [
+            {
+              "phrase": "reflect on the past",
+              "translation": "回顾过去"
+            },
+            {
+              "phrase": "reflect on a mistake",
+              "translation": "反思错误"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He reflected on his mistake later.",
+              "zh": "后来他反思了自己的错误。"
+            },
+            {
+              "en": "Take time to reflect on what you learned.",
+              "zh": "花点时间想想自己学到了什么。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "consider：泛指考虑；reflect on 常指回顾经历。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "reflect on 后接思考的事，不说 reflect about。"
+      ]
+    }
+  ]
+}

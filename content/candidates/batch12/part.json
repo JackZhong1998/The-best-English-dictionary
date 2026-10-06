@@ -1,0 +1,134 @@
+{
+  "word": "part",
+  "phonetic": "/pɑːrt/",
+  "syllables": [
+    "part"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "部分",
+    "角色",
+    "分开"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a piece or section of a whole",
+      "zh_definition": "整体中的一部分",
+      "usages": [
+        {
+          "usage_label": "部分",
+          "collocations": [
+            {
+              "phrase": "part of the book",
+              "translation": "书的一部分"
+            },
+            {
+              "phrase": "the best part",
+              "translation": "最好的部分"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I read the first part of the book.",
+              "zh": "我读了这本书的第一部分。"
+            },
+            {
+              "en": "This is the best part of the film.",
+              "zh": "这是电影最精彩的部分。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "section：指划分明确的部分；part 用法更广。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "part of 后接整体；a part 可数。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a role played by an actor",
+      "zh_definition": "演员扮演的角色",
+      "usages": [
+        {
+          "usage_label": "角色",
+          "collocations": [
+            {
+              "phrase": "play a part",
+              "translation": "扮演角色"
+            },
+            {
+              "phrase": "the main part",
+              "translation": "主角"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She played the main part in the play.",
+              "zh": "她在这出戏里演主角。"
+            },
+            {
+              "en": "He got a small part in the film.",
+              "zh": "他在电影中得到了一个小角色。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "role：也指戏剧角色；part 常用于 play a part。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "play a part 也可比喻在某事中发挥作用。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to move away from someone or separate into pieces",
+      "zh_definition": "与人分开或使物体分开",
+      "usages": [
+        {
+          "usage_label": "分开",
+          "collocations": [
+            {
+              "phrase": "part ways",
+              "translation": "分道扬镳"
+            },
+            {
+              "phrase": "part the curtains",
+              "translation": "拉开窗帘"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They parted at the station.",
+              "zh": "他们在车站分开了。"
+            },
+            {
+              "en": "She parted the curtains to look outside.",
+              "zh": "她拉开窗帘向外看。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "separate：泛指分开；part 可指人离别或物体分开。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "part ways 是固定短语，意为分道扬镳。"
+      ]
+    }
+  ]
+}

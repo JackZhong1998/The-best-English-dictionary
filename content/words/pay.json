@@ -1,0 +1,134 @@
+{
+  "word": "pay",
+  "phonetic": "/peɪ/",
+  "syllables": [
+    "pay"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "付款",
+    "付给",
+    "报酬"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to give money for something you buy or use",
+      "zh_definition": "为购买或使用的东西付钱",
+      "usages": [
+        {
+          "usage_label": "付款",
+          "collocations": [
+            {
+              "phrase": "pay for a meal",
+              "translation": "支付餐费"
+            },
+            {
+              "phrase": "pay by card",
+              "translation": "刷卡付款"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I paid for the tickets online.",
+              "zh": "我在网上付了票款。"
+            },
+            {
+              "en": "Can I pay by card?",
+              "zh": "我可以刷卡吗？"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "settle up：也指结账付款；pay 可用于各种支付场景。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "purchase 强调购买行为，不等于支付；pay for 后接所买的东西，pay someone 后接收款人。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to give someone money for work or a debt",
+      "zh_definition": "向某人支付工资或债务",
+      "usages": [
+        {
+          "usage_label": "付给",
+          "collocations": [
+            {
+              "phrase": "pay the workers",
+              "translation": "给工人发工资"
+            },
+            {
+              "phrase": "pay a bill",
+              "translation": "付账单"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The company pays its workers on Friday.",
+              "zh": "公司每周五给工人发工资。"
+            },
+            {
+              "en": "I paid the electricity bill yesterday.",
+              "zh": "昨天我交了电费。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "settle：可指结清账款；pay 更普通。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "pay 的过去式、过去分词为 paid。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "money received for doing a job",
+      "zh_definition": "工作所得的钱",
+      "usages": [
+        {
+          "usage_label": "报酬",
+          "collocations": [
+            {
+              "phrase": "good pay",
+              "translation": "不错的报酬"
+            },
+            {
+              "phrase": "monthly pay",
+              "translation": "月薪"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The job offers good pay.",
+              "zh": "这份工作薪酬不错。"
+            },
+            {
+              "en": "Her monthly pay covers the rent.",
+              "zh": "她的月薪足够支付房租。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "salary：通常指固定薪金；pay 泛指工作报酬。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "pay 作报酬时通常不可数。"
+      ]
+    }
+  ]
+}
