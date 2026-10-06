@@ -3014,6 +3014,457 @@
           "correction_count": 0
         }
       ]
+    },
+    {
+      "word": "board",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "板；董事会；登上",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        561
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "bond",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "纽带；债券；粘合",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        570
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "book",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "书；预订",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        573
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "border",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "边界；接壤",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        578
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "bottom",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "底部；末尾",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        588
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "box",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "盒子；拳击",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        600,
+        601
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "branch",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "树枝；分支；分店",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        610
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "brand",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "品牌；烙印",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        611
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "bridge",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "桥；弥合",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        632
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "bring",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "带来；引起",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        638
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "broad",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "宽阔的；广泛的",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        641
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "broadcast",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "广播；播出",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        642
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "budget",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "预算；低价的",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        664
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "burn",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "燃烧；灼伤",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        684
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "burst",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "爆裂；突然出现",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        685
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "button",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "按钮；纽扣",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        698
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "buy",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "购买；相信",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        699
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "cable",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "电缆；有线电视",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        708
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "calm",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "平静的；使平静",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        719
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "camp",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "营地；露营",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        723
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "campaign",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "活动；竞选",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        724
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "capital",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "首都；资本；大写字母",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        743
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "care",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "关心；照料；在意",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        756
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "carry",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "携带；承担；传送",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        764
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
+    },
+    {
+      "word": "catch",
+      "exam_categories": [
+        "CET4/CET6-syllabus candidate"
+      ],
+      "status": "basic",
+      "basic_zh": "接住；赶上；染上",
+      "content_version": 0,
+      "batch": 6,
+      "source": "cet2016_mit_transcription",
+      "source_file": "content/wordlists/batch-6.tsv",
+      "source_rows": [
+        780
+      ],
+      "author": null,
+      "risk_flags": [],
+      "review_records": []
     }
   ]
 }
