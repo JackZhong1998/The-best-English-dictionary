@@ -1,6 +1,6 @@
 # 词义之间
 
-面向中文学习者的英汉词典。网站先收录词头和原创基础释义，再由本地 Codex 制作并复核完整词条；尚未精修的词仍可查询。现有 30 个高频词条及其音频已迁入新接口；另有 70 个新词经独立复核并预生成美音。当前共 869 个音频文件。100 词四级水平试批的状态记录在 `content/catalog.json`，其中的“CET4-level candidate”是独立编辑选择，不声称来自官方四级词表。
+面向中文学习者的英汉词典。网站先收录词头和原创基础释义，再由本地 Codex 制作并复核完整词条；尚未精修的词仍可查询。100 词试批均已发布完整词条，其中原有 30 词和新增 70 词共附 869 个预生成音频文件。下一批 25 个四／六级大纲候选词正在分批制作。`content/catalog.json` 保存每词的状态与复核记录；首批的“CET4-level candidate”是独立编辑选择，不声称来自官方四级词表。
 
 ## 本地运行和校验
 
@@ -11,6 +11,7 @@ npm run build
 python3 -m unittest scripts/test_audio.py scripts/test_content_pipeline.py
 node scripts/import_entries.mjs --dry-run
 python3 scripts/content_pipeline.py status
+python3 scripts/cet_progress.py
 node scripts/batch_report.mjs
 ```
 
@@ -19,7 +20,7 @@ Vite 开发服务器使用导出的静态试批数据，入口为 `http://127.0.
 ## 内容流水线
 
 - `content/catalog.json` 是可恢复进度清单，保存来源、考试类别、`basic`/`draft`/`reviewed`/`published` 状态、版本和复核记录。`draft` 和 `reviewed` 在线上显示为基础释义；只有 `published` 才显示完整词条。
-- `content/pilot_cet4.tsv` 是独立整理的 100 词试批词头和原创基础释义。扩展到正式四级、六级、考研词库前，应逐一确认词表的授权和来源元数据；不要复制第三方释义或例句。
+- `content/pilot_cet4.tsv` 是独立整理的 100 词试批。新增四／六级词头以 [MIT 许可的 2016 大纲转录稿](content/sources/README.md)为选词清单，不复制第三方释义或例句。`scripts/build_cet_backlog.py` 将原稿拆为 7,600 个明确拼写和 214 个待核对的变体记法；`scripts/cet_progress.py` 报告已发布覆盖。转录稿没有可靠的逐词等级标签，核定前只标“四／六级大纲候选”。
 - `scripts/content_pipeline.py` 提供 `status`、`stage`、`review`、`publish` 等命令。候选 JSON 先进入 `content/drafts/`，独立复核通过后才进入 `content/words/`。当前试批首批逐词复核；后续每批 25 词，抽检至少 10%，另查多音、多词源、短语动词等高风险词。出现系统性错误时复核整批。
 - 已发布词条可通过同样的 `stage → review → publish` 路径修订，审核期间旧版仍可读。`review --issues-found N --corrections N` 为后续批次记录结构化质量数据；`scripts/batch_report.mjs` 汇总每批词数、复核记录及音频完整性，历史未记录的错误数显示为未知，不推测。
 - 原有 30 词的生成源在 `scripts/build_content.py`，音频生成脚本在 `scripts/generate_audio.py`。`content/audio_manifest.json` 记录文本、音色和参数的哈希；修改例句后脚本会重做相应 MP3，构建校验也会拒绝过期音频。词源和词义迁移无可靠说明时可以留空。

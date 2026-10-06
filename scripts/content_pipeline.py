@@ -7,10 +7,12 @@ grandfathered with an explicit empty review history.
 """
 
 import argparse
+import csv
 import datetime as dt
 import hashlib
 import json
 import shutil
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -73,7 +75,7 @@ def basic_rows(file=SOURCE, expected_count=100):
     rows = []
     for line in lines[1:]:
         word, gloss = line.split("\t", 1)
-        if not word.isalpha() or not word.islower() or not gloss.strip():
+        if not re.fullmatch(r"[a-z]+(?:[-'][a-z]+)*", word) or not gloss.strip():
             raise SystemExit(f"Invalid pilot row: {line}")
         rows.append((word, gloss))
     if len(rows) != expected_count or len(set(w for w, _ in rows)) != expected_count:
@@ -186,6 +188,15 @@ def extend(args):
     """Append an independently authored 25-word CET4/CET6/postgraduate batch."""
     catalog = load_catalog()
     rows = basic_rows(Path(args.file), BATCH_SIZE)
+    source_evidence = {}
+    if args.source_id == "cet2016_mit_transcription":
+        source_index = ROOT / "content/wordlists/cet2016_simple.tsv"
+        with source_index.open(encoding="utf-8", newline="") as handle:
+            source_evidence = {line["word"]: [int(row) for row in line["source_rows"].split(",")]
+                               for line in csv.DictReader(handle, delimiter="\t")}
+        missing = [word for word, _ in rows if word not in source_evidence]
+        if missing:
+            raise SystemExit("Words missing from CET transcription: " + ", ".join(missing))
     known = {item["word"] for item in catalog["entries"]}
     duplicates = [word for word, _ in rows if word in known]
     if duplicates:
@@ -197,13 +208,14 @@ def extend(args):
     for word, gloss in rows:
         catalog["entries"].append({
             "word": word,
-            "exam_categories": [f"{args.category}-level candidate"],
+            "exam_categories": ["CET4/CET6-syllabus candidate" if args.category == "CET4_CET6" else f"{args.category}-level candidate"],
             "status": "basic",
             "basic_zh": gloss,
             "content_version": 0,
             "batch": next_batch,
-            "source": "independent_editorial_selection_v1",
+            "source": args.source_id,
             "source_file": str(source_path.relative_to(ROOT)),
+            "source_rows": source_evidence.get(word, []),
             "author": None,
             "risk_flags": [],
             "review_records": [],
@@ -362,7 +374,9 @@ def main():
     commands.add_parser("status").set_defaults(func=status)
     extended = commands.add_parser("extend")
     extended.add_argument("file", help="TSV with word and original basic_zh columns, exactly 25 rows")
-    extended.add_argument("--category", choices=("CET4", "CET6", "postgraduate"), required=True)
+    extended.add_argument("--category", choices=("CET4", "CET6", "CET4_CET6", "postgraduate"), required=True)
+    extended.add_argument("--source-id", choices=("independent_editorial_selection_v1", "cet2016_mit_transcription"),
+                          default="independent_editorial_selection_v1")
     extended.set_defaults(func=extend)
     staged = commands.add_parser("stage")
     staged.add_argument("word")

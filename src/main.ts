@@ -35,6 +35,7 @@ const normalize = (value: string) => value.trim().toLowerCase()
 const examLabel = (levels: string[]) => levels.map((level) => ({
   'CET4-level candidate': '四级程度',
   'CET6-level candidate': '六级程度',
+  'CET4/CET6-syllabus candidate': '四／六级大纲候选',
   'postgraduate-level candidate': '考研程度',
 }[level] || level)).join(' · ') || '英语词汇'
 const wordHref = (word: string) => base === '/' ? `/word/${encodeURIComponent(word)}` : `${base}?word=${encodeURIComponent(word)}`
