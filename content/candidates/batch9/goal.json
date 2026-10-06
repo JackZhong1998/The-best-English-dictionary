@@ -1,0 +1,95 @@
+{
+  "word": "goal",
+  "phonetic": "/ɡoʊl/",
+  "syllables": [
+    "goal"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "目标",
+    "进球"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "something you want to achieve",
+      "zh_definition": "希望实现的事情",
+      "usages": [
+        {
+          "usage_label": "目标",
+          "collocations": [
+            {
+              "phrase": "set a goal",
+              "translation": "设定目标"
+            },
+            {
+              "phrase": "reach a goal",
+              "translation": "实现目标"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My goal is to learn English.",
+              "zh": "我的目标是学会英语。"
+            },
+            {
+              "en": "She reached her goal after months of practice.",
+              "zh": "练习了几个月后，她实现了目标。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "aim：也指目标；goal 常强调要达到的结果。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a goal to do something 可说明想完成的事。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a point scored by sending a ball into the net",
+      "zh_definition": "把球送入球门而得到的一分",
+      "usages": [
+        {
+          "usage_label": "进球",
+          "collocations": [
+            {
+              "phrase": "score a goal",
+              "translation": "进球得分"
+            },
+            {
+              "phrase": "the winning goal",
+              "translation": "制胜进球"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He scored the first goal.",
+              "zh": "他打进了第一球。"
+            },
+            {
+              "en": "Her goal won the match.",
+              "zh": "她的进球赢得了比赛。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：goal 此义特指球进入球门所得的分。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "goal 也可指球门，但这里表示进球得分。",
+        "point：泛指比赛得分；goal 特指球类进球。"
+      ]
+    }
+  ]
+}

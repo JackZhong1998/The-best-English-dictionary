@@ -1,0 +1,134 @@
+{
+  "word": "grade",
+  "phonetic": "/ɡreɪd/",
+  "syllables": [
+    "grade"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "成绩",
+    "年级",
+    "等级"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a mark given for schoolwork",
+      "zh_definition": "给作业或考试的分数或等级",
+      "usages": [
+        {
+          "usage_label": "成绩",
+          "collocations": [
+            {
+              "phrase": "get a good grade",
+              "translation": "取得好成绩"
+            },
+            {
+              "phrase": "a grade on a test",
+              "translation": "测验成绩"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She got a good grade in math.",
+              "zh": "她数学得了好成绩。"
+            },
+            {
+              "en": "My grade on the test was higher this time.",
+              "zh": "这次我的测验成绩更高。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "mark：也指成绩，英式英语更常用。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "美式英语常用 grade 指学业成绩。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a year of school in the American system",
+      "zh_definition": "美国学校教育中的一个年级",
+      "usages": [
+        {
+          "usage_label": "年级",
+          "collocations": [
+            {
+              "phrase": "in third grade",
+              "translation": "上三年级"
+            },
+            {
+              "phrase": "grade school",
+              "translation": "小学"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My brother is in third grade.",
+              "zh": "我弟弟上三年级。"
+            },
+            {
+              "en": "She teaches fifth grade.",
+              "zh": "她教五年级。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "year：英式英语常用 year 表示年级。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "美式说 in third grade，通常不加 the。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a level of quality or rank",
+      "zh_definition": "质量或级别上的一个等级",
+      "usages": [
+        {
+          "usage_label": "等级",
+          "collocations": [
+            {
+              "phrase": "high-grade steel",
+              "translation": "高级钢材"
+            },
+            {
+              "phrase": "a lower grade",
+              "translation": "较低等级"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This is a higher grade of steel.",
+              "zh": "这是一种等级更高的钢材。"
+            },
+            {
+              "en": "The apples were sorted by grade.",
+              "zh": "苹果按等级分类。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：grade 在此是按质量或标准划分的等级。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这一义不一定与学校有关。",
+        "rank：也指等级；grade 常按质量或标准分级。"
+      ]
+    }
+  ]
+}

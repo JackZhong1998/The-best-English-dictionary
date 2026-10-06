@@ -1,0 +1,137 @@
+{
+  "word": "green",
+  "phonetic": "/ɡriːn/",
+  "syllables": [
+    "green"
+  ],
+  "pos": [
+    "adj.",
+    "n."
+  ],
+  "core_meanings": [
+    "绿色的",
+    "环保的",
+    "草地"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "having the color of grass",
+      "zh_definition": "颜色像草一样的",
+      "usages": [
+        {
+          "usage_label": "绿色的",
+          "collocations": [
+            {
+              "phrase": "green leaves",
+              "translation": "绿叶"
+            },
+            {
+              "phrase": "a green shirt",
+              "translation": "绿色衬衫"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The leaves are green in summer.",
+              "zh": "树叶在夏天是绿的。"
+            },
+            {
+              "en": "He wore a green shirt.",
+              "zh": "他穿了一件绿色衬衫。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：green 指特定的颜色。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "green 在这里仅指颜色。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "designed to cause less harm to the environment",
+      "zh_definition": "旨在减少环境损害的",
+      "usages": [
+        {
+          "usage_label": "环保的",
+          "collocations": [
+            {
+              "phrase": "green energy",
+              "translation": "绿色能源"
+            },
+            {
+              "phrase": "a green policy",
+              "translation": "环保政策"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The town invests in green energy.",
+              "zh": "镇上投资绿色能源。"
+            },
+            {
+              "en": "We need greener ways to travel.",
+              "zh": "我们需要更环保的出行方式。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "eco-friendly：也指环保的；green 更简短。"
+      ],
+      "antonyms": [
+        "polluting：造成污染的。"
+      ],
+      "confusables": [
+        "green energy 不是说能源本身呈绿色。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "an open area of grass in a town or village",
+      "zh_definition": "城镇中开阔的草地区域",
+      "usages": [
+        {
+          "usage_label": "公共草地",
+          "collocations": [
+            {
+              "phrase": "the village green",
+              "translation": "村里的公共草地"
+            },
+            {
+              "phrase": "sit on the green",
+              "translation": "坐在草地上"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Children played on the village green.",
+              "zh": "孩子们在村里的公共草地上玩耍。"
+            },
+            {
+              "en": "We sat on the green after lunch.",
+              "zh": "午饭后我们坐在公共草地上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：green 此义指城镇中的公共绿地。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这里的 green 是可数名词。",
+        "lawn：也指草地，常在房屋附近。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "word": "grow",
+  "phonetic": "/ɡroʊ/",
+  "syllables": [
+    "grow"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "生长",
+    "种植",
+    "变得"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to become larger as a living thing develops",
+      "zh_definition": "生物发育时逐渐长大",
+      "usages": [
+        {
+          "usage_label": "生长",
+          "collocations": [
+            {
+              "phrase": "grow quickly",
+              "translation": "长得快"
+            },
+            {
+              "phrase": "grow tall",
+              "translation": "长高"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The child grew quickly last year.",
+              "zh": "那个孩子去年长得很快。"
+            },
+            {
+              "en": "These trees grow slowly.",
+              "zh": "这些树长得很慢。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "develop：也指发育，强调逐渐变化。"
+      ],
+      "antonyms": [
+        "shrink：缩小。"
+      ],
+      "confusables": [
+        "grow 的过去式是 grew。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to plant and care for crops or other plants",
+      "zh_definition": "栽种并照料作物或植物",
+      "usages": [
+        {
+          "usage_label": "种植",
+          "collocations": [
+            {
+              "phrase": "grow vegetables",
+              "translation": "种蔬菜"
+            },
+            {
+              "phrase": "grow rice",
+              "translation": "种水稻"
+            }
+          ],
+          "examples": [
+            {
+              "en": "My father grows tomatoes.",
+              "zh": "我父亲种西红柿。"
+            },
+            {
+              "en": "Farmers grow rice in this area.",
+              "zh": "这个地区的农民种水稻。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "cultivate：也指种植，较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "人作主语时 grow 可接所种的植物。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to gradually become a particular way",
+      "zh_definition": "逐渐变成某种状态",
+      "usages": [
+        {
+          "usage_label": "变得",
+          "collocations": [
+            {
+              "phrase": "grow tired",
+              "translation": "渐渐疲倦"
+            },
+            {
+              "phrase": "grow stronger",
+              "translation": "变得更强"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I grew tired after the long walk.",
+              "zh": "走了很久后我渐渐累了。"
+            },
+            {
+              "en": "Their friendship grew stronger.",
+              "zh": "他们的友谊变得更深厚。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "become：也表示变得；grow 强调渐进过程。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "grow 后可接形容词。"
+      ]
+    }
+  ]
+}

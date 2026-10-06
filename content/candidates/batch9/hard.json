@@ -1,0 +1,138 @@
+{
+  "word": "hard",
+  "phonetic": "/hɑːrd/",
+  "syllables": [
+    "hard"
+  ],
+  "pos": [
+    "adj.",
+    "adv."
+  ],
+  "core_meanings": [
+    "坚硬的",
+    "困难的",
+    "努力地"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "solid and difficult to press or break",
+      "zh_definition": "坚固且不易按压或打碎的",
+      "usages": [
+        {
+          "usage_label": "坚硬的",
+          "collocations": [
+            {
+              "phrase": "hard rock",
+              "translation": "坚硬的岩石"
+            },
+            {
+              "phrase": "a hard surface",
+              "translation": "坚硬表面"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This bread is too hard to eat.",
+              "zh": "这面包太硬，没法吃。"
+            },
+            {
+              "en": "The ground was hard after the frost.",
+              "zh": "霜冻后地面很硬。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "firm：也指结实，但未必像 hard 那样坚硬。"
+      ],
+      "antonyms": [
+        "soft：柔软的。"
+      ],
+      "confusables": [
+        "hard 可形容触感和材质。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "difficult to do or understand",
+      "zh_definition": "难以完成或理解的",
+      "usages": [
+        {
+          "usage_label": "困难的",
+          "collocations": [
+            {
+              "phrase": "a hard question",
+              "translation": "难题"
+            },
+            {
+              "phrase": "hard work",
+              "translation": "艰苦的工作"
+            }
+          ],
+          "examples": [
+            {
+              "en": "This question is hard for me.",
+              "zh": "这道题对我来说很难。"
+            },
+            {
+              "en": "Learning a new language is hard.",
+              "zh": "学习一门新语言很难。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "difficult：同指困难，语气稍正式。"
+      ],
+      "antonyms": [
+        "easy：容易的。"
+      ],
+      "confusables": [
+        "hard work 在此表示艰苦工作。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adv.",
+      "en_definition": "with a lot of effort",
+      "zh_definition": "投入很大努力地",
+      "usages": [
+        {
+          "usage_label": "努力地",
+          "collocations": [
+            {
+              "phrase": "work hard",
+              "translation": "努力工作"
+            },
+            {
+              "phrase": "study hard",
+              "translation": "努力学习"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She worked hard all week.",
+              "zh": "她整周都努力工作。"
+            },
+            {
+              "en": "He studied hard for the exam.",
+              "zh": "他为考试努力学习。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "diligently：也指勤奋地，较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "hardly 表示几乎不，不是 hard 的普通副词形式。"
+      ]
+    }
+  ]
+}

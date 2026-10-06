@@ -1,0 +1,134 @@
+{
+  "word": "glass",
+  "phonetic": "/ɡlæs/",
+  "syllables": [
+    "glass"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "玻璃",
+    "玻璃杯",
+    "眼镜"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a hard transparent material",
+      "zh_definition": "坚硬透明的材料",
+      "usages": [
+        {
+          "usage_label": "玻璃",
+          "collocations": [
+            {
+              "phrase": "made of glass",
+              "translation": "玻璃制成的"
+            },
+            {
+              "phrase": "broken glass",
+              "translation": "碎玻璃"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The window is made of glass.",
+              "zh": "窗户是玻璃做的。"
+            },
+            {
+              "en": "Be careful of the broken glass.",
+              "zh": "小心碎玻璃。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：glass 此义指一种具体材料。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "表示材料时 glass 通常不可数。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a container for drinking",
+      "zh_definition": "用来喝饮料的玻璃杯",
+      "usages": [
+        {
+          "usage_label": "玻璃杯",
+          "collocations": [
+            {
+              "phrase": "a glass of water",
+              "translation": "一杯水"
+            },
+            {
+              "phrase": "an empty glass",
+              "translation": "空杯子"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can I have a glass of water?",
+              "zh": "我能要一杯水吗？"
+            },
+            {
+              "en": "She put the empty glass on the table.",
+              "zh": "她把空杯子放在桌上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：glass 此义特指玻璃制的饮具。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a glass of water 指一杯水，不是玻璃材料。",
+        "cup：常有把手；glass 通常是玻璃杯。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a pair of lenses worn to help someone see",
+      "zh_definition": "帮助视物的一副镜片",
+      "usages": [
+        {
+          "usage_label": "眼镜",
+          "collocations": [
+            {
+              "phrase": "wear glasses",
+              "translation": "戴眼镜"
+            },
+            {
+              "phrase": "reading glasses",
+              "translation": "老花镜"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I need my glasses to read.",
+              "zh": "我看书需要戴眼镜。"
+            },
+            {
+              "en": "He left his glasses at home.",
+              "zh": "他把眼镜落在家里了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "spectacles：也指眼镜，较正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "这一义通常用复数 glasses。"
+      ]
+    }
+  ]
+}

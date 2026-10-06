@@ -1,0 +1,175 @@
+{
+  "word": "guide",
+  "phonetic": "/ɡaɪd/",
+  "syllables": [
+    "guide"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "引导",
+    "导游",
+    "指南"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to show someone where to go",
+      "zh_definition": "带领某人去某处",
+      "usages": [
+        {
+          "usage_label": "引路",
+          "collocations": [
+            {
+              "phrase": "guide visitors",
+              "translation": "引导游客"
+            },
+            {
+              "phrase": "guide someone through a building",
+              "translation": "带某人穿过建筑"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She guided us through the museum.",
+              "zh": "她带我们参观了博物馆。"
+            },
+            {
+              "en": "A sign guided visitors to the exit.",
+              "zh": "一块标志引导访客走向出口。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "lead：也指带领；guide 更强调指路。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "guide someone to 后接目的地。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to help someone make choices or develop",
+      "zh_definition": "帮助某人作选择或成长",
+      "usages": [
+        {
+          "usage_label": "指导",
+          "collocations": [
+            {
+              "phrase": "guide a student",
+              "translation": "指导学生"
+            },
+            {
+              "phrase": "guide a decision",
+              "translation": "指导决策"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her teacher guided her research.",
+              "zh": "老师指导了她的研究。"
+            },
+            {
+              "en": "These rules guide our decisions.",
+              "zh": "这些规则指导我们的决定。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：guide 在此指持续引导人作选择或成长。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义不一定涉及实际道路。",
+        "advise：通常通过建议指导；guide 可包括持续引导。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a person who shows visitors a place",
+      "zh_definition": "带游客参观某地的人",
+      "usages": [
+        {
+          "usage_label": "导游",
+          "collocations": [
+            {
+              "phrase": "a tour guide",
+              "translation": "导游"
+            },
+            {
+              "phrase": "a local guide",
+              "translation": "当地向导"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our guide showed us the old town.",
+              "zh": "导游带我们参观了老城区。"
+            },
+            {
+              "en": "We hired a local guide.",
+              "zh": "我们雇了一位当地向导。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：guide 在此指负责引路或讲解的人。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 guide 可以指人，也可以指书。",
+        "escort：可指陪同者；guide 强调讲解与引路。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a book or document with helpful information",
+      "zh_definition": "提供实用信息的书或文件",
+      "usages": [
+        {
+          "usage_label": "指南",
+          "collocations": [
+            {
+              "phrase": "a travel guide",
+              "translation": "旅行指南"
+            },
+            {
+              "phrase": "a guide to cooking",
+              "translation": "烹饪指南"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I bought a guide to the city.",
+              "zh": "我买了一本这座城市的旅游指南。"
+            },
+            {
+              "en": "This guide explains the rules.",
+              "zh": "这份指南解释了规则。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：guide 此义是提供实用信息的指南。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a guide to 后接指南的主题。",
+        "manual：通常指设备或程序的使用手册。"
+      ]
+    }
+  ]
+}

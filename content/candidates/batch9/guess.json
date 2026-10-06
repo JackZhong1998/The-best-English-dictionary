@@ -1,0 +1,133 @@
+{
+  "word": "guess",
+  "phonetic": "/ɡes/",
+  "syllables": [
+    "guess"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "猜测",
+    "猜想"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to give an answer without knowing for certain",
+      "zh_definition": "不确定时提出一个答案",
+      "usages": [
+        {
+          "usage_label": "猜测",
+          "collocations": [
+            {
+              "phrase": "guess the answer",
+              "translation": "猜答案"
+            },
+            {
+              "phrase": "guess someone's age",
+              "translation": "猜某人的年龄"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can you guess the answer?",
+              "zh": "你能猜出答案吗？"
+            },
+            {
+              "en": "I guessed her age wrong.",
+              "zh": "我猜错了她的年龄。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "estimate：常指根据线索估算数字；guess 可几乎没有依据。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "guess 后可直接接所猜内容。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to think something is probably true",
+      "zh_definition": "认为某事大概属实",
+      "usages": [
+        {
+          "usage_label": "猜想",
+          "collocations": [
+            {
+              "phrase": "guess that it is true",
+              "translation": "猜想这是真的"
+            },
+            {
+              "phrase": "I guess so",
+              "translation": "我想是吧"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I guess the train is late.",
+              "zh": "我猜火车晚点了。"
+            },
+            {
+              "en": "I guess we should leave now.",
+              "zh": "我想我们现在该走了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "suppose：也表示认为，语气同样不十分肯定。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "I guess 在美式口语中常表示不太肯定的想法。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "an answer given without being certain",
+      "zh_definition": "没有把握时给出的答案",
+      "usages": [
+        {
+          "usage_label": "猜测",
+          "collocations": [
+            {
+              "phrase": "make a guess",
+              "translation": "猜一猜"
+            },
+            {
+              "phrase": "a good guess",
+              "translation": "有根据的猜测"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Take a guess at the price.",
+              "zh": "猜猜价格吧。"
+            },
+            {
+              "en": "My first guess was wrong.",
+              "zh": "我第一次猜错了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "estimate：多指对数量的估计，可能有依据。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a guess at 后接要猜的对象。"
+      ]
+    }
+  ]
+}

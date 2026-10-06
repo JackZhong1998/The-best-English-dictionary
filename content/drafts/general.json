@@ -1,0 +1,141 @@
+{
+  "word": "general",
+  "phonetic": "/ˈdʒenərəl/",
+  "syllables": [
+    "gen",
+    "er",
+    "al"
+  ],
+  "pos": [
+    "adj.",
+    "n."
+  ],
+  "core_meanings": [
+    "一般的",
+    "总体的",
+    "将军"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "not limited to one particular thing",
+      "zh_definition": "不针对某个特定对象的",
+      "usages": [
+        {
+          "usage_label": "一般的",
+          "collocations": [
+            {
+              "phrase": "general advice",
+              "translation": "一般建议"
+            },
+            {
+              "phrase": "a general question",
+              "translation": "一般性问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The guide gives general advice.",
+              "zh": "这份指南提供一般性建议。"
+            },
+            {
+              "en": "I asked a general question.",
+              "zh": "我问了一个一般性问题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "broad：也指范围广；general 强调非特定。"
+      ],
+      "antonyms": [
+        "specific：具体的。"
+      ],
+      "confusables": [
+        "general question 不是军人的问题。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "involving most of something rather than its details",
+      "zh_definition": "涉及整体而非细节的",
+      "usages": [
+        {
+          "usage_label": "总体的",
+          "collocations": [
+            {
+              "phrase": "a general view",
+              "translation": "总体看法"
+            },
+            {
+              "phrase": "a general idea",
+              "translation": "大致了解"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I have a general idea of the plan.",
+              "zh": "我大致了解这个计划。"
+            },
+            {
+              "en": "She gave us a general view of the results.",
+              "zh": "她向我们介绍了结果的总体情况。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "overall：也指总体的；general 更常修饰认识或描述。"
+      ],
+      "antonyms": [
+        "detailed：详细的。"
+      ],
+      "confusables": [
+        "a general idea 是大致印象，并非完整细节。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a senior officer in an army",
+      "zh_definition": "军队中的高级军官",
+      "usages": [
+        {
+          "usage_label": "将军",
+          "collocations": [
+            {
+              "phrase": "an army general",
+              "translation": "陆军将军"
+            },
+            {
+              "phrase": "a retired general",
+              "translation": "退役将军"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The general spoke to the soldiers.",
+              "zh": "将军对士兵讲话。"
+            },
+            {
+              "en": "Her father was a retired general.",
+              "zh": "她父亲曾是一位退役将军。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：general 是军队中的特定高级军官。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "名词 general 指军官，和形容词的一般义不同。",
+        "officer：泛指军官；general 是高级军衔。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "word": "help",
+  "phonetic": "/help/",
+  "syllables": [
+    "help"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "帮助",
+    "有助于",
+    "援助",
+    "不由得"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to make a task easier for someone",
+      "zh_definition": "帮助某人更容易完成任务",
+      "usages": [
+        {
+          "usage_label": "帮助",
+          "collocations": [
+            {
+              "phrase": "help a friend",
+              "translation": "帮助朋友"
+            },
+            {
+              "phrase": "help with homework",
+              "translation": "帮助做作业"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can you help me with this box?",
+              "zh": "你能帮我搬这个箱子吗？"
+            },
+            {
+              "en": "She helped her brother study.",
+              "zh": "她帮助弟弟学习。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "assist：也指帮助，语气较正式。"
+      ],
+      "antonyms": [
+        "hinder：妨碍。"
+      ],
+      "confusables": [
+        "help someone do something 可不加 to。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make a situation better",
+      "zh_definition": "使情况有所改善",
+      "usages": [
+        {
+          "usage_label": "有助于",
+          "collocations": [
+            {
+              "phrase": "help reduce pain",
+              "translation": "有助于减轻疼痛"
+            },
+            {
+              "phrase": "help the economy",
+              "translation": "促进经济"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Rest may help reduce the pain.",
+              "zh": "休息可能有助于减轻疼痛。"
+            },
+            {
+              "en": "The new rule helped the team work faster.",
+              "zh": "新规则帮助团队更快地工作。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "improve：直接表示改善；help 强调提供助力。"
+      ],
+      "antonyms": [
+        "worsen：使恶化。"
+      ],
+      "confusables": [
+        "help 可用于措施对情况的积极作用。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "support given to someone who needs it",
+      "zh_definition": "给予有需要之人的支持",
+      "usages": [
+        {
+          "usage_label": "帮助",
+          "collocations": [
+            {
+              "phrase": "ask for help",
+              "translation": "寻求帮助"
+            },
+            {
+              "phrase": "get help",
+              "translation": "得到帮助"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I asked my teacher for help.",
+              "zh": "我向老师求助。"
+            },
+            {
+              "en": "We need help with the move.",
+              "zh": "搬家这件事我们需要帮助。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "assistance：也指援助，语气更正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "help 作援助时通常不可数。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to be unable to stop yourself from doing something",
+      "zh_definition": "无法抑制自己做某事",
+      "usages": [
+        {
+          "usage_label": "不由得",
+          "collocations": [
+            {
+              "phrase": "cannot help laughing",
+              "translation": "忍不住笑"
+            },
+            {
+              "phrase": "cannot help thinking",
+              "translation": "不由得想到"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I could not help laughing.",
+              "zh": "我忍不住笑了。"
+            },
+            {
+              "en": "She cannot help thinking about home.",
+              "zh": "她不由得想起家。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：cannot help doing 表示无法抑制自己做某事。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "cannot help 后通常接动名词。",
+        "resist：表示克制；cannot help 表示无法克制。"
+      ]
+    }
+  ]
+}

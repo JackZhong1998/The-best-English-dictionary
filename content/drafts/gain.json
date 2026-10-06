@@ -1,0 +1,177 @@
+{
+  "word": "gain",
+  "phonetic": "/ɡeɪn/",
+  "syllables": [
+    "gain"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "获得",
+    "增加",
+    "增长",
+    "收获"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to get something useful or valuable",
+      "zh_definition": "获得有用或有价值的东西",
+      "usages": [
+        {
+          "usage_label": "获得",
+          "collocations": [
+            {
+              "phrase": "gain experience",
+              "translation": "积累经验"
+            },
+            {
+              "phrase": "gain support",
+              "translation": "获得支持"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She gained experience at the hospital.",
+              "zh": "她在医院积累了经验。"
+            },
+            {
+              "en": "The idea gained support quickly.",
+              "zh": "这个想法很快获得支持。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "obtain：也指获得；gain 常强调经过过程得到好处。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "gain experience 不表示获得一个实物。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to become greater in amount",
+      "zh_definition": "在数量上增加",
+      "usages": [
+        {
+          "usage_label": "增加",
+          "collocations": [
+            {
+              "phrase": "gain weight",
+              "translation": "体重增加"
+            },
+            {
+              "phrase": "gain speed",
+              "translation": "加速"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He gained weight over the winter.",
+              "zh": "他冬天体重增加了。"
+            },
+            {
+              "en": "The train gained speed.",
+              "zh": "火车加快了速度。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "increase：也指增加；gain 常用于体重、速度等。"
+      ],
+      "antonyms": [
+        "lose：失去或减少。"
+      ],
+      "confusables": [
+        "gain weight 中的 gain 表示增加。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "an increase in an amount or number",
+      "zh_definition": "某个数量的增长",
+      "usages": [
+        {
+          "usage_label": "增长",
+          "collocations": [
+            {
+              "phrase": "a gain in sales",
+              "translation": "销量增长"
+            },
+            {
+              "phrase": "a gain in visitors",
+              "translation": "访客人数增加"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The company reported a gain in sales.",
+              "zh": "公司报告销量有所增长。"
+            },
+            {
+              "en": "The museum saw a gain in visitors.",
+              "zh": "博物馆的访客人数增加了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "increase：也指增长；gain 常强调比以前多出的量。"
+      ],
+      "antonyms": [
+        "loss：减少或损失。"
+      ],
+      "confusables": [
+        "a gain in 后接数量增加的指标。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a benefit obtained from an activity or change",
+      "zh_definition": "从活动或变化中得到的好处",
+      "usages": [
+        {
+          "usage_label": "收获",
+          "collocations": [
+            {
+              "phrase": "gains from practice",
+              "translation": "练习带来的收获"
+            },
+            {
+              "phrase": "real gains for families",
+              "translation": "家庭获得的实际好处"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The gains from daily practice were clear.",
+              "zh": "每天练习带来的收获很明显。"
+            },
+            {
+              "en": "The project brought real gains to local families.",
+              "zh": "这个项目给当地家庭带来了实实在在的好处。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "benefit：直接指好处；gain 常强调经过过程得到的收获。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义常用复数 gains，不一定是金钱收益。"
+      ]
+    }
+  ]
+}

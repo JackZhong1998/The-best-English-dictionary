@@ -1,0 +1,217 @@
+{
+  "word": "host",
+  "phonetic": "/hoʊst/",
+  "syllables": [
+    "host"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "主人",
+    "主持人",
+    "主办",
+    "宿主",
+    "许多"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a person who welcomes guests",
+      "zh_definition": "招待客人的人",
+      "usages": [
+        {
+          "usage_label": "主人",
+          "collocations": [
+            {
+              "phrase": "a friendly host",
+              "translation": "热情的主人"
+            },
+            {
+              "phrase": "thank the host",
+              "translation": "感谢主人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our host welcomed us at the door.",
+              "zh": "主人在门口欢迎我们。"
+            },
+            {
+              "en": "I thanked the host for dinner.",
+              "zh": "我感谢主人招待晚餐。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：host 指负责招待客人的一方。"
+      ],
+      "antonyms": [
+        "guest：客人。"
+      ],
+      "confusables": [
+        "host 是招待客人的一方。",
+        "hostess 传统上指女主人；host 现在可指任何性别。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a person who presents a program or event",
+      "zh_definition": "主持节目或活动的人",
+      "usages": [
+        {
+          "usage_label": "主持人",
+          "collocations": [
+            {
+              "phrase": "a radio host",
+              "translation": "电台主持人"
+            },
+            {
+              "phrase": "the host of a show",
+              "translation": "节目的主持人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The host introduced the singer.",
+              "zh": "主持人介绍了那位歌手。"
+            },
+            {
+              "en": "She is the host of a popular show.",
+              "zh": "她是一档热门节目的主持人。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "presenter：也指主持人，在英式英语中更常见。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义 host 不是宴会的主人。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to arrange and provide a place for an event",
+      "zh_definition": "安排并提供活动场地",
+      "usages": [
+        {
+          "usage_label": "主办",
+          "collocations": [
+            {
+              "phrase": "host a meeting",
+              "translation": "主办会议"
+            },
+            {
+              "phrase": "host a festival",
+              "translation": "举办节日活动"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our school hosted the competition.",
+              "zh": "我们学校主办了这次比赛。"
+            },
+            {
+              "en": "The city will host a film festival.",
+              "zh": "这座城市将举办电影节。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "organize：强调筹备；host 还强调提供举办地点。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "host 作动词可直接接活动名词。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "n.",
+      "en_definition": "a living thing that carries another organism",
+      "zh_definition": "供另一种生物依附生存的生物体",
+      "usages": [
+        {
+          "usage_label": "宿主",
+          "collocations": [
+            {
+              "phrase": "a host animal",
+              "translation": "宿主动物"
+            },
+            {
+              "phrase": "a host for a virus",
+              "translation": "病毒的宿主"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The mosquito can be a host for the parasite.",
+              "zh": "蚊子可能成为这种寄生虫的宿主。"
+            },
+            {
+              "en": "Some viruses need a host to reproduce.",
+              "zh": "有些病毒需要宿主才能繁殖。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：host 在生物学中指供别的生物依附生存的生物。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "生物学中的 host 不指招待客人的人。",
+        "carrier：可指携带病原体的生物，但不总是其宿主。"
+      ]
+    },
+    {
+      "id": 5,
+      "part_of_speech": "n.",
+      "en_definition": "a large number of people or things",
+      "zh_definition": "大量的人或物",
+      "usages": [
+        {
+          "usage_label": "许多",
+          "collocations": [
+            {
+              "phrase": "a host of problems",
+              "translation": "许多问题"
+            },
+            {
+              "phrase": "a host of choices",
+              "translation": "许多选择"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The move brought a host of problems.",
+              "zh": "搬家带来了一大堆问题。"
+            },
+            {
+              "en": "The shop offers a host of choices.",
+              "zh": "这家商店提供许多选择。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：a host of 是表示数量多的固定短语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a host of 后接复数名词；此义不指主人。",
+        "many：直接表示许多；a host of 是较正式的短语。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "word": "game",
+  "phonetic": "/ɡeɪm/",
+  "syllables": [
+    "game"
+  ],
+  "pos": [
+    "n.",
+    "adj."
+  ],
+  "core_meanings": [
+    "游戏",
+    "比赛",
+    "愿意参与"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "an activity played for fun under rules",
+      "zh_definition": "按规则进行的娱乐活动",
+      "usages": [
+        {
+          "usage_label": "游戏",
+          "collocations": [
+            {
+              "phrase": "play a game",
+              "translation": "玩游戏"
+            },
+            {
+              "phrase": "a board game",
+              "translation": "桌面游戏"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We played a game after dinner.",
+              "zh": "我们晚饭后玩了一个游戏。"
+            },
+            {
+              "en": "This board game is easy to learn.",
+              "zh": "这个桌游很容易学。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：game 是有规则的一次游戏或一种游戏。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a game 可指一次游戏，也可指一种游戏。",
+        "play：可泛指玩耍；game 通常有规则。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a sports event between players or teams",
+      "zh_definition": "运动员或队伍之间的一场竞赛",
+      "usages": [
+        {
+          "usage_label": "比赛",
+          "collocations": [
+            {
+              "phrase": "win a game",
+              "translation": "赢得比赛"
+            },
+            {
+              "phrase": "a basketball game",
+              "translation": "篮球赛"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Our team won the game.",
+              "zh": "我们队赢了比赛。"
+            },
+            {
+              "en": "The basketball game starts at seven.",
+              "zh": "篮球赛七点开始。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "match：也指比赛，尤其用于两方交锋。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "game 常指一场比赛；不能把 win a game 说成 beat a game。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adj.",
+      "en_definition": "willing to try something",
+      "zh_definition": "愿意尝试某事的",
+      "usages": [
+        {
+          "usage_label": "愿意参与",
+          "collocations": [
+            {
+              "phrase": "be game for a challenge",
+              "translation": "愿意接受挑战"
+            },
+            {
+              "phrase": "be game to try",
+              "translation": "愿意试一试"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Are you game for a walk?",
+              "zh": "你愿意去走走吗？"
+            },
+            {
+              "en": "She was game to try the new sport.",
+              "zh": "她愿意试试这项新运动。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "willing：直接表示愿意；game 更口语。"
+      ],
+      "antonyms": [
+        "reluctant：不情愿的。"
+      ],
+      "confusables": [
+        "此义 game 是形容词，不表示游戏。"
+      ]
+    }
+  ]
+}

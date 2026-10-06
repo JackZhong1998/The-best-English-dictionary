@@ -1,0 +1,100 @@
+{
+  "word": "group",
+  "phonetic": "/ɡruːp/",
+  "syllables": [
+    "group"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "群体",
+    "分组"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "several people or things considered together",
+      "zh_definition": "被看作一个整体的若干人或物",
+      "usages": [
+        {
+          "usage_label": "群体",
+          "collocations": [
+            {
+              "phrase": "a group of students",
+              "translation": "一群学生"
+            },
+            {
+              "phrase": "a small group",
+              "translation": "一个小组"
+            }
+          ],
+          "examples": [
+            {
+              "en": "A group of students entered the room.",
+              "zh": "一群学生走进房间。"
+            },
+            {
+              "en": "We worked in a small group.",
+              "zh": "我们在一个小组里合作。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：group 是被看作整体的一群人或事物。"
+      ],
+      "antonyms": [
+        "individual：个人。"
+      ],
+      "confusables": [
+        "a group of 后接群体成员。",
+        "team：通常为共同目标协作；group 不一定如此。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to put people or things into sets",
+      "zh_definition": "把人或事物分成若干组",
+      "usages": [
+        {
+          "usage_label": "分组",
+          "collocations": [
+            {
+              "phrase": "group by age",
+              "translation": "按年龄分组"
+            },
+            {
+              "phrase": "group the books",
+              "translation": "把书分类"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The teacher grouped us by age.",
+              "zh": "老师按年龄给我们分组。"
+            },
+            {
+              "en": "We grouped the books by topic.",
+              "zh": "我们按主题给书分类。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "classify：侧重按类别分类；group 更通用。"
+      ],
+      "antonyms": [
+        "separate：使分开，未必再组成组。"
+      ],
+      "confusables": [
+        "group A by B 表示按 B 标准给 A 分组。"
+      ]
+    }
+  ]
+}

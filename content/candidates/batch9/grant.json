@@ -1,0 +1,139 @@
+{
+  "word": "grant",
+  "phonetic": "/ɡrænt/",
+  "syllables": [
+    "grant"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "正式给予",
+    "承认",
+    "拨款"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to give something formally after a request",
+      "zh_definition": "根据请求正式给予某物",
+      "usages": [
+        {
+          "usage_label": "授予",
+          "collocations": [
+            {
+              "phrase": "grant permission",
+              "translation": "给予许可"
+            },
+            {
+              "phrase": "grant a request",
+              "translation": "批准请求"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The school granted permission for the trip.",
+              "zh": "学校批准了这次旅行。"
+            },
+            {
+              "en": "The judge granted her request.",
+              "zh": "法官批准了她的请求。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "award：也指正式授予，常用于奖项。"
+      ],
+      "antonyms": [
+        "refuse：拒绝给予。"
+      ],
+      "confusables": [
+        "grant 通常比 give 正式。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to accept that something is true",
+      "zh_definition": "承认某事属实",
+      "usages": [
+        {
+          "usage_label": "承认",
+          "collocations": [
+            {
+              "phrase": "grant that a point is fair",
+              "translation": "承认某个观点有道理"
+            },
+            {
+              "phrase": "grant the possibility",
+              "translation": "承认存在可能性"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I grant that your idea has value.",
+              "zh": "我承认你的想法有价值。"
+            },
+            {
+              "en": "She granted that the task was difficult.",
+              "zh": "她承认这项任务很难。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "admit：也指承认，常带不情愿意味。"
+      ],
+      "antonyms": [
+        "deny：否认。"
+      ],
+      "confusables": [
+        "grant that 后可接完整句子。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "money given for a particular purpose",
+      "zh_definition": "为特定目的提供的资金",
+      "usages": [
+        {
+          "usage_label": "拨款",
+          "collocations": [
+            {
+              "phrase": "a research grant",
+              "translation": "研究经费"
+            },
+            {
+              "phrase": "apply for a grant",
+              "translation": "申请拨款"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She received a grant for her research.",
+              "zh": "她获得一笔研究经费。"
+            },
+            {
+              "en": "The museum applied for a grant.",
+              "zh": "博物馆申请了一笔拨款。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：grant 是为特定用途发放的一笔拨款。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "grant 常无需偿还，不同于 loan。",
+        "funding：泛指资金；grant 是一笔特定拨款。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "word": "heat",
+  "phonetic": "/hiːt/",
+  "syllables": [
+    "heat"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "热量",
+    "高温",
+    "加热"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "warmth or high temperature",
+      "zh_definition": "温暖或高温的状态",
+      "usages": [
+        {
+          "usage_label": "热",
+          "collocations": [
+            {
+              "phrase": "feel the heat",
+              "translation": "感觉到热"
+            },
+            {
+              "phrase": "summer heat",
+              "translation": "夏日炎热"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I could feel the heat from the fire.",
+              "zh": "我能感觉到火的热量。"
+            },
+            {
+              "en": "The summer heat made us tired.",
+              "zh": "夏天的炎热让我们疲倦。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "warmth：偏温暖；heat 可表示强烈高温。"
+      ],
+      "antonyms": [
+        "cold：寒冷。"
+      ],
+      "confusables": [
+        "heat 通常是不可数名词。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make something warmer or hotter",
+      "zh_definition": "让某物变暖或变热",
+      "usages": [
+        {
+          "usage_label": "加热",
+          "collocations": [
+            {
+              "phrase": "heat the water",
+              "translation": "把水加热"
+            },
+            {
+              "phrase": "heat up soup",
+              "translation": "热汤"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Heat the milk gently.",
+              "zh": "轻轻把牛奶加热。"
+            },
+            {
+              "en": "I heated up the soup for lunch.",
+              "zh": "我把汤热了当午餐。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "warm：通常只需加温；heat 可加热到更高温。"
+      ],
+      "antonyms": [
+        "cool：使冷却。"
+      ],
+      "confusables": [
+        "heat up 可用于给食物重新加热。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "strong pressure or angry attention",
+      "zh_definition": "强烈的压力或愤怒关注",
+      "usages": [
+        {
+          "usage_label": "压力",
+          "collocations": [
+            {
+              "phrase": "feel the heat",
+              "translation": "感受到压力"
+            },
+            {
+              "phrase": "take the heat",
+              "translation": "承受责难"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The manager took the heat for the mistake.",
+              "zh": "经理为这个错误承受了责难。"
+            },
+            {
+              "en": "The team felt the heat as the deadline neared.",
+              "zh": "截止日期临近时，团队感到了压力。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pressure：泛指压力；heat 在此常指批评或责难。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "take the heat 是比喻用法，不指温度。"
+      ]
+    }
+  ]
+}

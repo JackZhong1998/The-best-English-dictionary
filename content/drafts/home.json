@@ -1,0 +1,176 @@
+{
+  "word": "home",
+  "phonetic": "/hoʊm/",
+  "syllables": [
+    "home"
+  ],
+  "pos": [
+    "n.",
+    "adv.",
+    "adj."
+  ],
+  "core_meanings": [
+    "家",
+    "家乡",
+    "回家"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the place where someone lives",
+      "zh_definition": "一个人居住的地方",
+      "usages": [
+        {
+          "usage_label": "家",
+          "collocations": [
+            {
+              "phrase": "a new home",
+              "translation": "新家"
+            },
+            {
+              "phrase": "feel at home",
+              "translation": "感到像在家一样"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Their new home is near the park.",
+              "zh": "他们的新家在公园附近。"
+            },
+            {
+              "en": "I feel at home here.",
+              "zh": "我在这里感觉像在家一样。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：home 强调居住处和归属感。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "go home 中 home 是副词，不加 to。",
+        "house：指房屋建筑；home 强调居住和归属。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the place where someone comes from",
+      "zh_definition": "一个人出生或长期生活的地方",
+      "usages": [
+        {
+          "usage_label": "家乡",
+          "collocations": [
+            {
+              "phrase": "her childhood home",
+              "translation": "她儿时的家乡"
+            },
+            {
+              "phrase": "far from home",
+              "translation": "远离家乡"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The village will always be her home.",
+              "zh": "这个村庄永远是她的家乡。"
+            },
+            {
+              "en": "He missed home while studying abroad.",
+              "zh": "在国外求学时他想念家乡。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "hometown：特指家乡城镇；home 可指更广的地方。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义强调来源和归属感。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adv.",
+      "en_definition": "to or at the place where you live",
+      "zh_definition": "向居住地或在居住地",
+      "usages": [
+        {
+          "usage_label": "回家",
+          "collocations": [
+            {
+              "phrase": "walk home",
+              "translation": "走路回家"
+            },
+            {
+              "phrase": "stay home",
+              "translation": "待在家里"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We walked home after the movie.",
+              "zh": "电影结束后我们走路回家。"
+            },
+            {
+              "en": "She stayed home on Sunday.",
+              "zh": "她星期天待在家里。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：home 此义特指回到或处于居住地。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "美式英语常说 stay home；home 前不加 to。",
+        "back：可表示返回，但不一定回家。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "adj.",
+      "en_definition": "related to the place where you live or come from",
+      "zh_definition": "与居住地或家乡相关的",
+      "usages": [
+        {
+          "usage_label": "家里的",
+          "collocations": [
+            {
+              "phrase": "home address",
+              "translation": "家庭住址"
+            },
+            {
+              "phrase": "home country",
+              "translation": "祖国"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Write your home address here.",
+              "zh": "在这里写下你的家庭住址。"
+            },
+            {
+              "en": "She returned to her home country.",
+              "zh": "她回到了祖国。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：home 作定语表示与住处或家乡有关。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "home 作定语时常放在名词前。",
+        "domestic：也可指国内的或家庭的，语境更正式。"
+      ]
+    }
+  ]
+}

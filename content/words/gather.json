@@ -1,0 +1,136 @@
+{
+  "word": "gather",
+  "phonetic": "/ˈɡæðər/",
+  "syllables": [
+    "gath",
+    "er"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "聚集",
+    "收集",
+    "推断"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to come together in one place",
+      "zh_definition": "来到同一个地方聚在一起",
+      "usages": [
+        {
+          "usage_label": "聚集",
+          "collocations": [
+            {
+              "phrase": "gather outside",
+              "translation": "在外面聚集"
+            },
+            {
+              "phrase": "gather around a table",
+              "translation": "围桌聚拢"
+            }
+          ],
+          "examples": [
+            {
+              "en": "People gathered outside the school.",
+              "zh": "人们聚集在学校外面。"
+            },
+            {
+              "en": "The family gathered around the table.",
+              "zh": "一家人围坐在桌旁。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "assemble：也指集合，语气较正式。"
+      ],
+      "antonyms": [
+        "scatter：散开。"
+      ],
+      "confusables": [
+        "人群作主语时 gather 可不接宾语。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to collect things from different places",
+      "zh_definition": "从不同地方把东西收集起来",
+      "usages": [
+        {
+          "usage_label": "收集",
+          "collocations": [
+            {
+              "phrase": "gather information",
+              "translation": "收集信息"
+            },
+            {
+              "phrase": "gather firewood",
+              "translation": "拾柴"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We gathered information for the report.",
+              "zh": "我们为报告收集资料。"
+            },
+            {
+              "en": "They gathered firewood before dark.",
+              "zh": "他们在天黑前拾了柴。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "collect：也指收集；gather 常强调从各处汇集。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "gather information 不表示把纸张堆成一堆。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to understand something from what you hear or see",
+      "zh_definition": "根据听到或看到的线索推断",
+      "usages": [
+        {
+          "usage_label": "推断",
+          "collocations": [
+            {
+              "phrase": "gather from her words",
+              "translation": "从她的话里推断"
+            },
+            {
+              "phrase": "gather that he left",
+              "translation": "推断他已经离开"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I gather that the meeting is canceled.",
+              "zh": "我听说会议取消了。"
+            },
+            {
+              "en": "From his reply, I gathered that he was tired.",
+              "zh": "从他的回答里，我推断他累了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "infer：也指推断，语气更正式。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "I gather that 常用于根据间接消息作判断。"
+      ]
+    }
+  ]
+}

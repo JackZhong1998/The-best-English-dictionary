@@ -1,0 +1,135 @@
+{
+  "word": "ground",
+  "phonetic": "/ɡraʊnd/",
+  "syllables": [
+    "ground"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "地面",
+    "理由",
+    "场地"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the solid surface of the earth",
+      "zh_definition": "地球的坚实表面",
+      "usages": [
+        {
+          "usage_label": "地面",
+          "collocations": [
+            {
+              "phrase": "on the ground",
+              "translation": "在地上"
+            },
+            {
+              "phrase": "fall to the ground",
+              "translation": "落到地上"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The bag fell to the ground.",
+              "zh": "包掉到了地上。"
+            },
+            {
+              "en": "The ground was wet after the rain.",
+              "zh": "雨后地面湿了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：ground 在此强调人脚下的地表。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "ground 作地面时通常不可数。",
+        "earth：可指土地；ground 强调脚下的表面。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a reason or basis for an action or belief",
+      "zh_definition": "采取行动或相信某事的理由",
+      "usages": [
+        {
+          "usage_label": "理由",
+          "collocations": [
+            {
+              "phrase": "grounds for concern",
+              "translation": "担忧的理由"
+            },
+            {
+              "phrase": "on the grounds that",
+              "translation": "理由是"
+            }
+          ],
+          "examples": [
+            {
+              "en": "There are grounds for concern.",
+              "zh": "有理由担忧。"
+            },
+            {
+              "en": "She refused on the grounds that it was unsafe.",
+              "zh": "她以不安全为由拒绝了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "reason：更日常；grounds 多用于正式理由。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义常用复数 grounds。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "an area of land used for a purpose",
+      "zh_definition": "为特定用途使用的一片土地",
+      "usages": [
+        {
+          "usage_label": "场地",
+          "collocations": [
+            {
+              "phrase": "school grounds",
+              "translation": "校园场地"
+            },
+            {
+              "phrase": "a sports ground",
+              "translation": "运动场"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Visitors cannot enter the school grounds.",
+              "zh": "访客不能进入校园场地。"
+            },
+            {
+              "en": "The team trained on the sports ground.",
+              "zh": "队伍在运动场训练。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：grounds 指某个地点周围或某用途的一片土地。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "表示建筑周围土地时常用复数 grounds。",
+        "field：也可指运动场；grounds 强调一整片场地。"
+      ]
+    }
+  ]
+}

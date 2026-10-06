@@ -1,0 +1,142 @@
+{
+  "word": "half",
+  "phonetic": "/hæf/",
+  "syllables": [
+    "half"
+  ],
+  "pos": [
+    "n.",
+    "det.",
+    "adv."
+  ],
+  "core_meanings": [
+    "一半",
+    "半个的",
+    "部分地"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "one of two equal parts",
+      "zh_definition": "两等份中的一份",
+      "usages": [
+        {
+          "usage_label": "一半",
+          "collocations": [
+            {
+              "phrase": "half of the cake",
+              "translation": "蛋糕的一半"
+            },
+            {
+              "phrase": "the first half",
+              "translation": "前半部分"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She ate half of the cake.",
+              "zh": "她吃了蛋糕的一半。"
+            },
+            {
+              "en": "I missed the first half of the film.",
+              "zh": "我错过了电影的前半部分。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：half 精确指二等份中的一份。"
+      ],
+      "antonyms": [
+        "whole：整体。"
+      ],
+      "confusables": [
+        "half of 后接整体。",
+        "portion：泛指一部分；half 必须是两等份之一。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "det.",
+      "en_definition": "equal to one of two parts",
+      "zh_definition": "相当于整体二分之一的",
+      "usages": [
+        {
+          "usage_label": "半个的",
+          "collocations": [
+            {
+              "phrase": "half an hour",
+              "translation": "半小时"
+            },
+            {
+              "phrase": "half a cup",
+              "translation": "半杯"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The trip took half an hour.",
+              "zh": "这段路程花了半小时。"
+            },
+            {
+              "en": "Add half a cup of water.",
+              "zh": "加入半杯水。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：half 精确表示二分之一。"
+      ],
+      "antonyms": [
+        "whole：完整的。"
+      ],
+      "confusables": [
+        "half an hour 中 an 属于 hour，不可省略。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adv.",
+      "en_definition": "partly but not completely",
+      "zh_definition": "部分地而非完全地",
+      "usages": [
+        {
+          "usage_label": "部分地",
+          "collocations": [
+            {
+              "phrase": "half asleep",
+              "translation": "半睡半醒"
+            },
+            {
+              "phrase": "half finished",
+              "translation": "完成了一半"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The child was half asleep.",
+              "zh": "孩子半睡半醒。"
+            },
+            {
+              "en": "My homework is only half finished.",
+              "zh": "我的作业只完成了一半。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "partly：也表示部分地；half 常暗示约一半。"
+      ],
+      "antonyms": [
+        "fully：完全地。"
+      ],
+      "confusables": [
+        "half asleep 不必表示精确百分之五十。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "word": "guard",
+  "phonetic": "/ɡɑːrd/",
+  "syllables": [
+    "guard"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "守卫",
+    "警卫",
+    "警惕"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to watch a place or person to keep it safe",
+      "zh_definition": "看守人或地点以保护其安全",
+      "usages": [
+        {
+          "usage_label": "守卫",
+          "collocations": [
+            {
+              "phrase": "guard the gate",
+              "translation": "守卫大门"
+            },
+            {
+              "phrase": "guard a prisoner",
+              "translation": "看守囚犯"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Two officers guarded the entrance.",
+              "zh": "两名警员守卫入口。"
+            },
+            {
+              "en": "The dog guarded the house at night.",
+              "zh": "那只狗夜里看守房子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "protect：泛指保护；guard 常强调看守。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "guard 作动词可直接接被守卫对象。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a person whose job is to protect or watch",
+      "zh_definition": "负责保护或看守的人",
+      "usages": [
+        {
+          "usage_label": "警卫",
+          "collocations": [
+            {
+              "phrase": "a security guard",
+              "translation": "保安"
+            },
+            {
+              "phrase": "a prison guard",
+              "translation": "狱警"
+            }
+          ],
+          "examples": [
+            {
+              "en": "A guard checked our tickets.",
+              "zh": "一名警卫检查了我们的票。"
+            },
+            {
+              "en": "The museum has a guard at the door.",
+              "zh": "博物馆门口有一名警卫。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "watchman：也指看守人，常值夜班。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "guard 作名词可指一名工作人员。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a state of being ready for danger",
+      "zh_definition": "对危险保持警觉的状态",
+      "usages": [
+        {
+          "usage_label": "警惕",
+          "collocations": [
+            {
+              "phrase": "be on guard",
+              "translation": "保持警惕"
+            },
+            {
+              "phrase": "let your guard down",
+              "translation": "放松警惕"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Stay on guard near the road.",
+              "zh": "靠近公路时要保持警惕。"
+            },
+            {
+              "en": "She let her guard down too soon.",
+              "zh": "她太早放松了警惕。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "alertness：也指警觉；on guard 是常用短语。"
+      ],
+      "antonyms": [
+        "carelessness：粗心大意。"
+      ],
+      "confusables": [
+        "let your guard down 也可用于心理上的戒备。"
+      ]
+    }
+  ]
+}

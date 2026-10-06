@@ -1,0 +1,173 @@
+{
+  "word": "head",
+  "phonetic": "/hed/",
+  "syllables": [
+    "head"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "头",
+    "负责人",
+    "前往"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the part of the body above the neck",
+      "zh_definition": "脖子上方的身体部位",
+      "usages": [
+        {
+          "usage_label": "头",
+          "collocations": [
+            {
+              "phrase": "hurt your head",
+              "translation": "伤到头"
+            },
+            {
+              "phrase": "shake your head",
+              "translation": "摇头"
+            }
+          ],
+          "examples": [
+            {
+              "en": "He hit his head on the shelf.",
+              "zh": "他的头撞到了架子。"
+            },
+            {
+              "en": "She shook her head and smiled.",
+              "zh": "她摇摇头，笑了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：head 特指脖子上方的身体部位。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "head 可指整个头部，不只指脸。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the person in charge of a group",
+      "zh_definition": "负责某个团体的人",
+      "usages": [
+        {
+          "usage_label": "负责人",
+          "collocations": [
+            {
+              "phrase": "the head of a school",
+              "translation": "学校负责人"
+            },
+            {
+              "phrase": "a department head",
+              "translation": "部门负责人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The head of the school spoke first.",
+              "zh": "学校负责人先发言。"
+            },
+            {
+              "en": "She became head of the department.",
+              "zh": "她成为了部门负责人。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "leader：泛指领导者；head 常指正式职务。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "head of 后接所负责的组织。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "the top or front part of something",
+      "zh_definition": "某物的顶部或前端",
+      "usages": [
+        {
+          "usage_label": "顶部",
+          "collocations": [
+            {
+              "phrase": "the head of the table",
+              "translation": "桌子上首"
+            },
+            {
+              "phrase": "the head of the line",
+              "translation": "队伍最前面"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The teacher sat at the head of the table.",
+              "zh": "老师坐在桌子的上首。"
+            },
+            {
+              "en": "Please go to the head of the line.",
+              "zh": "请到队伍最前面。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：head 在此指某物的最前端或上首。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "head of the table 常指有主位的一端。",
+        "front：泛指前部；head 常指最前端或上首。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to move in a particular direction",
+      "zh_definition": "朝某个方向走或行进",
+      "usages": [
+        {
+          "usage_label": "前往",
+          "collocations": [
+            {
+              "phrase": "head home",
+              "translation": "回家去"
+            },
+            {
+              "phrase": "head north",
+              "translation": "向北走"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We headed home after dinner.",
+              "zh": "晚饭后我们动身回家。"
+            },
+            {
+              "en": "The bus headed north.",
+              "zh": "公交车向北开去。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "go：泛指去；head 更强调方向。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "head for 后可接目的地。"
+      ]
+    }
+  ]
+}

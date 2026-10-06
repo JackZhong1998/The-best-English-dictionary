@@ -1,0 +1,142 @@
+{
+  "word": "high",
+  "phonetic": "/haɪ/",
+  "syllables": [
+    "high"
+  ],
+  "pos": [
+    "adj.",
+    "adv."
+  ],
+  "core_meanings": [
+    "高的",
+    "高水平的",
+    "高处"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "adj.",
+      "en_definition": "far above the ground",
+      "zh_definition": "离地面很远的",
+      "usages": [
+        {
+          "usage_label": "高的",
+          "collocations": [
+            {
+              "phrase": "a high wall",
+              "translation": "高墙"
+            },
+            {
+              "phrase": "high mountains",
+              "translation": "高山"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The wall is too high to climb.",
+              "zh": "这堵墙太高，爬不上去。"
+            },
+            {
+              "en": "We saw high mountains in the distance.",
+              "zh": "我们看到了远处的高山。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：high 强调位置或高度，适用范围与 tall 不同。"
+      ],
+      "antonyms": [
+        "low：位置或高度较低的。"
+      ],
+      "confusables": [
+        "形容人身高通常说 tall，不说 high。",
+        "tall：常形容人或细长物；high 强调高度或位置。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "adj.",
+      "en_definition": "large in amount or level",
+      "zh_definition": "数值或程度较大的",
+      "usages": [
+        {
+          "usage_label": "高的",
+          "collocations": [
+            {
+              "phrase": "a high price",
+              "translation": "高价"
+            },
+            {
+              "phrase": "high quality",
+              "translation": "高质量"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The price is too high for me.",
+              "zh": "这个价格对我来说太高了。"
+            },
+            {
+              "en": "The school has high standards.",
+              "zh": "这所学校标准很高。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "elevated：也指升高的，语气较正式。"
+      ],
+      "antonyms": [
+        "low：数量或水平较低的。"
+      ],
+      "confusables": [
+        "high 可修饰价格、标准、温度等。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "adv.",
+      "en_definition": "at or to a great height",
+      "zh_definition": "在高处或向高处",
+      "usages": [
+        {
+          "usage_label": "高处",
+          "collocations": [
+            {
+              "phrase": "fly high",
+              "translation": "飞得高"
+            },
+            {
+              "phrase": "reach high",
+              "translation": "伸向高处"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The plane flew high above the clouds.",
+              "zh": "飞机在云层上方高高飞行。"
+            },
+            {
+              "en": "She reached high to touch the shelf.",
+              "zh": "她伸手向高处去够架子。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：high 作副词强调所达到的高度。"
+      ],
+      "antonyms": [
+        "low：在低处。"
+      ],
+      "confusables": [
+        "highly 常用于抽象程度；飞得高说 fly high。",
+        "up：泛指向上；high 强调达到的高度。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "word": "hand",
+  "phonetic": "/hænd/",
+  "syllables": [
+    "hand"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "手",
+    "指针",
+    "递给",
+    "帮助"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the part of the body at the end of the arm",
+      "zh_definition": "手臂末端的身体部位",
+      "usages": [
+        {
+          "usage_label": "手",
+          "collocations": [
+            {
+              "phrase": "wash your hands",
+              "translation": "洗手"
+            },
+            {
+              "phrase": "hold a hand",
+              "translation": "握住一只手"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Wash your hands before dinner.",
+              "zh": "饭前洗手。"
+            },
+            {
+              "en": "She held the child's hand.",
+              "zh": "她握着孩子的手。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：hand 特指手腕末端的部位。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "hand 与 arm 不是同一身体部位。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "one of the pointers on a clock",
+      "zh_definition": "钟表上指示时间的针",
+      "usages": [
+        {
+          "usage_label": "指针",
+          "collocations": [
+            {
+              "phrase": "the hour hand",
+              "translation": "时针"
+            },
+            {
+              "phrase": "the minute hand",
+              "translation": "分针"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The hour hand points to six.",
+              "zh": "时针指着六。"
+            },
+            {
+              "en": "The minute hand moves around the clock.",
+              "zh": "分针沿钟面转动。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "无完全同义：hand 在此特指钟表上的指针。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "此义 hand 不是人体的手。",
+        "pointer：泛指指示针；hand 特指钟表指针。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "help with a task",
+      "zh_definition": "完成任务时得到的帮助",
+      "usages": [
+        {
+          "usage_label": "帮助",
+          "collocations": [
+            {
+              "phrase": "lend a hand",
+              "translation": "帮忙"
+            },
+            {
+              "phrase": "give someone a hand",
+              "translation": "帮某人一把"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Can you give me a hand with this box?",
+              "zh": "你能帮我搬这个箱子吗？"
+            },
+            {
+              "en": "She lent a hand in the kitchen.",
+              "zh": "她在厨房帮了忙。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "help：更通用；a hand 在此较口语。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "give someone a hand 也可指为某人鼓掌，需看语境。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to give something directly to someone",
+      "zh_definition": "把东西亲手交给某人",
+      "usages": [
+        {
+          "usage_label": "递给",
+          "collocations": [
+            {
+              "phrase": "hand over a key",
+              "translation": "交出钥匙"
+            },
+            {
+              "phrase": "hand someone a book",
+              "translation": "递给某人一本书"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please hand me the book.",
+              "zh": "请把书递给我。"
+            },
+            {
+              "en": "He handed the keys to his sister.",
+              "zh": "他把钥匙交给了姐姐。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "pass：也指递给；hand 强调交到对方手中。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "hand A to B 表示把 A 递给 B。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "gift",
+  "phonetic": "/ɡɪft/",
+  "syllables": [
+    "gift"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "礼物",
+    "天赋"
+  ],
+  "etymology": "",
+  "semantic_shift": "",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "something given to someone without payment",
+      "zh_definition": "无需付款而赠送给别人的东西",
+      "usages": [
+        {
+          "usage_label": "礼物",
+          "collocations": [
+            {
+              "phrase": "give a gift",
+              "translation": "送礼物"
+            },
+            {
+              "phrase": "a birthday gift",
+              "translation": "生日礼物"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I bought a gift for my sister.",
+              "zh": "我给妹妹买了一份礼物。"
+            },
+            {
+              "en": "He gave her a birthday gift.",
+              "zh": "他送给她一份生日礼物。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "present：也指礼物，在日常送礼语境中常可互换。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a gift for someone 指送给某人的礼物。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a natural ability to do something well",
+      "zh_definition": "擅长某事的天生能力",
+      "usages": [
+        {
+          "usage_label": "天赋",
+          "collocations": [
+            {
+              "phrase": "a gift for music",
+              "translation": "音乐天赋"
+            },
+            {
+              "phrase": "a natural gift",
+              "translation": "天生的才能"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She has a gift for languages.",
+              "zh": "她有语言天赋。"
+            },
+            {
+              "en": "His gift for drawing appeared early.",
+              "zh": "他的绘画天赋很早就显现了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "talent：也指才能；gift 更强调天生。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "a gift for 后接擅长的领域。"
+      ]
+    }
+  ]
+}

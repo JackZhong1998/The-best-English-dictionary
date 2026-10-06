@@ -5169,441 +5169,683 @@
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "获得；增加；收益",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2114
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "e1c44ba3d8dece6d41377eb562f65fea3a11e15a18c78a0c1d4ad70a05614b3b",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "game",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "游戏；比赛；愿意参与",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2119
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "0e1fd8eceb39e08f2239848d428e8ecd02cadd51e29b1e829cf99893026ec594",
+          "issue_count": 2,
+          "correction_count": 2
+        }
+      ]
     },
     {
       "word": "gather",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "聚集；收集；推断",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2132
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。未发现需修正问题。",
+          "sha256": "6e36e6edf58527da558b1afa452bd8e830e3a11881fd979f7590c17bc5aab2cf",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "general",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "一般的；总体的；将军",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2139
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "87b3db77ee68857bad2058c87aee3e2066ec8070a2d14eddb8c323c38900c7c9",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "gift",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "礼物；天赋",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2156
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。未发现需修正问题。",
+          "sha256": "9e29b5caa1e90978845ac8c8cc22abec10424a71f9884856bf17e13d73a0a5ab",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "glass",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "玻璃；玻璃杯；眼镜",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2167
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "0fb772cdc12bbd9bba4ee28a87586a1774b9480050d9e09bfdc84c45d6de731f",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "goal",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "目标；进球",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2180
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "a1d70912c14a6c721add3b094c12018f81d73816daf2e8d771992be81a6b8f2c",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "grade",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "成绩；年级；等级",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2198
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "7a28f0c334faa56147b6b5deefcba312985bf46b66e0b2d403b09bd1d1b19c3c",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "grant",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "授予；承认；拨款",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2207
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "0e405c85965c65e69daf117362afd56503f9d626a3083fa6a6f85a70d33d739b",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "green",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "绿色的；环保的；草地",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2222
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "211b73293c5a400b3d6bffbeb06cf33985d2cd0624f7a59982815830c328f43b",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "ground",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "地面；理由；场地",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2237
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "22da7363aac10ed69f5d2b0fd47352307ea9838f39ff28ab434d640e2e89d557",
+          "issue_count": 3,
+          "correction_count": 3
+        }
+      ]
     },
     {
       "word": "group",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "群体；分组",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2238
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "12430f717a9d12b75fc96f03bf281cc9ebab170ee9c3b65118584625a0605fc7",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "grow",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "生长；种植；变得",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2239
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。未发现需修正问题。",
+          "sha256": "37f121332cc9812e6d0b09247358627336d73eceb0e274412c09e0ee3d9ca741",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "guard",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "守卫；警惕；警卫",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2241
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。未发现需修正问题。",
+          "sha256": "aa075c7182f6bd3cdc3bb2f71e130328f9fd74854f68197ee558a6066371aebc",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "guess",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "猜测；猜想",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2242
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。未发现需修正问题。",
+          "sha256": "9dd9ec7b4c47945cb79b4e7cc708776c5b93220438186f2a1a716af41bb2ae77",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "guide",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "引导；指南；导游",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2244
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "c0c5b8ce28c7642463a3a579561b8fd8a376db5e571949b5148389e20ecc5fc8",
+          "issue_count": 3,
+          "correction_count": 3
+        }
+      ]
     },
     {
       "word": "half",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "一半；半的；部分地",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2261
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "be4e984b5a16946879c870e4fef7c2bbe0fc5bf56b557322b4779edaf053ba6f",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "hand",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "手；指针；递给",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2269
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "f15e91c14f39e8f464d41ef0a27b2ca292f5d50138b56bffccfb918dfced8f39",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "hard",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "坚硬的；困难的；努力地",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2282
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。未发现需修正问题。",
+          "sha256": "7790cfc6f85acc1da49af293095fa54fad275fd58e510948ec207f286ac1aa2b",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "head",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "头；负责人；前往",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2306
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "502b4e7cbb94a9aa7f9938cb6f010876829feb18349650da1aebf91d71f642aa",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ]
     },
     {
       "word": "heat",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "热；加热；激烈程度",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2318
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。未发现需修正问题。",
+          "sha256": "f4c8c8cbd58e33b5a755aa576aa482beaeeb45c2414f64fe0e3f6a5ee1243995",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ]
     },
     {
       "word": "help",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "帮助；有助于；不由得",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2332
       ],
-      "author": null,
-      "risk_flags": [],
-      "review_records": []
+      "author": "codex-lexicon-agent",
+      "risk_flags": [
+        "phrasal_verb"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "86a6d2d6608a041328e667dde74cd416d9af790cdf66c8a9d51d3c205f24afda",
+          "issue_count": 2,
+          "correction_count": 2
+        }
+      ]
     },
     {
       "word": "high",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "高的；高水平的；高处",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2353
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "1c24402028c17526dd49c57d4f93d1c6f784f542818e5d83f78c767b0b644012",
+          "issue_count": 2,
+          "correction_count": 2
+        }
+      ]
     },
     {
       "word": "home",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "家；家乡；回家",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
       "source_rows": [
         2380
       ],
-      "author": null,
+      "author": "codex-lexicon-agent",
       "risk_flags": [],
-      "review_records": []
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "1a92ff07d0de7ae8b2c804e4fc2e8c55e0c71fe3bfc5e018b248bef19830b961",
+          "issue_count": 3,
+          "correction_count": 3
+        }
+      ]
     },
     {
       "word": "host",
       "exam_categories": [
         "CET4/CET6-syllabus candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "主人；主持人；主办；许多",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 9,
       "source": "cet2016_mit_transcription",
       "source_file": "content/wordlists/batch-9.tsv",
@@ -5611,9 +5853,21 @@
         2400,
         2401
       ],
-      "author": null,
-      "risk_flags": [],
-      "review_records": []
+      "author": "codex-lexicon-agent",
+      "risk_flags": [
+        "multiple_etymologies"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "逐词核对义项、词性、美音、例句、搭配和辨析。初审发现的辨析、义项或基础释义问题已修正。",
+          "sha256": "8f560e29644e6b58708bf795aa9ab3c9e65e70eb7441521d711df850eb733dd0",
+          "issue_count": 3,
+          "correction_count": 3
+        }
+      ]
     }
   ]
 }
