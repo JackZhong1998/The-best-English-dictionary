@@ -1,0 +1,99 @@
+{
+  "word": "improve",
+  "phonetic": "/ɪmˈpruːv/",
+  "syllables": [
+    "im",
+    "prove"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "改善",
+    "提高"
+  ],
+  "etymology": "经盎格鲁法语 emprouwer 进入英语，早期有“使之获益”之意。",
+  "semantic_shift": "从使之获益，发展为使质量变好；后来也可指情况自行好转。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to become better",
+      "zh_definition": "自身变得更好",
+      "usages": [
+        {
+          "usage_label": "改善",
+          "collocations": [
+            {
+              "phrase": "health improves",
+              "translation": "健康状况好转"
+            },
+            {
+              "phrase": "improve slowly",
+              "translation": "慢慢好转"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Her health improved after the rest.",
+              "zh": "休息后她的健康状况好转了。"
+            },
+            {
+              "en": "My English is improving slowly.",
+              "zh": "我的英语在慢慢进步。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "get better：日常说法；improve 较中性。"
+      ],
+      "antonyms": [
+        "worsen：恶化。"
+      ],
+      "confusables": [
+        "此义 improve 不接宾语。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make something better",
+      "zh_definition": "使某事物变得更好",
+      "usages": [
+        {
+          "usage_label": "提高或改进",
+          "collocations": [
+            {
+              "phrase": "improve your English",
+              "translation": "提高英语水平"
+            },
+            {
+              "phrase": "improve a service",
+              "translation": "改进服务"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Reading every day can improve your English.",
+              "zh": "每天阅读能提高你的英语水平。"
+            },
+            {
+              "en": "The company improved its service.",
+              "zh": "这家公司改进了服务。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "enhance：也指提高，语气较正式。"
+      ],
+      "antonyms": [
+        "damage：损害。"
+      ],
+      "confusables": [
+        "此义 improve 直接接需要改进的事物。"
+      ]
+    }
+  ]
+}

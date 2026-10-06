@@ -1,0 +1,178 @@
+{
+  "word": "issue",
+  "phonetic": "/ˈɪʃuː/",
+  "syllables": [
+    "is",
+    "sue"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "问题",
+    "议题",
+    "期刊的一期",
+    "发布"
+  ],
+  "etymology": "经古法语 issue“出口、出去”，最终来自拉丁语 exire“出去”。",
+  "semantic_shift": "从出去，发展为发出或出版；事情产生的结果又引出待解决的议题。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "a problem that needs attention",
+      "zh_definition": "需要处理的问题",
+      "usages": [
+        {
+          "usage_label": "问题",
+          "collocations": [
+            {
+              "phrase": "solve an issue",
+              "translation": "解决问题"
+            },
+            {
+              "phrase": "a serious issue",
+              "translation": "严重问题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We need to solve this issue soon.",
+              "zh": "我们需要尽快解决这个问题。"
+            },
+            {
+              "en": "There is an issue with my phone.",
+              "zh": "我的手机出了点问题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "problem：一般的问题；issue 有时更委婉或正式。"
+      ],
+      "antonyms": [
+        "solution：解决办法。"
+      ],
+      "confusables": [
+        "an issue with something 可表示某物出了问题。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "a subject that people discuss or disagree about",
+      "zh_definition": "供人讨论或存在分歧的话题",
+      "usages": [
+        {
+          "usage_label": "议题",
+          "collocations": [
+            {
+              "phrase": "discuss an issue",
+              "translation": "讨论议题"
+            },
+            {
+              "phrase": "a social issue",
+              "translation": "社会议题"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The class discussed the issue of school uniforms.",
+              "zh": "全班讨论了校服这一议题。"
+            },
+            {
+              "en": "Housing is an important social issue.",
+              "zh": "住房是一个重要的社会议题。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "topic：泛指话题；issue 往往需要讨论或决定。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "issue of 后接具体议题。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "one copy of a magazine or newspaper in a series",
+      "zh_definition": "连续出版的杂志或报纸中的一期",
+      "usages": [
+        {
+          "usage_label": "期刊的一期",
+          "collocations": [
+            {
+              "phrase": "the latest issue",
+              "translation": "最新一期"
+            },
+            {
+              "phrase": "this month's issue",
+              "translation": "本月这一期"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The latest issue of the magazine arrived today.",
+              "zh": "这本杂志的最新一期今天送到了。"
+            },
+            {
+              "en": "I read the article in this month's issue.",
+              "zh": "我在本月那期杂志里读了这篇文章。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "edition：可指特定版本；issue 强调定期出版的某一期。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "an issue of a magazine 指杂志的一期。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to officially give or publish something",
+      "zh_definition": "正式发放或公布某物",
+      "usages": [
+        {
+          "usage_label": "发放或发布",
+          "collocations": [
+            {
+              "phrase": "issue a statement",
+              "translation": "发表声明"
+            },
+            {
+              "phrase": "issue tickets",
+              "translation": "发放票券"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The school issued a statement yesterday.",
+              "zh": "学校昨天发表了一份声明。"
+            },
+            {
+              "en": "They issued tickets at the entrance.",
+              "zh": "他们在入口处发放票券。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "release：指发布或放出；issue 常带正式发放的意味。"
+      ],
+      "antonyms": [
+        "withdraw：撤回已发布的内容。"
+      ],
+      "confusables": [
+        "issue a statement 是发表声明，不是讨论问题。"
+      ]
+    }
+  ]
+}

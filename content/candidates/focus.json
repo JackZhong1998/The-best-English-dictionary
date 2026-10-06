@@ -1,0 +1,139 @@
+{
+  "word": "focus",
+  "phonetic": "/ˈfoʊkəs/",
+  "syllables": [
+    "fo",
+    "cus"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "注意力",
+    "重点",
+    "集中注意力"
+  ],
+  "etymology": "来自拉丁语 focus“炉火、壁炉”；进入英语后用于数学上的汇聚点，也用于光学焦点。",
+  "semantic_shift": "从光线汇聚的一点，扩展到活动的中心，再到注意力集中的对象。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "attention given to one thing",
+      "zh_definition": "集中在某件事上的注意力",
+      "usages": [
+        {
+          "usage_label": "注意力",
+          "collocations": [
+            {
+              "phrase": "lose focus",
+              "translation": "分心"
+            },
+            {
+              "phrase": "keep your focus",
+              "translation": "保持专注"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Noise makes me lose focus.",
+              "zh": "噪声让我难以集中注意力。"
+            },
+            {
+              "en": "Try to keep your focus on the task.",
+              "zh": "尽量把注意力放在任务上。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "concentration：强调持续专注的能力；focus 也可指注意力所指的方向。"
+      ],
+      "antonyms": [
+        "distraction：使人分心的事物。"
+      ],
+      "confusables": [
+        "focus on 后接注意的对象。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the main subject or point of interest",
+      "zh_definition": "讨论或活动最关注的主题",
+      "usages": [
+        {
+          "usage_label": "重点",
+          "collocations": [
+            {
+              "phrase": "the main focus",
+              "translation": "主要重点"
+            },
+            {
+              "phrase": "the focus of the lesson",
+              "translation": "这节课的重点"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The main focus today is listening.",
+              "zh": "今天的重点是听力。"
+            },
+            {
+              "en": "Safety is the focus of this meeting.",
+              "zh": "安全是这次会议的重点。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "emphasis：强调的程度；focus 指注意力集中之处。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "the focus of 后接具体活动或讨论。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to give your attention to one thing",
+      "zh_definition": "把注意力集中在一件事上",
+      "usages": [
+        {
+          "usage_label": "专注",
+          "collocations": [
+            {
+              "phrase": "focus on a task",
+              "translation": "专注于任务"
+            },
+            {
+              "phrase": "focus your attention",
+              "translation": "集中注意力"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please focus on your homework.",
+              "zh": "请专心做作业。"
+            },
+            {
+              "en": "I need to focus my attention on the road.",
+              "zh": "我需要集中注意力看路。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "concentrate：也指专注；focus on 常直接指出关注对象。"
+      ],
+      "antonyms": [
+        "lose concentration：注意力涣散。"
+      ],
+      "confusables": [
+        "focus on something；on 不能省略。"
+      ]
+    }
+  ]
+}

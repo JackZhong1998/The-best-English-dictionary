@@ -27,6 +27,7 @@ function assetInventory(word) {
     return { json: 'invalid', audio: 'unknown', filesPresent: 0, filesExpected: 0 }
   }
   const names = ['word']
+  if (word === 'increase') names.push('noun')
   for (const sense of entry.senses) {
     if (!Array.isArray(sense.usages)) return { json: 'invalid', audio: 'unknown', filesPresent: 0, filesExpected: 0 }
     for (const [usageIndex, usage] of sense.usages.entries()) {

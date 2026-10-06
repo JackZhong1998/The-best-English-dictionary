@@ -1,0 +1,99 @@
+{
+  "word": "knowledge",
+  "phonetic": "/ˈnɑːlɪdʒ/",
+  "syllables": [
+    "knowl",
+    "edge"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "知识",
+    "知晓"
+  ],
+  "etymology": "英语早期形式 cnawlece 与 know 有关；词尾更早来源尚不确定。",
+  "semantic_shift": "从承认或知晓，发展为掌握的事实与理解，也保留“知道某事”的用法。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "facts and understanding gained through learning or experience",
+      "zh_definition": "通过学习或经历获得的事实与理解",
+      "usages": [
+        {
+          "usage_label": "知识",
+          "collocations": [
+            {
+              "phrase": "gain knowledge",
+              "translation": "获得知识"
+            },
+            {
+              "phrase": "general knowledge",
+              "translation": "常识"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Reading helps us gain knowledge.",
+              "zh": "阅读帮助我们获得知识。"
+            },
+            {
+              "en": "She has a good knowledge of history.",
+              "zh": "她有扎实的历史知识。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "information：指资料或信息；knowledge 强调已经理解并掌握。"
+      ],
+      "antonyms": [
+        "ignorance：无知。"
+      ],
+      "confusables": [
+        "knowledge 通常不可数；a knowledge of 表示对某领域有所了解。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "n.",
+      "en_definition": "the state of knowing a particular fact",
+      "zh_definition": "知道某个具体事实的状态",
+      "usages": [
+        {
+          "usage_label": "知晓",
+          "collocations": [
+            {
+              "phrase": "without my knowledge",
+              "translation": "在我不知情时"
+            },
+            {
+              "phrase": "have knowledge of the plan",
+              "translation": "知道这项计划"
+            }
+          ],
+          "examples": [
+            {
+              "en": "They changed the plan without my knowledge.",
+              "zh": "他们在我不知情时改了计划。"
+            },
+            {
+              "en": "I had no knowledge of the meeting.",
+              "zh": "我不知道有这场会议。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "awareness：强调意识到；knowledge 强调已经知道事实。"
+      ],
+      "antonyms": [
+        "lack of awareness：未察觉。"
+      ],
+      "confusables": [
+        "without someone's knowledge 指对方不知情，不一定表示对方不同意。"
+      ]
+    }
+  ]
+}

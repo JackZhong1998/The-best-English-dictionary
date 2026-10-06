@@ -1,0 +1,97 @@
+{
+  "word": "influence",
+  "phonetic": "/ˈɪnfluəns/",
+  "syllables": [
+    "in",
+    "flu",
+    "ence"
+  ],
+  "pos": [
+    "n.",
+    "v."
+  ],
+  "core_meanings": [
+    "影响",
+    "影响力"
+  ],
+  "etymology": "经古法语 influence，源于拉丁语 influere“流入”；早期曾用于描述星体被认为产生的作用。",
+  "semantic_shift": "从某种力量“流入”并产生作用，发展为一般的影响力。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "the power to affect how someone thinks or acts",
+      "zh_definition": "改变他人想法或行为的力量",
+      "usages": [
+        {
+          "usage_label": "影响力",
+          "collocations": [
+            {
+              "phrase": "have an influence on",
+              "translation": "对……有影响"
+            },
+            {
+              "phrase": "a strong influence",
+              "translation": "很大的影响力"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Friends can have a strong influence on us.",
+              "zh": "朋友可能对我们有很大影响。"
+            },
+            {
+              "en": "Her teacher had an influence on her choice.",
+              "zh": "老师影响了她的选择。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "effect：强调造成的结果；influence 也可指影响的力量。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "influence on 后接受影响的人或事。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to affect someone's thoughts or actions",
+      "zh_definition": "影响某人的想法或行为",
+      "usages": [
+        {
+          "usage_label": "影响",
+          "collocations": [
+            {
+              "phrase": "influence a decision",
+              "translation": "影响决定"
+            },
+            {
+              "phrase": "influence young people",
+              "translation": "影响年轻人"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The weather influenced our decision.",
+              "zh": "天气影响了我们的决定。"
+            },
+            {
+              "en": "Parents influence their children's habits.",
+              "zh": "父母会影响孩子的习惯。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "affect：泛指产生作用；influence 常强调对选择或行为的作用。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "influence 作动词直接接宾语，不说 influence on a decision。"
+      ]
+    }
+  ]
+}

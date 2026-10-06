@@ -63,6 +63,7 @@ for (const word of words) {
   if (entry.word !== word) errors.push(`${word}: word field mismatch`)
   string(entry.phonetic, `${word}.phonetic`)
   if (typeof entry.phonetic === 'string' && !/^\/.+\/$/.test(entry.phonetic)) errors.push(`${word}: phonetic must be between slashes`)
+  if (word === 'increase' && entry.phonetic !== '/ɪnˈkriːs/ · /ˈɪnkriːs/') errors.push('increase: verb and noun pronunciations must both be shown')
   for (const item of array(entry.syllables, `${word}.syllables`, 1)) string(item, `${word}.syllables item`)
   if (Array.isArray(entry.syllables) && entry.syllables.join('').toLowerCase() !== word) errors.push(`${word}: syllables must reconstruct the headword`)
   for (const item of array(entry.pos, `${word}.pos`, 1)) string(item, `${word}.pos item`)
@@ -110,7 +111,8 @@ for (const word of words) {
       }
     }
   }
-  audio(word, 'word', word)
+  audio(word, 'word', word === 'increase' ? 'to increase' : word)
+  if (word === 'increase') audio(word, 'noun', 'an increase')
 }
 
 if (errors.length) {

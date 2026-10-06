@@ -4,7 +4,7 @@
 
 `pilot_cet4.tsv` 是本项目独立挑选的 100 个常见英语词头与新写的基础中文提示，不是官方四级词表，也没有复制其他词典的释义、例句或选词顺序。`CET4-level candidate` 只表示计划面向四级程度读者；发布前仍需按教学范围核对。`catalog.json` 中的 `source_file` 指向可追溯的词表文件。
 
-原有 30 个完整词条标为 `published`，但 `review_records` 为空：这表示此前没有独立复核记录，不把它们冒充为已复核。新写的 60 个词条完成独立复核后也已发布；目前另有 10 个词只有 `basic_zh`，标为 `basic`，不能展示不存在的详细释义或播放按钮。
+原有 30 个完整词条标为 `published`，但 `review_records` 为空：这表示此前没有独立复核记录，不把它们冒充为已复核。新写的 70 个词条完成独立复核后也已发布；100 词试批现均为完整词条。后续批次仍应让未完成精修的词保持 `basic` 状态。
 
 ## 批次和复核
 
@@ -41,6 +41,10 @@ python3 scripts/content_pipeline.py publish ability
 
 本组十词的词源与词义迁移说明核对了 Etymonline 的 [enough](https://www.etymonline.com/word/enough)、[enter](https://www.etymonline.com/word/enter)、[environment](https://www.etymonline.com/word/environment)、[example](https://www.etymonline.com/word/example)、[expect](https://www.etymonline.com/word/expect)、[experience](https://www.etymonline.com/word/experience)、[explain](https://www.etymonline.com/word/explain)、[express](https://www.etymonline.com/word/express)、[fact](https://www.etymonline.com/word/fact)、[fail](https://www.etymonline.com/word/fail) 词条；中文说明由本项目独立撰写。
 
+最后十个候选词的词源简述参考 Etymonline 的 [focus](https://www.etymonline.com/word/focus)、[follow](https://www.etymonline.com/word/follow)、[improve](https://www.etymonline.com/word/improve)、[include](https://www.etymonline.com/word/include)、[increase](https://www.etymonline.com/word/increase)、[influence](https://www.etymonline.com/word/influence)、[information](https://www.etymonline.com/word/information)、[involve](https://www.etymonline.com/word/involve)、[issue](https://www.etymonline.com/word/issue)、[knowledge](https://www.etymonline.com/word/knowledge)。词源只简述可核实的主要来路：focus 的拉丁语更早来源与 knowledge 的词尾来源不确定，不作推断。increase 名词和动词的重音不同，候选词条仅以动词读音作主音标，名词读音写入辨析；独立复核时需核对单词音频读音。
+
 第六组十词的词源事实参考 Etymonline 的 [enough](https://www.etymonline.com/word/enough)、[enter](https://www.etymonline.com/word/enter)、[environment](https://www.etymonline.com/word/environment)、[example](https://www.etymonline.com/word/example)、[expect](https://www.etymonline.com/word/expect)、[experience](https://www.etymonline.com/word/experience)、[explain](https://www.etymonline.com/word/explain)、[express](https://www.etymonline.com/word/express)、[fact](https://www.etymonline.com/word/fact)、[fail](https://www.etymonline.com/word/fail)。主 Agent 对作者候选稿独立检查义项、例句、中译及辨析后发布。
 
 原有高频词的 `break`、`get`、`run`、`set`、`take` 已完成独立复核修订，五词均升至内容版本 2。`set` 的日月落下定义和 `take someone’s advice` 的搭配、辨析在复核后修正，最终稿由主 Agent 再检查。
+
+最后十词的词源事实参考 Etymonline 的 [focus](https://www.etymonline.com/word/focus)、[follow](https://www.etymonline.com/word/follow)、[improve](https://www.etymonline.com/word/improve)、[include](https://www.etymonline.com/word/include)、[increase](https://www.etymonline.com/word/increase)、[influence](https://www.etymonline.com/word/influence)、[information](https://www.etymonline.com/word/information)、[involve](https://www.etymonline.com/word/involve)、[issue](https://www.etymonline.com/word/issue)、[knowledge](https://www.etymonline.com/word/knowledge)。独立 QA 指出 `focus` 词源先后、`follow` 高频时序义缺项、`information` 重复义项和 `increase` 名动词重音问题，主 Agent 修订并核对最终稿。`increase` 的两种美音以 `to increase` 和 `an increase` 短语录音示范，避免孤立拼写的重音歧义；两段录音均受文件和文本哈希校验。Cambridge 列出[动词和名词的不同重音](https://dictionary.cambridge.org/pronunciation/english/increase)。

@@ -15,7 +15,7 @@ type Entry = {
 type WordSummary = { word: string; basic_zh: string; exam_levels: string[]; status: 'basic' | 'published' }
 type SearchResult = { items: WordSummary[]; total: number; limit: number; offset: number; has_more: boolean }
 type EntryResult = WordSummary & { version: number; reviewed_at: string | null; entry: Entry | null }
-type AudioLocator = { word: string; senseId?: number; usageId?: number; exampleId?: number }
+type AudioLocator = { word: string; senseId?: number; usageId?: number; exampleId?: number; variant?: 'noun' }
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 const base = import.meta.env.BASE_URL
@@ -140,6 +140,7 @@ function renderGroups(items: WordSummary[]): string {
 function playButton(locator: AudioLocator, label: string, extraClass = ''): string {
   const attrs = [`data-word="${esc(locator.word)}"`]
   for (const field of ['senseId', 'usageId', 'exampleId'] as const) if (locator[field] !== undefined) attrs.push(`data-${field.toLowerCase()}="${locator[field]}"`)
+  if (locator.variant) attrs.push(`data-variant="${locator.variant}"`)
   return `<button class="audio-button ${extraClass}" type="button" ${attrs.join(' ')} aria-label="${esc(label)}" title="${esc(label)}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4Zm12-1.5a6 6 0 0 1 0 9m2.5-12a10 10 0 0 1 0 15"/></svg></button>`
 }
 
@@ -161,8 +162,11 @@ function renderBasic(result: EntryResult): void {
 
 function renderEntry(result: EntryResult): void {
   const entry = result.entry!
+  const pronunciation = entry.word === 'increase'
+    ? `<div class="pronunciation pronunciation-variants"><span>动词 ${esc(entry.phonetic.split(' · ')[0])}</span>${playButton({ word: entry.word }, '播放动词短语 to increase 的美音', 'word-audio')}<span>名词 ${esc(entry.phonetic.split(' · ')[1])}</span>${playButton({ word: entry.word, variant: 'noun' }, '播放名词短语 an increase 的美音', 'word-audio')}<span class="pronunciation-label">短语示范重音</span></div>`
+    : `<div class="pronunciation"><span>${esc(entry.phonetic)}</span>${playButton({ word: entry.word }, `播放 ${entry.word} 的美式发音`, 'word-audio')}<span class="pronunciation-label">美音</span></div>`
   app.innerHTML = shell(`<div class="entry-layout"><nav class="breadcrumb" aria-label="面包屑"><a href="${base}">词库</a><span>/</span><span>${esc(entry.word)}</span></nav>
-    <section class="entry-hero"><div><p class="eyebrow">${esc(examLabel(result.exam_levels))}</p><h1>${esc(entry.word)}</h1><div class="pronunciation"><span>${esc(entry.phonetic)}</span>${playButton({ word: entry.word }, `播放 ${entry.word} 的美式发音`, 'word-audio')}<span class="pronunciation-label">美音</span></div><p class="entry-pos">${esc(entry.pos.join(' · '))}</p></div><div class="entry-hero-side"><span class="entry-hero-side-label">CORE MEANINGS / 核心词义</span><div class="meaning-chips">${entry.core_meanings.map((meaning) => `<span>${esc(meaning)}</span>`).join('')}</div></div></section>
+    <section class="entry-hero"><div><p class="eyebrow">${esc(examLabel(result.exam_levels))}</p><h1>${esc(entry.word)}</h1>${pronunciation}<p class="entry-pos">${esc(entry.pos.join(' · '))}</p></div><div class="entry-hero-side"><span class="entry-hero-side-label">CORE MEANINGS / 核心词义</span><div class="meaning-chips">${entry.core_meanings.map((meaning) => `<span>${esc(meaning)}</span>`).join('')}</div></div></section>
     <div class="entry-columns"><aside class="entry-sidebar"><div class="toc"><p class="eyebrow">ON THIS PAGE</p><h2>义项目录 <span>${entry.senses.length}</span></h2><ol>${entry.senses.map((sense) => `<li><button type="button" data-jump="sense-${sense.id}"><span>${String(sense.id).padStart(2, '0')}</span>${esc(sense.usages[0]?.usage_label || sense.zh_definition)}</button></li>`).join('')}</ol></div></aside>
     <div class="entry-main"><div class="reading-note"><span aria-hidden="true">✳</span><p>从最常见的意思读起。点击目录或义项标题，逐个展开学习。</p></div>${learningNotes(entry)}
     <div class="senses">${entry.senses.map((sense, senseIndex) => `<details class="sense" id="sense-${sense.id}" ${senseIndex === 0 ? 'open' : ''}><summary><span class="sense-number">${String(sense.id).padStart(2, '0')}</span><span class="sense-summary"><small>${esc(sense.part_of_speech)} · MEANING</small><strong>${esc(sense.usages[0]?.usage_label || sense.zh_definition)}</strong><span>${esc(sense.en_definition)}</span></span><span class="expand-icon" aria-hidden="true">+</span></summary><div class="sense-body"><div class="definition"><span>英文释义 / DEFINITION</span><p class="en-definition">${esc(sense.en_definition)}</p><p class="zh-definition">${esc(sense.zh_definition)}</p></div>${sense.usages.map((usage, usageIndex) => `<section class="usage"><h3>${esc(usage.usage_label)}</h3><div class="usage-label">常见搭配 / COLLOCATIONS</div><div class="collocations">${usage.collocations.map((item) => `<div><strong>${esc(item.phrase)}</strong><span>${esc(item.translation)}</span></div>`).join('')}</div><div class="usage-label example-label">简单例句 / EXAMPLES</div><div class="examples">${usage.examples.map((example, exampleIndex) => `<div class="example"><div class="example-main">${playButton({ word: entry.word, senseId: sense.id, usageId: usageIndex + 1, exampleId: exampleIndex + 1 }, `播放例句 ${example.en}`)}<div><p lang="en">${esc(example.en)}</p><span>${esc(example.zh)}</span></div></div><span class="example-index">${String(exampleIndex + 1).padStart(2, '0')}</span></div>`).join('')}</div></section>`).join('')}<div class="related-words"><h3>近义词 / 反义词 / 易混淆词辨析</h3>${metaList('近义词', sense.synonyms)}${metaList('反义词', sense.antonyms)}${metaList('易混淆词', sense.confusables)}</div></div></details>`).join('')}</div><nav class="entry-pagination" aria-label="词库导航"><a href="${base}"><span>← 返回词库</span><strong>继续查词</strong></a></nav></div></div></div>`)
@@ -184,7 +188,7 @@ async function resolveAudio(button: HTMLButtonElement): Promise<string> {
   const senseId = button.dataset.senseid
   const usageId = button.dataset.usageid
   const exampleId = button.dataset.exampleid
-  if (preGeneratedWords.has(word)) return staticAudioPath(word, senseId ? `s${senseId}-u${usageId}-e${exampleId}` : 'word')
+  if (preGeneratedWords.has(word)) return staticAudioPath(word, senseId ? `s${senseId}-u${usageId}-e${exampleId}` : button.dataset.variant || 'word')
   const params = new URLSearchParams({ word })
   if (senseId) { params.set('senseId', senseId); params.set('usageId', usageId!); params.set('exampleId', exampleId!) }
   for (let attempt = 0; attempt < 12; attempt++) {

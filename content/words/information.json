@@ -1,0 +1,84 @@
+{
+  "word": "information",
+  "phonetic": "/ˌɪnfərˈmeɪʃən/",
+  "syllables": [
+    "in",
+    "for",
+    "ma",
+    "tion"
+  ],
+  "pos": [
+    "n."
+  ],
+  "core_meanings": [
+    "信息",
+    "资料"
+  ],
+  "etymology": "经古法语 informacion，来自拉丁语 informatio，与“塑造、教导”有关。",
+  "semantic_shift": "从教导或传达，发展为传递给人的事实、细节与资料；旅行和联系资料都是这一义的具体用法。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "n.",
+      "en_definition": "facts or details that help you know about something",
+      "zh_definition": "帮助了解某事的事实、细节或资料",
+      "usages": [
+        {
+          "usage_label": "信息和资料",
+          "collocations": [
+            {
+              "phrase": "get information",
+              "translation": "获取信息"
+            },
+            {
+              "phrase": "share information",
+              "translation": "分享信息"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I need more information about the course.",
+              "zh": "我需要这门课程的更多信息。"
+            },
+            {
+              "en": "Please share this information with your team.",
+              "zh": "请把这些信息分享给你的团队。"
+            }
+          ]
+        },
+        {
+          "usage_label": "资料",
+          "collocations": [
+            {
+              "phrase": "travel information",
+              "translation": "旅行资料"
+            },
+            {
+              "phrase": "contact information",
+              "translation": "联系信息"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The website has travel information for visitors.",
+              "zh": "网站为游客提供旅行资料。"
+            },
+            {
+              "en": "Write your contact information on the form.",
+              "zh": "请在表格上填写联系信息。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "data：常指收集到的原始数据；information 是能帮助理解的内容。"
+      ],
+      "antonyms": [
+        "lack of information：信息不足。"
+      ],
+      "confusables": [
+        "information 通常不可数；说 a piece of information，不说 an information。"
+      ]
+    }
+  ]
+}

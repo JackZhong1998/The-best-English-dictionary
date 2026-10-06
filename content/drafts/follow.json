@@ -1,0 +1,180 @@
+{
+  "word": "follow",
+  "phonetic": "/ˈfɑːloʊ/",
+  "syllables": [
+    "fol",
+    "low"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "跟随",
+    "遵循",
+    "理解"
+  ],
+  "etymology": "源自古英语 folgian、fylgian，早已用于跟在后面及遵从规则。",
+  "semantic_shift": "从跟在后面，扩展到时间或顺序上的接续，也可指按指示行动；思路上跟得上，则表示理解。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to move behind someone or along a route",
+      "zh_definition": "跟在某人后面或沿路线前进",
+      "usages": [
+        {
+          "usage_label": "跟随",
+          "collocations": [
+            {
+              "phrase": "follow me",
+              "translation": "跟着我"
+            },
+            {
+              "phrase": "follow a path",
+              "translation": "沿着小路走"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The dog followed me home.",
+              "zh": "那只狗跟着我回了家。"
+            },
+            {
+              "en": "Follow this path to the river.",
+              "zh": "沿着这条小路走到河边。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "come after：表示在后面到来；follow 强调一路跟随。"
+      ],
+      "antonyms": [
+        "lead：走在前面带路。"
+      ],
+      "confusables": [
+        "follow someone home 不必加 to。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to come after something in time or order",
+      "zh_definition": "在时间或顺序上接在某事之后",
+      "usages": [
+        {
+          "usage_label": "接着发生",
+          "collocations": [
+            {
+              "phrase": "spring follows winter",
+              "translation": "冬去春来"
+            },
+            {
+              "phrase": "the day that follows",
+              "translation": "接下来的一天"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Spring follows winter.",
+              "zh": "冬天过后就是春天。"
+            },
+            {
+              "en": "A short break followed the lesson.",
+              "zh": "下课后是一小段休息时间。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "come after：也表示随后发生；follow 可直接接前一事件。"
+      ],
+      "antonyms": [
+        "precede：在时间或顺序上位于之前。"
+      ],
+      "confusables": [
+        "此义 follow 表示接续，不是跟着某人走。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "v.",
+      "en_definition": "to do what a rule or instruction says",
+      "zh_definition": "按照规则或指示去做",
+      "usages": [
+        {
+          "usage_label": "遵循",
+          "collocations": [
+            {
+              "phrase": "follow the rules",
+              "translation": "遵守规则"
+            },
+            {
+              "phrase": "follow instructions",
+              "translation": "按说明操作"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please follow the safety rules.",
+              "zh": "请遵守安全规则。"
+            },
+            {
+              "en": "I followed the instructions on the box.",
+              "zh": "我按照盒子上的说明操作了。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "obey：强调服从权威；follow 也可用于说明书和步骤。"
+      ],
+      "antonyms": [
+        "ignore：不理会规则或指示。"
+      ],
+      "confusables": [
+        "follow instructions 是按指示做，不是跟着纸张走。"
+      ]
+    },
+    {
+      "id": 4,
+      "part_of_speech": "v.",
+      "en_definition": "to understand what someone is saying or doing",
+      "zh_definition": "理解某人的话或做法",
+      "usages": [
+        {
+          "usage_label": "听懂或理解",
+          "collocations": [
+            {
+              "phrase": "follow an explanation",
+              "translation": "听懂解释"
+            },
+            {
+              "phrase": "follow the story",
+              "translation": "跟上故事情节"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I could not follow his explanation.",
+              "zh": "我听不懂他的解释。"
+            },
+            {
+              "en": "The story was easy to follow.",
+              "zh": "这个故事很容易看懂。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "understand：泛指理解；follow 强调跟上逐步展开的内容。"
+      ],
+      "antonyms": [
+        "lose track：跟不上进展。"
+      ],
+      "confusables": [
+        "follow the story 是看懂情节，不是跟着人物走。"
+      ]
+    }
+  ]
+}

@@ -33,7 +33,10 @@ def jobs():
     for file in sorted((ROOT / 'content' / 'words').glob('*.json')):
         entry = json.loads(file.read_text(encoding='utf-8'))
         word = entry['word']
-        yield word, ROOT / 'public' / 'audio' / word / 'word.mp3'
+        # The isolated spelling is ambiguous: context makes each stress pattern clear.
+        yield ('to increase' if word == 'increase' else word), ROOT / 'public' / 'audio' / word / 'word.mp3'
+        if word == 'increase':
+            yield 'an increase', ROOT / 'public' / 'audio' / word / 'noun.mp3'
         for sense in entry['senses']:
             for usage_index, usage in enumerate(sense['usages'], 1):
                 for example_index, example in enumerate(usage['examples'], 1):

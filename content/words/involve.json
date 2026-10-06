@@ -1,0 +1,97 @@
+{
+  "word": "involve",
+  "phonetic": "/ɪnˈvɑːlv/",
+  "syllables": [
+    "in",
+    "volve"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "包含",
+    "使参与"
+  ],
+  "etymology": "经古法语 involver，来自拉丁语 involvere“卷入、包裹”，字面有“卷到里面”之意。",
+  "semantic_shift": "从把东西卷入其中，发展为事情包含某些部分，或让人参与。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to include something as a necessary part",
+      "zh_definition": "把某事作为必要部分包含在内",
+      "usages": [
+        {
+          "usage_label": "涉及",
+          "collocations": [
+            {
+              "phrase": "involve hard work",
+              "translation": "需要努力工作"
+            },
+            {
+              "phrase": "involve several steps",
+              "translation": "涉及几个步骤"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The job involves a lot of travel.",
+              "zh": "这份工作需要经常出差。"
+            },
+            {
+              "en": "Making bread involves several steps.",
+              "zh": "做面包涉及好几个步骤。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "require：强调必须具备；involve 强调这件事包含哪些部分。"
+      ],
+      "antonyms": [],
+      "confusables": [
+        "involve doing something 可表示事情需要做某事。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make someone take part in something",
+      "zh_definition": "让某人参与某事",
+      "usages": [
+        {
+          "usage_label": "使参与",
+          "collocations": [
+            {
+              "phrase": "involve students",
+              "translation": "让学生参与"
+            },
+            {
+              "phrase": "involve the whole family",
+              "translation": "让全家参与"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The teacher involved everyone in the game.",
+              "zh": "老师让每个人都参与游戏。"
+            },
+            {
+              "en": "We should involve students in the decision.",
+              "zh": "我们应该让学生参与这项决定。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "include：表示把人列入；involve 更强调实际参与。"
+      ],
+      "antonyms": [
+        "exclude：排除在外。"
+      ],
+      "confusables": [
+        "involve someone in something 中的 in 引出所参与的活动。"
+      ]
+    }
+  ]
+}

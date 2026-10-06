@@ -1700,14 +1700,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "焦点；集中注意力",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent QA reviewed definitions, meanings, translations, comparisons, phonetic and source notes; root verified final corrections before acceptance.",
+          "sha256": "63fe81d8b8eeef5215cd9fd281d3ec74c68eb2fe265f729f28266338d47b7a2b",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1715,14 +1725,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "跟随；遵循",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 3,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent QA reviewed definitions, meanings, translations, comparisons, phonetic and source notes; root verified final corrections before acceptance.",
+          "sha256": "259f08d49747f0eb74baae739265ff5b0d96fd818e1dbc38767d6255cca6a480",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1785,14 +1805,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "改进；提高",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 4,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent QA reviewed definitions, meanings, translations, comparisons, phonetic and source notes; root verified final corrections before acceptance.",
+          "sha256": "d28b8d78bcfa6f13f8f6b0bf224d514c5cba4227ed9c02dbd88f356cc90d1ac3",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1800,14 +1830,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "包括",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 4,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent QA reviewed definitions, meanings, translations, comparisons, phonetic and source notes; root verified final corrections before acceptance.",
+          "sha256": "33c79f3d253232610a7b6b47da7375e4162062dc23b8a411ed841e58f8fac029",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1815,14 +1855,26 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "增加；增长",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 4,
       "source": "independent_editorial_selection_v1",
-      "author": null,
-      "risk_flags": [],
-      "review_records": [],
+      "author": "codex-content-agent",
+      "risk_flags": [
+        "multiple_pronunciations"
+      ],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent QA reviewed definitions, meanings, translations, comparisons, phonetic and source notes; root verified final corrections before acceptance.",
+          "sha256": "adda6a955927b41a91c6bbf269ab815e1c83c410552c8c81aaa9cd6ee75f9e7c",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1830,14 +1882,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "影响；影响力",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 4,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent QA reviewed definitions, meanings, translations, comparisons, phonetic and source notes; root verified final corrections before acceptance.",
+          "sha256": "0cd717356de6577df03fd5012ac72a932e642281958e1549ba9dd9007a82caf0",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1845,14 +1907,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "信息；资料",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 4,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent QA reviewed definitions, meanings, translations, comparisons, phonetic and source notes; root verified final corrections before acceptance.",
+          "sha256": "b1e2c85ce297990b321a7c836ba68bd4d8ddaba7ff0e225539188d9c7c1f5453",
+          "issue_count": 1,
+          "correction_count": 1
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1860,14 +1932,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "涉及；包含；使参与",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 4,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent QA reviewed definitions, meanings, translations, comparisons, phonetic and source notes; root verified final corrections before acceptance.",
+          "sha256": "3256347c85a83cfd2e229d76d197589b2b97b27fb3cd9b4a2b2ae7e43b5acb3f",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1875,14 +1957,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "问题；议题；发行",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 4,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent QA reviewed definitions, meanings, translations, comparisons, phonetic and source notes; root verified final corrections before acceptance.",
+          "sha256": "4ef8e5d8bb8dd65b295995df70335bf7708859a5c41fc3692fddb0ca625b2ce1",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {
@@ -1905,14 +1997,24 @@
       "exam_categories": [
         "CET4-level candidate"
       ],
-      "status": "basic",
+      "status": "published",
       "basic_zh": "知识；了解",
-      "content_version": 0,
+      "content_version": 1,
       "batch": 4,
       "source": "independent_editorial_selection_v1",
-      "author": null,
+      "author": "codex-content-agent",
       "risk_flags": [],
-      "review_records": [],
+      "review_records": [
+        {
+          "date": "2026-10-06",
+          "reviewer": "codex-root-review-agent",
+          "decision": "accept",
+          "notes": "Independent QA reviewed definitions, meanings, translations, comparisons, phonetic and source notes; root verified final corrections before acceptance.",
+          "sha256": "101c9219e37e29636fb7e2f51b6e7073637486336084ccc8dd08dc083b002936",
+          "issue_count": 0,
+          "correction_count": 0
+        }
+      ],
       "source_file": "content/pilot_cet4.tsv"
     },
     {

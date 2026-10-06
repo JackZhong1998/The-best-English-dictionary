@@ -1,0 +1,141 @@
+{
+  "word": "increase",
+  "phonetic": "/ɪnˈkriːs/ · /ˈɪnkriːs/",
+  "syllables": [
+    "in",
+    "crease"
+  ],
+  "pos": [
+    "v.",
+    "n."
+  ],
+  "core_meanings": [
+    "增加",
+    "增大",
+    "增幅"
+  ],
+  "etymology": "经古法语 encreistre，最终来自拉丁语 increscere“增长”。",
+  "semantic_shift": "数量自身上升，或有人使数量上升；作名词时指上升本身或上升的幅度。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to become greater in number or amount",
+      "zh_definition": "数量或程度自身变大",
+      "usages": [
+        {
+          "usage_label": "增加",
+          "collocations": [
+            {
+              "phrase": "prices increase",
+              "translation": "价格上涨"
+            },
+            {
+              "phrase": "increase rapidly",
+              "translation": "迅速增长"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Food prices increased last month.",
+              "zh": "上个月食品价格上涨了。"
+            },
+            {
+              "en": "The number of visitors is increasing.",
+              "zh": "游客人数正在增加。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "rise：也表示上升；increase 可用于数量和程度。"
+      ],
+      "antonyms": [
+        "decrease：减少。"
+      ],
+      "confusables": [
+        "此义 increase 不接宾语。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to make something greater in number or amount",
+      "zh_definition": "使数量或程度变大",
+      "usages": [
+        {
+          "usage_label": "增加",
+          "collocations": [
+            {
+              "phrase": "increase production",
+              "translation": "提高产量"
+            },
+            {
+              "phrase": "increase the price",
+              "translation": "提高价格"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The factory increased production this year.",
+              "zh": "工厂今年提高了产量。"
+            },
+            {
+              "en": "They increased the ticket price.",
+              "zh": "他们提高了票价。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "raise：也指提高；increase 常直接接数量或产量。"
+      ],
+      "antonyms": [
+        "reduce：减少。"
+      ],
+      "confusables": [
+        "此义 increase 后直接接被提高的事物。"
+      ]
+    },
+    {
+      "id": 3,
+      "part_of_speech": "n.",
+      "en_definition": "a rise in number or amount",
+      "zh_definition": "数量或程度的上升",
+      "usages": [
+        {
+          "usage_label": "增长或增幅",
+          "collocations": [
+            {
+              "phrase": "an increase in sales",
+              "translation": "销量增长"
+            },
+            {
+              "phrase": "a small increase",
+              "translation": "小幅增长"
+            }
+          ],
+          "examples": [
+            {
+              "en": "There was an increase in sales.",
+              "zh": "销量有所增长。"
+            },
+            {
+              "en": "We saw a small increase in cost.",
+              "zh": "我们看到成本小幅增加。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "rise：名词，也表示上升；increase 常搭配 in 指明增长的对象。"
+      ],
+      "antonyms": [
+        "decrease：下降。"
+      ],
+      "confusables": [
+        "动词 increase 美音重音在第二音节 /ɪnˈkriːs/；名词重音在第一音节 /ˈɪnkriːs/。"
+      ]
+    }
+  ]
+}

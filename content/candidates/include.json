@@ -1,0 +1,99 @@
+{
+  "word": "include",
+  "phonetic": "/ɪnˈkluːd/",
+  "syllables": [
+    "in",
+    "clude"
+  ],
+  "pos": [
+    "v."
+  ],
+  "core_meanings": [
+    "包括",
+    "列入"
+  ],
+  "etymology": "来自拉丁语 includere“关在里面、包在里面”，由 in-“在内”和 claudere“关闭”组成。",
+  "semantic_shift": "从把某物包在里面，发展为把它视作整体的一部分。",
+  "senses": [
+    {
+      "id": 1,
+      "part_of_speech": "v.",
+      "en_definition": "to have someone or something as part of a group",
+      "zh_definition": "整体中包含某人或某物",
+      "usages": [
+        {
+          "usage_label": "包括",
+          "collocations": [
+            {
+              "phrase": "the price includes lunch",
+              "translation": "价格包含午餐"
+            },
+            {
+              "phrase": "include several examples",
+              "translation": "包含几个例子"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The price includes breakfast.",
+              "zh": "这个价格包含早餐。"
+            },
+            {
+              "en": "The book includes several short stories.",
+              "zh": "这本书收录了几个短篇故事。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "contain：强调里面有某物；include 强调作为整体的一部分。"
+      ],
+      "antonyms": [
+        "exclude：不包括。"
+      ],
+      "confusables": [
+        "including 可用于列举部分内容，不表示清单一定完整。"
+      ]
+    },
+    {
+      "id": 2,
+      "part_of_speech": "v.",
+      "en_definition": "to add someone or something to a group or plan",
+      "zh_definition": "主动把某人或某物列入群体或计划",
+      "usages": [
+        {
+          "usage_label": "列入",
+          "collocations": [
+            {
+              "phrase": "include me in the plan",
+              "translation": "把我列入计划"
+            },
+            {
+              "phrase": "include everyone",
+              "translation": "让每个人都参与"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Please include me in the group chat.",
+              "zh": "请把我加入群聊。"
+            },
+            {
+              "en": "We included everyone in the game.",
+              "zh": "我们让每个人都参加了游戏。"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        "add：指添上；include 强调成为整体的一部分。"
+      ],
+      "antonyms": [
+        "leave out：遗漏或不让参加。"
+      ],
+      "confusables": [
+        "include someone in something 中的 in 引出群体或活动。"
+      ]
+    }
+  ]
+}
